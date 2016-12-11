@@ -8,3 +8,8 @@ them.
 Some of the notes I have are annotations over videos, I usually add a source of
 what video it is, for these hyperlinks to work you will need to download the
 pdfs locally. 
+
+I also love mindmaps and started using them for everything, that is any kind of project that I want to make.
+
+#mindmaps
+![](https://i.imgur.com/YnnXEPS.png)
