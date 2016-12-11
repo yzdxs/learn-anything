@@ -1,4 +1,4 @@
-Here are all articles I have written thus far on [Medium](https://medium.com/@NikitaVoloboev). Separated by appropriate tags and in theory should be easily searched. As your article count increases, it becomes harder and harder to find specific article you are looking for so here is a way to fix this problem. Try and search for what you are looking for with (cmd + f or your os's equivalent) and see if you find anything interesting. 📚
+Here are all the articles I have written thus far on [Medium](https://medium.com/@NikitaVoloboev). Separated by appropriate tags and in theory should be easily searched. As your article count increases, it becomes harder and harder to find specific article you are looking for so here is a way to fix this problem. Try and search for what you are looking for with (cmd + f or your os's equivalent) and see if you find anything interesting. 📚
 
 #life
 - 2015 : [just keep expressing yourself](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m)
