@@ -10,8 +10,3 @@ what video it is, for these hyperlinks to work you will need to download the
 pdfs locally. 
 
 
-#mindmaps
-
-I also love mindmaps and started using them for everything, that is any kind of project that I want to make.
-
-![](https://i.imgur.com/YnnXEPS.png)
