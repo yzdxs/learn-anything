@@ -7,5 +7,6 @@ I am only starting on this idea of mind mapping **everything**. But here is the 
 ![](https://i.imgur.com/YnnXEPS.png)
 
 #words I want to learn
-![](https://i.imgur.com/MlvJ6y1.png)
+![](https://i.imgur.com/Vze7EnI.png)
 ![](https://i.imgur.com/1sTp9os.png)
+![](https://i.imgur.com/MlvJ6y1.png)
