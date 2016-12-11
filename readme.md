@@ -10,3 +10,4 @@ what video it is, for these hyperlinks to work you will need to download the
 pdfs locally. 
 
 
+Some of the notes are [mindmaps](https://github.com/nikitavoloboev/my-notes/tree/master/mindmaps). I love mind mapping my knowledge as it is incredibly effective to make the connections between different areas in whatever are you are trying to researh and learn. 
