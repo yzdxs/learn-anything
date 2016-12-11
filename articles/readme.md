@@ -8,7 +8,7 @@ Here are all articles I have written thus far on [Medium](https://medium.com/@Ni
 - 2016 : [news](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121#.mtj9gqvyu)
 	- my approach to news and overflow of information
 
-#writng 
+#writing 
 - 2016 : [why medium?](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p)
 	- why host my writing on medium and not on my own site	
 
