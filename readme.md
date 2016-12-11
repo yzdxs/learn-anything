@@ -11,3 +11,6 @@ pdfs locally.
 
 
 Some of the notes are [mindmaps](https://github.com/nikitavoloboev/my-notes/tree/master/mindmaps). I love mind mapping my knowledge as it is incredibly effective to make the connections between different areas in whatever you are trying to researh and learn. 
+
+
+I also write articles on [Medium](https://medium.com/@NikitaVoloboev). 
