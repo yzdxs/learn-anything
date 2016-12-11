@@ -4,7 +4,7 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 - 2015 : [just keep expressing yourself](https://medium.com/@NikitaVoloboev/just-keep-expressing-yourself-306870791ae4#.3ilcote4m)
 	- the first article I have ever done and published on how to not be afraird to express yourself and be *you*
 - 2016 : [day evaluations](https://medium.com/@NikitaVoloboev/day-evaluations-5706f31c9c5e#.m4lw1eo32)
-	- how I started myself on journalling and living a more consious life
+	- how I started my journey with journalling and living a more consious life
 - 2016 : [news](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121#.mtj9gqvyu)
 	- my approach to news and overflow of information
 
