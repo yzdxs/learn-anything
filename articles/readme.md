@@ -15,6 +15,6 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 #productivity
 - 2016 : [fantastical natural input + text expansions](https://medium.com/@NikitaVoloboev/fantastical-natural-input-text-expansions-3ea8cf7ccac3#.pv5937ncr)
 	- how to combine [Typinator](http://www.ergonis.com/products/typinator/) and [Fantastical](https://flexibits.com/fantastical) to save time and ease the process of creating new events
-- 2016:[take control of your touchpad on macOS](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze)
+- 2016 : [take control of your touchpad on macOS](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze)
 	- how I personalise my macOS with custom gestures for the trackpad
 
