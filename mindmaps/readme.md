@@ -4,9 +4,4 @@ I love mindmaps and started using them for everything, that is any kind of proje
 
 I am only starting on this idea of mind mapping **everything**. But here is the *beginning* of this journey.
 
-![](https://i.imgur.com/YnnXEPS.png)
-
-#words I want to learn
-![](https://i.imgur.com/Vze7EnI.png)
-![](https://i.imgur.com/1sTp9os.png)
-![](https://i.imgur.com/MlvJ6y1.png)
+Everything is sorted into their appropriate sections and the only requirement is to have [Mindnode](https://mindnode.com/) application to actually open these .mindnode files.
