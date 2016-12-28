@@ -17,4 +17,6 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 	- how to combine [Typinator](http://www.ergonis.com/products/typinator/) and [Fantastical](https://flexibits.com/fantastical) to save time and ease the process of creating new events
 - 2016 : [take control of your trackpad on macOS](https://medium.com/@NikitaVoloboev/take-control-of-your-touchpad-on-macos-45c581f542e0#.7n1ye6vze)
 	- how I personalise my macOS with custom gestures for the trackpad
+- 2016 : [mind map everything](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739#.p7w44kr44)
+	- my approach to indexing my own knowledge in a mind map format for fast retrieval and understanding
 
