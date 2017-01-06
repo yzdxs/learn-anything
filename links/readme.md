@@ -16,7 +16,7 @@
 
 ##education
 - [khan academy](http://www.khanacademy.org/)
-	- has nearly everything one needs to get his fundamental knowledge in good shape
+	- has nearly everything one needs to get fundamental knowledge in good shape
 - [MIT open courseware](http://ocw.mit.edu/courses/)
 	- open and available courses provided by MIT itself
 - [quora](https://www.quora.com)
