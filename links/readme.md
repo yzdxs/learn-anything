@@ -57,6 +57,8 @@
 - [awesome courses](https://github.com/prakhar1989/awesome-courses)
 	- a really well curated lists of all the amazing courses that exist on the web right now for you to complete
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+- [google interview university](https://github.com/jwasham/google-interview-university)
+	- a really well curated guide on becoming a google software engineer with focus on algorithms, data structures and fundamental understanding of programming
 
 ##forums
 - [km forum](https://forum.keyboardmaestro.com/latest)
