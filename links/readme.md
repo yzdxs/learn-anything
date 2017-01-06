@@ -22,7 +22,7 @@
 - [quora](https://www.quora.com)
 	- ask questions, get answers
 - [wiselike](https://wiselike.com)
-	- ask questions directly from people 
+	- ask questions directly to people 
 		- what do they like, what do they do
 
 ##code
