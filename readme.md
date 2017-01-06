@@ -21,5 +21,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ###favourite
 - [favourite talks](https://my.mindnode.com/YqkoPxPeWUsNUhS1LiWxzkpUnETvMKd6fNp55zd6#-749.5,-1819.1,2)
 - [favourite humans](https://my.mindnode.com/PTSyQ9T2X3ggrpauRzeqTsvkAq8yqCJQWSyqG3Ph)
+
 ###other
 - [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
