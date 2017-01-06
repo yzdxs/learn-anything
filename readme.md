@@ -7,6 +7,8 @@ them.
 
 Most of the notes I make are [mindmaps](https://github.com/nikitavoloboev/my-notes#mindmaps). I [love mind mapping](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) my knowledge as it is incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. 
 
+[Here](https://github.com/nikitavoloboev/my-notes/tree/master/links) are some websites that I really like and often frequent to supplement my research and curiousity.
+
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
 #mindmaps
