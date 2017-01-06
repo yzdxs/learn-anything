@@ -7,6 +7,8 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 	- how I started my journey with journalling and living a more consious life
 - 2016 : [news](https://medium.com/@NikitaVoloboev/news-d6bcaaf40121#.mtj9gqvyu)
 	- my approach to news and overflow of information
+- 2016: [how to live a consious life](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl)
+	- my journey with discovering and bringing compassion to my life
 
 #writing 
 - 2016 : [why medium?](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p)
