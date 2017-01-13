@@ -13,11 +13,20 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 #mindmaps
 ##research
-- [golang](https://my.mindnode.com/UN4PcS314jdW5DEwcFXfHGaYVqjYE5BdXreYhEcm#339.7,-2112.1)
+###programming
+- [golang](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
 - [kernel](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
+###mathematics
 - [linear algebra](https://my.mindnode.com/6nzYVVQDKdcrDmsNWjzp9hrvKWKdHsPaxpC84ixU)
 - [math](https://my.mindnode.com/ydekAARs6fcaxkbUJrxjCMPBHonaBBGRzAGoCHxs#321.5,111.5,2)
+###computer science
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
+###machine learning
+- [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
+
+##books
+- [web app with golang anti text book](https://my.mindnode.com/zdrWE679mdxpS86aXZbCpWaTbp7mVXyUEYaBzBaU)
+- [data structures and algorithms in python](https://my.mindnode.com/eESybqxSFzZrxtVFUYvmkMMQGC7s6qqHr1j5qwMh)
 
 ##personal
 ###favourite
