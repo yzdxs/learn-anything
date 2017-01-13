@@ -16,9 +16,11 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ###programming
 - [golang](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
 - [kernel](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
+
 ###mathematics
 - [linear algebra](https://my.mindnode.com/6nzYVVQDKdcrDmsNWjzp9hrvKWKdHsPaxpC84ixU)
 - [math](https://my.mindnode.com/ydekAARs6fcaxkbUJrxjCMPBHonaBBGRzAGoCHxs#321.5,111.5,2)
+
 ###computer science
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
 ###machine learning
