@@ -23,6 +23,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ###computer science
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
+
 ###machine learning
 - [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
 
