@@ -59,6 +59,7 @@
 - [free programming books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 - [google interview university](https://github.com/jwasham/google-interview-university)
 	- a really well curated guide on becoming a google software engineer with focus on algorithms, data structures and fundamental understanding of programming
+- [machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 
 ##forums
 - [km forum](https://forum.keyboardmaestro.com/latest)
