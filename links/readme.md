@@ -13,6 +13,8 @@
 - [habrahabr](http://habrahabr.ru/top/) [russian] 
 	- russian tech news
 		- mostly translated content from english to russian but does have some original content too
+- [lobsters](https://lobste.rs/)
+	- an alternative to hacker news with a smaller community
 
 ##education
 - [khan academy](http://www.khanacademy.org/)
