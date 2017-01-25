@@ -1,0 +1,416 @@
+#here is a list of quotes that I have liked enough to collect and save
+##one day these quotes will live on my own webiste with a pretty front end
+
+- There are no hard problems, only problems that are hard to a certain level of intelligence. Move the smallest bit upwards [in level of intelligence], and some problems will suddenly move from “impossible” to “obvious.” Move a substantial degree upwards, and all of them will become obvious.
+	- Eliezer Yudkowsky
+- It is one of the most remarkable things that in all of the biological sciences there is no clue as to the necessity of death. If you say we want to make perpetual motion, we have discovered enough laws as we studied physics to see that it is either absolutely impossible or else the laws are wrong. But there is nothing in biology yet found that indicates the inevitability of death. This suggests to me that it is not at all inevitable and that it is only a matter of time before the biologists discover what it is that is causing us the trouble and that this terrible universal disease or temporariness of the human’s body will be cured.
+	- Richard Feynman
+- They say that you're the average of the 5 people you spend the most time with. Think about that for a minute: who would be in your circle of 5? I have some good news: MIT is one of the best places in the world to start building that circle. If I hadn't come here, I wouldn't have met Adam, I wouldn't have met my amazing cofounder, Arash, and there would be no Dropbox. One thing I've learned is surrounding yourself with inspiring people is now just as important as being talented or working hard. Can you imagine if Michael Jordan hadn’t been in the NBA, if his circle of 5 had been a bunch of guys in Italy? Your circle pushes you to be better, just as Adam pushed me.
+	- Drew Houston	
+- Happiness is the absence of striving for happiness
+	- Zhuang Zhou
+- To attain knowledge, add things everyday. To attain wisdom, remove things every day.
+	- Lao Tzu
+- When I let go of what I am, I become what I might be.
+	- Lao Tzu
+- Absorb what is useful, Discard what is not, Add what is uniquely your own.
+	- Bruce Lee
+- The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+	- Tom Cargill, Bell Labs
+- You don't remember the work, you remember the exhilaration.
+	- Robert Herjavec
+- If you don’t know where you’re going, any road will get you there.
+	- Cheshire Cat in Alice in Wonderland
+- Man is the most insane species. He worships an invisible God and destroys a visible Nature. Unaware that the Nature he is destroying is this God he is worshipping.
+	- Hubert Reeves
+- A penny saved is a penny earned.
+	- Benjamin Franklin
+- Compound interest is the eighth wonder of the world. He who understands it, earns it ... he who doesn't ... pays it.
+	- Albret Einstein
+- A computer is like a violin. You can imagine a novice trying first a phonograph and then a violin. The latter, he says, sounds terrible. That is the argument we have heard from our humanists and most of our computer scientists. Computer programs are good, they say, for particular purposes, but they aren't flexible. Neither is a violin, or a typewriter, until you learn how to use it.
+	- Marvin Minsky
+- We are about to study the idea of a computational process. Computational processes are abstract beings that inhabit computers. As they evolve, processes manipulate other abstract things called data. The evolution of a process is directed by a pattern of rules called a program. People create programs to direct processes.
+- A language isn't something you learn so much as something you join.
+	- Arika Okrent
+- Don’t walk in front of me, I may not follow. Don’t walk behind me, I may not lead. Walk beside me and be my friend.
+	- Albert Camus
+- The reasonable man adapts himself to the world. The unreasonable man persists in trying to adapt the world to himself. All progress, therefore, depends upon the unreasonable man.
+	- George Bernard Shaw
+- I did not want to live that nutso lavish lifestyle that so many people do when they get rich. I saw a lot of other people at Apple, especially after we went public, how it changed them. And a lot of people thought that they had to start being rich. I mean, a few people went out and bought Rolls Royces, and they bought homes, and their wives got plastic surgery. I saw these people who were really nice simple people turn into these bizarro people. And I made a promise to myself to myself, I said I'm not gonna let this money ruin my life.
+	- Steve Jobs
+- If you can’t explain it to a six-year-old, you don’t understand it yourself.
+	- Albret Einstein
+- Never use a long word when a short one will do. Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+	- George Orwell
+- Have you ever noticed that when you sit down to write something, half the ideas that end up in it are ones you thought of while writing it? The same thing happens with software. Working to implement one idea gives you more ideas. So shelving an idea costs you not only that delay in implementing it, but also all the ideas that implementing it would have led to. In fact, shelving an idea probably even inhibits new ideas: as you start to think of some new feature, you catch sight of the shelf and think “but I already have a lot of new things I want to do for the next release.
+	- Paul Graham
+- Facts do not cease to exist because they are ignored.
+	- Aldous Huxley
+- Growth for the sake of growth is the ideology of the cancer cell.
+	- Edward Abbey
+- Don't put any lines in your vimrc that you don't understand.
+- Review the intuitive definition. Rephrase technical definitions in terms that make sense to you.
+- If you can't explain it simply, you don't understand it well enough.
+	- Albert Einstein
+- Let's go invent tomorrow
+	- Steve Jobs
+- Everything you can imagine is real.
+	- Pablo Picasso
+- It is the simplest version of the idea that sticks.
+	- Christopher Nolan
+- If we don’t end war, war will end us.
+	- HG Wells
+- Do one thing and do it well.
+	- Doug Mcllroy
+- Learn to love and admire the right people, live or dead.
+- The best entrepreneurs are not risk-takers. They spend every day reducing risk.
+- The best way to predict the future is to invent it.
+	- Alan Kay
+- … You know throughout the years in business I found something which was I’d always ask why you do things and the answer you invariably get is oh that’s just the way it’s done. Nobody knows why they do what they do. Nobody thinks about things very deeply in business. That’s what I found…
+	- Steve Jobs
+- It’s such a simple idea. It’s the golden rule so to speak: You want to deliver to the world what you would buy if you were on the other end. There is no ethos, in my opinion, that is better for any lawyer or any other person to have. By and large the people who have this ethos win in life and they don’t win just money, not just honors. They win the respect, the deserved trust of the people they deal with, and there is huge pleasure in life to be obtained from getting deserved trust.
+- I am still a victim of chess. It has all the beauty of art—and much more. It cannot be commercialized. Chess is much purer than art in its social position."
+"The chess pieces are the block alphabet which shapes thoughts; and these thoughts, although making a visual design on the chess-board, express their beauty abstractly, like a poem. ... I have come to the personal conclusion that while all artists are not chess players, all chess players are artists.
+	- Marcel Duchamp
+- The wise warrior avoids the battle.
+- I wake up every morning and think about how I can put myself out of business. By that, I mean I think about every way another business can disrupt my profit margins and my current successes. By thinking about what they could do, I can do it myself and innovate my own business.
+- I leaned very early the difference between knowing the name of something and knowing something.
+	- Richard Feyman
+- For me, “F You money” simply means I get to keep physically healthy, spend time with friends (emotional health), be creative (mental health), and be grateful (spiritual health) every single day, without anyone or anything getting in the way of that.
+- The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness. Although the two are identical twins, man, as a rule, views the prenatal abyss with more calm than the one he is heading for.
+	- Vladimir Nabokov
+- We are going to die, and that makes us the lucky ones. Most people are never going to die because they are never going to be born. The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia. Certainly those unborn ghosts include greater poets than Keats, scientists greater than Newton. We know this because the set of possible people allowed by our DNA so massively exceeds the set of actual people. In the teeth of these stupefying odds it is you and I, in our ordinariness, that are here.We privileged few, who won the lottery of birth against all odds, how dare we whine at our inevitable return to that prior state from which the vast majority have never stirred?
+	- Richard Dawkins
+- I do not fear death. I had been dead for billions and billions of years before I was born, and had not suffered the slightest inconvenience from it.
+	- Mark Twain
+- When I read an email, I immediately decide about what to do with it.
+- Are you moving one step in 20 directions or 20 steps in one direction?
+- Learn the defaults.
+	- Many tools allow a lot of customizations, especially text editors. The thing is, if this level of customization is available, it is usually because the tool has a lot of functions/capabilities. A sane tool would propose bindings to these functions for easy/quick access by default. As all functions are accessible by default, it means you can use the full potential of the tool without tweaking it, so if you learn these defaults you can reach a high level of usability, and so, on each machine you would have access too, extremely quickly.
+Learning defaults will also make you dig into your tools, and certainly learn a handful of neat little tricks!
+	- The simpler, the better.
+	- The unix philosophy strives for simple tools that are powerful for one specific task, and integrate well with other tools. When tools are simple, you can quickly learn them and get efficient again.
+Simple tools are quicker to learn, easier to integrate and usually more robust (as they focus on a single task).
+One great example is dmenu which can be used for basically ANYTHING requiring user input. Yet, it is simple enough to have it replaced by a similar application, like "thinglaunch": read list from stdin, outputs selection from stdout. That's only an interactive grep(1) command when you think about it, a great filter.
+- I need a higher level of certainty than investors do because my time is more valuable to me than their money is to them. Investors place bets in a portfolio of companies, but I only have one life.
+- Use difficulty as a guide not just in selecting the overall aim of your company, but also at decision points along the way. At Viaweb one of our rules of thumb was run upstairs. Suppose you are a little, nimble guy being chased by a big, fat, bully. You open a door and find yourself in a staircase. Do you go up or down? I say up. The bully can probably run downstairs as fast as you can. Going upstairs his bulk will be more of a disadvantage. Running upstairs is hard for you but even harder for him.
+- you can’t be free if you judge people
+- Don't ignore your dreams; don't work too much; say what you think; cultivate friendships; be happy.
+- The ability to walk in somebody else's shoes for a while makes you a better developer. Why?
+	- You acquire the habit of imagining what it's like to use the stuff you develop.
+	- You have a feel for the daily experience of your colleagues, suppliers, executives and other stakeholders.
+	- These things give you the sort of spidey-sense that lets you function independently. They also give you the ability to enlist other people to get things done.
+How can you learn empathy? Like any skill, it takes practice.
+	- Listen to strangers. The question "what are you doing this afternoon" asked at lunch will usually get an interesting response. Interject "wow" - like sounds to keep them talking.
+	- Seek opportunities to meet end-users of your stuff. (Ask sales people to take you along on calls if that's appropriate). Observe their work.
+	- Ask your executives and project managers questions like, "what keeps you awake at night?" And listen to the answers.
+	- Teach. It doesn't matter whether you teach short courses or get a night job as an adjunct professor at your local CoCo. Your interactions with students will help develop your empathy. 
+	- People love to talk about themselves. You can take advantage of that to practice empathy.
+- It is difficult to get a man to understand something, when his salary depends on his not understanding it.
+- Maybe it's just me, but I've always thought that being "smart" has everything to do with having a wealth of information and being able to draw connections between various facts and ideas.
+- Yes. My pet theory is that the brain is just a huge pattern matching engine. Formal education is mostly about training the pattern recognizer with new patterns.
+Whenever you talk to people that are "uneducated" (or whatever word you may want to choose for that) that struggle with basic concepts, try to probe deeper. You'll find that, in many cases, they are being overwhelmed with new concepts being presented simultaneously.
+	- People with extensive formal education will have been exposed to innumerable problems and concepts by the time they reach adulthood. There's a wealth of information the brain can use to speed up comprehension.
+- I didn’t learn to talk from a linguist, I learned to talk from hearing other people talk
+- I have spent hours, both good and bad, in which any understanding that I had ingested a drug was lost, and all memories of my past along with it. Immersion in the present moment to this degree is synonymous with the feeling that one has always been and will always be in precisely this condition.
+	- Sam Harris
+- If everything is under control, you're going too slow.” -- Mario Andretti
+- Don't jump into coding right away. Have some things already in mind before even typing anything. What are the most important features? The edge cases? Walkthrough every possible scenario and think how you will solve those problems. Write them down. Discuss them with your co-workers. Then start writing the specs and write code for the specs, incrementally. I think that starting coding right away can be good if you want to show progress quickly, but then, along the way, you discover a new unexpected edge case you didn't consider and now you realize you need to re-write the entire feature from scratch to accommodate the changes.
+	- Plan, write it down, think, brainstorm the best solutions, write the specs, make the specs pass. Repeat.
+- Data first.
+	- It's far too easy to get lost in creating interfaces and abstractions and coding around the problem without understanding the meat of it.
+	- Nearly every problem can, and should, be look at as:
+		- What is my starting data? (format, types, etc.)
+		- What is my desired result? (same as above)
+		- What process is necessary to get from 1 to 2?
+	- I feel this is one of the core advantages of functional programming (that it causes you to approach problems in this way). I've been thoroughly convert to this approach rather than top-down design.
+- I've found that when you get too caught up in OOP, you spend so much wasted time attempting to describe all of the things that the data is or is not, and trying to coerce all data to meet your limited description of the world. In reality, data is very rarely uniform and predictable, so this approach consistently ends up blowing up in your face each time you encounter a new special case and have to redesign all of your interfaces, inheritance, and relationships.
+- When I use a word," Humpty Dumpty said, in rather a scornful tone, "it means just what I choose it to mean—neither more nor less.
+	- Lewis Carrol, Through the Looking-Glass
+- An investment in knowledge always pays the best interest.
+	- Benjamin Franklin
+- Programs must be written for people to read, and only incidentally for machines to execute.
+	- Hardol Abelson
+- There are decades when nothing happens. There are weeks where decades happen.
+	- Vladimir Lenin
+- One tomorrow at a time.
+- Expecting a personal transition to happen later is often equivalent to delaying it indefinitely.
+- If you know how big the market is, you're too late.
+- Times change, and we change with them.
+- Wonder is the foundation of all philosophy, inquiry its progress, ignorance its end.
+- If you do not work on an important problem, it's unlikely you'll do important work. It's perfectly obvious. Great scientists have thought through, in a careful way, a number of important problems in their field, and they keep an eye on wondering how to attack them. Let me warn you, `important problem' must be phrased carefully. The three outstanding problems in physics, in a certain sense, were never worked on while I was at Bell Labs. By important I mean guaranteed a Nobel Prize and any sum of money you want to mention. We didn't work on (1) time travel, (2) teleportation, and (3) antigravity. They are not important problems because we do not have an attack. It's not the consequence that makes a problem important, it is that you have a reasonable attack. That is what makes a problem important.
+	- Richard Hamming “You and your Research”
+- It’s fine to celebrate success but it is more important to heed the lessons of failure. Success is a lousy teacher. It seduces smart people into thinking they can't lose.
+	- Bill Gates
+- Don't let anyone tell you your ideas are stupid or the thing you feel most passionate about 'won't work
+	- Dennis Crowley
+- Stop thinking about making a million dollars and start thinking about serving a million people
+	- Dharmesh Shah
+- Work like hell. I mean you just have to put in 80 to 100 hour weeks every week. [This] improves the odds of success. If other people are putting in 40 hour work weeks and you’re putting in 100 hour work weeks, then even if you’re doing the same thing you know that… you will achieve in 4 months what it takes them a year to achieve.
+	- Elon Musk
+- do the simple thing first.
+- I don't know any meditator or teacher worth their weight in salt who advocates stopping thinking. Not only is it practically impossible, it implies a deeply maladaptive relationship to thought, i.e., that thought itself is undesirable. Rather, we need to transform our relationship to thoughts; not identify with them but dispassionately observe them as self-arising objects of perception, rather than facts of existence that define who and what we are. Not only that, but question their origins and the underlying beliefs that motivate them. Mindfulness is a very different thing from "stop thinking." "Stop thinking" implies an act of violence to the self, rather than gentle self-compassion.
+- Ironically, the best way to improve is to step away from the computer.
+	- Take a problem, and a pencil and paper, and find a comfy chair away from the computer. Then, just think about the problem. Start with something simple. Decide what the "inputs" are (what do you start with?) and what the "outputs" are (what do you need to produce or do?). Then try to write down a set of logical steps that you can follow that would produce the results you need from the data you have.
+	- That's programming. Once you've worked that out, transcribing it to code will get easier - you need to know the syntax and techniques. But a programming language won't help you if you can't actually write down the steps you need.
+	- Don't stare at the screen. Stare at the paper instead. then you'll hopefully be able to think of it as steps to solve a problem, rather than a programming problem.
+- A reader lives a thousand lives before they die. The person who never reads lives only one.
+	- George R. Martin
+- a goal is a dream with a deadline
+- Mathematics requires a small dose, not of genius, but of an imaginative freedom which, in a larger dose, would be insanity.
+	- Angus K. Rodgers
+- An educated man is not, necessarily, one who has an abundance of general or specialized knowledge. An educated man is one who has so developed the faculties of his mind that he may acquire anything he wants, or its equivalent, without violating the rights of others.
+	- Napoleon Hill
+- You can’t wait to take perfectly Instagrammed photos of the meal to go along with your perfectly Instagrammed life.
+- Never memorise something that you can look up.
+	- Albert Einstein
+- I'm a vegan crossfit trainer that frequents burning man. I'm offended. By everything. All the time.
+	- reddit
+- I have my own theory. The idea is that there are lots, lots and lots of tiny unspoken things which could make huge difference in long run. And those who successful doesn't necessary know their own tiny things they got right.
+	- Let's say there are two persons A and B who is training in chess. Person A trained for X hours and became chess master. Person B trained for 10X hours and didn't get even close to master level.
+	- The truth is that person A got some tiny unspoken ideas right (may be he even discovered them by coincidence). And person B got this tiny things wrong. No matter how much person B is training, he or she won't improve in chess until B find right way.
+	- Sad story is that A couldn't even realize what exactly he got right and take it for granted. So when A explains B how he train/play, he or she could say very high level things (which you can find in any grandmaster book) skipping huge unspoken context.
+	- That's why many people who read books written by chess grandmasters, don't become grandmasters. Chess grandmaster could try to explain you how he or she plays but these words has very limited power since unspoken context matters most.
+So if you didn't progress much in chess after learning theory and practising and reading grandmaster's book, it could mean that you just missed something very fundamental tiny thing which nobody speaks about. May be your spatial representation of how pieces move in the board is not suitable that's why for you it requires more computational power to imagine whole dynamics of some given chess position. May be if you play other similar games and then return to chess, you fix your spatial representation of chess in your head. May be even solving math geometric puzzles will help you with that.
+	- My point is that if you don't progress don't give up but don't bang your head against the wall. Instead think about more delicate things happen in your brain. Your goal is to find tiny thing in your head and fix it. I do believe if you find this needle in haystack, then you could make huge breakthrough.
+	- I think true intellect lies in metacognition. I mean how you think about thinking, how you think about learning.
+- Simplicity Is Complexity Resolved
+	- Constantin Brancusi
+- In a year from now, you'll wish you had started today.
+- Knowledge means knowing where it's written down.
+- I probably had my personal "moment of truth" around the beginning of Doom 3's development, when it became clear that it is no longer possible to deeply understand every single part of a modern application. There is just too much. Nevertheless, I found that I could still enjoy my work when confined to a subset of the entire project, and I have thus remained committed to the high end. However, the appeal of smaller systems still lingers." 
+	- I am very much having this moment with the current state of web/app development. Being a generalist, you end up primarily working to meet a product end, be it new user features or product milestones. All the time making many compromises along the way, as any good engineer should. Yet the depth of the web/mobile stack, the sprawl of libraries, and the abundance of computation for most tasks makes you operate at a very high level (30,000 ft) and only dive down to the bits when absolutely necessary. This has its own joys, primarily one of productivity, but it does starve a primordial part of most developers' brains that craves order/perfection/optimality/complete understanding.
+	- I never understood why some people would play with a low level language like C or assembly outside of work in their free times. After 10 years of professional application coding, I get it.
+- For the generation growing up now, the Internet is their window on the world. They take it for granted. It’s only us, who have seen it take shape, and are aware of all the ways it could have been different, who understand that it's fragile, contingent. The coming years will decide to what extent the Internet be a medium for consumption, to what extent it will lift people up, and to what extent it will become a tool of social control.
+- I encourage folks to adopt this approach to keeping up with the JavaScript ecosystem: first do it, then do it right, then do it better.
+	- [totally get your frustration](https://medium.com/@addyosmani/totally-get-your-frustration-ea11adf237e3#.hhbjkytu8)
+- In buddhism they say that everything is of dependent origin. Watch the mind and notice how everything it does, thinks, remembers, plans, etc is all conditioned. If it is all just conditioning unfolding, then who is thinking? Who is moving the body? Who is making choices?
+	- Notice how there is a sense that there is a person present. The mind is holding a self referential thought of "me". It feels like there is a bubble and inside that bubble is a person or "me". Outside that bubble is "everything else".
+	- In the nondual state the subject and object are the same thing. The bubble is no longer there. The sense that there is a separate person is no longer there.
+When looking at an object, the object is the awareness of the object and I am the awareness. I am the object because I am the awareness of the object and the object is the awareness of the object. There is no sense that perception is "landing" on a person who is seeing the object. Also, the perception of the object seems to be happening across the room where the object is.
+	- Imagine you are sitting in a room looking at things in the room. Now imagine if everything that is "you" was suddenly yanked out of the room but perception of the room remained. The room is experiencing itself and there isn't a "you" involved in any of it.
+	- Another effect is that the mind stops and becomes perfectly still. All self referential thought stops. There is no sense of "I". There is also a continuous flow of precisely now.
+	- Notice how the mind is constantly remembering the past and imagining the future and you are part of all of that. Now notice that when that happens you lose touch with the overlay of vision and hearing and body sensations that are happening right now. You get lost in a dream. When the mind stops you experience a continuous flow of this precise instant in time. Past and future don't exist. There is no sense that there is a doer who is doing things and making choices.
+There is a profound stillness to it and over time this stillness deepens and becomes even more still. From month to month as the stillness deepens its as if the number zero becomes even more zero. I know it sounds odd but it's as if I'm accelerating into stillness.
+	- In short, the universe is experiencing itself and there isn't a separate person involved in any of it. The universe absolutely loves itself. It gazes upon itself with an affection the way a young child gazes upon its mother with tender love and affection. It is completely selfless and is very child like and innocent. It has no agenda or selfish goals. It just is and is perfect exactly as it is.
+	- As a follow up, the nondual state is not perfectly rock solid all the time. The sense of a person does come back intermittently throughout the day. Thoughts do appear from time to time. This is normally caused by my clinging to something or a desire that comes up or a fear. When this happens the underlying conditioning of the mind that causes it is recognized and then it lets go and the stillness returns. The next time I'm exposed to a similar situation that caused the reaction the reaction is reduced or not there at all.
+	- Be still.
+- But sometimes I think life is just like an on-off switch. Click and you're gone. And that's why I don't like putting on-off switches on Apple devices.
+	- Steve Jobs
+- Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.
+	- Steve Jobs
+- Most important, have the courage to follow your heart and intuition." Remembering Steve and the many ways he changed our world.
+	- Steve Jobs
+- One of the things that really stuck with me when reading his biography by Isaacson was the story of a seven year old Jobs and his father painting a fence. While they were painting a fence, Jobs asked his father why the back of the fence had to look as good as the front, saying that no would ever know. His father told him: "but you will know.” This later inspired Jobs when building the Macintosh.
+	- Right before the Macintosh was to be shipped out, Jobs decided that the circuit board needed to be redesigned to be more attractive, even though consumers would never see it, telling the 32 engineers that they “will know.” Once the circuit board was finished, he had the engineers sign their names, reminding them that “real artists signed their work.”
+	- I never met him or his father but in the end he truly inspired me. Now I know that if I want to design something perfect for the masses it must also be perfect to me even if it's something only I would ever know.
+- The best time to plant a tree was 50 years ago. The second best time is today.
+- AI doesn't need to follow the human model, just like planes don't need to flap their wings like a bird. For most jobs AI will be very different from humans. Even when AI acts as human for entertainment I would imagine them being very different internally, as their job is to mimic aspects of human behaviours, not actually a human as a whole.
+- Dealing with iOS (and really Apple in general) is like trying to have a conversation with a paranoid robot working as a soviet border officer in a Kafka novel.
+- Because tech lies at a difficult crossroads between the applied and the theoretic. You build a building, you have an architect, and engineer, a foreman, etc. With applications, you have to be all of them at once. That just isn't whats taught at universities, based on many candidates I've encountered.
+- Only five thousand people ever bought a Velvet Underground album, but every single one of them started a band.
+- Another trait, it took me a while to notice. I noticed the following facts about people who work with the door open or the door closed. I notice that if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important. Now I cannot prove the cause and effect sequence because you might say, ``The closed door is symbolic of a closed mind.'' I don't know. But I can say there is a pretty good correlation between those who work with the doors open and those who ultimately do important things, although people who work with doors closed often work harder. Somehow they seem to work on slightly the wrong thing - not much, but enough that they miss fame.
+	- Richard Hamming (retired Bell Labs scientist)
+- Tiger got to hunt, bird got to fly;
+	- Man got to sit and wonder ‘why, why, why?’
+	- Tiger got to sleep, bird got to land;
+	- Man got to tell himself he understand.
+		- Kurt Vonnegut
+- It convinces me that we are embedded in something which is beyond our "normal" reality. Call it a matrix, a simulation, an experiment, a virtual reality, or whatever you want. I can prove it. I just need 10 minutes of your time.
+	- [reddit](https://www.reddit.com/r/Psychonaut/comments/56nkcn/tech_billionaires_convinced_we_live_in_the_matrix/d8kt36a/)
+- A man who knows the price of everything and the value of nothing.
+	- Oscar Wilde
+- It will have huge implications not only on the job market but on the economy and society as a whole. Think of the transition from aristocratic nobility to capitalism that happened during the 19th century, caused by the first Industrial Revolution. Now multiply these effects severalfold, and shorten the transition period.
+	- It's nearly impossible to predict anything on a 20+ years future, because we have no idea of what will happen. Not only there will be no jobs, there will be no market for most products either. Twenty years ago people subscribed to internet services, they paid to have email accounts, and so on. Today any company that tried to sell services like that would fail, how can anyone compete against gmail?
+	- Right now, we are in a transition phase when products too cheap to sell are financed by advertising revenue. This age will not last long. Soon there will be nothing left to advertise, where will Google get their income then?
+	- The future is a total mystery right now, any predictions are useless because we have no parameters to extrapolate. Conditions will change so fast and be so radically different that no one will be able to plan anything on a very long range.
+- Fuck your eating disorders, why the fuck does everything has to be so extreme with you? On one end of the scale you’ve got the pizza-guzzling, office-snack hoarding monster, and on the other end you have the ‘I-must-optimize-every-living-second’ douche that only drinks fucking Soylent. Seriously, what the fuck?
+- Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
+	- Abraham Lincoln
+- You must live in the present, launch yourself on every wave, find your eternity in each moment
+	- Thoreau
+- Mistakes are the portals of discovery.
+	- James Joyce
+- The world has enough for everyone's need, but not enough for everyone's greed.
+	- Gandhi
+- A brilliant professor of mine liked to say "The Answer of the Engineer: it depends".
+- performance is the art of avoiding work.
+- Some people think I’m unhappy, but I’m not. I just appreciate silence in a world that never stops talking.
+- He who fears death is a slave of life.
+- какие технологии вы будете использовать в вашем проекте?
+	- на всякий случай мы решили использовать все технологии.
+	- I've found the easiest stuff to organize is the stuff I no longer have. I used to feel obligated to file a lot of stuff that came in the mail, like addendums to insurance policies, annual reports for stocks or funds, credit card statements, etc. But it dawned on me long ago that I virtually never need to refer back to that stuff. So it goes straight into the trash. When the bookshelves in my office fill up, I cull the books and donate them to Goodwill or sell them to a used bookstore. Old clothes, shoes, etc. are routinely purged from my life.
+	- Some people love to acquire new things. I love getting rid of old things that no longer serve a purpose in my life.
+- Meditation is the medicine, mindfulness the diet.
+- Apple often doesn't invent the whole thing, but definitely puts a usable version on the market.
+- A programmer will be able to understand a problem in full only when he has solved it at least once.
+- Firstly, you don't "suck" at it - you just haven't practiced it enough yet. No one sucks at anything in computer science, they just aren't practiced enough.
+- I feel like it's part of maturing as a programmer. Initially you try to do all the things. Such grand ideas, such vision. And then you mature a bit after dealing with spaghetti code and poor planning. So you learn to refactor. You gradually make everything into factories and singletons, using your design pattern knowledge without true understanding. And it gets to be a mess.
+	- So you learn to plan a lot. You make UML diagrams, really think about class hierarchy, and don't do any feature without a lot of planning. Except now development has stalled on stable version 1.6.5 in favor of the "new engine" for version 2.0.
+	- Eventually you realize the best plan is to do nothing except what is required, get it working, make gradual improvements where you can, and just hope someone else can eventually make something better.
+		- [reddit](https://www.reddit.com/r/ProgrammerHumor/comments/5a9vam/weve_all_been_there/)
+- Focus is a matter of deciding what not to do.
+	- John Carmack
+- An unexamined life is not worth living.
+- Under the relentless thrust of accelerating over-population and increasing over-organization, and by means of ever more effective methods of mind-manipulation, the democracies will change their nature; the quaint old forms—elections, parliaments, Supreme Courts and all the rest—will remain. The underlying substance will be a new kind of non-violent totalitarianism. All the traditional names, all the hallowed slogans will remain exactly what they were in the good old days. Democracy and freedom will be the theme of every broadcast and editorial—but Democracy and freedom in a strictly Pickwickian sense. Meanwhile the ruling oligarchy and its highly trained elite of soldiers, policemen, thought-manufacturers and mind-manipulators will quietly run the show as they see fit.
+	- Aldous Huxley, Brave New World
+- Anxiety's a funny thing. A simple change in perspective and it's just gone. But will it stay gone? That's always the question.
+- A man was walking along a river bank when he saw another man on the opposite side. "Hello!" he called out, "how do you get to the other side of the river?"
+	- The man called out in response, "you are on the other side of the river!"
+- If you can't fly, then run. If you can't run, then walk. If you can't walk, then crawl, but whatever you do you have to keep moving forward.
+	- Dr. Martin Luther King
+- If you are willing to look at another person’s behaviour toward you as a reflection of the sate of their relationship with themselves rather than a statement about your value as a person, then you will, over a period of time cease to react at all.
+	- Yoga Bhajan
+- What we do know is that the human brain is an awesome, often-underestimated evolutionary machine. We know that consciousness is governed by trillions of nerve cells that communicate with chemicals known as transmitters. We know that biologically-speaking, the brain is only concerned with survival and all of its functions seem to promote that. We know that by introducing certain chemicals you can affect the delicate fine-tuning that generates our perception of reality.
+	- All of this leads me to conclude that the experience itself is nothing more than a temporary lapse from baseline reality. There simply is no viable evidence to suggests otherwise.
+- Startups mostly don't compete against each other, they compete against no one giving a shit.
+- If you can’t solve a problem, it’s because you’re playing by the rules.
+	- Paul Arden
+- The whole point of JavaScript libraries is to abstract away the browser’s internal API and provide a different, better API instead.
+- It’s interesting to think about how profoundly we’re a product of the culture we’re raised in, even to the level of our modes of cognition. We’d all like to think there’s something essential about us as individuals that would persist no matter where or when we were born, but so many of the pursuits that define us are entirely culture-specific. Music seems to be found in all cultures, so maybe a musician would be drawn to music no matter what form it took in the culture she was born into, but what would I be drawn to in a culture without the written word?
+	- Ted Chiang
+- they love us too much, and understand us too little
+- This soldier, I realized, must have had friends at home and in his regiment; yet he lay there deserted by all except his dog. I looked on, unmoved, at battles which decided the future of nations. Tearless, I had given orders which brought death to thousands. Yet here I was stirred, profoundly stirred, stirred to tears. And by what? By the grief of one dog.
+	- Napoleon Bonaparte, on finding a dog beside the body of his dead master, licking his face and howling, on a moonlit field after a battle
+- Democracy is the worst form of government ... except for all those other forms that have been tried from time to time.
+- Here’s to the crazy ones, the misfits, the rebels. The package makers, the man page writers. The rounded windows in Qt mixed with the less rounded windows of GTK. The ones who literally see things differently because of missing proprietary fonts.
+- It's just mathematics. The learning algorithms are solid. Setting hyperparameters is a little arbitrary, and net structure is as well, but I'm not sure what else you're looking for?
+	- Being able to 'fool' deep nets with images that look like noise to us is of course interesting. There's ongoing research into this, creating mitigation techniques that make nets robust to this sort of deception, and some of these techniques might lead to interesting insights into how we can introduce noise and boost the accuracy of the nets.
+	- We're following the scientific method, producing state of the art results, and creating commercially viable technology. What do you want from the field? For everyone to stop trying to push the envelope and focus on thinking really, really hard about what a more general framework might look like for a decade?
+The guiding principles and general theory sometimes only emerges after a bunch of adhoc experimentation takes place, which seems to be exactly where we're at right now. As time goes onv we'll both continue our slightly less-informed 'guessing in the dark', we'll continue the neurological research that helps us understand how human brains work and what sort of lessons can be cross-applied, and we'll continue to look for a unifying theory of learning.
+			- [reddit](https://www.reddit.com/r/MachineLearning/comments/5heeh7/n_andrew_ng_ai_winter_isnt_coming/)
+- If it's not a hell yes, it's a no.
+- If tomorrow my company goes under I will just start another paper company. And then another and another and another. I have no shortage of company names.
+- Our company is worth nothing. That's the difference between you and I. Business isn't about money to me...
+- I have made this function so long only because I did not have the time to make it shorter.
+- The goal is not to write code that works, the goal is to write code you keep using but never touch again.
+- Lots of problems arise from a bad understanding of where we should be in the levels of abstraction.
+- when in doubt, use examples
+- Modern man is a prisoner who thinks he is free because he refrains from touching the walls of his dungeon.
+- Let us declare nature to be legitimate. All plants should be declared legal, and all animals for that matter. The notion of illegal plants and animals is obnoxious and ridiculous.
+	- Terence McKenna
+- The problem with books is that they end.
+	- Caroline Kepnes
+- The last 10 years have been about building a world that is mobile-first. In the next 10 years, we will shift to a world that is AI-first.”
+	- Sundar Pichai
+- Just because you turing-can doesn't mean you turing-should
+	- [source](https://www.youtube.com/watch?v=yMnOEgbm2fE)
+- Our situation is analogous to that of someone who has learned the rules for how the pieces move in chess but knows nothing of typical openings, tactics, or strategy. Like the novice chess player, we don't yet know the common patterns of usage in the domain. We lack the knowledge of which moves are worth making (which procedures are worth defining). We lack the experience to predict the consequences of making a move (executing a procedure).
+	- SICP
+- If it doesn't work right, in what sense does it work at all?
+- Here's my interpretation. First crank out code that handles one common case (MakeItWork™). Then fix all of the special cases, error handling, etc. so all tests pass (MakeItRight™).
+- Make it work. Make it right. Make it fast.
+- If I asked people what they wanted, they would have said faster horses.
+- Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+	- Matthew 6:34
+- Being a millennial is like joining a game of monopoly after all the properties have been bought up.
+- Wealthy is meaningless; use Unwealth: the difference, at any point in time, between what you have and what you would like to have
+- Our media feeds are echo chambers. And those echo chambers don’t just reflect our political beliefs; they reflect our feelings about human progress. Bad news is a bubble too.
+- Even bad code can function. But if code isn’t clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn’t have to be that way.
+- You often cannot control your thoughts, but you can control your actions.
+- The concept is people mistake capacity for value. A millionaire has money but until he gives money to you, he has no value to you. People mistake capacity for value, it is a fallacy. A rich person who will not give you a dime might as well be poor, it's all the same to you. A beautiful girl who is not willing to give of herself to you might as well be ugly.
+- She, like many, had always thought that mathematics did not derive its meaning from the universe, but rather imposed some meaning onto the universe.
+	- Ted Chiang. “Stories of Your Life and Others.”
+- See, I would say the opposite. To me, the details about any one particular thing are boring. Like, 99% of math is boring as shit in isolation. Pick any theorem at random and read it, eg go to Arxiv and randomly pick something that was uploaded today - why on earth would anyone care about such a thing? What makes math interesting is how all the things relate to each other. In the course of trying to understand "math" as a whole there are certain constructs and procedures that reveal themselves to be important. These are the things I find interesting. Any particular homology theory is kind of boring, but the idea of giving things homology groups and the power it has is what is valuable. I think for analysts, category theory is a (not particularly useful) means to an end (studying certain objects), whereas for algebraists the objects are a means for understanding the big picture.
+- The desire for more positive experience is itself a negative experience. And, paradoxically, the acceptance of one’s negative experience is itself a positive experience.
+	- Mark Manson, Subtle Art of Not Giving A Fuck
+- You will never be happy if you continue to search for what happiness consists of. You will never live if you are looking for the meaning of life.
+	- Albert Camus
+- I like to flick between the two so I can get a well rounded sense of hate.
+	- [reddit](https://www.reddit.com/r/unitedkingdom/comments/5lruvf/uks_top_eu_diplomat_resigns_bbc_news/dbxyvsa/)
+- The S in the IoT stands for Security.
+- "Wait, what? Why does my code depend on that?"
+	- ancient Google proverb
+- [high school English Literature class in 2116]
+	- TEACHER: these are tweets from 2016. write on this sheet which are puns and which are memes
+- no it does though because your pineal gland is what sets the pace for your body's cellular rhythms, and it's also stimulated by entheogenic experiences like those created by DMT, which is why many cultures have identified it with the physical seat of the soul, or the mythic third eye
+	- I divined this information directly from my root chakra, which is located in my ass
+- Just because other people are idiots doesn't mean we should be.
+- A feature that isn't documented is a useless feature.
+- The ego is an enlightenment trap.
+- Error driven development
+- When you change yourself you change the world.
+- When you change the way you look at things, the things you look at change.
+	- Jiddu Krishnamurti
+- I dont believe in asceticism or sobriety, moderation is the middle path.
+- The universe is endless, limitless and infinite. Any effort to define it's boundaries is an attempt to overcome ignorance. We are physical, mental and spiritual beings ... there is no beginning and there is no end. There is only memory. Our repeated loss of memory experiences create the illusion of beginnings and ends. Immortality is the ability to retain full memory through all consciousness transformations. Loss of memory is man's greatest curse and, in very real terms, death.
+- I'm glad I'm unemployed so I have time to configure it!
+	- [source](https://github.com/ChrisPenner/rasa#what-people-are-saying)
+- We thought of life by analogy with a journey, a pilgrimage, which had a serious purpose at the end, and the thing was to get to that end, success or whatever it is, maybe heaven after you’re dead. But we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played.
+- I have seen this as well. It's called ego death.
+	- The past and future do not exist. Only the moment. And in the moment everything exists. Life... existence... reality itself raging forward. You are only random jumble of some matter from a random part of the universe. You are no more important than any other piece of reality. But in the same sense, you are the most important thing in the universe. You are the universe. The universe is within you and you within it.
+	- During ego death you realize this. This fact of existence. You are only another piece of matter. You are exactly the same as a table or chair or the dirt. You are simply matter. Conscious matter. A bunch of atoms with self awarensss. Ego death is... in my opinion, the most tangible example of nirvana. It is the greatest form of understanding.
+	- We are all just lucky bundles of atoms experiencing existence together. It makes you chill out and have empathy for other life forms.
+	- We just exist. We are just alive. And we overcomplicate it all. But all life forms have the same basic feelings about stuff.
+- Isn't it interesting that the two drugs that are legal, alcohol and cigarettes, are the two drugs that do absolutely nothing for you whatsoever, and drugs that grow naturally on this planet, drugs that open your eyes up to make you realize how you're being fucked every day of your life---those drugs are against the law. Wow! Coincidence? I don't know.
+- The dose makes the poison.
+- People have lot invested in this ride.
+	- Bill Hicks
+- LSD is very interesting because it seems that it causes the brain to enter a state that is similar in connectivity to that of a child's brain. It may show incredible potential in the future for helping people get rid of maladaptive neural circuits (Obsessive behaviors, traumatic experiences, even just a negative worldview). 
+	- However, the vast majority of the pathways that your brain has strengthened throughout your life are what make you, you, and are necessary for you to function as the person you are today.
+	- LSD doesn't fry your brain, in a sense it works to soften those hardened neural pathways and allow you to form novel neural connections. But the oversimplification that it makes your brain 'work better' is just silly.
+- It’s not about having time, it’s about making time.
+- Talk to the people on a project. Tell them what you know, they will suggest something that may be of interest to you. If not, take a look at a different project.
+- Work on something that makes a personal difference to you. Don’t worry about making something just because you think other people will like it. Take the time to understand what your own needs / pain-points are and address that use-case.
+- If you’ve ever worked on something, wrote something, or updated something, then share it. Just like that. Put it on Github, link it in a few places, publish it on npm, or tweet about it and that’s all you have to do! Who knows? Maybe one day someone will make use of your small piece of code. And trust me, even one happy user is enough to be able to say that it was worth it.
+- It's so fun to stop every now and then when writing a lambda fucntion and think it through all the way to the electrons hitting the monitor, etc.
+- We often hear, but we rarely listen.
+- We often look, but we rarely see.
+- these are all just metaphors for something that simply cannot be put into words.
+- The more afraid you are the more power your fear has.
+- The feeling that I got is that there is a certain type of knowledge that exists there, but it cannot come back with you. It's like trying to save a banana to a memory stick. Our brains simply cannot store that type of data. The heart of the experience (if you go deep enough) is something which is beyond mind. It can be experienced but not remembered.
+	- about DMT experience
+- Because you're only free if you refrain from touching the walls of your cell.
+- The most important thing you can do is to get into an iteration cycle where you can measure the impact of your work, have a hypothesis about how making changes will affect those variables, and ship changes regularly. It doesn't even matter that much what the content is - it's the iteration of hypothesis, changes, and measurement that will make you better at a faster rate than anything else we have seen.
+- Another way to think about this, and the way we talk about this internally, is that we prefer to communicate through our products.
+- Only one, but it’s always the right one.
+	- Jose Capablanca, when asked how many moves ahead he looked while playing chess
+- When you drink alcohol you are just borrowing happiness from tomorrow.
+- Nothing is so conducive to greatness of mind as the ability to subject each element of our experience in life to methodical and truthful examination...
+	- Marcus Aurelius
+- Today is worse than yesterday, but better than tomorrow.
+- Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn't really do it. They just saw something. It seemed obvious to them after a while.
+	- Steve Jobs
+- Design is not just what it looks like and feels like. Design is how it works.
+	- Steve Jobs
+- When you're a carpenter making a beautiful chest of drawers, you're not going to use a piece of plywood on the back, even though it faces the wall and nobody will see it. You'll know it's there, so you're going to use a beautiful piece of wood on the back. For you to sleep well at night, the aesthetic, the quality, has to be carried all the way through.
+	- Steve Jobs
+- Have the courage to follow your heart and intuition. They somehow know what you truly want to become.
+	- Steve Jobs
+- Let’s go invent tomorrow rather than worrying about what happened yesterday.
+	- Steve Jobs
+- Let’s start with math. Math feels like mining. You know there’s gold somewhere below you. Perhaps it’s some theorem you’re trying to prove. Math is about digging in the right direction from the right spot in the massive network of tunnels we’ve already derived. And although you can dig in any direction, it’s not always obvious how to proceed from where you are to your target. The most brilliant mathematicians are the ones who have the best intuition about which way to dig. Some directions are obviously less efficient than others—digging through a rocky bit is much harder (but a clever mathematician might notice that it’s just a thin wall and there’s gold on the other side).
+- But is setting up a web server really programming? We felt it’s a distinction between building and assembling. Teaching someone how to make a web server with today’s frameworks is more about teaching them Ruby syntax and the APIs, and less about algorithms and logic. It’s not raw computer science, it’s following some instructions and inputting your own values. Using a clay mold shouldn’t count as sculpting.
+- That is one of the sad things about growing up.
+	- You only have past experience to judge time by, so as you have more time to remember, the time you experience goes by faster.
+	- When everything is new your brain logs and tries to remember every tiny detail, this makes the time feel long. As you grow older and stay stationary in life there is less and less new stuff to log, only old stuff to remember. Less new memories = less time remembered.
+	- It becomes exponential.
+	- Before long you start measuring your life in decades rather than years. Instead of talking about which grade or year of college things happened, its which house you were living in, or which city. Then it becomes which child was young, or which child's child was born.
+	- One of the best ways to combat this is to keep introducing new things into your life. Travel to new places. Learn new skills. The more new information you can feed your brain, the slower your experience of time will pass.
+- I am reminded of the story of the great French Marshal Lyautey, who once asked his gardener to plant a tree. The gardener objected that the tree was slow-growing and would not reach maturity for a hundred years. The Marshal replied, In that case, there is no time to lose, plant it this afternoon.
+	- John F. Kennedy
+- The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
+	- Atomic theory is just a special case of this insight.
+- What is special about atomic theory is the supposition that there is an endpoint to recursive reduction. That at some point you cannot find anything simpler.
+- If, in some cataclysm, all of scientific knowledge were to be destroyed, and only one sentence passed on to the next generations of creatures, what statement would contain the most information in the fewest words? I believe it is the atomic hypothesis (or the atomic fact, or whatever you wish to call it) that all things are made of atoms—little particles that move around in perpetual motion, attracting each other when they are a little distance apart, but repelling upon being squeezed into one another. In that one sentence, you will see, there is an enormous amount of information about the world, if just a little imagination and thinking are applied.
+	- RP Feynman, Vol I FLP
+- If there's a proper solution that you never thought of - you just learned a new pattern. Analyze why the new solution works for this type of problem and try to imagine what other problems it could apply to.
+- Prerequisite reading: The actual BOOK, Nineteen Eighty-Four. It’s not enough just to know the title. It’s not enough to know the TV reality show which is Big Brother’s namesake. The Cliff’s notes you used to skim by it on the exam aren’t enough. Book, whole book.
+	- In the book, Winston Smith is a character working for the “Ministry of Truth,” the ironically named branch of government responsible for fixing the media to be always in Big Brother’s favor. If Big Brother says something which turns out to be wrong, the MoT edits it. If the offending news item was so incorrect as to be ludicrous, sometimes Smith replaces that day’s statement with complete fabrication, such as awarding a metal to a non-existent war hero. Records of items the MoT wants to purge go down the “memory hole,” implied to be an incinerator.
+In this government, slogans are enforced, including "War is peace", "Freedom is slavery", and "Ignorance is strength." At one point the government switches its alliance from the countries of Eurasia to Eastasia and a speaker in mid-rant against one is handed a note and corrects himself to immediately continue ranting against the other as if the entire speech had been about that. A motif frequently cited in the book is “Who controls the past controls the future; who controls the present controls the past.”
+	- This shows a fundamental method of the dystopia: The absolute control of media and attempt to control the thinking of every individual through brute force. At no point does the government worry that its subjects will jump up and go “Wait a minute, you just told us we were at war with Eurasia! I remember it, it just happened!” Whenever anybody does, off they go to the “Ministry of Love” where they get tortured until they see it Big Brother’s way. But most people don’t. Most people show an eerie, cow-like ability to be led, against everything a logical mind would expect.
+Trump has demonstrated an uncanny, almost unbelievable ability to just bend the past however he wants. And you can protest all you want; nobody is really stopping him. We all get shocked in the moment - How could he have the unmitigated gall to say this shocking thing? But he delivers these shocks so regularly that nobody has time to fully process them. If a scandal blows up for more than two days, Trump will just do something else outrageous and the former story will be dropped to cover the new one. Trump is exploiting the media’s goldfish attention span. He’s overloading the news, giving them so much scandal that they don’t even have time to cover it all.
+And his gall has extended to stunts like telling the intelligence community, to their faces, that all the bad things he said about them only weeks ago simply did not happen. How about the border wall with Mexico and deporting the Muslims, what about those campaign promises? If he accomplishes them, he’s crow about it, but if he doesn’t, he’ll deny he ever made them. It doesn’t matter how many printed copies of the truth you have. It doesn’tmatter how many videos you have incriminating him. Trump doesn’t even need a memory hole. His method counts on the American people to be really THAT stupid - and apparently, he’s right. How can a man brag about sexual assault, make cruel fun of handicapped people, and refuse to release his tax returns over and over, yet still make it this far? Isn’t it amazing? Well, he’ll keep doing it while everyone else is too stunned to know how to react.
+Trump can’t lose, guys! Get used to it. He can just sculpt whatever reality he wants, and the truth will die off while the lies get screamed over and over until everybody believes them - just like his smear job against his opponent. He’s not quite the same as any politician you’ve heard of before. He’s evolved past a Nixon or a Bush. A prototype had to evolve out of the ooze sooner or later, and it’s shocking that it even took this long.
+	- But yes, politicians have lied before, politicians have had scandals before. But Trump is simply dispensing with all the foreplay and sugar-coating. Other politicians have to spin the media and put on a good face to try to appease their way out of their scandals. Trump literally bragged he could “shoot somebody and not lose voters.” He’s right, he could. And he’s not covering it up, he is pissing directly in your face and telling you it’s raining, and you’re going to believe it tomorrow or next week if you don’t believe it now. Other politicians bother to concoct some slippery lie when a reporter confronts them. Trump can just yell, “I’m not going to give you a question, you are fake news!” AND. IT. WORKED! If Trump had told that reporter “You’re a frog,” there is no doubt in my mind that that reporter would have poofed into a frog and hopped away croaking.
+That’s what Orwell’s point with media was. Being able to out-debate the truth or hide the truth or P.R. your way out of the truth isn’t enough. You just erase the truth, magically in the public’s minds. Wasting your brain trying to fight it with logic is just how this strategy works against you.
+That’s the key, people. Keep doing what you’re doing, and nobody will stop him. He doesn’t play by any rules written before.
+- there is no cloud, just other people's computers
+
+
+	
+
+
+
+
+
