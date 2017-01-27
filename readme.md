@@ -15,9 +15,16 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 #mindmaps
 ##research
+###computer science
+- [algorithms](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
+- [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
+- [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
+
 ###programming
 - [golang](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
 - [kernel](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
+- [vim](https://my.mindnode.com/DFFMQfdzm4hzWyMRRLqPreauujS62PVfPVssvJp4)
+
 
 ###interviews
 - [interview prep](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
@@ -26,11 +33,12 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 - [linear algebra](https://my.mindnode.com/6nzYVVQDKdcrDmsNWjzp9hrvKWKdHsPaxpC84ixU)
 - [math](https://my.mindnode.com/ydekAARs6fcaxkbUJrxjCMPBHonaBBGRzAGoCHxs#321.5,111.5,2)
 
-###computer science
-- [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
-
 ###machine learning
 - [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
+
+##science
+- [neuroscience](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN)
+- [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr)
 
 ##books
 - [web app with golang anti text book](https://my.mindnode.com/zdrWE679mdxpS86aXZbCpWaTbp7mVXyUEYaBzBaU)
