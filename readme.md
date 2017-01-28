@@ -33,8 +33,8 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 - [interview prep](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 ###mathematics
-- [linear algebra](https://my.mindnode.com/6nzYVVQDKdcrDmsNWjzp9hrvKWKdHsPaxpC84ixU)
-- [math](https://my.mindnode.com/ydekAARs6fcaxkbUJrxjCMPBHonaBBGRzAGoCHxs#321.5,111.5,2)
+- [linear algebra](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy)
+- [math](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
 
 ###machine learning
 - [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
