@@ -11,7 +11,7 @@ Most of the notes I make are [mindmaps](https://github.com/nikitavoloboev/my-not
 
 I am also an avid collector of [quotes](https://github.com/nikitavoloboev/my-notes-mindmaps/tree/master/quotes). I am actually making a website to ease the pain of storing and collecting private quotes, for now some of them will reside here. 
 
-I also love to collect and curate images with [Pixave](http://www.littlehj.com).
+I also love to collect and curate images with [Pixave](http://www.littlehj.com). You can view them [here](https://github.com/nikitavoloboev/my-notes-mindmaps/tree/master/images#here-are-all-of-the-albums-and-images-that-i-have-collected-over-the-years).
 
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
