@@ -22,7 +22,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 - [computer graphics](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
 ###programming
-- [golang](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
+- [go](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
 - [kernel](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
 - [vim](https://my.mindnode.com/DFFMQfdzm4hzWyMRRLqPreauujS62PVfPVssvJp4)
 - [programming paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn)
