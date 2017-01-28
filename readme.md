@@ -47,6 +47,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ###knowledge
 - [meaning of words](https://my.mindnode.com/keTpctx9LF2i5233rxgPwfgKozAqhNDo4585UpdV)
+- [tech terms](https://my.mindnode.com/x37uLCs9gNHy14fy4SEjByXdSLxL9ci2R7bpagdM)
 
 ##books
 - [web app with golang anti text book](https://my.mindnode.com/zdrWE679mdxpS86aXZbCpWaTbp7mVXyUEYaBzBaU)
