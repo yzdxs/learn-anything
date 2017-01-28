@@ -1,5 +1,5 @@
 #here is a list of quotes that I have liked enough to collect and save
-##one day these quotes will live on my own webiste with a pretty front end
+##one day these quotes will live on my own website with a pretty front end
 
 - There are no hard problems, only problems that are hard to a certain level of intelligence. Move the smallest bit upwards [in level of intelligence], and some problems will suddenly move from “impossible” to “obvious.” Move a substantial degree upwards, and all of them will become obvious.
 	- Eliezer Yudkowsky
