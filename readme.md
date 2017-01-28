@@ -18,13 +18,17 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ###computer science
 - [algorithms](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
 - [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
+- [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
+- [computer graphics](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
 ###programming
 - [golang](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
 - [kernel](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
 - [vim](https://my.mindnode.com/DFFMQfdzm4hzWyMRRLqPreauujS62PVfPVssvJp4)
-
+- [programming paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn)
+- [emulation](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx)
+- [solutions to leetcode](https://my.mindnode.com/UWt29ELHCYyhEL68smUyMZ3UWFg3cwkyXZZAngpE)
 
 ###interviews
 - [interview prep](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
@@ -36,9 +40,14 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ###machine learning
 - [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
 
-##science
+###science
 - [neuroscience](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN)
 - [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr)
+- [physics](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
+- [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+###knowledge
+- [meaning of words](https://my.mindnode.com/keTpctx9LF2i5233rxgPwfgKozAqhNDo4585UpdV)
 
 ##books
 - [web app with golang anti text book](https://my.mindnode.com/zdrWE679mdxpS86aXZbCpWaTbp7mVXyUEYaBzBaU)
@@ -46,6 +55,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ##personal
 ###favourite
+- [lessons learned](https://my.mindnode.com/goTjzsrky8hsNbRXiqYxRcQxsHWtpJBaH4fpLXVW)
 - [favourite talks](https://my.mindnode.com/YqkoPxPeWUsNUhS1LiWxzkpUnETvMKd6fNp55zd6#-749.5,-1819.1,2)
 - [favourite humans](https://my.mindnode.com/PTSyQ9T2X3ggrpauRzeqTsvkAq8yqCJQWSyqG3Ph)
 
