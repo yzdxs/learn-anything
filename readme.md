@@ -74,7 +74,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ####physics
 - [physics](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
-- [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
  
 ####social
 - [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5)
