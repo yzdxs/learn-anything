@@ -15,6 +15,13 @@ I also love to collect and curate images with [Pixave](http://www.littlehj.com).
 
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
+Here are all the research mind maps that I currently have. I mind map all my knowledge in this format and it is incredibly rewarding. I try to be as open with my learning and research as I can be.
+
+![](http://i.imgur.com/zPKqyJH.png)
+![](http://i.imgur.com/odtdK6z.png)
+![](http://i.imgur.com/M7E0DbP.png)
+
+
 #mindmaps
 ##research
 ###computer science
