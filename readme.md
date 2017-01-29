@@ -22,6 +22,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 - [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
 - [computer graphics](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
+- [hashing](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
 
 ###programming
 - [go](https://my.mindnode.com/sCQRYzZWsmrsqv2vW1FGKa7s2qc2spP1tTzSbnx1)
