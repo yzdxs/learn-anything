@@ -19,7 +19,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ##research
 ###algorithms
 - [algorithms](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
-- 
+
 ###computer science
 - [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 - [cs terms](https://my.mindnode.com/GDJS5vHKoZHGi5UqaTv6vN6cY4QBGAricz7gxAeb#-238.1,-356.6,2)
