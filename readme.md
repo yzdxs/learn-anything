@@ -92,7 +92,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ##personal
 ###favourite
-- [lessons learned](https://my.mindnode.com/goTjzsrky8hsNbRXiqYxRcQxsHWtpJBaH4fpLXVW)
+- [lessons learned](https://my.mindnode.com/Eu6Rs5VBTZApkqJHXWHz5AuskGQPHSSZTk67N9DR)
 - [favourite talks](https://my.mindnode.com/YqkoPxPeWUsNUhS1LiWxzkpUnETvMKd6fNp55zd6#-749.5,-1819.1,2)
 - [favourite humans](https://my.mindnode.com/PTSyQ9T2X3ggrpauRzeqTsvkAq8yqCJQWSyqG3Ph)
 - [favourite personal websites](https://my.mindnode.com/NLGwhX8ipsqi5UgpaHqqRdDzpsqLg3c7PuKGBhs1)
