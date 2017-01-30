@@ -406,6 +406,32 @@ Trump can’t lose, guys! Get used to it. He can just sculpt whatever reality he
 That’s what Orwell’s point with media was. Being able to out-debate the truth or hide the truth or P.R. your way out of the truth isn’t enough. You just erase the truth, magically in the public’s minds. Wasting your brain trying to fight it with logic is just how this strategy works against you.
 That’s the key, people. Keep doing what you’re doing, and nobody will stop him. He doesn’t play by any rules written before.
 - there is no cloud, just other people's computers
+- Eat food. Not too much. Mostly plants.
+- Empower people. Embrace change. Eliminate waste. In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+- Carbon Tax is a great idea, but will not happen, the politicans will never support it. The real problem is most people don't understand and won't support it. In this country if you tell someone "I will give you one dollar a day, the condition is by the end of the year I will take $500 from your bank account", many people will happily take the deal. Because they get $1 every day, isn't that great?
+- Could it be anything but perfect though?
+- Lately it occurs to me, what a long strange trip it's been...
+- In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move. 
+- The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
+	- Carl Sagon
+- fractals are shapes with a non-integer dimension
+- Writing programs is just the way you make the machine understand your maths
+- We are all apprentices in a craft where no one ever becomes a master.
+- My mission in life is not merely to survive, but to thrive; and to do so with some passion, some compassion, some humor, and some style.
+- What is done cannot be undone, but one can prevent it happening again.
+	- Anne Frank
+- hey how did your hackathon go?
+	- not too bad, we got Babel set up
+	- yep...
+	- yep
+- Anyone, no matter how smart or educated, can be tricked and it's impossible to know when the person being tricked is you.
+- The exercises are phenomenal. Though they do range from "a stop gap to see if you understand" to "phd thesis" so it does vary.
+	- on exercises of The Art of Computer Programming
+- I wish it need not have happened in my time," said Frodo. "So do I," said Gandalf, "and so do all who live to see such times. But that is not for them to decide. All we have to decide is what to do with the time that is given us."
+	- The Fellowship of the Ring
+- So it goes
+- “Once you realise what a joke everything is, being the Comedian is the only thing that makes sense.”
+	- Watchmen by Alan Moore
 
 
 	
