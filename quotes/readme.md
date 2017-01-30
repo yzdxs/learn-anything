@@ -407,7 +407,7 @@ That’s what Orwell’s point with media was. Being able to out-debate the trut
 That’s the key, people. Keep doing what you’re doing, and nobody will stop him. He doesn’t play by any rules written before.
 - there is no cloud, just other people's computers
 - Eat food. Not too much. Mostly plants.
-- Empower people. Embrace change. Eliminate waste. In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+- Empower people. Embrace change. Eliminate waste.
 - Carbon Tax is a great idea, but will not happen, the politicans will never support it. The real problem is most people don't understand and won't support it. In this country if you tell someone "I will give you one dollar a day, the condition is by the end of the year I will take $500 from your bank account", many people will happily take the deal. Because they get $1 every day, isn't that great?
 - Could it be anything but perfect though?
 - Lately it occurs to me, what a long strange trip it's been...
