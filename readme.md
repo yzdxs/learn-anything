@@ -16,7 +16,7 @@ I also love to collect and curate images with [Pixave](http://www.littlehj.com).
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
 #mindmaps
-##research
+##[research](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 ###algorithms
 - [algorithms](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
 
