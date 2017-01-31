@@ -1,5 +1,5 @@
 #GitHub is not all about code
-#[it's about sharing knowledge](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
+#[it's about sharing knowledge](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) (underlined nodes are other mind maps)
 
 I **love** making notes on various things I learn. Mostly as a reference for
 myself but I do try to keep it detailed so that anyone can get some value from
@@ -15,7 +15,7 @@ I also love to collect and curate images with [Pixave](http://www.littlehj.com).
 
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
-#mindmaps
+##mindmaps 
 ##[research](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 ###algorithms
 - [algorithms](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
