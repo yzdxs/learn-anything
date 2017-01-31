@@ -1,5 +1,6 @@
 #GitHub is not all about code
-#[it's about sharing knowledge](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) (underlined nodes are other mind maps)
+#[it's about sharing knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
+####(p.s. underlined nodes are hyperlinks and lead to other mindmaps)
 
 I **love** making notes on various things I learn. Mostly as a reference for
 myself but I do try to keep it detailed so that anyone can get some value from
