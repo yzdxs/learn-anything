@@ -8,7 +8,7 @@ I always loved taking notes. I have since found a way to effecively store my kno
 
 I [love mind mapping](https://medium.com/@NikitaVoloboev/mind-map-everything-d27670f70739) my knowledge as it is incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. 
 
-[Here](https://github.com/nikitavoloboev/my-notes/tree/master/links) are some websites that I really like and often frequent to supplement my research and curiousity.
+[Here](https://github.com/nikitavoloboev/my-notes-mindmaps/tree/master/web) are some websites that I really like and often frequent to supplement my research and curiousity.
 
 I also love to collect and curate images with [Pixave](http://www.littlehj.com). You can view them [here](https://github.com/nikitavoloboev/my-notes-mindmaps/tree/master/images#here-are-all-of-the-albums-and-images-that-i-have-collected-over-the-years).
 
