@@ -1,1 +1,1 @@
-Will proabbly deprecate it in the future in favour of mind maps.
+Will probably deprecate it in the future in favour of mind maps.
