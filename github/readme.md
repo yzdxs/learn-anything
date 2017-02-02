@@ -2,7 +2,7 @@
 
 ![](http://i.imgur.com/KVmSztX.png)
 
-#markdown index
+#mindmap index
 # [awesome courses](https://github.com/prakhar1989/awesome-courses)
 
 
