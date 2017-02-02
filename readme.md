@@ -15,7 +15,7 @@ I also love to collect and curate images with [Pixave](http://www.littlehj.com).
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
 
-##mindmap index
+#mindmap index
 # **aircraft**
 
 
