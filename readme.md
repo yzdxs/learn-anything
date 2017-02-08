@@ -2,7 +2,7 @@
 #[it's about sharing knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/ZvEeJuS.jpg)
+![](http://i.imgur.com/3KMWYrL.jpg)
 
 [I love mind mapping my knowledge](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) as it is incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn.
  
