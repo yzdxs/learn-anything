@@ -2,7 +2,7 @@
 #[it's about sharing knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/3KMWYrL.jpg)
+![](http://i.imgur.com/I6CmEK4.jpg)
 
 [I love mind mapping my knowledge](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) as it is incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn.
  
@@ -77,7 +77,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## encryption
 
 
-# **virtual machines**
+# [**virtual machines**](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
 
 
 # **raspberry pi**
@@ -221,7 +221,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ### combinatorics
 
-## logic
+## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
 
 ## category theory
 
@@ -249,10 +249,10 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## microcontrollers
 
 
-# **reverse engineering**
-
-
 # **hugo**
+
+
+# **reverse engineering**
 
 
 # [**virtual reality**](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
@@ -261,12 +261,14 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## oculus
 
 
-# **programming languages**
+# [**programming languages**](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
 
 
 ## c
 
 ## c ++
+
+## c#
 
 ## objc
 
@@ -302,29 +304,17 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ## php
 
+## perl
+
 ## assembly
 
 ## lisp
 
+### racket
+
 ## [appescript](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
 
 ## ocaml
-
-
-# **computer science**
-
-
-## computation
-
-## [hashing](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-## [complexity theory](https://my.mindnode.com/rQzVzokYLnzir6vN5nwAZcwo5S39rsREbgZWxdjo)
-
-## compression
-
-## concurrency
-
-## parallel computing
 
 
 # **programs**
@@ -348,14 +338,36 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ### [karabiner](https://my.mindnode.com/VvyDG2X6u54FMSC5EExRGzozqyHqUG5gVM45QP9p)
 
-### alfred
+### [alfred](https://my.mindnode.com/Zqykr8ousaj7ZFRihhb48F1FynqX89wj9YK731mq)
 
 - [workflows](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
 
 ### km
 
 
+# **computer science**
+
+
+## computation
+
+## [hashing](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+## [complexity theory](https://my.mindnode.com/rQzVzokYLnzir6vN5nwAZcwo5S39rsREbgZWxdjo)
+
+## compression
+
+## concurrency
+
+## parallel computing
+
+
 # **gamedev**
+
+
+# **keyboard**
+
+
+## layouts
 
 
 # [**computer graphics**](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
@@ -391,12 +403,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # **quantum computing**
 
 
-# **keyboard**
-
-
-## layouts
-
-
 # **games**
 
 
@@ -412,6 +418,9 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 
 # **signal processing**
+
+
+# **unix**
 
 
 # **quantum physics**
@@ -449,15 +458,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # **culture**
 
 
-# **unix**
-
-
-# **video**
-
-
-## film
-
-
 # [**databases**](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
 
@@ -466,7 +466,12 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## database design
 
 
-# **git**
+# version control
+
+
+## git
+
+## mercurial
 
 
 # [**physics**](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -520,9 +525,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## ethereum
 
 
-# [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
-
-
 # **websites**
 
 
@@ -533,6 +535,9 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## [reddit](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
 
 
+# [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
+
+
 # **humans**
 
 
@@ -541,6 +546,15 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## [remarkable humans](https://my.mindnode.com/dxrzSV5JyezYLzaTqqCRmJZxpozrwWxYKhsdy2Ts)
 
 ## [richest humans](https://my.mindnode.com/z3WKnkjPer1qKGRYgKT8Gp2KdWtxeSPpfPFPkiua)
+
+
+# [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
+
+
+# **productivity**
+
+
+# **3d printing**
 
 
 # **shells**
@@ -557,28 +571,21 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## dotfiles
 
 
-# [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
-
-
-# **productivity**
+# [movies](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
 
 # **licensing**
 
 
+# series
+
+
 # **sound**
 
-
-## music
-
-### guitar
 
 ## audio
 
 ## speech
-
-
-# **3d printing**
 
 
 # [**neuroscience**](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
@@ -615,9 +622,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # **art**
 
 
-## movies
-
-
 # **pattern recognition**
 
 
@@ -647,9 +651,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 
 # **creativity**
-
-
-# [**interview prep**](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 
 # **feelings**
@@ -702,6 +703,10 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ### spelling
 
+## japanese
+
+## chinese
+
 
 # [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
 
@@ -739,14 +744,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## bioinformatics
 
 
-# **problems**
-
-
-## [solutions](https://my.mindnode.com/UWt29ELHCYyhEL68smUyMZ3UWFg3cwkyXZZAngpE#-443.4,-1587.5,2)
-
-## problem solving
-
-
 # **globalisation**
 
 
@@ -754,6 +751,20 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 
 # **linguistics**
+
+
+# **problems**
+
+
+## solutions
+
+### [leetcode](https://my.mindnode.com/KwNmFjuicFJY66AeKBEA2qs8sZsGL1uvaMq4seep)
+
+### hackerrank
+
+## problem solving
+
+## open problems
 
 
 # [**consciousness**](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
@@ -786,18 +797,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ### china
 
 
-# **economics**
-
-
-## microeconomics
-
-## macroeconomics
-
-## capitalism
-
-## investing
-
-## pricing
+# [**interview prep**](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 
 # **medicine**
@@ -845,7 +845,23 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## strength training
 
 
-# **travelling**
+# **economics**
+
+
+## microeconomics
+
+## macroeconomics
+
+## basic income
+
+## capitalism
+
+## investing
+
+## pricing
+
+
+# [live talks](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
 # **design**
@@ -866,15 +882,10 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # [talks](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 
+# **travelling**
+
+
 # **plants**
-
-
-# **business**
-
-
-## startups
-
-## real estate
 
 
 # **advice**
@@ -891,6 +902,8 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ### dom
 
 ### safari
+
+- extensions
 
 ### firefox
 
@@ -910,7 +923,7 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
 
 
-# [live talks](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
+# [documentaries](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
 
 
 # [**health**](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
@@ -925,6 +938,14 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## fasting
 
 ## immune system
+
+
+# **business**
+
+
+## startups
+
+## real estate
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
@@ -954,12 +975,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # teaching
 
 
-# **education**
-
-
-## universities
-
-
 # **companies**
 
 
@@ -969,25 +984,31 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ### Apple
 
-- MacBook
+- macbook
 
-- iPhone
+- iphone
 
 ### SpaceX
 
 ### Google
 
-- Search
+- [search](https://my.mindnode.com/f8kVtmise9Q9TicGf6Pcudge2GCfhGNpqK1GGZZs)
 
 ### DeepMind
 
-- AlphaGo
+- alpha go
 
 ### Amazon
 
-- AWS
+- aws
 
 ### Facebook
+
+
+# **education**
+
+
+## universities
 
 
 # **space**
@@ -1024,27 +1045,6 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 # **literature**
 
 
-# **serverless architecture**
-
-
-# **front end** 
-
-
-## react
-
-### fiber
-
-## webpack
-
-
-# **writing**
-
-
-## poetry
-
-## prose
-
-
 # **distributed computing**
 
 
@@ -1063,16 +1063,49 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ### [CIS 194](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
 
 
+# **serverless architecture**
+
+
+# **front end** 
+
+
+## react
+
+### fiber
+
+## webpack
+
+
+# [podcasts](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
+
+
 # **search engines**
 
 
 ## optimisation
 
 
+# **writing**
+
+
+## poetry
+
+## prose
+
+
+# [videos](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
+
+
 # **earth**
 
 
 ## oceans
+
+
+# **desktop applications**
+
+
+## react native
 
 
 # [**quotes**](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
@@ -1086,6 +1119,14 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## django
 
 
+# music creation
+
+
+## guitar
+
+## [sonic pi](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
+
+
 # **data mining**
 
 
@@ -1094,10 +1135,22 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 ## information retrieval
 
 
-# **desktop applications**
+# music
 
 
-## react native
+## [interesting artists](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
+
+## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
+
+
+# images
+
+
+## art
+
+### [psychedelic](https://my.mindnode.com/Z3eD6zLha5i67nd8PqBiNuVyDQp1sweipHftxThT)
+
+### [heavymind](https://my.mindnode.com/kNZAyKstDCAk8WqFARk3w8z1fqTywkDvGEasn4qC)
 
 
 # **books**
@@ -1105,11 +1158,31 @@ I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](ht
 
 ## programming 
 
-### [data structures and algorithms in python](https://my.mindnode.com/eESybqxSFzZrxtVFUYvmkMMQGC7s6qqHr1j5qwMh)
+### [data structures and algorithms in python](https://my.mindnode.com/w1m9U8sjiuyBpvwpACExp6p7gcqHYjNz7NsxkqUE)
 
-### [web app with go - anti text book](https://my.mindnode.com/bnz7DkV8725gYrZ9ewKZfGvmSZJhfJjec6zT18bu)
+### [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
+
+### code - hidden language of computer hardware and software
+
+### dive into python 3
 
 ## ai
 
 ### [introduction to artificial intelligence](https://my.mindnode.com/TYXYAZ4MaCsrGqbMZsaWqtopx6ZCWqr6w9QnDb6w)
+
+## cs
+
+### the annotated turing
+
+## fiction
+
+### [brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
+
+### [godel, escher, bach](https://my.mindnode.com/SKWBeinTesSXaXSMJ4h8DpEamjQWUcpvZAgsuMgp)
+
+
+# comedy
+
+
+## standups
 
