@@ -22,7 +22,7 @@ There are just few things that you have to know to navigate this map.
 	- CHECK: - check this, perhaps it is not true
 
 - arrows can either serve as **dependency arrows** 
-	- you probably need to understand this first to get understand this node
+	- you probably need to understand this first to understand this node
 - or as **direction arrows** 
 	- usually used in book annotations
 	- brings direction to information so everything flows from on node to the next
