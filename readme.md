@@ -50,6 +50,8 @@ There are just few things that you have to know to navigate this map.
 
 ![](http://i.imgur.com/flYn9gU.png)
 
+- I also add ❌ to mark certain videos or articles as unfinished 
+
 - and the final thing that I do is that I abbreviate some nodes as they get repeated often
 
 ![](http://i.imgur.com/xUIg7HM.png)
