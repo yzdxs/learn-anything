@@ -8,7 +8,7 @@
 ##MindMap Key
 There are just few things that you have to know to navigate this map. 
 
-- **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet)
+- **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet) (click on them)
 - I use my own system to stay on top of it all
 	- so you may see nodes like this
  
