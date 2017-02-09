@@ -22,7 +22,7 @@ There are just few things that you have to know to navigate this map.
 	- CHECK: - check this, perhaps it is not true
 
 - arrows can either serve as **dependency arrows** 
-	- you probably need to understand this first to get this node
+	- you probably need to understand this first to get understand this node
 - or as **direction arrows** 
 	- usually used in book annotations
 	- brings direction to information so everything flows from on node to the next
@@ -40,7 +40,7 @@ There are just few things that you have to know to navigate this map.
 ![](http://i.imgur.com/kpI5qTy.png)
 
 - this usually means I like this topic or idea or video
-	- or in the case I use these applications and like them over ones that don't have ✨
+	- or in the case above, I use these applications and like them over ones that don't have ✨
 
 - I also add on ✔ to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
 	- I use Anki and [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to transfer knowledge from this mind map to my memory
@@ -48,11 +48,24 @@ There are just few things that you have to know to navigate this map.
 	- in the image below for example I have succesfully put word sonder into Anki for learning
 
 ![](http://i.imgur.com/flYn9gU.png)
+
+- and the final thing that I do is that I abbreviate some nodes as they get repeated often
+
+![](http://i.imgur.com/xUIg7HM.png)
+
+- in the image above for example algo stands for algorithm, img = images, prop = properties, and res = resources
+- here is a full list of abbreviations you might encounter sorted by popularity 
+	- res = resources (I add various links and resources related to the node)
+	- desc = description (quick description of what the node means)
+	- algo = algorithm (if the node is an algorithm, it will state it in steps)
+	- img = images (various images I found to supplement my understanding)
+	- perf = performance (data structures and algorithms may be given their [big O complexity](http://bigocheatsheet.com/))
+	- ops = operations (for algorithms, data structures, state what operations they can do)
  
 - and that I think is about all you need to know to succesfully navigate my mind map
 	- its constantly growing and evolving as I try and make sense of what amazing things this reality has to offer
-	- I hope you get something interesting from it and learn something or perhaps be exposed to some idea you never were exposed to before
-- another thing I do is update the index of this mind map. I attach it [below](https://github.com/nikitavoloboev/research#mindmap-index)
+	- I hope you get something interesting from it and learn something or perhaps you will be exposed to some new idea you never were exposed to before
+- another thing I do is update the index of this mind map. I attach it [below](https://github.com/nikitavoloboev/research#mindmap-index).
 	- you can always come to this repository and just search for what topic you are interested in directly from here
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
 
