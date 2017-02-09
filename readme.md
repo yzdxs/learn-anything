@@ -45,7 +45,6 @@ There are just few things that you have to know to navigate this map.
 
 - I also add on ✔ to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
 	- I use Anki and [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to transfer knowledge from this mind map to my memory
-	- nodes that I have succesfull put into Anki are marked with a ✔
 	- in the image below for example I have succesfully put word sonder into Anki for learning
 
 ![](http://i.imgur.com/flYn9gU.png)
