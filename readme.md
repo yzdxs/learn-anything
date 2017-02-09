@@ -20,6 +20,7 @@ There are just few things that you have to know to navigate this map.
 	- FOCUS: - what I need to focus on
 	- RESEARCH: - need to research this more
 	- CHECK: - check this, perhaps it is not true
+	- WATCH: - watch this
 
 - arrows can either serve as **dependency arrows** 
 	- you probably need to understand this first to understand this node
