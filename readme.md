@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/I6CmEK4.jpg)
+![](http://i.imgur.com/QgMlC6w.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is.](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge.
 
@@ -94,9 +94,6 @@ Learn something new. 🎊
 # **optimisation**
 
 
-# [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
-
-
 # **hacking**
 
 
@@ -104,6 +101,9 @@ Learn something new. 🎊
 
 
 ## image recognition
+
+
+# [data structures](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 
 # **system design**
@@ -143,28 +143,28 @@ Learn something new. 🎊
 ## encryption
 
 
+# **robotics**
+
+
+# **cellular automata**
+
+
 # [**virtual machines**](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
 
 
 # **raspberry pi**
 
 
-# **robotics**
-
-
 # [**artificial intelligence**](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
 
-## [machine learning](https://my.mindnode.com/sGfQ6GAkCb2sbCeSKCkXyLLsBmVy6hhN5GYFG1QP)
+## [machine learning](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
 ### tensorflow
 
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
 ### numpy
-
-
-# **cellular automata**
 
 
 # [**emulation**](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx#477.8,-480.0,2)
@@ -194,6 +194,9 @@ Learn something new. 🎊
 
 
 # **regular expressions**
+
+
+# **hugo**
 
 
 # [**programming**](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
@@ -226,40 +229,6 @@ Learn something new. 🎊
 ## linters
 
 ## evaluation
-
-
-# [**kernel**](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
-
-
-## linux
-
-### distros
-
-- debian
-
-	- ubuntu
-
-- gentoo
-
-	- funtoo
-
-- nixos
-
-- arch
-
-	- manjaro
-
-	- antergos
-
-- fedora
-
-- solus
-
-- opensuse
-
-- elementary os
-
-- coreos
 
 
 # [**math**](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -306,16 +275,47 @@ Learn something new. 🎊
 ## lambda calculus
 
 
-# build systems
-
-
 # **embedded systems**
 
 
 ## microcontrollers
 
 
-# **hugo**
+# build systems
+
+
+# [**kernel**](https://my.mindnode.com/seT1fnsza7kbPqFxSaXymT1ptXwspcCp2Co1t6bW#-16.0,-9.4,2)
+
+
+## linux
+
+### distros
+
+- debian
+
+	- ubuntu
+
+- gentoo
+
+	- funtoo
+
+- nixos
+
+- arch
+
+	- manjaro
+
+	- antergos
+
+- fedora
+
+- solus
+
+- opensuse
+
+- elementary os
+
+- coreos
 
 
 # **reverse engineering**
@@ -362,6 +362,8 @@ Learn something new. 🎊
 
 ## swift
 
+### vapor
+
 ## rust
 
 ## ruby
@@ -381,6 +383,22 @@ Learn something new. 🎊
 ## [appescript](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
 
 ## ocaml
+
+
+# **computer science**
+
+
+## computation
+
+## [hashing](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+## [complexity theory](https://my.mindnode.com/rQzVzokYLnzir6vN5nwAZcwo5S39rsREbgZWxdjo)
+
+## compression
+
+## concurrency
+
+## parallel computing
 
 
 # **programs**
@@ -410,21 +428,7 @@ Learn something new. 🎊
 
 ### km
 
-
-# **computer science**
-
-
-## computation
-
-## [hashing](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-## [complexity theory](https://my.mindnode.com/rQzVzokYLnzir6vN5nwAZcwo5S39rsREbgZWxdjo)
-
-## compression
-
-## concurrency
-
-## parallel computing
+- macros
 
 
 # **gamedev**
@@ -467,20 +471,6 @@ Learn something new. 🎊
 
 
 # **quantum computing**
-
-
-# **games**
-
-
-## chess
-
-## go
-
-## poker
-
-## contract bridge
-
-## minecraft
 
 
 # **signal processing**
@@ -538,6 +528,22 @@ Learn something new. 🎊
 ## git
 
 ## mercurial
+
+
+# **games**
+
+
+## chess
+
+## go
+
+## poker
+
+## contract bridge
+
+## minecraft
+
+## [counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
 
 
 # [**physics**](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -999,7 +1005,7 @@ Learn something new. 🎊
 
 ### drinks
 
-### food
+### [food](https://my.mindnode.com/v6WsinUUoZ5zVxF1L26yV939KC8nzEPsVZ8qrShV)
 
 ## fasting
 
@@ -1084,7 +1090,7 @@ Learn something new. 🎊
 
 ## stars
 
-### sun
+### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
 
 ## galaxies
 
@@ -1096,9 +1102,6 @@ Learn something new. 🎊
 # **server**
 
 
-# **communication**
-
-
 # articles
 
 
@@ -1106,6 +1109,12 @@ Learn something new. 🎊
 
 
 ## node.js
+
+
+# **communication**
+
+
+## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 
 # **literature**
@@ -1162,16 +1171,16 @@ Learn something new. 🎊
 # [videos](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
 
 
-# **earth**
-
-
-## oceans
-
-
 # **desktop applications**
 
 
 ## react native
+
+
+# **earth**
+
+
+## oceans
 
 
 # [**quotes**](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
@@ -1201,22 +1210,12 @@ Learn something new. 🎊
 ## information retrieval
 
 
-# music
+# javascript tooling
 
 
-## [interesting artists](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
+## npm
 
-## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
-
-
-# images
-
-
-## art
-
-### [psychedelic](https://my.mindnode.com/Z3eD6zLha5i67nd8PqBiNuVyDQp1sweipHftxThT)
-
-### [heavymind](https://my.mindnode.com/kNZAyKstDCAk8WqFARk3w8z1fqTywkDvGEasn4qC)
+## browserify
 
 
 # **books**
@@ -1240,11 +1239,35 @@ Learn something new. 🎊
 
 ### the annotated turing
 
+## bio
+
+### surely you’re joking mr. feynman
+
 ## fiction
 
 ### [brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
 
 ### [godel, escher, bach](https://my.mindnode.com/SKWBeinTesSXaXSMJ4h8DpEamjQWUcpvZAgsuMgp)
+
+
+# music
+
+
+## [interesting artists](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
+
+## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
+
+
+# images
+
+
+## art
+
+### [psychedelic](https://my.mindnode.com/Z3eD6zLha5i67nd8PqBiNuVyDQp1sweipHftxThT)
+
+### [heavymind](https://my.mindnode.com/kNZAyKstDCAk8WqFARk3w8z1fqTywkDvGEasn4qC)
+
+## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
 
 
 # comedy
