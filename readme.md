@@ -1,15 +1,68 @@
-#GitHub is not all about code
-#[it's about sharing knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
-####(p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
+#[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
+####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
 ![](http://i.imgur.com/I6CmEK4.jpg)
 
-[I love mind mapping my knowledge](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) as it is incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn.
+[Here is an article I wrote on why I made this and what the future of this project is.](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge.
+
+##MindMap Key
+There are just few things that you have to know to navigate this map. 
+
+- **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet)
+- I use my own system to stay on top of it all
+	- so you may see nodes like this
+ 
+![](http://i.imgur.com/pXG1Ayu.png)
+
+- which means I need to do research on this topic (in this case, the topic being functional analysis)
+- here is a list of all of the other similar constructs that I use and their meaning
+	- TODO: - what I need to do
+	- FOCUS: - what I need to focus on
+	- RESEARCH: - need to research this more
+	- CHECK: - check this, perhaps it is not true
+
+- arrows can either serve as **dependency arrows** 
+	- you probably need to understand this first to get this node
+- or as **direction arrows** 
+	- usually used in book annotations
+	- brings direction to information so everything flows from on node to the next
+- or as **relation arrows**
+	- as evident in the main mind map, image you see above
+	- these just show the relation of a topic / idea to some other topic / idea
+
+![](http://i.imgur.com/mF5jELp.png)
+
+- so for example in the above image, data structures and optimisation are **related** to algorithms
+	- in a sense you can also treat them as **dependency arrows**
+
+- I also add ✨ to some nodes as evident here : 
+
+![](http://i.imgur.com/kpI5qTy.png)
+
+- this usually means I like this topic or idea or video
+	- or in the case I use these applications and like them over ones that don't have ✨
+
+- I also add on ✔ to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
+	- I use Anki and [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to transfer knowledge from this mind map to my memory
+	- nodes that I have succesfull put into Anki are marked with a ✔
+	- in the image below for example I have succesfully put word sonder into Anki for learning
+
+![](http://i.imgur.com/flYn9gU.png)
+ 
+- and that I think is about all you need to know to succesfully navigate my mind map
+	- its constantly growing and evolving as I try and make sense of what amazing things this reality has to offer
+	- I hope you get something interesting from it and learn something or perhaps be exposed to some idea you never were exposed to before
+- another thing I do is update the index of this mind map. I attach it [below](https://github.com/nikitavoloboev/research#mindmap-index)
+	- you can always come to this repository and just search for what topic you are interested in directly from here
+		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
+
+##Other folders in this repository
  
 [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity.
 
 I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
 
+Learn something new. 🎊
 
 #mindmap index
 
