@@ -51,8 +51,10 @@ There are just few things that you have to know to navigate this map.
 ![](http://i.imgur.com/flYn9gU.png)
 
 - I also add ❌ to mark certain videos or articles as unfinished
+- and mark ⭐ as memorable nodes 
+	- usually when annotating books
 - and 🔎 represent figures
-	- usually used when annotating books
+	- again usually used when annotating books
 	- like in the example below
 ![](http://i.imgur.com/AuNB2NC.png)
 
