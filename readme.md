@@ -22,6 +22,7 @@ There are just few things that you have to know to navigate this map.
 	- CHECK: - check this, perhaps it is not true
 	- READ: - read this
 	- WATCH: - watch this
+	- FINISH: - finish it
 
 - arrows can either serve as **dependency arrows** 
 	- you probably need to understand this first to understand this node
