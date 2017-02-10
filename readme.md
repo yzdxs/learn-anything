@@ -70,6 +70,7 @@ There are just few things that you have to know to navigate this map.
 	- img = images (various images I found to supplement my understanding)
 	- perf = performance (data structures and algorithms may be given their [big O complexity](http://bigocheatsheet.com/))
 	- ops = operations (for algorithms, data structures, state what operations they can do)
+	- ch = chapter (mostly used in book annotations)
  
 - and that I think is about all you need to know to succesfully navigate my mind map
 	- its constantly growing and evolving as I try and make sense of what amazing things this reality has to offer
