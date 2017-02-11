@@ -10,7 +10,7 @@ With these rules I can effectively transfer the entirety of the mind map into my
 
 As with the original idea of this repository. I want to share all the knowledge that I have in a clear and discoverable way. We live in the world where all the knowledge of the world is available at our finger tips. You just have to know where to find it. I try to present the world view and all its connections as I see it. Take what I know and do your own research. Come to your own conclusions.
 
-In these folder I will release all the decks that I have created to process this mind map into my long term memory. Here is how my Anki looks currently :
+In this folder I will release all the decks that I have created to process this mind map into my long term memory. Here is how my Anki looks currently :
 
 ![](http://i.imgur.com/0t56lqb.png)
 
