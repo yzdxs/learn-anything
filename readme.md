@@ -56,7 +56,7 @@ There are just few things that you have to know to navigate this map.
 	- ✨ is same as ✔ in that I read / watched it but also liked it
 - and mark ⭐ as memorable nodes 
 	- usually when annotating books
-- and 🔎 represent figures
+- I also use 🔎 to represent figures
 	- again usually used when annotating books
 	- like in the example below
 ![](http://i.imgur.com/AuNB2NC.png)
