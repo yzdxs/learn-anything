@@ -45,13 +45,15 @@ There are just few things that you have to know to navigate this map.
 - this usually means I like this topic or idea or video
 	- or in the case above, I use these applications and like them over ones that don't have ✨
 
-- I also add on ✔ to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
+- I also add on 🔰 to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
 	- I use Anki and [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to transfer knowledge from this mind map to my memory
 	- in the image below for example I have succesfully put word sonder into Anki for learning
 
-![](http://i.imgur.com/flYn9gU.png)
+![](http://i.imgur.com/nQyHaSb.png)
 
 - I also add ❌ to mark certain videos or articles as unfinished
+	- and  ✔ to mark article / video as watched or read
+	- ✨ is same as ✔ in that I read / watched it but also liked it
 - and mark ⭐ as memorable nodes 
 	- usually when annotating books
 - and 🔎 represent figures
