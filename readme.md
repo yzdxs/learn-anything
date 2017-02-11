@@ -77,7 +77,8 @@ There are just few things that you have to know to navigate this map.
  
 - and that I think is about all you need to know to succesfully navigate my mind map
 	- its constantly growing and evolving as I try and make sense of what amazing things this reality has to offer
-	- I hope you get something interesting from it and learn something or perhaps you will be exposed to some new idea you never were exposed to before
+	- I hope you get something interesting from it and learn something new
+		-  or perhaps you will get exposed to some new idea you never were exposed to before
 - another thing I do is update the index of this mind map. I attach it [below](https://github.com/nikitavoloboev/research#mindmap-index).
 	- you can always come to this repository and just search for what topic you are interested in directly from here
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
