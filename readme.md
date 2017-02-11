@@ -47,7 +47,7 @@ There are just few things that you have to know to navigate this map.
 	- in the main mind map above I use ✨ to indicate topics in which I am interested or have substantional information on
 
 - I also add on 🔰 to nodes that I have sucessfully transferred to [Anki](https://apps.ankiweb.net/)
-	- I use Anki and [spaced repetition learning](http://www.wikiwand.com/en/Spaced_repetition) to transfer knowledge from this mind map to my memory
+	- [I use Anki and spaced repetition learning to transfer knowledge from this mind map to my memory](https://github.com/nikitavoloboev/research/tree/master/anki)
 	- in the image below for example I have succesfully put word sonder into Anki for learning
 
 ![](http://i.imgur.com/nQyHaSb.png)
