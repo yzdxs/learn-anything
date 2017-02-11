@@ -8,7 +8,7 @@ As time passes, it becomes unfeasible to really understand and process what is g
 
 With these rules I can effectively transfer the entirety of the mind map into my memory for processing. The goal isn't really to memorise the topics. It is to be exposed to them enough times so that I can remember these topics well enough and have a stronger base from which I can pull myself to make new connections and discoveries.
 
-As with the original idea of this repository. I want to share all the knowledge that I have in a clear and discoverable way. We live in the world where all the knowledge of the world is available at our finger tips. You just have to know where to find it. I try to present the world view and all its connections as I see it. Take what I know and do your own research. Come to your conclusions.
+As with the original idea of this repository. I want to share all the knowledge that I have in a clear and discoverable way. We live in the world where all the knowledge of the world is available at our finger tips. You just have to know where to find it. I try to present the world view and all its connections as I see it. Take what I know and do your own research. Come to your own conclusions.
 
 In these folder I will release all the decks that I have created to process this mind map into my long term memory. Here is how my Anki looks currently :
 
