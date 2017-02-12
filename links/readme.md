@@ -2,7 +2,8 @@
 
 ![](http://i.imgur.com/qwUCSdJ.png)
 
-#mindmap index
+#mindmap index 🗄️
+
 # education
 
 ## [Khan Academy](http://www.khanacademy.org/)

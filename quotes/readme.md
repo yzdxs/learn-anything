@@ -3,7 +3,7 @@
 ![](http://i.imgur.com/SX9YqKh.jpg)
 
 
-#mindmap index
+#mindmap index 🗄️
 
 # artificial intelligence
 
