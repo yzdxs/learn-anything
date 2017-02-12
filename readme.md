@@ -85,7 +85,7 @@ There are just few things that you have to know to navigate this map.
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
 
 ##Personal Articles
-[I also love writing](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+[I also love writing](https://github.com/nikitavoloboev/research/tree/master/articles#articles-i-have-written-). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
 ##Other folders in this repository
  
@@ -94,10 +94,9 @@ I am still thinking how I will try to structure this project well. I want the co
 Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
 
 - [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity.
+- [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 - [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
 	- I try to keep them up-to-date and share only what might be interesting to other people
-- [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
-
 
 
 Learn something new. 🎊
