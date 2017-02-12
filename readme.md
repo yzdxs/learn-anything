@@ -85,7 +85,7 @@ There are just few things that you have to know to navigate this map.
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
 
 ##Personal Articles
-[I also love writing articles](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+[I also love writing](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
 ##Other folders in this repository
  
