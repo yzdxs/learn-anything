@@ -7,7 +7,7 @@
 
 And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
-##MindMap Key
+##MindMap Key 🗺️
 There are just few things that you have to know to navigate this map. 
 
 - **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet) (click on them)
@@ -84,10 +84,10 @@ There are just few things that you have to know to navigate this map.
 	- you can always come to this repository and just search for what topic you are interested in directly from here
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
 
-##Personal Articles
+##Personal Articles 📖
 [I also love writing](https://github.com/nikitavoloboev/research/tree/master/articles#articles-i-have-written-). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-##Other folders in this repository
+##Other folders in this repository 📁
  
 I am still thinking how I will try to structure this project well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and perhaps one day everything will be exported in this way so there are two options to view the content and also get the benefit of search engine indexing. 
 
@@ -99,13 +99,13 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 - [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
 	- I try to keep them up-to-date and share only what might be interesting to other people
 
-##Conributing  
+##Contributing 🎉  
 It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and often don't cite sources. These are just my notes and observations. They can be wrong.
 
 
 Learn something new. 🎊
 
-#mindmap index
+#mindmap index 🗄️
 
 # **cars**
 
