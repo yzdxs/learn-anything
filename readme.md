@@ -93,7 +93,7 @@ I am still thinking how I will try to structure this project well. I want the co
 
 Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
 
--[Here](https://github.com/nikitavoloboev/research/tree/master/my-github#my-github-world-) are all the GitHub repositores that I have publically shared and their descriptions
+- [Here](htstps://github.com/nikitavoloboev/research/tree/master/my-github#my-github-world-) are all the GitHub repositores that I have publically shared and their descriptions
 - [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity
 - [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 - [Here](https://github.com/nikitavoloboev/research/tree/master/github#interesting-github-repositories) are some GitHub repositiores that I found interesting
