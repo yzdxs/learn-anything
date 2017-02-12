@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/j7kfeqt.jpg)
+![](http://i.imgur.com/4zEvM9r.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is.](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory.](https://github.com/nikitavoloboev/research/tree/master/anki)
 
@@ -55,8 +55,6 @@ There are just few things that you have to know to navigate this map.
 - I also add ❌ to mark certain videos or articles as unfinished
 	- and  ✔ to mark article / video as watched or read
 	- ✨ is same as ✔ in that I read / watched it but also liked it
-- and mark ⭐ as memorable nodes 
-	- usually when annotating books
 - I also use 🔎 to represent figures
 	- again usually used when annotating books
 	- like in the example below
@@ -124,16 +122,16 @@ Learn something new. 🎊
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 
+# **system design**
+
+
+## [software architecture](https://my.mindnode.com/dCGPsRx5okxjPJByJqDC6Kfbz3J9PpqeR55xmRvj)
+
+
 # **security**
 
 
 ## encryption
-
-
-# **system design**
-
-
-## software architecture
 
 
 # [**algorithms** ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -513,7 +511,7 @@ Learn something new. 🎊
 
 ## mySQL
 
-## [cassandra](https://academy.datastax.com/)
+## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
 
 ## database design
 
@@ -716,6 +714,10 @@ Learn something new. 🎊
 
 ## depression
 
+## [neurotransmitters](https://my.mindnode.com/qcoqRoDpkRevTy2cZ86PRhtA5sqcpcyGVKbp2Kdp)
+
+### serotonin
+
 
 # [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
@@ -750,6 +752,16 @@ Learn something new. 🎊
 # **architecture**
 
 
+# **philosophy**
+
+
+## metaphysics
+
+### free will
+
+## epistemology
+
+
 # **life**
 
 
@@ -777,30 +789,7 @@ Learn something new. 🎊
 ## nuclear
 
 
-# **philosophy**
-
-
-## metaphysics
-
-### free will
-
-## epistemology
-
-
-# **history**
-
-
-## ancient cities
-
-## cold war
-
-## ww2
-
-## ww1
-
-## russian revolution
-
-## brexit
+# **ethics**
 
 
 # **languages**
@@ -817,20 +806,6 @@ Learn something new. 🎊
 ## japanese
 
 ## chinese
-
-
-# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
-
-
-## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
-
-## stimulants
-
-## nootropics
-
-## antibiotics
-
-## steroids
 
 
 # **globalisation**
@@ -861,7 +836,7 @@ Learn something new. 🎊
 # **linguistics**
 
 
-# **ethics**
+# [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 
 # **problems**
@@ -876,6 +851,37 @@ Learn something new. 🎊
 ## problem solving
 
 
+# [**interview prep** ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
+
+
+# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+
+## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
+
+### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
+
+### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
+
+### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
+
+## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
+
+## stimulants
+
+## nootropics
+
+## antibiotics
+
+## steroids
+
+
+# **internet of things**
+
+
+# **medicine**
+
+
 # [**consciousness** ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 
@@ -884,35 +890,6 @@ Learn something new. 🎊
 ## ego
 
 ## awareness
-
-
-# **countries**
-
-
-## europe
-
-### uk
-
-### germany
-
-## north america
-
-### usa
-
-## asia
-
-### russia
-
-### china
-
-
-# [**interview prep** ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
-
-
-# **internet of things**
-
-
-# **medicine**
 
 
 # [**networking**](https://my.mindnode.com/Qz34KfpyV2j7b5N9iRWDDUCPtn3zwErFpwfE6QqJ)
@@ -933,7 +910,20 @@ Learn something new. 🎊
 ## tuberculosis
 
 
+# humans
+
+
+## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
+
+### limbic system
+
+## body
+
+
 # growth hacking
+
+
+# [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 
 # **design**
@@ -946,19 +936,6 @@ Learn something new. 🎊
 ## material design
 
 ## typography
-
-
-# [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
-
-
-# humans
-
-
-## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
-
-### limbic system
-
-## body
 
 
 # **fitness**
@@ -994,9 +971,6 @@ Learn something new. 🎊
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
-# **travelling**
-
-
 # **plants**
 
 
@@ -1009,7 +983,15 @@ Learn something new. 🎊
 # **animals**
 
 
-## [dolphins](https://my.mindnode.com/sFLpJQXPpfHwiY1jQRKMiUBpAuy4sPgXT7gPJbsQ)
+## [mammals](https://my.mindnode.com/YV5kQSx4tpPP6mPDCKNMZTuDyr4sC3bC3Ki1yq18)
+
+## fish
+
+## amphibians
+
+## reptiles
+
+## birds
 
 
 # [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
@@ -1031,6 +1013,18 @@ Learn something new. 🎊
 ### chrome
 
 
+# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
+
+
+# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+
+
+# **travelling**
+
+
+# **fungus**
+
+
 # [**health**](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
 
 
@@ -1043,23 +1037,6 @@ Learn something new. 🎊
 ## fasting
 
 ## immune system
-
-
-# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
-
-
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
-
-
-# **fungus**
-
-
-# **business**
-
-
-## startups
-
-## real estate
 
 
 # **protocols**
@@ -1081,6 +1058,32 @@ Learn something new. 🎊
 
 
 # teaching
+
+
+# **education**
+
+
+## universities
+
+
+# **countries**
+
+
+## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
+
+### uk
+
+### germany
+
+## north america
+
+### usa
+
+## asia
+
+### russia
+
+### china
 
 
 # **companies**
@@ -1113,10 +1116,7 @@ Learn something new. 🎊
 ### Facebook
 
 
-# **education**
-
-
-## universities
+# **server**
 
 
 # **space**
@@ -1135,10 +1135,7 @@ Learn something new. 🎊
 - solar system
 
 
-# **server**
-
-
-# [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
+# [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
 
 
 # **backend**
@@ -1153,10 +1150,15 @@ Learn something new. 🎊
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 
-# [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
+# **business**
 
 
-# [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
+## startups
+
+## real estate
+
+
+# [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
 
 
 # **serverless architecture**
@@ -1165,10 +1167,16 @@ Learn something new. 🎊
 # **front end** 
 
 
+# [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
+
+
 # comedy
 
 
 ## standups
+
+
+# [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
 
 
 # courses
@@ -1232,6 +1240,28 @@ Learn something new. 🎊
 ## guitar
 
 ## [sonic pi ✨](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
+
+
+# **history**
+
+
+## events
+
+### brexit
+
+### cold war
+
+### russian revolution
+
+## wars
+
+### ww2
+
+### ww1
+
+## interesting
+
+### ancient cities
 
 
 # **data mining**
@@ -1343,7 +1373,7 @@ Learn something new. 🎊
 
 ## bio
 
-### [surely you’re joking mr. Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
+### [surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
 
 ## fiction
 
@@ -1378,4 +1408,6 @@ Learn something new. 🎊
 
 
 ## vapor
+
+## RxSwift
 
