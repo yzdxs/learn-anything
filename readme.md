@@ -96,6 +96,7 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 - [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity.
 - [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
 	- I try to keep them up-to-date and share only what might be interesting to other people
+- [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 
 
 
