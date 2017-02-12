@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/4zEvM9r.jpg)
+![](http://i.imgur.com/Wv7jBsV.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is.](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory.](https://github.com/nikitavoloboev/research/tree/master/anki)
 
@@ -219,7 +219,7 @@ Learn something new. 🎊
 
 ### functional programming
 
-## testing
+## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
 
 ## error handling
 
@@ -898,6 +898,9 @@ Learn something new. 🎊
 ## rest
 
 
+# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
+
+
 # **diseases**
 
 
@@ -923,9 +926,6 @@ Learn something new. 🎊
 # growth hacking
 
 
-# [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
-
-
 # **design**
 
 
@@ -946,9 +946,6 @@ Learn something new. 🎊
 ## strength training
 
 
-# [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
-
-
 # **economics**
 
 
@@ -965,16 +962,16 @@ Learn something new. 🎊
 ## pricing
 
 
-# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
-
-
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+
+# [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
+
+
 # **plants**
-
-
-# **advice**
 
 
 # **decision making**
@@ -1013,10 +1010,16 @@ Learn something new. 🎊
 ### chrome
 
 
-# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
+# [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+
+
+# **education**
+
+
+## universities
 
 
 # **travelling**
@@ -1058,12 +1061,6 @@ Learn something new. 🎊
 
 
 # teaching
-
-
-# **education**
-
-
-## universities
 
 
 # **countries**
@@ -1144,6 +1141,14 @@ Learn something new. 🎊
 ## node.js
 
 
+# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+
+
+## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
+
+## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
+
+
 # **communication**
 
 
@@ -1179,6 +1184,9 @@ Learn something new. 🎊
 # [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
 
 
+# **literature**
+
+
 # courses
 
 
@@ -1191,9 +1199,6 @@ Learn something new. 🎊
 ## haskell
 
 ### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
-
-
-# **literature**
 
 
 # **search engines**
