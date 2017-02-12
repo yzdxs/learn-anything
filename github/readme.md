@@ -1,4 +1,4 @@
-#[interesting github repositories](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+#[interesting github repositories 👾](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
 
 ![](http://i.imgur.com/KVmSztX.png)
 

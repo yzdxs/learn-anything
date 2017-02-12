@@ -1,4 +1,4 @@
-#quotes
+#[quotes 📜](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
 
 ![](http://i.imgur.com/SX9YqKh.jpg)
 
