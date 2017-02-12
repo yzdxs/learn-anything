@@ -101,7 +101,7 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 	- I try to keep them up-to-date and share only what might be interesting to other people
 
 ##Contributing 🎉  
-It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and often don't cite sources. These are just my notes and observations. They can be wrong.
+It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
 
 
 Learn something new. 🎊
