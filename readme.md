@@ -3,7 +3,9 @@
 
 ![](http://i.imgur.com/Wv7jBsV.jpg)
 
-[Here is an article I wrote on why I made this and what the future of this project is.](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose) In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory.](https://github.com/nikitavoloboev/research/tree/master/anki)
+[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
+
+And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
 ##MindMap Key
 There are just few things that you have to know to navigate this map. 
