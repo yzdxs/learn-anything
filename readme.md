@@ -84,11 +84,20 @@ There are just few things that you have to know to navigate this map.
 	- you can always come to this repository and just search for what topic you are interested in directly from here
 		- so you don't need to load the big mind map above as it does unfortunately take some time to load 😞
 
+##Personal Articles
+[I also love writing articles](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+
 ##Other folders in this repository
  
-[Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity.
+I am still thinking how I will try to structure this project well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and perhaps one day everything will be exported in this way so there are two options to view the content and also get the benefit of search engine indexing. 
 
-I also write articles on [Medium](https://medium.com/@NikitaVoloboev). [Here](https://github.com/nikitavoloboev/my-notes/tree/master/articles) you can take a full look at all the articles I have written indexed by tags with small descriptions of each article.
+Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
+
+- [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity.
+- [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
+	- I try to keep them up-to-date and share only what might be interesting to other people
+
+
 
 Learn something new. 🎊
 
