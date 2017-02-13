@@ -7,7 +7,7 @@
 
 And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
-##MindMap Key 🗺️
+##MindMap Key 🔑
 There are just few things that you have to know to navigate this map. 
 
 - **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet) (click on them)
@@ -97,6 +97,7 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 - [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity
 - [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 - [Here](https://github.com/nikitavoloboev/research/tree/master/github#interesting-github-repositories) are some GitHub repositiores that I found interesting
+- [Here](https://github.com/nikitavoloboev/research/tree/master/images#images-) are all of the images that I have collected neatly sorted into Imgur albums
 - [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
 	- I try to keep them up-to-date and share only what might be interesting to other people
 

@@ -1,6 +1,6 @@
 #[images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
-Will add more images in the future neatly sorted. 
+![](http://i.imgur.com/MLQ6Amz.png)
 
 I have collected over 18,000 images over the years.
 
