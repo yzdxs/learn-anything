@@ -1,6 +1,6 @@
 #[images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
-![](http://i.imgur.com/MLQ6Amz.png)
+![](http://i.imgur.com/rBO7pYN.jpg)
 
 I have collected over 18,000 images over the years.
 
@@ -13,20 +13,44 @@ I just need to sort them well, connect them together and share them. Each of the
 - art
 
 
+- science
+
+
 - funny
 
 
-- [psychedelic art](http://imgur.com/a/NqhGo)
+- xkcd
+
+
+- [art - psychedelic](http://imgur.com/a/NqhGo)
 
 
 - [heavy mind](http://imgur.com/a/om6BB)
 
 
-- [funny o’rly covers](http://imgur.com/a/Ykcyb)
+- physics
 
 
-- [funny programming](http://imgur.com/a/hb4nX)
+- [xkcd - favourite](http://imgur.com/a/LK364)
 
 
-- [James R. Eads](http://imgur.com/a/Aao8R)
+- [funny - o’rly covers](http://imgur.com/a/Ykcyb)
+
+
+- [funny - programming](http://imgur.com/a/hb4nX)
+
+
+- [minimalism](http://imgur.com/a/IZPbP)
+
+
+- [art - James R. Eads](http://imgur.com/a/Aao8R)
+
+
+- [snowflakes under a microscope](http://imgur.com/a/4rE1H)
+
+
+- psychedelic
+
+
+- [replications](http://imgur.com/a/ep7CH)
 
