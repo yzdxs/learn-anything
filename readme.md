@@ -32,7 +32,7 @@ There are just few things that you have to know to navigate this map.
 	- you probably need to understand this first to understand this node
 - or as **direction arrows** 
 	- usually used in book annotations
-	- brings direction to information so everything flows from on node to the next
+	- brings direction to information so everything flows from one node to the next
 - or as **relation arrows**
 	- as evident in the main mind map, image you see above
 	- these just show the relation of a topic / idea to some other topic / idea
