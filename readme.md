@@ -1,9 +1,9 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
 
-![](http://i.imgur.com/kDarKKQ.jpg)
+![](http://i.imgur.com/NYlugB2.jpg)
 
-[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.ukhb5oose). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
+[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
 And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
@@ -25,7 +25,8 @@ There are just few things that you have to know to navigate this map.
 	- READ: - read this
 	- WATCH: - watch this
 	- FINISH: - finish it
-	- QUESTION: - an unaswered question
+	- QUESTION: - an unaswered question that I have
+	- OPTIMISE: - usually in reference to an algorithm or a problem, meaning that I could do better and I should look into it
 
 - arrows can either serve as **dependency arrows** 
 	- you probably need to understand this first to understand this node
@@ -418,13 +419,13 @@ Learn something new. 🎊
 
 ## [go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
 
-### sdk
+### [sdk](https://my.mindnode.com/pTaw9dxCcosqw1e9bjqpyjJFzxpBCzQeRbpxaFwX)
 
 ### [spec](https://my.mindnode.com/jiKdqgKivEnpAyCuyvqqrxkV6cVcEfsmSpgqHDPj)
 
 ### effective go
 
-## java
+## [java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo)
 
 ### jvm
 
@@ -570,6 +571,14 @@ Learn something new. 🎊
 # **signal processing**
 
 
+# version control
+
+
+## mercurial
+
+## [git](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
+
+
 # [**databases**](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
 
@@ -581,14 +590,6 @@ Learn something new. 🎊
 
 
 # **culture**
-
-
-# version control
-
-
-## [git](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
-
-## mercurial
 
 
 # [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
@@ -687,14 +688,10 @@ Learn something new. 🎊
 
 ## spin
 
-
-# [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
-
-
-# **automation**
+## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
 
 
-# **websites**
+# [**websites**](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
 
 
 ## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
@@ -704,6 +701,12 @@ Learn something new. 🎊
 ## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
 
 ### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+
+
+# [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
+
+
+# **automation**
 
 
 # **blockchain**
@@ -744,6 +747,9 @@ Learn something new. 🎊
 
 
 # **3d printing**
+
+
+# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 
 # sports
