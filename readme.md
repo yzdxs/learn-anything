@@ -1,5 +1,5 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
-####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also go straight to the [index](https://github.com/nikitavoloboev/research#my-mind-map-of-knowledge-) if you've been here before)
+####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also go straight to the [index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) if you've been here before)
 
 ![](http://i.imgur.com/JNN7iIZ.jpg)
 
