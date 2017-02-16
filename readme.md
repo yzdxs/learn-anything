@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
-####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀)
+####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also go straight to the [index](https://github.com/nikitavoloboev/research#my-mind-map-of-knowledge-) if you've been here before)
 
-![](http://i.imgur.com/8EOHOQf.jpg)
+![](http://i.imgur.com/JNN7iIZ.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -205,6 +205,16 @@ Learn something new. 🎊
 ## XFS
 
 
+# software deployment
+
+
+## **microservices**
+
+## [**kubernetes**](https://my.mindnode.com/21syuSb9dYNWCvsd5xJV4ybfmxsx8LqWGXqM9xMe)
+
+## **docker**
+
+
 # [**artificial intelligence** ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
 
@@ -215,14 +225,6 @@ Learn something new. 🎊
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
 ### numpy
-
-
-# software deployment
-
-
-## [**kubernetes**](https://my.mindnode.com/21syuSb9dYNWCvsd5xJV4ybfmxsx8LqWGXqM9xMe)
-
-## **docker**
 
 
 # **robotics**
@@ -825,9 +827,6 @@ Learn something new. 🎊
 ## speech
 
 
-# [movies](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
-
-
 # [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 
@@ -838,10 +837,13 @@ Learn something new. 🎊
 ## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
 
 
-# **natural language processing**
-
-
 # series
+
+
+# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
+
+
+# **natural language processing**
 
 
 # **architecture**
@@ -892,6 +894,9 @@ Learn something new. 🎊
 ## origin of life
 
 
+# **creativity**
+
+
 # **feelings**
 
 
@@ -905,9 +910,6 @@ Learn something new. 🎊
 
 
 # **management**
-
-
-# **creativity**
 
 
 # [**interview prep** ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
@@ -1091,15 +1093,15 @@ Learn something new. 🎊
 ## pricing
 
 
+# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
+
+
 # **fitness**
 
 
 ## cardio
 
 ## strength training
-
-
-# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
 # [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
@@ -1354,6 +1356,22 @@ Learn something new. 🎊
 ## optimisation
 
 
+# [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
+
+
+## Foundation
+
+## AppKit
+
+## Cocoa Touch
+
+### UIKit
+
+### watchOS
+
+### tvOS
+
+
 # **desktop applications**
 
 
@@ -1382,20 +1400,7 @@ Learn something new. 🎊
 ## prose
 
 
-# Cocoa
-
-
-## Foundation
-
-## AppKit
-
-## Cocoa Touch
-
-### UIKit
-
-### watchOS
-
-### tvOS
+# api
 
 
 # **data mining**
@@ -1455,9 +1460,6 @@ Learn something new. 🎊
 ## sinatra
 
 
-# api
-
-
 # markup languages
 
 
@@ -1500,7 +1502,7 @@ Learn something new. 🎊
 ## django
 
 
-# **books**
+# [**books**](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
 
 
 ## programming 
