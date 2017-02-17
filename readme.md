@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also go straight to the [index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) if you've been here before)
 
-![](http://i.imgur.com/JNN7iIZ.jpg)
+![](http://i.imgur.com/PLRa0JZ.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -27,6 +27,8 @@ There are just few things that you have to know to navigate this map.
 	- FINISH: - finish it
 	- QUESTION: - an unaswered question that I have
 	- OPTIMISE: - usually in reference to an algorithm or a problem, meaning that I could do better and I should look into it
+	- INTERESTING: - this is interesting, I should look into it again
+	- MAP: - make Anki card from the node
 
 - arrows can either serve as **dependency arrows** 
 	- you probably need to understand this first to understand this node
@@ -100,8 +102,6 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 - [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 - [Here](https://github.com/nikitavoloboev/research/tree/master/github#interesting-github-repositories) are some GitHub repositiores that I found interesting
 - [Here](https://github.com/nikitavoloboev/research/tree/master/images#images-) are all of the images that I have collected neatly sorted into Imgur albums
-- [Here](https://github.com/nikitavoloboev/research/tree/master/personal) are some personal mind maps that I am sharing with the world
-	- I try to keep them up-to-date and share only what might be interesting to other people
 
 ##Contributing 🎉  
 It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
@@ -140,13 +140,23 @@ Learn something new. 🎊
 ### combinatorial search
 
 
+# **hacking**
+
+
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 
+# **security**
+
+
+## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
+
+## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
+
+### encryption
+
+
 # **cars**
-
-
-# **hacking**
 
 
 # **transportation**
@@ -166,15 +176,10 @@ Learn something new. 🎊
 # **aircraft**
 
 
-# **security**
-
-
-## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
-
-## encryption
-
-
 # cloud hosting
+
+
+# [**cellular automata**](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 
 # **computer vision**
@@ -190,9 +195,6 @@ Learn something new. 🎊
 
 
 ## [software architecture](https://my.mindnode.com/dCGPsRx5okxjPJByJqDC6Kfbz3J9PpqeR55xmRvj)
-
-
-# [**cellular automata**](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 
 # file systems
@@ -263,6 +265,8 @@ Learn something new. 🎊
 ## linters
 
 ## evaluation
+
+## [memory](https://my.mindnode.com/wbRrdVuWerWQMHiPNrW7KdeLc9WFyz2EzBBQSgSd)
 
 
 # **hardware**
@@ -394,7 +398,7 @@ Learn something new. 🎊
 
 ## c
 
-## c ++
+## [c ++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
 
 ## c#
 
@@ -459,6 +463,9 @@ Learn something new. 🎊
 ## microcontrollers
 
 
+# **gamedev**
+
+
 # **reverse engineering**
 
 
@@ -515,9 +522,9 @@ Learn something new. 🎊
 
 - extensions
 
-### xcode
+### [xcode](https://my.mindnode.com/nxBpUd1WzRXtZiocvCSQSYeWttCVy49RyczaGNVG)
 
-- extensions
+- [extensions](https://my.mindnode.com/mtvvwgx6fdZFCNaoPzXUJyPWz5grjz88cqkdqzuf)
 
 ### intellij
 
@@ -535,6 +542,10 @@ Learn something new. 🎊
 
 - macros
 
+### [hazel](https://my.mindnode.com/pUEgWAVJZezyqNuqEtSvyyh1bpmxN76eqo556JvS)
+
+### typinator
+
 ## learning
 
 ### anki
@@ -542,9 +553,6 @@ Learn something new. 🎊
 ## other
 
 ### matlab
-
-
-# **gamedev**
 
 
 # [**computer graphics** ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
@@ -579,6 +587,30 @@ Learn something new. 🎊
 ## compiler design
 
 
+# **games**
+
+
+## board
+
+### [chess ✨](https://my.mindnode.com/1cTHSzKN2kkGnDzsqJQVU9tcSAcQbCeKwpUNMuxg)
+
+### [go ✨](https://my.mindnode.com/psx5yagnuKrHpZmpgCiqmkYPYFiXg6sT5r8azTNv)
+
+## card
+
+### poker
+
+### contract bridge
+
+## computer
+
+### [minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
+
+### [counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
+
+### [factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
+
+
 # [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
 
 
@@ -611,6 +643,16 @@ Learn something new. 🎊
 ### [andromeda OS](https://my.mindnode.com/E9T3FZbseA166QRroExnvozpMqv3wPZuLteth18d)
 
 
+# **humans**
+
+
+## [interesting humans ✨](https://my.mindnode.com/PsEP2wTxvER5DHswwhchyEVSeCXgMVxwwbnpp1z7)
+
+### [github ✨](https://my.mindnode.com/XAEAkzAvts7vjWMhQ8HeVzrbWkNHsRAjxxQvML6K)
+
+## [richest humans](https://my.mindnode.com/z3WKnkjPer1qKGRYgKT8Gp2KdWtxeSPpfPFPkiua)
+
+
 # **signal processing**
 
 
@@ -635,36 +677,10 @@ Learn something new. 🎊
 # **culture**
 
 
-# **humans**
-
-
-## [interesting humans ✨](https://my.mindnode.com/PsEP2wTxvER5DHswwhchyEVSeCXgMVxwwbnpp1z7)
-
-### [github ✨](https://my.mindnode.com/XAEAkzAvts7vjWMhQ8HeVzrbWkNHsRAjxxQvML6K)
-
-## [richest humans](https://my.mindnode.com/z3WKnkjPer1qKGRYgKT8Gp2KdWtxeSPpfPFPkiua)
-
-
-# **unix**
+# [**unix**](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
 
 
 ## posix
-
-
-# **games**
-
-
-## chess
-
-## go
-
-## poker
-
-## contract bridge
-
-## minecraft
-
-## [counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
 
 
 # [**physics** ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -688,6 +704,12 @@ Learn something new. 🎊
 
 ## time
 
+## particles
+
+### higgs boson
+
+### photons
+
 ## light
 
 ## waves
@@ -700,11 +722,12 @@ Learn something new. 🎊
 
 ## electromagnetic fields
 
-## particles
+## atomic physics
 
-### photons
+### atom
 
-### higgs boson
+
+# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 
 # **quantum physics**
@@ -717,16 +740,22 @@ Learn something new. 🎊
 ## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
 
 
-# [**websites**](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+# **shells**
 
 
-## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
+## [bash](https://my.mindnode.com/sr1GNY9G5LCyYsxSVeaoupdjZszd6FbUY1YGCXMh)
 
-### [repos ✨](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+## [zsh](https://my.mindnode.com/x5pjkfzErXaqqYqyBofA9RvoSsqtLsqLywV1zGNT)
 
-## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
+## fish
 
-### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+## [shell commands](https://my.mindnode.com/gyU3hH5exSVYxsuiqbp4WMNWKxxkAc7Aebocz1S4)
+
+## dotfiles
+
+## [cli programs](https://my.mindnode.com/sMNrKZZgN8KeLpFW3pLzJHEiQrrFtxmsXaibaj8e)
+
+### [web](https://my.mindnode.com/q98uzVXyzNgipxbkUpiQs3RAuwTxHxg4u81g2GXP)
 
 
 # [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
@@ -735,39 +764,37 @@ Learn something new. 🎊
 # **automation**
 
 
+# **productivity**
+
+
+# [**websites**](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+
+
+## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
+
+### [repos ✨](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+
+- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+
+## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
+
+### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+
+## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
+
+
 # **blockchain**
 
 
 ## bitcoin
 
-## ethereum
+## [ethereum ✨](https://my.mindnode.com/bYFMqmuWgiJpS5XhE4X1Ho59xgyXLBBdbRRxDLjq)
 
 
-# **productivity**
-
-
-# **shells**
-
-
-## [bash](https://my.mindnode.com/sr1GNY9G5LCyYsxSVeaoupdjZszd6FbUY1YGCXMh)
-
-## zsh
-
-## fish
-
-## [shell commands](https://my.mindnode.com/gyU3hH5exSVYxsuiqbp4WMNWKxxkAc7Aebocz1S4)
-
-## dotfiles
-
-## cli programs
-
-### [web](https://my.mindnode.com/q98uzVXyzNgipxbkUpiQs3RAuwTxHxg4u81g2GXP)
+# [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
 # **3d printing**
-
-
-# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 
 # **problems**
@@ -827,6 +854,9 @@ Learn something new. 🎊
 ## speech
 
 
+# [series](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
+
+
 # [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 
@@ -835,9 +865,6 @@ Learn something new. 🎊
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
 
 ## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
-
-
-# series
 
 
 # [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
@@ -927,28 +954,6 @@ Learn something new. 🎊
 # **ethics**
 
 
-# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
-
-
-## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
-
-### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
-
-### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
-
-### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
-
-## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
-
-## stimulants
-
-## nootropics
-
-## antibiotics
-
-## steroids
-
-
 # **languages**
 
 
@@ -972,6 +977,28 @@ Learn something new. 🎊
 
 
 ## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
+
+
+# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+
+## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
+
+### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
+
+### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
+
+### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
+
+## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
+
+## stimulants
+
+## nootropics
+
+## antibiotics
+
+## steroids
 
 
 # [**biology**](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
@@ -1005,6 +1032,9 @@ Learn something new. 🎊
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+
 # [**consciousness** ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 
@@ -1022,6 +1052,9 @@ Learn something new. 🎊
 # **internet of things**
 
 
+# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
+
+
 # **medicine**
 
 
@@ -1032,9 +1065,6 @@ Learn something new. 🎊
 
 
 ## rest
-
-
-# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
 
 
 # **diseases**
@@ -1062,6 +1092,12 @@ Learn something new. 🎊
 # growth hacking
 
 
+# lessons
+
+
+## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
+
+
 # **design**
 
 
@@ -1072,9 +1108,6 @@ Learn something new. 🎊
 ## material design
 
 ## typography
-
-
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
 
 
 # **economics**
@@ -1101,13 +1134,19 @@ Learn something new. 🎊
 
 ## cardio
 
-## strength training
+## [strength training](https://my.mindnode.com/RceumyyqQMNJ8veUf4M1aQ7wksqyxuHAsUyvKwiz)
+
+
+# **plants**
 
 
 # [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
 
 
-# **plants**
+# **education**
+
+
+## universities
 
 
 # **animals**
@@ -1148,19 +1187,21 @@ Learn something new. 🎊
 # [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 
+# **fungus**
+
+
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
-
-
-# **education**
-
-
-## universities
 
 
 # **travelling**
 
 
-# **fungus**
+# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+
+
+## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
+
+## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
 
 
 # [**health**](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
@@ -1168,7 +1209,9 @@ Learn something new. 🎊
 
 ## nutrition
 
-### drinks
+### [drinks](https://my.mindnode.com/QnYKDwuFgWReEQ3uZDMNexpJDsYbi4pqNppiRCbD)
+
+- [smoothies](https://my.mindnode.com/qQ7VYL3ZGeRyom9e1rwfRbmHRqi7iDeQEuDFf6Yy)
 
 ### [food ✨](https://my.mindnode.com/v6WsinUUoZ5zVxF1L26yV939KC8nzEPsVZ8qrShV)
 
@@ -1183,18 +1226,6 @@ Learn something new. 🎊
 ## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
 
 ## webkit
-
-
-# **protocols**
-
-
-## irc
-
-## http
-
-## tcp/ip
-
-## websockets
 
 
 # teaching
@@ -1218,6 +1249,18 @@ Learn something new. 🎊
 ### russia
 
 ### china
+
+
+# **protocols**
+
+
+## irc
+
+## http
+
+## tcp/ip
+
+## websockets
 
 
 # **space**
@@ -1266,7 +1309,10 @@ Learn something new. 🎊
 ### Facebook
 
 
-# [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
+# [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
+
+
+## mine ✨
 
 
 # **communication**
@@ -1274,13 +1320,7 @@ Learn something new. 🎊
 
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
-
-# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
-
-
-## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
-
-## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
+## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
 
 
 # **server**
@@ -1294,13 +1334,35 @@ Learn something new. 🎊
 ## real estate
 
 
-# [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
+# [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
+
+
+# [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
+
+
+# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+
+
+## ai
+
+### [oxford cs deep nlp 2017](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
+
+### coursera machine learning
+
+## haskell
+
+### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
+
+## programming
+
+### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
+
+## cs
+
+### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
 
 
 # **serverless architecture**
-
-
-# [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
 
 
 # **front end** 
@@ -1318,24 +1380,10 @@ Learn something new. 🎊
 ## standups
 
 
-# courses
+# [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
 
 
-## ai
-
-### [oxford cs deep nlp 2017](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
-
-### coursera machine learning
-
-## haskell
-
-### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
-
-
-# [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
-
-
-# **literature**
+## [techniques](https://my.mindnode.com/Q6fpfzt9RnQmdKAy8bKsuPzWJqLrNNDsnxCokpv9)
 
 
 # [**distributed computing**](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
@@ -1344,16 +1392,16 @@ Learn something new. 🎊
 ## petri nets
 
 
+# **literature**
+
+
 # **earth**
 
 
 ## oceans
 
 
-# **search engines**
-
-
-## optimisation
+# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
 
 
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
@@ -1370,6 +1418,12 @@ Learn something new. 🎊
 ### watchOS
 
 ### tvOS
+
+
+# **search engines**
+
+
+## optimisation
 
 
 # **desktop applications**
@@ -1390,14 +1444,6 @@ Learn something new. 🎊
 ## redis
 
 ## varnish
-
-
-# **writing**
-
-
-## poetry
-
-## prose
 
 
 # api
@@ -1426,6 +1472,8 @@ Learn something new. 🎊
 
 ## threejs
 
+## [jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
+
 
 # **history**
 
@@ -1447,6 +1495,14 @@ Learn something new. 🎊
 ## interesting
 
 ### ancient cities
+
+
+# **writing**
+
+
+## poetry
+
+## prose
 
 
 # [data science](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
@@ -1481,7 +1537,9 @@ Learn something new. 🎊
 # music creation
 
 
-## guitar
+## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
+
+### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
 
 ## [sonic pi ✨](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
 
@@ -1494,15 +1552,7 @@ Learn something new. 🎊
 ## pip
 
 
-# python libraries
-
-
-## scikit-learn
-
-## django
-
-
-# [**books**](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
+# [**books** ✨](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
 
 
 ## programming 
@@ -1553,6 +1603,8 @@ Learn something new. 🎊
 
 ### the annotated turing
 
+### the elements of computing systems
+
 ## bio
 
 ### [surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
@@ -1564,6 +1616,14 @@ Learn something new. 🎊
 ## philosophy
 
 ### [godel, escher, bach ✨](https://my.mindnode.com/SKWBeinTesSXaXSMJ4h8DpEamjQWUcpvZAgsuMgp)
+
+
+# python libraries
+
+
+## scikit-learn
+
+## django
 
 
 # practice
@@ -1606,6 +1666,8 @@ Learn something new. 🎊
 
 
 ## vapor
+
+## [perfect](https://my.mindnode.com/mSag1P8wZHT8JsRSJK5CuksJDqD5h48Lfp8aHESw)
 
 ## RxSwift
 
