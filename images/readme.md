@@ -1,6 +1,6 @@
 #[images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
-![](http://i.imgur.com/rBO7pYN.jpg)
+![](http://i.imgur.com/L9vV4Km.jpg)
 
 I have collected over 18,000 images over the years.
 
@@ -10,37 +10,64 @@ I just need to sort them well, connect them together and share them. Each of the
 
 #mindmap index 🗄️
 
-- art
+- [humans](https://imgur.com/a/p9FC3)
 
 
-- science
+- [animals](http://imgur.com/a/yNpGf)
 
 
-- funny
+- [nature](https://imgur.com/a/56pFc)
 
 
-- xkcd
+- photos
 
 
-- [art - psychedelic](http://imgur.com/a/NqhGo)
+- [dogs](http://imgur.com/a/CExqu)
+
+
+- cats
+
+
+- [photos - artistic](https://imgur.com/a/jAEYj)
+
+
+- [photos - beautiful](https://imgur.com/a/vA2Ly)
 
 
 - [heavy mind](http://imgur.com/a/om6BB)
 
 
-- physics
+- xkcd
+
+
+- [space](http://imgur.com/a/uymmM)
+
+
+- [art](http://imgur.com/a/3m5wf)
 
 
 - [xkcd - favourite](http://imgur.com/a/LK364)
 
 
-- [funny - o’rly covers](http://imgur.com/a/Ykcyb)
+- [art - psychedelic](http://imgur.com/a/NqhGo)
 
 
-- [funny - programming](http://imgur.com/a/hb4nX)
+- [earth](https://imgur.com/a/4U5P7)
+
+
+- science
 
 
 - [minimalism](http://imgur.com/a/IZPbP)
+
+
+- [math](http://imgur.com/a/hmK2C)
+
+
+- [psychedelic](http://imgur.com/a/urG7X)
+
+
+- [physics](http://imgur.com/a/Reo8S)
 
 
 - [art - James R. Eads](http://imgur.com/a/Aao8R)
@@ -49,8 +76,23 @@ I just need to sort them well, connect them together and share them. Each of the
 - [snowflakes under a microscope](http://imgur.com/a/4rE1H)
 
 
-- psychedelic
-
-
 - [replications](http://imgur.com/a/ep7CH)
+
+
+- web
+
+
+- [funny](http://imgur.com/a/NAZ9l)
+
+
+- [geometric](http://imgur.com/a/7ThWP)
+
+
+- [404 pages](http://imgur.com/a/NJ2X7)
+
+
+- [funny - o’rly covers](http://imgur.com/a/Ykcyb)
+
+
+- [funny - programming](http://imgur.com/a/hb4nX)
 
