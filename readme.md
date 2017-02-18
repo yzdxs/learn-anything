@@ -61,11 +61,6 @@ There are just few things that you have to know to navigate this map.
 - I also add ❌ to mark certain videos or articles as unfinished or articles/videos that I have disliked watching
 	- and  ✔ to mark article / video as watched or read
 	- ✨ is same as ✔ in that I read / watched it but also liked it
-- I also use 🔎 to represent figures
-	- again usually used when annotating books
-	- like in the example below
-![](http://i.imgur.com/AuNB2NC.png)
-
 - I also prefix certain nodes with a year like so 
 
 ![](http://i.imgur.com/A192DWe.png)
