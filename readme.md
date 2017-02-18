@@ -68,7 +68,7 @@ There are just few things that you have to know to navigate this map.
 
 - I also prefix certain nodes with a year like so 
 
-![](http://i.imgur.com/RiYn8Ec.png)
+![](http://i.imgur.com/A192DWe.png)
 
 - where 10: stands for year 2010 and means that this article was written in 2010
 - in my [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC), [research papers](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy) and [learning](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz) mind maps, I use main nodes with numbers to indicate a year, so for example here
