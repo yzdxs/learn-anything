@@ -70,12 +70,12 @@ There are just few things that you have to know to navigate this map.
 
 ![](http://i.imgur.com/RiYn8Ec.png)
 
-	- where 10: stands for year 2010 and means that this article was written in 2010
-	- in my [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC), [research papers](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy) and [learning](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz) mind maps, I use main nodes with numbers to indicate a year, so for example here
+- where 10: stands for year 2010 and means that this article was written in 2010
+- in my [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC), [research papers](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy) and [learning](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz) mind maps, I use main nodes with numbers to indicate a year, so for example here
 
 ![](http://i.imgur.com/XUfTCTm.png)
 
-	- 17 stands for year 2017 and jan and feb are appropriate months of this year where I choose what I want to do in these months
+- 17 stands for year 2017 and jan and feb are appropriate months of this year where I choose what I want to do in these months
 	
 - and the final thing that I do is that I abbreviate some nodes as they get repeated often
 
