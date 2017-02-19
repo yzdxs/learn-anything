@@ -1,8 +1,13 @@
 #[vim](https://my.mindnode.com/dsyhczzfLsBAG4EpFt5TZnBYWAD9mfc9ms7nPMCz) 👾
 
-![](http://i.imgur.com/zBWgjq3.jpg) 
+![](http://i.imgur.com/3g9bJWV.jpg) 
 
 #mindmap index 🗄️
+
+# neat
+
+
+## in normal mode
 
 # neat
 
@@ -72,6 +77,9 @@
 
 
 # macros
+
+
+# tricks
 
 
 # normal mode
@@ -215,19 +223,158 @@
 
 ### go to visual mode
 
+## 0
 
-# tricks
+### goes to beginning of the line
 
+## D
 
-# insert
+### delete line after cursor
+
+## GA
+
+### go to bottom of file
+
+## da
+
+### delete until start of next word
+
+## rx
+
+### replace currently selected characters with x
+
+## ce
+
+### replace until the end of word
+
+## dgg
+
+### delete text to top of file from cursor
+
+## zz
+
+### put current line to middle of screen
+
+## zt
+
+### put current line to top of screen
+
+## zb
+
+### put current line to bottom of screen
+
+## .
+
+### will duplicate the above line
+
+## nk
+
+### where n is the line number you choose to go up to certain amount of lines
+
+## gg
+
+### go to beginning of file
+
+## Vu
+
+### lowercase whole line
+
+- V - selects the entire line in visual mode
+
+- u - lowercases the selected area
+
+## ggVGu
+
+### lowercase the entire file
+
+- gg - goes to first line of text
+
+- G - goes to end of file
 
 
 # ⌃ in normal mode
 
 
-## ⌃ + v
+## ⌃v
 
 ### visually select current line
+
+## ⌃e
+
+### go down a page while keeping the cursor in place
+
+## ⌃y
+
+### go up a page while keeping the cursor in place
+
+
+# insert
+
+
+# ⌃ in insert mode
+
+
+## ⌃p
+
+### text completion, browse down
+
+## ⌃n
+
+### text completion, browse up
+
+## ⌃x
+
+### enter special insert mode
+
+- RESEARCH: 
+
+## ⌃f
+
+### filename completion
+
+## ⌃l
+
+### context aware line completion
+
+
+# command mode
+
+
+## :x
+
+### saves and quits from the file
+
+## :map
+
+### see all currently defined mappings
+
+## :verbose map
+
+### know where each mapping was defined
+
+
+# ⇧ in normal mode
+
+
+## ⇧4
+
+### goes to the end of the line
+
+## ⇧H
+
+### go top of screen
+
+## ⇧M
+
+### go middle of screen
+
+## ⇧L
+
+### go bottom of screen
+
+## ⇧V
+
+### highlights current line
 
 
 # resources
@@ -252,6 +399,16 @@
 ### TODO: watch
 
 
+# motions
+
+
+## Motions are in most cases the second part of an entire command you want to execute when working with Vim.
+
+## You apply them during the so called **Operator-Pending Mode**, which is the little time frame where you apply a "target" to built-in commands such as d, y or c.
+
+## Let's say you want to delete from the current cursor position until the next occurrence of the letter r. You do that with the t command which brings your cursor in front of the next occurrence of the given characer. So typing dtr in Normal Mode could be read as Delete until next 'r'. The basic pattern of the d command is d{motion} and you can use any kind of motion there.
+
+
 # visual mode
 
 
@@ -262,16 +419,6 @@
 ## V
 
 ### go to visual line mode (one line at a time)
-
-
-# motions
-
-
-## Motions are in most cases the second part of an entire command you want to execute when working with Vim.
-
-## You apply them during the so called **Operator-Pending Mode**, which is the little time frame where you apply a "target" to built-in commands such as d, y or c.
-
-## Let's say you want to delete from the current cursor position until the next occurrence of the letter r. You do that with the t command which brings your cursor in front of the next occurrence of the given characer. So typing dtr in Normal Mode could be read as Delete until next 'r'. The basic pattern of the d command is d{motion} and you can use any kind of motion there.
 
 
 # text objects
@@ -288,6 +435,4 @@
 ## So, to delete a word you can compose commands like diw or daw for around a word. 
 
 ## There are text-objects for paragraphs (ip, ap), sentences (is, as), HTML tags (it, at) and Vim is even smart enough to act on the current function block (i{, a{).
-
-
 
