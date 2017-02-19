@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want if you've been here before)
 
-![](http://i.imgur.com/KS08Psg.jpg)
+![](http://i.imgur.com/sMYCubr.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -417,7 +417,7 @@ Learn something new. 🎊
 
 ## [swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
-## [haskell](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
+## [haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
 
 ## [python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
 
@@ -439,7 +439,7 @@ Learn something new. 🎊
 
 ## clojure
 
-## javascript
+## [javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a)
 
 ## smalltalk
 
@@ -804,7 +804,7 @@ Learn something new. 🎊
 
 - [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
 
-### gists
+### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
 
 - [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
 
@@ -858,6 +858,16 @@ Learn something new. 🎊
 # **licensing**
 
 
+# [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
+
+
+## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
+
+## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
+
+## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
+
+
 # [**neuroscience** ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
 
 
@@ -898,16 +908,6 @@ Learn something new. 🎊
 # **pattern recognition**
 
 
-# [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
-
-
-## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
-
-## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
-
-## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
-
-
 # [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
 
@@ -926,6 +926,18 @@ Learn something new. 🎊
 
 
 # **politics**
+
+
+# **feelings**
+
+
+## depression
+
+## [loneliness](https://my.mindnode.com/MK9RzSKQ1LzV7kMBgx5dnNcvZhHzS6JZCJzvt9vn)
+
+## happiness
+
+## love
 
 
 # **management**
@@ -965,18 +977,6 @@ Learn something new. 🎊
 # **creativity**
 
 
-# **feelings**
-
-
-## depression
-
-## [loneliness](https://my.mindnode.com/MK9RzSKQ1LzV7kMBgx5dnNcvZhHzS6JZCJzvt9vn)
-
-## happiness
-
-## love
-
-
 # [**interview prep** ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 
@@ -1006,6 +1006,32 @@ Learn something new. 🎊
 ## japanese
 
 ## chinese
+
+
+# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+
+## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
+
+### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
+
+### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
+
+### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
+
+## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
+
+## stimulants
+
+### phenethylamine
+
+### amphetamine 
+
+## nootropics
+
+## antibiotics
+
+## steroids
 
 
 # **globalisation**
@@ -1048,31 +1074,6 @@ Learn something new. 🎊
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 
-# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
-
-
-## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
-
-### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
-
-### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
-
-### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
-
-## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
-
-## stimulants
-
-## nootropics
-
-## antibiotics
-
-## steroids
-
-
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
-
-
 # [**consciousness** ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 
@@ -1085,6 +1086,9 @@ Learn something new. 🎊
 ## ego
 
 ## awareness
+
+
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
 
 
 # [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
@@ -1212,6 +1216,8 @@ Learn something new. 🎊
 ### firefox
 
 ### chrome
+
+## [web crawlers](https://my.mindnode.com/XAwB4XxGXkKuhZQVt8Mno9dwo2UbkuNqwks2iYZv)
 
 ## [development](https://my.mindnode.com/xZaTvNJUJa9md8nmx4oMPZqQFpdWxCq35pW8QY3J)
 
@@ -1689,7 +1695,7 @@ Learn something new. 🎊
 
 ### ios
 
-- ios 10 programming fundamentals with swift 2016 ✨
+- [ios 10 programming fundamentals with swift 2016 ✨](https://my.mindnode.com/nqqqvfLsMU38U1Fj6qie3QDQFW3v5gjj1dTqqiza)
 
 ## algorithms
 
