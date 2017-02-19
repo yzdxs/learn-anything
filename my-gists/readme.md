@@ -2,6 +2,10 @@
 
 ![](http://i.imgur.com/kiV1eJz.png)
 
+I might see which snippets I will be sharing and which I will not. Perhaps I will only share 'interesting' snippets of code and not supplementary as most of it would be quite obvious, I just use it for my personal reference.
+
+Will see with time. Right now I keep all of my code snippets [in this app](https://www.renfei.org/snippets-lab/) and I am really enjoying. With time I will get a better understanding of what code snippets are worth sharing and which are not. 
+
 #mindmap index 🗄️
 
 # go
