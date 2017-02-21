@@ -354,6 +354,8 @@ Learn something new. 🎊
 
 ### markov decision processes
 
+## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
+
 
 # [**emulation**](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx#477.8,-480.0,2)
 
@@ -640,6 +642,14 @@ Learn something new. 🎊
 # [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
 
 
+# version control
+
+
+## mercurial
+
+## [git](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
+
+
 # [**operating systems**](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
 
 
@@ -682,14 +692,6 @@ Learn something new. 🎊
 
 
 # **quantum computing**
-
-
-# version control
-
-
-## mercurial
-
-## [git](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
 
 
 # [**physics** ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -760,10 +762,10 @@ Learn something new. 🎊
 # [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
 
 
-# **productivity**
-
-
 # [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+
+
+# **productivity**
 
 
 # **quantum physics**
@@ -829,6 +831,8 @@ Learn something new. 🎊
 ## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
 
 ## favourite
+
+## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
 
 
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
@@ -1525,7 +1529,7 @@ Learn something new. 🎊
 # javascript libraries
 
 
-## react
+## [react](https://my.mindnode.com/sfEwzy9awRHFVG8hY74fjkfLMeufFJxMETJdg72H)
 
 ### fiber
 
@@ -1565,7 +1569,7 @@ Learn something new. 🎊
 # [data science](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
 
 
-# ruby gems
+# [ruby gems](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
 
 
 ## rails
@@ -1615,6 +1619,8 @@ Learn something new. 🎊
 ## npm
 
 ## pip
+
+## yarn
 
 
 # python libraries
