@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want if you've been here before)
 
-![](http://i.imgur.com/sMYCubr.jpg)
+![](http://i.imgur.com/3ONasnI.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -85,6 +85,8 @@ There are just few things that you have to know to navigate this map.
 	- perf = performance (data structures and algorithms may be given their [big O complexity](http://bigocheatsheet.com/))
 	- ops = operations (for algorithms, data structures, state what operations they can do)
 	- ch = chapter (mostly used in book annotations)
+	- hn = will always be a hyperlink and will lead to a hacker news thread related to this node
+	- red = will always be a hyperlink and will lead to a reddit thread related to this node
  
 - and that I think is about all you need to know to succesfully navigate my mind map
 	- its constantly growing and evolving as I try and make sense of what amazing things this reality has to offer
@@ -188,7 +190,7 @@ Learn something new. 🎊
 # [**cellular automata**](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 
-# **privacy**
+# [**privacy**](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
 
 
 # **computer vision**
@@ -228,7 +230,7 @@ Learn something new. 🎊
 # software deployment
 
 
-## **microservices**
+## [**microservices**](https://my.mindnode.com/u79EngB79DqdaYsAzDkGycjBWGAphxDbZp1JpyEx)
 
 ## [**kubernetes**](https://my.mindnode.com/21syuSb9dYNWCvsd5xJV4ybfmxsx8LqWGXqM9xMe)
 
@@ -447,7 +449,7 @@ Learn something new. 🎊
 
 ## [rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL)
 
-## ruby
+## [ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7)
 
 ## r
 
@@ -515,6 +517,8 @@ Learn something new. 🎊
 ## compiler design
 
 ## optimisation
+
+## LLVM
 
 
 # **keyboard**
@@ -641,9 +645,11 @@ Learn something new. 🎊
 
 ## mobile
 
-### ios
+### [ios](https://my.mindnode.com/PUhjuxgfwzbFkpxEPMmufpnrfwvyzqTkypLaE1eu)
 
 - [apps ✨](https://my.mindnode.com/4y6hzfXSQFCrnW1Rbijz6kyJnearnnKT4zxTyjnp)
+
+- [design patterns](https://my.mindnode.com/ipkyGspFK49CXso33csqbCuqDnJBhGJxQBsx8hjj)
 
 ### android
 
@@ -795,6 +801,12 @@ Learn something new. 🎊
 # **automation**
 
 
+# **licensing**
+
+
+## apache
+
+
 # [**websites**](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
 
 
@@ -817,14 +829,6 @@ Learn something new. 🎊
 ## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
 
 ## favourite
-
-
-# **blockchain**
-
-
-## bitcoin
-
-## [ethereum ✨](https://my.mindnode.com/bYFMqmuWgiJpS5XhE4X1Ho59xgyXLBBdbRRxDLjq)
 
 
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
@@ -853,9 +857,6 @@ Learn something new. 🎊
 ## snowboarding
 
 ## longboarding
-
-
-# **licensing**
 
 
 # [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
@@ -894,27 +895,10 @@ Learn something new. 🎊
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
 
 
-# **sound**
-
-
-## audio
-
-## speech
-
-
-# [series](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
-
-
-# **pattern recognition**
-
-
 # [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
 
-# **natural language processing**
-
-
-# **architecture**
+# [series](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
 
 # **law**
@@ -925,7 +909,22 @@ Learn something new. 🎊
 ## european union
 
 
+# **pattern recognition**
+
+
+# **natural language processing**
+
+
+# [**blockchain**](https://my.mindnode.com/Ey91pzzbeFtdJDWsViiZVLFkzxNTbFgTuwoyekAT)
+
+
+## [ethereum ✨](https://my.mindnode.com/bYFMqmuWgiJpS5XhE4X1Ho59xgyXLBBdbRRxDLjq)
+
+
 # **politics**
+
+
+# **architecture**
 
 
 # **feelings**
@@ -940,10 +939,18 @@ Learn something new. 🎊
 ## love
 
 
+# photography
+
+
 # **management**
 
 
-# photography
+# cryptocurrency
+
+
+## [monero](https://my.mindnode.com/P9doYsT2FMAxG2eVVTJ6sSd8zYuthpNJe58CssPD)
+
+## bitcoin
 
 
 # **renewable energy**
@@ -982,11 +989,17 @@ Learn something new. 🎊
 
 ## [questions](https://my.mindnode.com/sfwnVL7rwxhp9iJxGoSEHQUWfyWxUE6kzxNBA5QQ)
 
-### ios
+### [ios ✨](https://my.mindnode.com/k9ZueEUkyazS6wwzwykT1Rpn5pSeTpzuR3zEAUWS)
 
 ## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
 
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
+
+
+# art
+
+
+## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
 
 
 # **ethics**
@@ -1037,12 +1050,6 @@ Learn something new. 🎊
 # **globalisation**
 
 
-# art
-
-
-## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
-
-
 # [**biology**](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
 
 
@@ -1089,6 +1096,14 @@ Learn something new. 🎊
 
 
 # [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+
+# **sound**
+
+
+## audio
+
+## speech
 
 
 # [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
@@ -1449,6 +1464,14 @@ Learn something new. 🎊
 # [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
 
 
+# **search engines**
+
+
+## optimisation
+
+## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
+
+
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
 
 
@@ -1463,12 +1486,6 @@ Learn something new. 🎊
 ### watchOS
 
 ### tvOS
-
-
-# **search engines**
-
-
-## optimisation
 
 
 # **desktop applications**
@@ -1571,7 +1588,7 @@ Learn something new. 🎊
 
 ## html
 
-## json
+## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
 
 ## markdown
 
