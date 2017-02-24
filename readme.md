@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want if you've been here before)
 
-![](http://i.imgur.com/3ONasnI.jpg)
+![](http://i.imgur.com/xw897D4.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -250,11 +250,11 @@ Learn something new. 🎊
 
 ## [design patterns](https://my.mindnode.com/YuPqxS24m3eYVp6xqdAD2v5tYTTx5odGywTsQu7a#-112.3,-358.5,2)
 
-## [dynamic programming](https://my.mindnode.com/nbgnE4hxrpNnpubV9MShaNgQax4HFZMds4M93HkA#42.5,-8.2,2)
+## [dynamic programming](https://my.mindnode.com/cpxi9EqMbbF7cvq3vqD4pDQLwHetX81qagPEXi99)
 
 ## [paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn#767.7,-730.8,2)
 
-### functional programming
+### [functional programming](https://my.mindnode.com/GUj38CDMx1Y7Bb6pn3CHNqpN6ZtUyUQsNepzsa1k)
 
 ## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
 
@@ -310,7 +310,7 @@ Learn something new. 🎊
 
 ### probability
 
-- markov chains
+- [markov chains](https://my.mindnode.com/e3Hjd7WSfzApQaKjS13xx2iE1GHsgqniAaNgqscb)
 
 ## [conjectures](https://my.mindnode.com/kphjsziKrppjdFjkZqndSzKwWsxdz3ZFjzQXjxW9)
 
@@ -417,7 +417,7 @@ Learn something new. 🎊
 
 ## c#
 
-## objc
+## [objc ✨](https://my.mindnode.com/66qabf7Zyssep6qqzHE6b4pafuzxxaiVyBpg9SQ9)
 
 ## [swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
@@ -800,7 +800,7 @@ Learn something new. 🎊
 ### [web](https://my.mindnode.com/q98uzVXyzNgipxbkUpiQs3RAuwTxHxg4u81g2GXP)
 
 
-# **automation**
+# [**automation**](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
 
 
 # **licensing**
@@ -923,6 +923,12 @@ Learn something new. 🎊
 
 
 ## [ethereum ✨](https://my.mindnode.com/bYFMqmuWgiJpS5XhE4X1Ho59xgyXLBBdbRRxDLjq)
+
+
+# piracy
+
+
+## dmca
 
 
 # **politics**
@@ -1125,6 +1131,9 @@ Learn something new. 🎊
 ## rest
 
 
+# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
+
+
 # **diseases**
 
 
@@ -1184,9 +1193,6 @@ Learn something new. 🎊
 ## pricing
 
 
-# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
-
-
 # **fitness**
 
 
@@ -1195,16 +1201,19 @@ Learn something new. 🎊
 ## [strength training](https://my.mindnode.com/RceumyyqQMNJ8veUf4M1aQ7wksqyxuHAsUyvKwiz)
 
 
-# **plants**
-
-
 # [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
+
+
+# **plants**
 
 
 # **education**
 
 
 ## universities
+
+
+# fonts
 
 
 # **animals**
@@ -1465,15 +1474,15 @@ Learn something new. 🎊
 ## oceans
 
 
-# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
-
-
 # **search engines**
 
 
 ## optimisation
 
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
+
+
+# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
 
 
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
@@ -1490,6 +1499,8 @@ Learn something new. 🎊
 ### watchOS
 
 ### tvOS
+
+## WWDC
 
 
 # **desktop applications**
@@ -1622,6 +1633,8 @@ Learn something new. 🎊
 
 ## yarn
 
+## carthage
+
 
 # python libraries
 
@@ -1651,7 +1664,7 @@ Learn something new. 🎊
 ## [css](https://my.mindnode.com/Vh8yQ3ysjVkqLsrrihV6ZqNUMqyyufe6hV75bak6)
 
 
-# go packages
+# [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
 
 
 ## hugo
@@ -1707,6 +1720,12 @@ Learn something new. 🎊
 - [code - hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
 
 - crafting interpreters
+
+- programming in the large with design patterns
+
+### haskell
+
+- write you a haskell
 
 ### interviews
 
