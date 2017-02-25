@@ -1,6 +1,6 @@
 #[my github world 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx)
 
-![](http://i.imgur.com/csESVbC.png)
+![](http://i.imgur.com/XVnA9pg.png)
 
 All of the GitHub repositories I have made and shared with the world. I hope some of them solve some of your problems as they have solved mine. 🎊
 
@@ -36,10 +36,18 @@ All of the GitHub repositories I have made and shared with the world. I hope som
 ### curated list of subreddits I enjoy visiting
 
 
+# macOS apps
+
+
+## [last time](https://github.com/nikitavoloboev/last-time)
+
+### work in progress
+
+
 # code
 
 
-## algorithms
+## [algorithms](https://github.com/nikitavoloboev/algorithms)
 
 ### algorithms presented in various languages for learning purposes
 
@@ -47,13 +55,9 @@ All of the GitHub repositories I have made and shared with the world. I hope som
 
 ### projects completed by me for courses provided by [TeamTreeHouse](https://teamtreehouse.com/)
 
+## [solutions ✨](https://github.com/nikitavoloboev/solutions)
 
-# web
-
-
-## [web todo](https://github.com/nikitavoloboev/web-todo)
-
-### simple todo web app I built for uni web course
+### solutions to leetcode, cracking the coding interview
 
 
 # config
@@ -64,6 +68,14 @@ All of the GitHub repositories I have made and shared with the world. I hope som
 ### my configuration files
 
 ### zsh, neovim, karabiner, hammerspoon
+
+
+# web
+
+
+## [web todo](https://github.com/nikitavoloboev/web-todo)
+
+### simple todo web app I built for uni web course
 
 
 # alfred
@@ -81,13 +93,19 @@ All of the GitHub repositories I have made and shared with the world. I hope som
 
 ### reload Karabiner XML
 
-## clean folders
+## [clean folders](https://github.com/nikitavoloboev/alfred-clean-folders)
 
 ### clean all items from Desktop
 
 ### remove alfred workflow from ~/Downloads
 
 ### and more
+
+## [goodreads](https://github.com/nikitavoloboev/alfred-goodreads)
+
+### search with autosuggestions on Goodreads from Alfred
+
+### not complete - work in progress
 
 
 # meta
@@ -96,7 +114,4 @@ All of the GitHub repositories I have made and shared with the world. I hope som
 ## [ama ✨](https://github.com/nikitavoloboev/ama)
 
 ### ask me anything 💬
-
-
-
 
