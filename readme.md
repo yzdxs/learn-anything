@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) 
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. underlined nodes are hyperlinks and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want if you've been here before)
 
-![](http://i.imgur.com/xw897D4.jpg)
+![](http://i.imgur.com/7GA7oIR.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -184,10 +184,10 @@ Learn something new. 🎊
 # **aircraft**
 
 
-# cloud hosting
-
-
 # [**cellular automata**](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
+
+
+# cloud hosting
 
 
 # [**privacy**](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
@@ -220,7 +220,7 @@ Learn something new. 🎊
 
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
-### tensorflow
+### [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
 
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
@@ -647,7 +647,7 @@ Learn something new. 🎊
 
 ## mercurial
 
-## [git](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
+## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
 
 
 # [**operating systems**](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
@@ -863,6 +863,9 @@ Learn something new. 🎊
 ## longboarding
 
 
+# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
+
+
 # [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 
@@ -871,6 +874,9 @@ Learn something new. 🎊
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
 
 ## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
+
+
+# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
 
 # [**neuroscience** ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
@@ -897,12 +903,6 @@ Learn something new. 🎊
 ## [cognition](https://my.mindnode.com/xyMqiupnAsbdKJNzaTg4k2Dgim7qHsFwhuBYSRJk)
 
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
-
-
-# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
-
-
-# [series](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
 
 # **law**
@@ -1081,6 +1081,8 @@ Learn something new. 🎊
 
 ## bioinformatics
 
+## biomimetics
+
 
 # operations research
 
@@ -1191,6 +1193,8 @@ Learn something new. 🎊
 ## investing
 
 ## pricing
+
+## financial market
 
 
 # **fitness**
@@ -1314,6 +1318,14 @@ Learn something new. 🎊
 ### china
 
 
+# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+
+
+## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
+
+## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
+
+
 # **protocols**
 
 
@@ -1383,14 +1395,6 @@ Learn something new. 🎊
 # **internet of things**
 
 
-# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
-
-
-## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
-
-## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
-
-
 # **communication**
 
 
@@ -1446,6 +1450,12 @@ Learn something new. 🎊
 ## petri nets
 
 
+# **earth**
+
+
+## oceans
+
+
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
 
 
@@ -1467,11 +1477,9 @@ Learn something new. 🎊
 
 ### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
 
+## iOS
 
-# **earth**
-
-
-## oceans
+### developing iOS 10 apps wth Swift
 
 
 # **search engines**
@@ -1629,9 +1637,9 @@ Learn something new. 🎊
 
 ## npm
 
-## pip
-
 ## yarn
+
+## pip
 
 ## carthage
 
@@ -1729,7 +1737,9 @@ Learn something new. 🎊
 
 ### interviews
 
-- cracking the coding interview
+- [cracking the coding interview ✨](https://my.mindnode.com/q56HqUGVibyi8s7MyfVye2cesSoyDndHTpoXEigv)
+
+- elements of programming interviews
 
 ### swift
 
