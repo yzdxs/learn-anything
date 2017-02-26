@@ -29,7 +29,7 @@ There are just few things that you have to know to navigate this map.
 	- OPTIMISE: - usually in reference to an algorithm or a problem, meaning that I could do better and I should look into it
 	- INTERESTING: - this is interesting, I should look into it again
 	- MAP: - make Anki card from the node
-	- VISIT: - only use it my [travel](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB#-557.0,-1590.7,2) mind map to indicate places that I want to visit
+	- VISIT: - only use it in my [travel](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB#-557.0,-1590.7,2) mind map to indicate places that I want to visit
 
 - arrows can either serve as **dependency arrows** 
 	- you probably need to understand this first to understand this node
