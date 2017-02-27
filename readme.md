@@ -11,7 +11,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 ![](http://i.imgur.com/WPowMXR.png)
 
-##My Personal Articles 📖
+##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 [I also love writing](https://github.com/nikitavoloboev/research/tree/master/articles#articles-i-have-written-). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
 ##Other folders in this repository 📁
@@ -28,6 +28,8 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 
 ##Contributing 🎉  
 It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
+
+I would also appreciate requests for topics or articles that I have not mapped. Any proposal to add some research paper or software that you found really interesting but I don't have is always welcome. 
 
 
 Learn something new. 🎊
