@@ -7,7 +7,10 @@
 
 And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
-##MindMap Key 🔑
+##[MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+
+![](http://i.imgur.com/WPowMXR.png)
+
 There are just few things that you have to know to navigate this map. 
 
 - **underlined links are hyperlinks** (they can lead to other mindmaps or places on the internet) (click on them)
