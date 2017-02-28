@@ -31,7 +31,7 @@ It is a shame that there is currently no easy way to contribute to this project.
 
 I would also appreciate requests for topics or articles that I have not mapped. Any proposal to add some research paper or software that you found really interesting but I don't have is always welcome.
 
-#Ask 💬:
+#Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
 Learn something new. 🎊
