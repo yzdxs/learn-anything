@@ -29,8 +29,9 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 ##Contributing 🎉  
 It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
 
-I would also appreciate requests for topics or articles that I have not mapped. Any proposal to add some research paper or software that you found really interesting but I don't have is always welcome. 
+I would also appreciate requests for topics or articles that I have not mapped. Any proposal to add some research paper or software that you found really interesting but I don't have is always welcome.
 
+If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view past questions that I have answered.  
 
 Learn something new. 🎊
 
