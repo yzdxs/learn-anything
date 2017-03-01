@@ -21,7 +21,7 @@ I really love programming, building and sharing the things I have built. I am cu
 
 This idea is not limited to a macOS app, I originally wanted to make it as a website and it will eventually have a website front end to it.
 
-If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.co). It's always better working together. 
+If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.com). It's always better working together. 
 
 ##Other folders in this repository 📁
  
