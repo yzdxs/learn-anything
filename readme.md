@@ -13,7 +13,15 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 
 ##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
-[I also love writing](https://github.com/nikitavoloboev/research/tree/master/articles#articles-i-have-written-). I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+I also love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+
+##[My GitHup Repositories 👾](https://github.com/nikitavoloboev/research/tree/master/my-github#my-github-world-)
+
+I really love programming, building and sharing the things I have built. I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. This would solve a big problem of mine as I love data and especially I love data about myself. It would allow me to analyse event frequency and give me prespective over my life. How many movies, series episodes I have seen and when, how many google searches I have done in a week, how many new GitHub repositoies I have created and when. The list goes on and the events can even be automated via IFTTT or similar services. The best of it, is that you are in control of this data and not anyone else. This data about you is already getting collected in masse, it would be nice to see it for yourself and make your own analysis and decisions based on it.
+
+This idea is not limited to a macOS app, I originally wanted to make it as a website and it will eventually have a website front end to it.
+
+If you find this idea interesting,[Get in touch](mailto:nikita.voloboev@gmail.co), it's always better working together. 
 
 ##Other folders in this repository 📁
  
@@ -21,7 +29,6 @@ I am still thinking how I will try to structure this project well. I want the co
 
 Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
 
-- [Here](https://github.com/nikitavoloboev/research/tree/master/my-github#my-github-world-) are all the GitHub repositores that I have publically shared and their descriptions
 - [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity
 - [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
 - [Here](https://github.com/nikitavoloboev/research/tree/master/github#interesting-github-repositories) are some GitHub repositiores that I found interesting
