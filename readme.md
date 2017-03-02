@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F)
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [underlined nodes are hyperlinks](https://github.com/nikitavoloboev/research#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want with my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mindmaps) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/ZDROeFM.jpg)
+![](http://i.imgur.com/ybMBwMH.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -54,7 +54,7 @@ Learn something new. 🎊
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 
-# hacking
+# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
 
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -98,6 +98,9 @@ Learn something new. 🎊
 ### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
 
 
+# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+
+
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 
@@ -113,9 +116,6 @@ Learn something new. 🎊
 
 
 # transportation
-
-
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
 
 
 # aircraft
@@ -138,7 +138,11 @@ Learn something new. 🎊
 
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
+### [adversarial](https://my.mindnode.com/M9XhxHJ69MHhzAXzzU6ZAj1dCSwuXsxz1xifg5LF)
+
 ### [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
+
+### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY)
 
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
@@ -348,6 +352,9 @@ Learn something new. 🎊
 ## magenta
 
 
+# [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
+
+
 # [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
 
 
@@ -416,9 +423,6 @@ Learn something new. 🎊
 ## [elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
 
 
-# [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
-
-
 # embedded systems
 
 
@@ -428,7 +432,7 @@ Learn something new. 🎊
 # reverse engineering
 
 
-# gamedev
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
 
 
 # [virtual machines](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
@@ -475,6 +479,8 @@ Learn something new. 🎊
 
 
 ## computation
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
 
 ## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
 
@@ -567,7 +573,7 @@ Learn something new. 🎊
 ## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
 
 
-# games
+# [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
 
 
 ## board
@@ -615,7 +621,7 @@ Learn something new. 🎊
 
 - [apps ✨](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
 
-	- [my setup ✨](%E2%9C%A8)
+	- [my setup ✨](https://my.mindnode.com/H1ejGz58APafNWf3s9MiD9E3CSpkxPTKapJSiNkA)
 
 ### windows
 
@@ -1067,15 +1073,15 @@ Learn something new. 🎊
 ## [mindfulness ✨](https://my.mindnode.com/Vy6qpX9uD6qJKyN7cWCgpErpGzspoKsxB1FFFsXq)
 
 
-# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
-
-
 # sound
 
 
 ## audio
 
 ## speech
+
+
+# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
 
 
 # [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
@@ -1094,6 +1100,21 @@ Learn something new. 🎊
 
 
 ## rest
+
+
+# design
+
+
+## industrial
+
+## usability
+
+## material design
+
+## typography
+
+
+# fonts
 
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
@@ -1125,18 +1146,6 @@ Learn something new. 🎊
 
 
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
-
-
-# design
-
-
-## industrial
-
-## usability
-
-## material design
-
-## typography
 
 
 # economics
@@ -1182,7 +1191,12 @@ Learn something new. 🎊
 ## universities
 
 
-# fonts
+# typesetting
+
+
+## [latex ✨](https://my.mindnode.com/sppXszRUCzViXJA4jMHykEtMPGZey74zRm2HRU5x)
+
+### [packages ✨](https://my.mindnode.com/paFDsFpR6vUoXKxzpgoD2pbiygDpfbuFjLaVAqC1)
 
 
 # animals
@@ -1219,6 +1233,8 @@ Learn something new. 🎊
 ## [development](https://my.mindnode.com/xZaTvNJUJa9md8nmx4oMPZqQFpdWxCq35pW8QY3J)
 
 ## [static generators](https://my.mindnode.com/NisgYJy2wsFseNeNLZrUpGr1p7qBPyqnQ73Z6gQe)
+
+## [webassembly ✨](https://my.mindnode.com/pCeneAU2XnxYcuskLkH9T1ad9i9Cm8ysEMM2p3w1)
 
 
 # [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
@@ -1261,6 +1277,36 @@ Learn something new. 🎊
 
 
 # teaching
+
+
+# companies
+
+
+## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
+
+### Tesla
+
+### Apple
+
+- macbook
+
+- iPhone
+
+### SpaceX
+
+### Google
+
+- [search](https://my.mindnode.com/f8kVtmise9Q9TicGf6Pcudge2GCfhGNpqK1GGZZs)
+
+### DeepMind
+
+- alpha go
+
+### Amazon
+
+- aws
+
+### Facebook
 
 
 # countries
@@ -1323,36 +1369,6 @@ Learn something new. 🎊
 ### milky way
 
 - solar system
-
-
-# companies
-
-
-## interesting
-
-### Tesla
-
-### Apple
-
-- macbook
-
-- iPhone
-
-### SpaceX
-
-### Google
-
-- [search](https://my.mindnode.com/f8kVtmise9Q9TicGf6Pcudge2GCfhGNpqK1GGZZs)
-
-### DeepMind
-
-- alpha go
-
-### Amazon
-
-- aws
-
-### Facebook
 
 
 # [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
@@ -1494,9 +1510,6 @@ Learn something new. 🎊
 # [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
 
 
-# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
-
-
 # caching layers
 
 
@@ -1600,18 +1613,6 @@ Learn something new. 🎊
 ## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
 
 
-# markup languages
-
-
-## xml
-
-## html
-
-## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
-
-## markdown
-
-
 # projects
 
 
@@ -1636,6 +1637,12 @@ Learn something new. 🎊
 ## django
 
 
+# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
+
+
+## russian
+
+
 # practice
 
 
@@ -1648,12 +1655,6 @@ Learn something new. 🎊
 ## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
 
 ## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
-
-
-# style sheet languages
-
-
-## [css](https://my.mindnode.com/Vh8yQ3ysjVkqLsrrihV6ZqNUMqyyufe6hV75bak6)
 
 
 # music
@@ -1682,7 +1683,25 @@ Learn something new. 🎊
 ## hugo
 
 
-# java libraries
+# markup languages
+
+
+## xml
+
+## html
+
+## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
+
+## markdown
+
+
+# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
+
+
+# style sheet languages
+
+
+## [css](https://my.mindnode.com/Vh8yQ3ysjVkqLsrrihV6ZqNUMqyyufe6hV75bak6)
 
 
 # [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
@@ -1719,6 +1738,8 @@ Learn something new. 🎊
 - 12: programming in the large with design patterns
 
 - [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
+
+- 08: clean code
 
 ### haskell
 
