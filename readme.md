@@ -1,7 +1,7 @@
 #[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F)
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [underlined nodes are hyperlinks](https://github.com/nikitavoloboev/research#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want with my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mindmaps) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/ybMBwMH.jpg)
+![](http://i.imgur.com/unxOdEi.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki).
 
@@ -9,7 +9,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 ##[MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/ofrpdqV.jpg)
+![](http://i.imgur.com/ApI5dAn.jpg)
 
 
 ##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
@@ -107,7 +107,7 @@ Learn something new. 🎊
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
 
-# software development
+# [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
 
 
 ## [agile](https://my.mindnode.com/4hPUYtVtfLEL17EEecXhszyRpiM1pmjYec3i9ytr)
@@ -174,7 +174,7 @@ Learn something new. 🎊
 
 ## [kubernetes](https://my.mindnode.com/21syuSb9dYNWCvsd5xJV4ybfmxsx8LqWGXqM9xMe)
 
-## docker
+## [docker ✨](https://my.mindnode.com/3tDDSeJdpXeWHxU2L4mLyzpeAGLmCxepmMLWyu1R)
 
 
 # [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
@@ -205,6 +205,8 @@ Learn something new. 🎊
 ## error handling
 
 ## software verification
+
+## [dependency injection](https://my.mindnode.com/L1ZfeUJUTiLaJG9RUbE47q6QkDkYUxBGMA9URp2E)
 
 ## code generation
 
@@ -877,12 +879,6 @@ Learn something new. 🎊
 ## european union
 
 
-# pattern recognition
-
-
-# natural language processing
-
-
 # [blockchain](https://my.mindnode.com/Ey91pzzbeFtdJDWsViiZVLFkzxNTbFgTuwoyekAT)
 
 
@@ -901,6 +897,12 @@ Learn something new. 🎊
 # architecture
 
 
+# pattern recognition
+
+
+# natural language processing
+
+
 # feelings
 
 
@@ -911,6 +913,14 @@ Learn something new. 🎊
 ## happiness
 
 ## love
+
+
+# life
+
+
+## artificial
+
+## origin of life
 
 
 # photography
@@ -945,14 +955,6 @@ Learn something new. 🎊
 ### free will
 
 ## epistemology
-
-
-# life
-
-
-## artificial
-
-## origin of life
 
 
 # creativity
@@ -1033,7 +1035,7 @@ Learn something new. 🎊
 
 ## genetics
 
-### dna
+### [dna ✨](https://my.mindnode.com/eHJR69Qvm1maxCdSvqv4ahhjJYETkJmdVasGaEyt)
 
 ## [longevity](https://my.mindnode.com/2pP1tdxXxtxhNyhGy551fVEb1JN8XbS4R6qbQhNf)
 
@@ -1739,7 +1741,7 @@ Learn something new. 🎊
 
 - [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
 
-- 08: clean code
+- [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
 
 ### haskell
 
