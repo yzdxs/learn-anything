@@ -1,6 +1,6 @@
 #[articles I have written 📖](https://my.mindnode.com/mDqq5zQypHK7AMsViMjExttjzqETGUPNsad9TwxQ)
 
-![](http://i.imgur.com/IQ2ePVp.png) 
+![](http://i.imgur.com/iJ8pjoL.png) 
 
 
 Here are all the articles I have written thus far on [Medium](https://medium.com/@NikitaVoloboev). Take a look at the live mind map of it [here](https://my.mindnode.com/mDqq5zQypHK7AMsViMjExttjzqETGUPNsad9TwxQ) or just search for what you are looking for in the index. I hope you find something interesting.
@@ -22,13 +22,29 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 
 - my approach to news and overflow of information
 
-## [16: how to live a conscious life ✨](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl)
+## [16: what it means to live a conscious life ✨](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.x3mzy1kcl)
 
 - my journey with discovering and bringing compassion to my life
 
 ## [17: everything connects to everything else ✨](https://medium.com/@NikitaVoloboev/everything-connects-to-everything-else-c6a2d96a809d#.nn8gvwavn)
 
-- why I decided to conduct research and share all of my knowledge in a free and easily discoverable way
+- why i decided to share all of my knowledge in a free and easily discoverable way as a big mind map of connections
+
+## [17: knowledge bootstrapping ✨](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.udmp9eotg)
+
+- how can you share your entire thought process with the world 
+
+- my idea of open knowledge and how it can benefit all
+
+## [17: the root of it all ✨](https://medium.com/@NikitaVoloboev/the-root-of-it-all-9b6ab6a77e1d#.yt6ici5rf)
+
+- what is efficiency and how it relates to my life
+
+- how I practice efficiency and what is my approach to learning and solving learning dependencies of life
+
+## [17: project based learning ✨](https://medium.com/@NikitaVoloboev/project-based-learning-e511641869ca#.z6wr7ncu5)
+
+- how i changed my approach to learning by focusing on projects and not on learning for the sake of learning.
 
 
 # productivity
@@ -53,7 +69,4 @@ Here are all the articles I have written thus far on [Medium](https://medium.com
 ## [16: why medium?](https://medium.com/@NikitaVoloboev/why-medium-ff9b13fefe61#.guictx69p)
 
 - why host my writing on medium and not on my own site
-
-
-
 
