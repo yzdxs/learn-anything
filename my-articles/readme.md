@@ -1,9 +1,9 @@
-#[articles I have written 📖](https://my.mindnode.com/mDqq5zQypHK7AMsViMjExttjzqETGUPNsad9TwxQ)
+#[articles I have written 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 
 ![](http://i.imgur.com/iJ8pjoL.png) 
 
 
-Here are all the articles I have written thus far on [Medium](https://medium.com/@NikitaVoloboev). Take a look at the live mind map of it [here](https://my.mindnode.com/mDqq5zQypHK7AMsViMjExttjzqETGUPNsad9TwxQ) or just search for what you are looking for in the index. I hope you find something interesting.
+Here are all the articles I have written thus far on [Medium](https://medium.com/@NikitaVoloboev). Take a look at the live mind map of it [here](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd) or just search for what you are looking for in the index. I hope you find something interesting.
 
 #mindmap index 🗄️
 

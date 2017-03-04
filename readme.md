@@ -46,7 +46,7 @@ Learn something new. 🎊
 
 #mindmap index 🗄️
 
-# [research ✨](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
+# [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
 # **optimisation**
 
