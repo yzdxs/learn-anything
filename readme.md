@@ -15,7 +15,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 ##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 I also love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-##[My GitHup Repositories 👾](https://github.com/nikitavoloboev/research/tree/master/my-github#my-github-world-)
+##[My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
 
 I really love programming, building and sharing the things I have built. I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. This would solve a big problem of mine as I love data and especially I love collecting data about myself. It would allow me to analyse event frequency and give me prespective over my life. How many movies, series episodes I have seen and when, how many google searches I have done in a week, how many new GitHub repositoies I have created and when. The list goes on and the event triggering can even be automated via IFTTT or similar services. The best of it, is that you are in control of this data and not anyone else. This data about you is already getting collected in masse, it would be nice to see it for yourself and make your own analysis and decisions based on it.
 
@@ -29,10 +29,13 @@ I am still thinking how I will try to structure this project well. I want the co
 
 Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
 
-- [Here](https://github.com/nikitavoloboev/my-research/tree/master/links#favourite-websites) are some websites that I really like and often frequent to supplement my research and curiousity
-- [Here](https://github.com/nikitavoloboev/research/tree/master/quotes) are quotes that I liked and collected over the years
-- [Here](https://github.com/nikitavoloboev/research/tree/master/github#interesting-github-repositories) are some GitHub repositiores that I found interesting
-- [Here](https://github.com/nikitavoloboev/research/tree/master/images#images-) are all of the images that I have collected neatly sorted into Imgur albums
+- [code](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2) folder includes interesting mind maps related to programming 
+- [pdfs](https://github.com/nikitavoloboev/research/tree/master/pdfs) currently contain some past notes I have made before I was introduced to this neat mind map format 
+	- I may add some interesting free of license pdfs to it in the future
+- [personal](https://github.com/nikitavoloboev/research/tree/master/personal) folder contains my articles and my GitHub repositores in the textual and image format
+	- once again, the most up-to-date version will always be the live mind map
+- [top](https://github.com/nikitavoloboev/research/tree/master/top) folder contains all mind maps that I found to be particularly interesting to transfer in the textual and image format
+- [index](https://github.com/nikitavoloboev/research/tree/master/index) folder includes some of the mind maps that I translated from the research mind map to textual index and image 
 
 ##Contributing 🎉  
 It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
