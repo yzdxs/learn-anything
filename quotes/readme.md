@@ -15,16 +15,6 @@
 ## Artiﬁcial Intelligence is the study of how to make computers do things at which, at the moment, people are better.
 
 
-# cosmos
-
-
-## The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
-
-### Carl Sagan
-
-## In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
-
-
 # consciousness
 
 
@@ -96,6 +86,25 @@
 
 ## [After years of meditation, thousands of "out of body" experiences and one very significant, particular meditation I've come to the conclusion that I am not in the world, but the world is within "me".](https://www.reddit.com/r/Psychonaut/comments/5swt7m/what_is_the_craziest_thought_you_believe_in/ddin787/)
 
+## heaven, it's anywhere but where you are
+
+## So then, let’s suppose that you were able every night to dream any dream you wanted to dream, and that you could for example have the power within one night to dream 75 years of time, or any length of time you wanted to have.  
+  And you would, naturally, as you began on this adventure of dreams, you would fulfill all your wishes. You would have every kind of pleasure during your sleep. And after several nights of 75 years of total pleasure each you would say “Well that was pretty great”. But now let’s have a surprise, let’s have a dream which isn’t under control, where something is gonna happen to me that I don’t know what it's gonna be.  
+  And you would dig that and would come out of that and you would say “Wow that was a close shave, wasn’t it?”. Then you would get more and more adventurous and you would make further- and further-out gambles what you would dream. And finally, you would dream where you are now. You would dream the dream of living the life that you are actually living today.  
+  That would be within the infinite multiplicity of choices you would have. Of playing that you weren't god, because the whole nature of the godhead, according to this idea, is to play that he is not. So in this idea then, everybody is fundamentally the ultimate reality, not god in a politically kingly sense, but god in the sense of being the self, the deep-down basic whatever there is. And you are all that, only you are pretending you are not. ✨
+
+## Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water. ✨
+
+
+# cosmos
+
+
+## The cosmos is within us. We are made of star-stuff. We are a way for the universe to know itself.
+
+### Carl Sagan
+
+## In the beginning the Universe was created. This has made a lot of people very angry and been widely regarded as a bad move.
+
 
 # intelligence
 
@@ -127,6 +136,8 @@
 
 
 ## You are a business, your skills are the product. Treat it like that.
+
+## Show, don't tell ✨
 
 
 # programming
@@ -172,6 +183,12 @@
 
 ## [To be able to speak, one must listen. To be able to write (code), one must read (code)](https://medium.com/@jochasinga/dear-novice-developers-e95ce344de09#.i59gt5nym)
 
+## [The line of code that the developer can write the fastest, the line of code that the developer can maintain the cheapest, and the line of code that never breaks for the user, is the line of code that the developer never had to write.](https://www.youtube.com/watch?v=dl0CbKYUFTY)
+
+## Any sufficiently advanced software is indistinguishable from magic. ✨
+
+## If I have to do the same thing twice, I'm doing something wrong
+
 
 # focus
 
@@ -187,6 +204,18 @@
 ### John Carmack
 
 ## Are you moving one step in 20 directions or 20 steps in one direction?
+
+
+# future
+
+
+## The best way to predict the future is to invent it.
+
+### Alan Kay
+
+## Let’s go invent tomorrow.
+
+### Steve Jobs
 
 
 # knowledge
@@ -215,18 +244,6 @@
 ## Review the intuitive definition. Rephrase technical definitions in terms that make sense to you.
 
 
-# future
-
-
-## The best way to predict the future is to invent it.
-
-### Alan Kay
-
-## Let’s go invent tomorrow.
-
-### Steve Jobs
-
-
 # happiness
 
 
@@ -243,6 +260,12 @@
 ## Everything you can imagine is real.
 
 ### Pablo Picasso
+
+
+# engineering
+
+
+## A brilliant professor of mine liked to say "The Answer of the Engineer: it depends".
 
 
 # art
@@ -269,6 +292,44 @@
 ## If tomorrow my company goes under I will just start another paper company. And then another and another and another. I have no shortage of company names.
 
 
+# finance
+
+
+## A penny saved is a penny earned.
+
+### Benjamin Franklin
+
+## Wealthy is meaningless; use Unwealth: the difference, at any point in time, between what you have and what you would like to have
+
+## One man's debt is another man's financial asset
+
+
+# ideas
+
+
+## It is the simplest version of the idea that sticks.
+
+### Christopher Nolan
+
+
+# language
+
+
+## I didn’t learn to talk from a linguist, I learned to talk from hearing other people talk
+
+## A language isn't something you learn so much as something you join.
+
+
+# war
+
+
+## If we don’t end war, war will end us.
+
+## The nuclear arms race is like two sworn enemies standing waist deep in gasoline, one with three matches, the other with five.
+
+### Carl Sagan
+
+
 # nature
 
 
@@ -281,40 +342,10 @@
 - Hubert Reeves
 
 
-# finance
-
-
-## A penny saved is a penny earned.
-
-### Benjamin Franklin
-
-## Wealthy is meaningless; use Unwealth: the difference, at any point in time, between what you have and what you would like to have
-
-
-# engineering
-
-
-## A brilliant professor of mine liked to say "The Answer of the Engineer: it depends".
-
-
-# war
-
-
-## If we don’t end war, war will end us.
-
-
 # politics
 
 
 ## Democracy is the worst form of government ... except for all those other forms that have been tried from time to time.
-
-
-# language
-
-
-## I didn’t learn to talk from a linguist, I learned to talk from hearing other people talk
-
-## A language isn't something you learn so much as something you join.
 
 
 # internet of things
@@ -329,12 +360,24 @@
 ## Dying is but a moment
 
 
-# ideas
+# socialism
 
 
-## It is the simplest version of the idea that sticks.
+## [Socialism never took root in America because the poor see themselves not as an exploited proletariat but as temporarily embarrassed millionaires.](http://www.temporarilyembarrassedmillionaires.org/)
 
-### Christopher Nolan
+### John Steinbeck
+
+
+# books
+
+
+## The problem with books is that they end.
+
+### Caroline Kepnes
+
+## A reader lives a thousand lives before they die. The person who never reads lives only one.
+
+### George R. Martin
 
 
 # history
@@ -365,18 +408,6 @@
 ## The hardest thing to do is start.
 
 ## Focus on selling your product, not selling your company.
-
-
-# books
-
-
-## The problem with books is that they end.
-
-### Caroline Kepnes
-
-## A reader lives a thousand lives before they die. The person who never reads lives only one.
-
-### George R. Martin
 
 
 # fear
@@ -468,6 +499,24 @@
 
 ## [Two famous authors, Kurt Vonnegut and Joseph Heller are talking at a party hosted by a billionaire hedge fund manager. Kurt says to Joseph, “You know, this billionaire makes more money in one day than you made in your whole lifetime from your novel Catch-22“. Joe responds, “Yes, but I have something he will never have… enough. ✨](http://www.mrmoneymustache.com/2011/09/04/book-review-enough-by-john-c-bogle/)
 
+## All you touch, and all you see is all your life will ever be. ✨
+
+## a mistake only stays a mistake if you don't learn from it. ✨
+
+## The grass isn't greener on the other side, it's greener where you water it. ✨
+
+### Don't spend life daydreaming about 'what could be' in a different place or circumstance. Instead, invest your energy in what is right in front of you and see how it can be cultivated into something beautiful.
+
+## The grass is greener on the other side, but that's because it's fertilised with bullshit
+
+## Don’t worry about controlling your emotions. Control your actions ✨
+
+## Be the person you needed in life. ✨
+
+## [We're only visitors in this life after all. Might as well be humble and act respectfully. ✨](https://www.reddit.com/r/Psychonaut/comments/5xcxm9/any_20_something_scared_about_the_path_in_life/deh5pun/)
+
+## Life's about the journey not the destination. ✨
+
 
 # simplicity
 
@@ -497,30 +546,6 @@
 ## The world has enough for everyone's need, but not enough for everyone's greed.
 
 ### Gandhi
-
-
-# funny
-
-
-## I'm glad I'm unemployed so I have time to configure it!
-
-## You can’t wait to take perfectly Instagrammed photos of the meal to go along with your perfectly Instagrammed life.
-
-## Being a millennial is like joining a game of monopoly after all the properties have been bought up.
-
-## The exercises are phenomenal. Though they do range from "a stop gap to see if you understand" to "phd thesis" so it does vary.
-
-### on exercises of The Art of Computer Programming
-
-## [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him "How do you do it?" and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
-
-### Donald Trump pardody
-
-### there’s more too
-
-## if you haven’t automatically destroyed something by mistake, you are not automating enough
-
-## A junior software engineer is a function that maps programs to excuses.
 
 
 # motivation
@@ -555,12 +580,150 @@
 ## It’s not about having time, it’s about making time.
 
 
+# funny
+
+
+## I'm glad I'm unemployed so I have time to configure it!
+
+## You can’t wait to take perfectly Instagrammed photos of the meal to go along with your perfectly Instagrammed life.
+
+## Being a millennial is like joining a game of monopoly after all the properties have been bought up.
+
+## The exercises are phenomenal. Though they do range from "a stop gap to see if you understand" to "phd thesis" so it does vary.
+
+### on exercises of The Art of Computer Programming
+
+## [His communication is great. He's a great communicator. Believe me. He's communicated with a lot of people and he's top notch. Very top notch. A lot of people ask him "How do you do it?" and trust me when I say, he's great. And we're gonna have a lot more communication with him in charge, you can bet on that. China doesn't even communicate, but I'm telling you, he does it and it's just terrific.](https://www.reddit.com/r/worldnews/comments/5rjv9n/trump_told_australian_prime_minister_refugee/dd7vme2/)
+
+### Donald Trump pardody
+
+### there’s more too
+
+## if you haven’t automatically destroyed something by mistake, you are not automating enough
+
+## A junior software engineer is a function that maps programs to excuses.
+
+## The Muskonauts figured out why their shit exploded. Hackernews, literally all of whom are actual rocket scientists, wonders if unit tests could have helped. ✨
+
+## An astronaut has passed away. He retired from NASA in 1976, since which time humanity has been phoning it in with this whole space-travel scene. Half of Hackernews recognizes this as the massive failure it is; the other half seizes the opportunity to virtue-signal about all the other problems nobody's fixing.
+
+## Some people Instagram their food. On Hackernews, foodie cred is earned by bragging about what you don't eat. Sugar. Bread. Dairy. Meat. Caffeine. All of these are linked by science to early stroke, heart attack, cancer, and/or obesity. In addition, to live a long healthy life you need to tend to the bacteria living in your intestine like a Sea Monkey colony -- and don't forget to meditate frequently. I bet you can figure out where all this is headed -- and yes, when a very scientific study was published indicating eating nothing at all gave you regenerative superpowers, the Hackernews dietary virtue-signalers lost their collective mind.
+
+
+# choice
+
+
+## The essence of strategy is choosing what not to do.
+
+### M. E. Porter
+
+## If it's not a hell yes, it's a no.
+
+## In the age of information, ignorance is a choice ✨
+
+### Donny Miller
+
+
 # planning
 
 
 ## Give me six hours to chop down a tree and I will spend the first four sharpening the axe.
 
 ### Abraham Lincoln
+
+
+# history
+
+
+## If I asked people what they wanted, they would have said faster horses.
+
+### Henry Ford
+
+
+# thinking
+
+
+## Just because other people are idiots doesn't mean we should be.
+
+## [You often cannot control your thoughts, but you can control your actions](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.dt4bs9be8)
+
+### me
+
+- maybe :|
+
+
+# control
+
+
+## If everything is under control, you're going too slow.
+
+### Mario Andretti
+
+
+# health
+
+
+## if you don’t measure it, it won’t get fixed
+
+
+# relationship
+
+
+## [If it feels good, stay. If it doesn't, leave. ✨](https://www.reddit.com/r/Psychonaut/comments/5xh2z7/open_relationships/dei0b3f/)
+
+
+# nutrition
+
+
+## Eat food. Not too much. Mostly plants.
+
+
+# privacy
+
+
+## there is no cloud, just other people's computers
+
+
+# change
+
+
+## There are decades when nothing happens. There are weeks where decades happen.
+
+### Vladimir Lenin
+
+
+# writing
+
+
+## Never use a long word when a short one will do.
+
+### Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
+
+- George Orwell
+
+
+# design
+
+
+## Design is not just what it looks like and feels like. Design is how it works.
+
+### Steve Jobs
+
+
+# chess
+
+
+## Only one, but it’s always the right one.
+
+### Jose Capablanca, when asked how many moves ahead he looked while playing chess
+
+
+# friends
+
+
+## To know who your true friends are, look out for the ones who say good things behind your back and bad things to your face.
+
+### bad things being criticism
 
 
 # psychedelic
@@ -601,95 +764,21 @@
 
 ### Alan Watts
 
+## without salt, an egg is no fun to eat
 
-# history
+### a sprinkle of salt will make the egg taste much better
 
-
-## If I asked people what they wanted, they would have said faster horses.
-
-### Henry Ford
+### a spoonful will make the egg unpalatable
 
 
-# thinking
+# physics
 
 
-## Just because other people are idiots doesn't mean we should be.
+## What is special about atomic theory is the supposition that there is an endpoint to recursive reduction. That at some point you cannot find anything simpler.
 
-## [You often cannot control your thoughts, but you can control your actions](https://medium.com/@NikitaVoloboev/what-it-means-to-live-a-conscious-life-c96f6517077#.dt4bs9be8)
+## The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
 
-### me
-
-- maybe :|
-
-
-# control
-
-
-## If everything is under control, you're going too slow.
-
-### Mario Andretti
-
-
-# health
-
-
-## if you don’t measure it, it won’t get fixed
-
-
-# nutrition
-
-
-## Eat food. Not too much. Mostly plants.
-
-
-# choice
-
-
-## The essence of strategy is choosing what not to do.
-
-### M. E. Porter
-
-## If it's not a hell yes, it's a no.
-
-
-# privacy
-
-
-## there is no cloud, just other people's computers
-
-
-# change
-
-
-## There are decades when nothing happens. There are weeks where decades happen.
-
-### Vladimir Lenin
-
-
-# design
-
-
-## Design is not just what it looks like and feels like. Design is how it works.
-
-### Steve Jobs
-
-
-# chess
-
-
-## Only one, but it’s always the right one.
-
-### Jose Capablanca, when asked how many moves ahead he looked while playing chess
-
-
-# drugs
-
-
-## When you drink alcohol you are just borrowing happiness from tomorrow.
-
-## The dose makes the poison.
-
-## Know your body, know your mind, know your substance, know your source.
+### Atomic theory is just a special case of this insight.
 
 
 # math
@@ -711,31 +800,53 @@
 
 ### John von Neumann
 
+## Geometry without algebra is dumb! Algebra without geometry is blind! ✨
 
-# writing
-
-
-## Never use a long word when a short one will do.
-
-### Never use a foreign phrase, a scientific word, or a jargon word if you can think of an everyday English equivalent.
-
-- George Orwell
-
-
-# physics
-
-
-## What is special about atomic theory is the supposition that there is an endpoint to recursive reduction. That at some point you cannot find anything simpler.
-
-## The general principle that any problem you face, no matter how big, can be broken down into smaller and easier to solve problems, recursively, is the most important idea in human history.
-
-### Atomic theory is just a special case of this insight.
+### Hestenes
 
 
 # freedom
 
 
 ## Freedom consists of the distribution of power and despotism in its concentration.
+
+## What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egotism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance. Orwell feared we would become a captive culture. Huxley feared we would become a trivial culture, preoccupied with some equivalent of the feelies, the orgy porgy, and the centrifugal bumblepuppy. As Huxley remarked in Brave New World Revisited, the civil libertarians and rationalists who are ever on the alert to oppose tyranny “failed to take into account man’s almost infinite appetite for distractions.” In 1984, Orwell added, people are controlled by inflicting pain. In Brave New World, they are controlled by inflicting pleasure. In short, Orwell feared that what we fear will ruin us. Huxley feared that our desire will ruin us.
+
+
+# problem solving
+
+
+## If you can’t solve a problem, it’s because you’re playing by the rules.
+
+
+# drugs
+
+
+## When you drink alcohol you are just borrowing happiness from tomorrow.
+
+## The dose makes the poison.
+
+## Know your body, know your mind, know your substance, know your source.
+
+
+# psychedelics
+
+
+## "[In the way that climbing Mt. Everest would change the way you think." is probably a good analogy. Any experience in your life will alter the way you think.](https://www.reddit.com/r/LSD/comments/5tov8q/does_lsd_really_make_you_think_different/ddnz08q/)
+
+### on whether LSD makes you ‘think different’
+
+
+# literature
+
+
+## You must have a map, no matter how rough. Otherwise you wander all over the place. In The Lord of the Rings I never made anyone go farther than he could on a given day.
+
+### Tolkien
+
+## What nicer thing can you do for somebody than make them breakfast?
+
+### Anthony Bourdain
 
 
 # dmt
@@ -744,8 +855,10 @@
 ## DMT will not teach you anything about this universe. The only guaranteed truths you will find there are about the self. Everything else is just what could be, in my opinion.
 
 
-# problem solving
+# loneliness
 
 
-## If you can’t solve a problem, it’s because you’re playing by the rules.
+## The self hides in many ways, under every stone, the self can hide in compassion, going to India and looking after poor people, because the self is attached to some idea, faith, conclusion, belief, which makes me compassionate because I love Jesus or Krishna, and I go up to heaven. The self has many masks, the mask of meditation, the mask of achieving the highest, the mask that I am enlightened, that “I know of what I speak.” All this concern about humanity is another mask. So one has to have an extraordinary, subtle, quick brain to see where it is hiding. It requires great attention, watching, watching, watching.
+
+### On Mind and Thought, p 133
 
