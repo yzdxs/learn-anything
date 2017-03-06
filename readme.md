@@ -71,7 +71,7 @@ Learn something new. 🎊
 
 ## design
 
-## genetic
+## [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
 
 ## sorting
 
@@ -228,6 +228,18 @@ Learn something new. 🎊
 ## [competitive ✨](https://my.mindnode.com/HjzAcCjnzpEcL69NSNYigoEyVeDTUiXLsEh3nM6P)
 
 
+# [hardware ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
+
+
+## cpu
+
+## cache
+
+## gpu
+
+### [cuda](https://my.mindnode.com/UzsD8fPyLmedeobRhtjqAygoxdZn9fD86WtFfAVS#-242.9,-144.7,2)
+
+
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
 
 
@@ -251,7 +263,7 @@ Learn something new. 🎊
 
 ### [euclidean space](https://my.mindnode.com/4p6W9xqHA9cq6zPThMs28tXqdxMpLySs24oBbt1a)
 
-## calculus
+## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
 
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
@@ -289,17 +301,7 @@ Learn something new. 🎊
 
 ## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
 
-
-# [hardware ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
-
-
-## cpu
-
-## cache
-
-## gpu
-
-### [cuda](https://my.mindnode.com/UzsD8fPyLmedeobRhtjqAygoxdZn9fD86WtFfAVS#-242.9,-144.7,2)
+## [modularity ✨](https://my.mindnode.com/kXvXxFpeskVny5UVsqjDbnpxdyH6UJbyzxYsAx4o)
 
 
 # build systems
@@ -430,6 +432,12 @@ Learn something new. 🎊
 # [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
 
 
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+
+
+## [unity ✨](%E2%9C%A8)
+
+
 # embedded systems
 
 
@@ -437,9 +445,6 @@ Learn something new. 🎊
 
 
 # reverse engineering
-
-
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
 
 
 # [virtual machines](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
@@ -664,6 +669,16 @@ Learn something new. 🎊
 # [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
 
 
+# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
+
+
+## mySQL
+
+## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
+
+## database design
+
+
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
 
 
@@ -710,20 +725,10 @@ Learn something new. 🎊
 ## desalination
 
 
-# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
-
-
-## mySQL
-
-## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
-
-## database design
+# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 
 # [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
-
-
-# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 
 # productivity
@@ -749,18 +754,6 @@ Learn something new. 🎊
 ## [quantum mechanics](https://my.mindnode.com/2c7cnk5x4YZa3SEMhjQkxy2xDtZFj8sKNqsx9Xem)
 
 
-# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
-
-
-# licensing
-
-
-## apache
-
-
-# [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
-
-
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
 
 
@@ -784,7 +777,21 @@ Learn something new. 🎊
 
 ## favourite
 
+## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
+
 ## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
+
+
+# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
+
+
+# licensing
+
+
+## apache
+
+
+# [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
 # shells
@@ -1062,9 +1069,6 @@ Learn something new. 🎊
 ## biomimetics
 
 
-# operations research
-
-
 # [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
 
 
@@ -1135,6 +1139,19 @@ Learn something new. 🎊
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
 
 
+# operations research
+
+
+# human anatomy
+
+
+## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
+
+### limbic system
+
+## body
+
+
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
@@ -1148,16 +1165,6 @@ Learn something new. 🎊
 ## cancer
 
 ## tuberculosis
-
-
-# humans
-
-
-## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
-
-### limbic system
-
-## body
 
 
 # economics
@@ -1181,7 +1188,7 @@ Learn something new. 🎊
 
 ## financial market
 
-## communism
+## [communism](https://my.mindnode.com/xv9RWdhRfTUxFiLe25EiqjbsssJLgP5u7pyYgJCY)
 
 
 # fitness
@@ -1271,7 +1278,7 @@ Learn something new. 🎊
 # [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
 
 
-## nutrition
+## [nutrition ✨](https://my.mindnode.com/KxGQpeGpwRvAYNWaKy7U7pvnxivHzfoU9x73txyL)
 
 ### [drinks](https://my.mindnode.com/QnYKDwuFgWReEQ3uZDMNexpJDsYbi4pqNppiRCbD)
 
@@ -1294,6 +1301,8 @@ Learn something new. 🎊
 ## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
 
 ## [computer science](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
+
+## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
 
 
 # javascript engines
@@ -1438,7 +1447,7 @@ Learn something new. 🎊
 # backend
 
 
-## node.js
+## [node.js](https://my.mindnode.com/5iqRf7zVt3zQq1S8myXgBvddPBMz6TisgQSJWyxU)
 
 
 # comedy
@@ -1609,7 +1618,13 @@ Learn something new. 🎊
 ## sinatra
 
 
-# writing
+# projects
+
+
+## ideas
+
+
+# [writing ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
 
 
 ## [poetry ✨](https://my.mindnode.com/4x6m1v6SfirRyVZFonNjS1BksMY6z43cR7dJ2qui)
@@ -1631,12 +1646,6 @@ Learn something new. 🎊
 ## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
 
 
-# projects
-
-
-## ideas
-
-
 # music creation
 
 
@@ -1645,6 +1654,12 @@ Learn something new. 🎊
 ### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
 
 ## [sonic pi ✨](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
+
+
+# practice
+
+
+## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
 
 
 # python libraries
@@ -1661,10 +1676,10 @@ Learn something new. 🎊
 ## russian
 
 
-# practice
+# [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
 
 
-## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
+## jupyter
 
 
 # [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
@@ -1807,6 +1822,12 @@ Learn something new. 🎊
 
 ### 1926: the richest man in babylon
 
+## economics
+
+### [1867: capital](https://my.mindnode.com/5sjd2MzaFJVsbGErUExeLV4kw7GY6q2mZqav7V99)
+
+### 1917: imperialism, the highest stage of capitalism
+
 ## physics
 
 ### university physics with modern physics ✨
@@ -1821,6 +1842,10 @@ Learn something new. 🎊
 
 ### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
 
+### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
+
+### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
+
 ## cs
 
 ### 08: annotated turing
@@ -1830,6 +1855,10 @@ Learn something new. 🎊
 ## bio
 
 ### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
+
+## memoirs
+
+### 2014: a thousand tiny failures: memoirs of a pickup artist
 
 ## fiction
 
@@ -1860,8 +1889,4 @@ Learn something new. 🎊
 ## philosophy
 
 ### [1979: godel, escher, bach ✨](https://my.mindnode.com/SKWBeinTesSXaXSMJ4h8DpEamjQWUcpvZAgsuMgp)
-
-## memoirs
-
-### 2014: a thousand tiny failures: memoirs of a pickup artist
 
