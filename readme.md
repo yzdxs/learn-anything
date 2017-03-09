@@ -24,7 +24,7 @@ This idea is not limited to a macOS app, I originally wanted to make it as a web
 If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.com). It's always better working together.
 
 ##Contributing 🎉
-There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of such possible issue](https://github.com/nikitavoloboev/knowledge-map/issues/1).
+There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of such possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
 Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
 
