@@ -1,5 +1,5 @@
-#[My Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F)
-####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [underlined nodes are hyperlinks](https://github.com/nikitavoloboev/research#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want with my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mindmaps) to instantly open the mind map you need wherever you are)
+#[Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F)
+####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [underlined nodes are hyperlinks](https://github.com/nikitavoloboev/research#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mindmaps) to instantly open the mind map you need wherever you are)
 
 ![](http://i.imgur.com/jU9LLsJ.jpg)
 
@@ -13,7 +13,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 
 ##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
-I also love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
 ##[My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
 
@@ -21,26 +21,33 @@ I really love programming, building and sharing the things I have built. I am cu
 
 This idea is not limited to a macOS app, I originally wanted to make it as a website and it will eventually have a website front end to it.
 
-If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.com). It's always better working together. 
+If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.com). It's always better working together.
+
+##Contributing 🎉
+There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed.
+
+Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
+
+As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of Google where you have to know what to ask before getting an answer.
+
+If you do want to help me, make my vision of open sourcing and visualising all of the world's knowledge in this way, you can try look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8) and see what I have missed adding there that you think should be added. Quality over quantitiy though. The goal is to represent knoweldge visually and see connections between each of the nodes. 
+
+There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. 
+ 
 
 ##Other folders in this repository 📁
  
-I am still thinking how I will try to structure this project well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and perhaps one day everything will be exported in this way so there are two options to view the content and I also get the benefit of search engine indexing. 
+I am still thinking how I will try to structure this project and this repository well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and hope everything will be exported both in textual and image format and as a live mind map of links.
 
 Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
 
-- [code](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2) folder includes interesting mind maps related to programming 
-- [pdfs](https://github.com/nikitavoloboev/research/tree/master/pdfs) currently contain some past notes I have made before I was introduced to this neat mind map format 
-	- I may add some interesting free of license pdfs to it in the future
+- [code](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2) folder includes interesting mind maps related to programming
+- [top](https://github.com/nikitavoloboev/research/tree/master/top) folder contains all mind maps that I found to be particularly interesting to transfer in the textual and image format
 - [personal](https://github.com/nikitavoloboev/research/tree/master/personal) folder contains my articles and my GitHub repositores in the textual and image format
 	- once again, the most up-to-date version will always be the live mind map
-- [top](https://github.com/nikitavoloboev/research/tree/master/top) folder contains all mind maps that I found to be particularly interesting to transfer in the textual and image format
 - [index](https://github.com/nikitavoloboev/research/tree/master/index) folder includes some of the mind maps that I translated from the research mind map to textual index and image 
-
-##Contributing 🎉  
-It is a shame that there is currently no easy way to contribute to this project. However you still can contribute if you like. You can [start an issue](https://github.com/nikitavoloboev/research/issues/new) and specify where you have found a mistake by sending a screenshot of it and specifiying in  which mind map you have found it. After all, this is not an offical wiki and I often don't cite sources. These are just my notes and observations. They can be wrong.
-
-I would also appreciate requests for topics or articles that I have not mapped. Any proposal to add some research paper or software that you found really interesting but I don't have is always welcome.
+- [pdfs](https://github.com/nikitavoloboev/research/tree/master/pdfs) currently contain some past notes I have made before I was introduced to this neat mind map format 
+	- I may add some interesting free of license pdfs to it in the future
 
 #Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
@@ -379,13 +386,15 @@ Learn something new. 🎊
 
 ## c#
 
+## [python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
+
+### [cpython](https://my.mindnode.com/zjVZkR2hejWk3qfEjCys3Fyhx9W9XJDZ9ZwLisQa)
+
 ## [objc ✨](https://my.mindnode.com/66qabf7Zyssep6qqzHE6b4pafuzxxaiVyBpg9SQ9)
 
 ## [swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
 ## [haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
-
-## [python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
 
 ## [go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
 
@@ -629,6 +638,8 @@ Learn something new. 🎊
 ### [counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
 
 ### [factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
+
+## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
 # [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
@@ -935,7 +946,7 @@ Learn something new. 🎊
 # pattern recognition
 
 
-# natural language processing
+# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
 
 
 # piracy
@@ -1290,15 +1301,6 @@ Learn something new. 🎊
 # [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 
-# fungus
-
-
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
-
-
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
-
-
 # [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
 
 
@@ -1308,9 +1310,23 @@ Learn something new. 🎊
 
 ## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
 
+### [neural networks](https://my.mindnode.com/DQcxpqpBKhMizY6LfaysgAMufBsyaxoxTnEeTj9M)
+
 ## [computer science](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
 
 ## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
+
+
+# fungus
+
+
+# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+
+
+## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
+
+
+# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
 
 # [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
@@ -1340,6 +1356,22 @@ Learn something new. 🎊
 # teaching
 
 
+# space
+
+
+## black holes
+
+## stars
+
+### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
+
+## galaxies
+
+### milky way
+
+- solar system
+
+
 # countries
 
 
@@ -1358,6 +1390,20 @@ Learn something new. 🎊
 ### russia
 
 ### china
+
+
+# protocols
+
+
+## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
+
+## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
+
+## tcp/ip
+
+## [websocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
+
+## LPWAN
 
 
 # companies
@@ -1379,7 +1425,7 @@ Learn something new. 🎊
 
 - deepmind
 
-	- alpha go
+	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
 
 - google
 
@@ -1388,36 +1434,6 @@ Learn something new. 🎊
 ### amazon
 
 ### facebook
-
-
-# space
-
-
-## black holes
-
-## stars
-
-### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
-
-## galaxies
-
-### milky way
-
-- solar system
-
-
-# protocols
-
-
-## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
-
-## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
-
-## tcp/ip
-
-## [websocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
-
-## LPWAN
 
 
 # [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
@@ -1607,11 +1623,13 @@ Learn something new. 🎊
 # js libraries
 
 
-## [react](https://my.mindnode.com/sfEwzy9awRHFVG8hY74fjkfLMeufFJxMETJdg72H)
+## [react ✨](https://my.mindnode.com/sfEwzy9awRHFVG8hY74fjkfLMeufFJxMETJdg72H)
 
 ### fiber
 
 ### [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
+
+### [components ✨](https://my.mindnode.com/wfi8BEQVtwNpezoexVAYxpfvkQp4tMSz8ccxwZBA)
 
 ## browserify
 
