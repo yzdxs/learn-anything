@@ -17,11 +17,7 @@ I love writing. I find the act of writing really enjoyable as I try to condense 
 
 ##[My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
 
-I really love programming, building and sharing the things I have built. I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. This would solve a big problem of mine as I love data and especially I love collecting data about myself. It would allow me to analyse event frequency and give me prespective over my life. How many movies, series episodes I have seen and when, how many google searches I have done in a week, how many new GitHub repositoies I have created and when. The list goes on and the event triggering can even be automated via IFTTT or similar services. The best of it, is that you are in control of this data and not anyone else. This data about you is already getting collected in masse, it would be nice to see it for yourself and make your own analysis and decisions based on it.
-
-This idea is not limited to a macOS app, I originally wanted to make it as a website and it will eventually have a website front end to it.
-
-If you find this idea interesting, [get in touch](mailto:nikita.voloboev@gmail.com). It's always better working together.
+I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
 
 ##Contributing 🎉
 There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of such possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
@@ -32,7 +28,7 @@ As it currently stands, this mind map is used mainly by me but as I explore furt
 
 If you do want to help me make my vision of open sourcing and visualising all of the world's knowledge in this way a reality, you can try look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu) and see what I have missed adding there that you think should be added. Quality over quantitiy though. The goal is to represent knoweldge visually and see connections between each of the nodes. 
 
-There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. 
+There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
  
 
 ##Other folders in this repository 📁
