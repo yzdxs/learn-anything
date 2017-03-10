@@ -1,7 +1,7 @@
 #[Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F)
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [underlined nodes are hyperlinks](https://github.com/nikitavoloboev/research#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/research#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-my-mindmaps) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/3WNvgbV.jpg)
+![](http://i.imgur.com/2661M8g.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
@@ -51,6 +51,7 @@ If you have some specific questions about this project or about myself, my inter
 Learn something new. 🎊
 
 #mindmap index 🗄️
+
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
@@ -112,7 +113,7 @@ Learn something new. 🎊
 
 ## [matrix multiplication](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
 
-## ai
+## [ai ✨](https://my.mindnode.com/4m9t3mPfyqswiCReekaA41Vt6xJmpMG4gN2zpvir)
 
 ### combinatorial search
 
@@ -142,6 +143,8 @@ Learn something new. 🎊
 
 ## [deep learning ✨](https://my.mindnode.com/ycU59gAXTjsXkJqjR2xAYawvcFuXqUPbxiDpBX4z)
 
+## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
+
 
 # [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
 
@@ -154,7 +157,7 @@ Learn something new. 🎊
 # cloud hosting
 
 
-## [aws ✨](https://my.mindnode.com/DaYrQ8ok2RVZ2mgW8sVewFDy8sWcdqqAg1QsyrB7)
+## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
 
 ## google cloud
 
@@ -195,6 +198,10 @@ Learn something new. 🎊
 
 ### commutative algebra
 
+### [abstract ✨](https://my.mindnode.com/iJoDvZpGKSpHg7rozqGzf39poVDULtchtxRwYtJ2)
+
+### [homomorphism ✨](https://my.mindnode.com/Ws5PJ3aSyH7BcyKfkJdsefcxHcQ91sVBe3Lse4pw)
+
 ## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
 
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
@@ -205,7 +212,9 @@ Learn something new. 🎊
 
 ## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
 
-### combinatory
+### [combinatory](https://my.mindnode.com/L8qVAYGatTeXQDecPUr9y1E1Qy68GQ1pH4R8qp7L)
+
+### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
 
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
@@ -283,6 +292,8 @@ Learn something new. 🎊
 
 ## [representation theory](https://my.mindnode.com/rtP2zyWvKfBt61nqLKxCjEuphAqp78PGum9TtGoS)
 
+## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
+
 
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
 
@@ -321,7 +332,7 @@ Learn something new. 🎊
 
 ## bitwise operations
 
-## [design patterns](https://my.mindnode.com/YuPqxS24m3eYVp6xqdAD2v5tYTTx5odGywTsQu7a#-112.3,-358.5,2)
+## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12)
 
 ## [dynamic programming](https://my.mindnode.com/cpxi9EqMbbF7cvq3vqD4pDQLwHetX81qagPEXi99)
 
@@ -329,13 +340,15 @@ Learn something new. 🎊
 
 ## [paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn#767.7,-730.8,2)
 
-### [functional programming](https://my.mindnode.com/GUj38CDMx1Y7Bb6pn3CHNqpN6ZtUyUQsNepzsa1k)
+### [functional ✨](https://my.mindnode.com/VBKbwLewsn3MhqzDHunGu2GzKrU5apxicASUbHri)
+
+### [object oriented](https://my.mindnode.com/bXt6DgouTpBrCURxSzAyvZxMEsSU4pd4ecBVtRzn)
 
 ## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
 
 ### [test driven development](https://my.mindnode.com/ey6QYxyUo6JqQ6tDmmRRLykwjpr7ybbEf5fcicZr)
 
-## error handling
+## [error handling ✨](https://my.mindnode.com/hsypcsP4rFSaqi8Gs2J6a3KsMfeKUpVPqEudmXYw)
 
 ## software verification
 
@@ -442,6 +455,8 @@ Learn something new. 🎊
 
 ## [elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
 
+## d
+
 
 # [emulation](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx#477.8,-480.0,2)
 
@@ -520,6 +535,493 @@ Learn something new. 🎊
 # reverse engineering
 
 
+# [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
+
+
+## programming 
+
+### general
+
+- [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
+
+- 15: crafting interpreters
+
+- 12: programming in the large with design patterns
+
+- [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
+
+- [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
+
+- 11: the art of readable code: simple and practical techniques for writing better code
+
+- 1979: structure and interpretation of computer programs
+
+- 1999: the pragmatic programmer
+
+- [1999: refactoring](https://my.mindnode.com/WZyRVRx5r5rAQnDpiZnvYFYjgVqNWMe5c2ap12Dm)
+
+- [10: apprenticeship patterns](https://my.mindnode.com/aKDoUJ6xZcLhqLxQPD2KhMQzLyaSQVuAQccycj71)
+
+- 1971: the psychology of computer programming
+
+- 1976: software reliability: principles and practices
+
+- 1991: the art of the metaobject protocol
+
+### c
+
+- 1975: the c programming language
+
+### go
+
+- 15: go in action
+
+- 15: the go programming language
+
+- [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
+
+- build web application with golang ✨
+
+### python
+
+- 04: dive into python 3
+
+- [13: data structures and algorithms in python](https://my.mindnode.com/w1m9U8sjiuyBpvwpACExp6p7gcqHYjNz7NsxkqUE)
+
+- [14: test driven development with python](https://my.mindnode.com/1NuKTSCxb8dihLi5s7RyPTTyofLxxy1fRz7ky85a)
+
+- 15: effective python
+
+- 15: fluent python
+
+### java
+
+- 01: effective java
+
+- 06: java concurrency in practice
+
+### lisp
+
+- [1974: the little schemer](https://my.mindnode.com/Ew12qsKsWLxWPhaeAkD1vcecyyoo4XFrAB6eqM2t)
+
+### haskell
+
+- 14: write you a haskell
+
+- [16: programming in haskell ✨](https://my.mindnode.com/xpqnuUYqQVEkzarNVWgqWKSSwn7pMC7rnqdUzch3)
+
+### interviews
+
+- [08: cracking the coding interview ✨](https://my.mindnode.com/q56HqUGVibyi8s7MyfVye2cesSoyDndHTpoXEigv)
+
+- 12: elements of programming interviews
+
+### javascript
+
+- you don’t know js: up and going ✨✔
+
+### swift
+
+- 14: swift programming language
+
+### ruby
+
+- 13: confident ruby
+
+- 11: eloquent ruby
+
+- 09: the well grounded rubyist
+
+- 12: practical object oriented design in ruby
+
+### smalltalk
+
+- 1997: smalltalk best practice patterns
+
+### ios
+
+- [15: ios 10 programming fundamentals with swift ✨](https://my.mindnode.com/nqqqvfLsMU38U1Fj6qie3QDQFW3v5gjj1dTqqiza)
+
+### vim
+
+- 12: practical vim
+
+### git
+
+- 14: git in practice
+
+## physics
+
+### university physics with modern physics ✨
+
+### 04: the fabric of the cosmos
+
+## algorithms
+
+### 1990: introduction to algorithms
+
+### 1987: algorithm design manual
+
+### [05: algorithm design](https://my.mindnode.com/9LNaDUqpHqPZAT3uVxjeumMScWLmJyh13FXMrcrJ)
+
+## mindset
+
+### 1936: how to win friends and influence people ✨
+
+### 1937: think and grow rich
+
+### 14: a mind for numbers: how to excel at math and science ✨✔
+
+### 11: models ✨✔
+
+### 1990: peace is every step
+
+### 1946: man’s search for meaning
+
+### 1942: the stranger
+
+### 09: eating animals
+
+### 1992: mindfulness in plain english ✨
+
+### 04: emptiness dancing
+
+### 1957: the way of zen ✨
+
+### 1954: the first and last freedom
+
+### 12: mastery
+
+### 6th century bc: tao te ching
+
+### 1922: siddhartha
+
+## finance
+
+### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
+
+### 1926: the richest man in babylon
+
+## economics
+
+### [1867: capital](https://my.mindnode.com/5sjd2MzaFJVsbGErUExeLV4kw7GY6q2mZqav7V99)
+
+### 1917: imperialism, the highest stage of capitalism
+
+### 1953: the worldly philosophers
+
+### 11: debt: first 5000 years
+
+### 13: how asia works: success and failure in the world’s most dynamic region
+
+## ai
+
+### [11: introduction to artificial intelligence](https://my.mindnode.com/TYXYAZ4MaCsrGqbMZsaWqtopx6ZCWqr6w9QnDb6w)
+
+### [1994: artificial intelligence a modern approach](https://my.mindnode.com/8ok1w3MLy4TzxZEmanaxmLnHyR8MP4DVpdmKPyB1)
+
+## machine learning
+
+### [deep learning ✨](http://www.deeplearningbook.org/)
+
+## math
+
+### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
+
+### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
+
+### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
+
+### [invitation to ergodic theory](https://my.mindnode.com/xGoRE9DY9RiiJwNJcfprC5zn95RfsnEDijCdQYc4)
+
+### 1999: geometry and the imagination
+
+### 12: foundations of analysis
+
+### 09: essentials of discrete mathematics
+
+### 1995: linear algebra done right
+
+### 1982: a book of abstract algebra
+
+### 1972: mathematics made difficult
+
+### [04: a first course in linear algebra](https://my.mindnode.com/ynpsot4oopEKj5XvWpJfinwQWvPsD4NZQXmo7wwx)
+
+## statistics
+
+### 13: an introduction to statistical learning: with applications in r
+
+## cs
+
+### 08: annotated turing
+
+### 05: the elements of computing systems
+
+### 11: the nature of computation
+
+### 1989: the turing omnibus
+
+### 1996: introduction to the theory of computation
+
+### [02: types and programming languages](https://my.mindnode.com/xMFn66c9gWpFtNbFbQVUyQyUL7dnoqzxMv6TUqph)
+
+### [04: advanced topics in types and programming languages](https://my.mindnode.com/QVgt5LMzTSQqBRvPwC2ct5QMDzsXpqntgfVrC4qN)
+
+## science
+
+### 03: a short history of nearly everything
+
+### 1988: a brief history of time
+
+## data science
+
+### [14: designing data intensive applications](https://my.mindnode.com/xgazkstoTxKmzb1SFsc1kUJsaPzy2gCpE8xERbCy)
+
+## management
+
+### 1975: the mythical man-month
+
+### 1983: high output management
+
+## compilers
+
+### advanced compiler design and implementation
+
+## gamedev
+
+### 03: tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation
+
+## bio
+
+### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
+
+## memoirs
+
+### 2014: a thousand tiny failures: memoirs of a pickup artist ✔
+
+### 1942: the world of yesterday
+
+### 1854: walden
+
+## fiction
+
+### 1890: the picture of dorian gray ✨✔
+
+### [1932: brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
+
+### [1959: flowers for algernon ✨✔](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
+
+### 1925: heart of a dog ✨✔
+
+### 1967: master and margarita ✨✔
+
+### 1972: roadside picnic ✨✔
+
+### 1892: the yellow wallpaper  ✔
+
+### 1954: the doors of perception ✨
+
+### 1949: nineteen eighty-four ✨
+
+### 1943: the glass bead game
+
+### 1981: the soul of new machine
+
+### 1880: the brothers karamazov
+
+### 1978: hitchhikers guide to the galaxy
+
+### 1996: the story of b: an adventure of the mind and spirit
+
+### 1965: dune
+
+### 1985: blood meridian
+
+### 1953: fahrenheit 451
+
+### 1914: the ragged trousered philanthropists
+
+### 1969: slaughterhouse five
+
+### 1908: the iron heel
+
+### 06: the road
+
+### 10: the passage
+
+### 1962: we have always lived in the castle
+
+### 1955: lolita
+
+### 00: house of leaves
+
+### 1864: notes from underground
+
+### 1924: we
+
+### 1866: crime and punishment
+
+### 1977: the shining
+
+### 15: harry potter and the methods of rationality
+
+### 1951: the rebel: an essay on man in revolt
+
+### 1962: one day in the life of ivan denisovich
+
+### 1964: monday begins on saturday
+
+### 1962: pale fire
+
+### 1869: the idiot
+
+### 1999: the perks of being a wallflower ✔
+
+## scifi
+
+### culture series
+
+- excession
+
+### blindsight
+
+### 11: the martian
+
+### the dispossessed
+
+### 1963: cat’s cradle
+
+### 14: red rising
+
+### 1968: do androids dream of electric sheep?
+
+### 1992: snow crash
+
+### 1994: permutation city
+
+### 1988: the player of games
+
+### 1985: ender’s game
+
+## adventure
+
+### 1844: the count of monte cristo
+
+## short stories
+
+### [1956: the last question ✨✔](https://my.mindnode.com/qrGA3PyEVxWZDisJ8dxpz9J7eJTbdqYLLXPnBND4)
+
+### 1943: the little prince ✨✔
+
+### 1991: understand ✨✔
+
+### [2005: the fable of the dragon-tyrant ✨✔](https://my.mindnode.com/jYyp4tzqcpUdapyqQsDSTm8orzBNcMmByq13i2UH)
+
+### 1998: story of your life
+
+## thriller
+
+### 1939: and then there were none 
+
+## non fiction
+
+### 1997: into thin air
+
+## history
+
+### 1986: the making of atomic bomb
+
+### 1980: a people’s history of the united states
+
+### 11: sapiens: a brief history of humankind
+
+### 1973: gravity’s rainbow
+
+### 12: the idea factory: bell labs and the great age of american innovation
+
+### 03: masters of doom
+
+### 1903: the souls of black folk
+
+### 1975: american slavery, american freedom
+
+### 1962: the structure of scientific revolutions
+
+## crypto
+
+### 1999: the code book ✨
+
+## alt history
+
+### 1962: the man in the high castle
+
+## evolution
+
+### [the selfish gene](https://my.mindnode.com/APDG3wu3couR4ZV6StdxWPaRYCi1qHTiqb6pDpFm)
+
+## philosophy
+
+### [1979: godel, escher, bach ✨](https://my.mindnode.com/vTMeU9mTGGT4RUsY9DTYz66yAY1GDZGzroM43Xx8)
+
+### 1986: finite and infinite games
+
+## operating systems
+
+### 1983: operating system concepts
+
+### 1992: modern operating systems
+
+## neuroscience
+
+### [01: molecular basis of neuropharmacology: a foundation for clinical neuroscience](https://my.mindnode.com/ryVUUpnoDx9mYcpXqJVkzdMH9MeyESsy5fWuSnN1)
+
+### thinking, fast and slow
+
+### 00: principles of neural science
+
+## chemistry
+
+### 13: drugs 2.0: the web revolution that's changing how the world gets high
+
+## design
+
+### the design of everyday things
+
+### the best interface is no interface: the simple path to brilliant technology
+
+## politics
+
+### 1974: the anatomy of the state
+
+### 1944: the road to serfdom
+
+### 13: the democracy project: a history, a crisis, a movement
+
+## nutrition
+
+### 15: how not to die ✨
+
+## exercise
+
+### 05: starting strength: basic barbell training
+
+## startups
+
+### 14: zero to one
+
+## biography
+
+### 1965: the autobiography of malcolm x
+
+## awareness 
+
+### last chance to see
+
+
+# [engineering ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
+
+
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
 
@@ -538,6 +1040,8 @@ Learn something new. 🎊
 ## optimisation
 
 ## LLVM
+
+## [template metaprogramming](https://my.mindnode.com/yqtNqRKq9kiwKqgVu4Gqsxa22tjWjGhQJh1Ks4SL)
 
 
 # [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
@@ -893,6 +1397,8 @@ Learn something new. 🎊
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 
+## [molecular symmetry ✨](https://my.mindnode.com/syLbmWcosLUUrSUBsyphevrhRyMkHFCd1wgXa8M6)
+
 ## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
 
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
@@ -1006,12 +1512,6 @@ Learn something new. 🎊
 ## dmca
 
 
-# [principles](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
-
-
-## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
-
-
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
 
 
@@ -1073,374 +1573,38 @@ Learn something new. 🎊
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
 
 
-# [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
-
-
-## programming 
-
-### general
-
-- [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
-
-- 15: crafting interpreters
-
-- 12: programming in the large with design patterns
-
-- [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
-
-- [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
-
-- 11: the art of readable code: simple and practical techniques for writing better code
-
-- 1979: structure and interpretation of computer programs
-
-- 1999: the pragmatic programmer
-
-- [1999: refactoring](https://my.mindnode.com/WZyRVRx5r5rAQnDpiZnvYFYjgVqNWMe5c2ap12Dm)
-
-- [10: apprenticeship patterns](https://my.mindnode.com/aKDoUJ6xZcLhqLxQPD2KhMQzLyaSQVuAQccycj71)
-
-- 1971: the psychology of computer programming
-
-### go
-
-- 15: go in action
-
-- 15: the go programming language
-
-- [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
-
-- build web application with golang ✨
-
-### python
-
-- 04: dive into python 3
-
-- [13: data structures and algorithms in python](https://my.mindnode.com/w1m9U8sjiuyBpvwpACExp6p7gcqHYjNz7NsxkqUE)
-
-- [14: test driven development with python](https://my.mindnode.com/1NuKTSCxb8dihLi5s7RyPTTyofLxxy1fRz7ky85a)
-
-- 15: effective python
-
-- 15: fluent python
-
-### java
-
-- 01: effective java
-
-### lisp
-
-- [1974: the little schemer](https://my.mindnode.com/Ew12qsKsWLxWPhaeAkD1vcecyyoo4XFrAB6eqM2t)
-
-### haskell
-
-- 14: write you a haskell
-
-- [16: programming in haskell ✨](https://my.mindnode.com/xpqnuUYqQVEkzarNVWgqWKSSwn7pMC7rnqdUzch3)
-
-### interviews
-
-- [08: cracking the coding interview ✨](https://my.mindnode.com/q56HqUGVibyi8s7MyfVye2cesSoyDndHTpoXEigv)
-
-- 12: elements of programming interviews
-
-### javascript
-
-- you don’t know js: up and going ✨✔
-
-### swift
-
-- 14: swift programming language
-
-### ruby
-
-- 13: confident ruby
-
-- 11: eloquent ruby
-
-- 09: the well grounded rubyist
-
-- 12: practical object oriented design in ruby
-
-### smalltalk
-
-- 1997: smalltalk best practice patterns
-
-### ios
-
-- [15: ios 10 programming fundamentals with swift ✨](https://my.mindnode.com/nqqqvfLsMU38U1Fj6qie3QDQFW3v5gjj1dTqqiza)
-
-### vim
-
-- 12: practical vim
-
-### git
-
-- 14: git in practice
-
-## physics
-
-### university physics with modern physics ✨
-
-## algorithms
-
-### 1990: introduction to algorithms
-
-### 1987: algorithm design manual
-
-### [05: algorithm design](https://my.mindnode.com/9LNaDUqpHqPZAT3uVxjeumMScWLmJyh13FXMrcrJ)
-
-## mindset
-
-### 1936: how to win friends and influence people ✨
-
-### 1937: think and grow rich
-
-### 14: a mind for numbers: how to excel at math and science ✨✔
-
-### 11: models ✨✔
-
-### 1990: peace is every step
-
-### 1946: man’s search for meaning
-
-### 1942: the stranger
-
-### 09: eating animals
-
-## finance
-
-### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
-
-### 1926: the richest man in babylon
-
-## economics
-
-### [1867: capital](https://my.mindnode.com/5sjd2MzaFJVsbGErUExeLV4kw7GY6q2mZqav7V99)
-
-### 1917: imperialism, the highest stage of capitalism
-
-### 1953: the worldly philosophers
-
-### 11: debt: first 5000 years
-
-### 13: how asia works: success and failure in the world’s most dynamic region
-
-## ai
-
-### [11: introduction to artificial intelligence](https://my.mindnode.com/TYXYAZ4MaCsrGqbMZsaWqtopx6ZCWqr6w9QnDb6w)
-
-### [1994: artificial intelligence a modern approach](https://my.mindnode.com/8ok1w3MLy4TzxZEmanaxmLnHyR8MP4DVpdmKPyB1)
-
-## machine learning
-
-### [deep learning ✨](http://www.deeplearningbook.org/)
-
-## math
-
-### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
-
-### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
-
-### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
-
-### [invitation to ergodic theory](https://my.mindnode.com/xGoRE9DY9RiiJwNJcfprC5zn95RfsnEDijCdQYc4)
-
-### 1999: geometry and the imagination
-
-### 12: foundations of analysis
-
-### 09: essentials of discrete mathematics
-
-## cs
-
-### 08: annotated turing
-
-### 05: the elements of computing systems
-
-### 11: the nature of computation
-
-### 1989: the turing omnibus
-
-### 1996: introduction to the theory of computation
-
-### [02: types and programming languages](https://my.mindnode.com/xMFn66c9gWpFtNbFbQVUyQyUL7dnoqzxMv6TUqph)
-
-### [04: advanced topics in types and programming languages](https://my.mindnode.com/QVgt5LMzTSQqBRvPwC2ct5QMDzsXpqntgfVrC4qN)
-
-## data science
-
-### [14: designing data intensive applications](https://my.mindnode.com/xgazkstoTxKmzb1SFsc1kUJsaPzy2gCpE8xERbCy)
-
-## management
-
-### 1975: the mythical man-month
-
-## compilers
-
-### advanced compiler design and implementation
-
-## gamedev
-
-### 03: tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation
-
-## bio
-
-### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
-
-## memoirs
-
-### 2014: a thousand tiny failures: memoirs of a pickup artist ✔
-
-## fiction
-
-### 1890: the picture of dorian gray ✨✔
-
-### [1932: brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
-
-### [1959: flowers for algernon ✨✔](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
-
-### 1925: heart of a dog ✨✔
-
-### 1967: master and margarita ✨✔
-
-### 1972: roadside picnic ✨✔
-
-### 1892: the yellow wallpaper  ✔
-
-### 1954: the doors of perception ✨
-
-### 1949: nineteen eighty-four ✨
-
-### 1943: the glass bead game
-
-### 1981: the soul of new machine
-
-### 1880: the brothers karamazov
-
-### 1978: hitchhikers guide to the galaxy
-
-### 1996: the story of b: an adventure of the mind and spirit
-
-### 1965: dune
-
-### 1985: blood meridian
-
-### 1953: fahrenheit 451
-
-### 1914: the ragged trousered philanthropists
-
-### 1969: slaughterhouse five
-
-### 1908: the iron heel
-
-### 06: the road
-
-### 10: the passage
-
-### 1962: we have always lived in the castle
-
-### 1955: lolita
-
-### 00: house of leaves
-
-## scifi
-
-### culture series
-
-- excession
-
-### blindsight
-
-### 11: the martian
-
-### the dispossessed
-
-### 1963: cat’s cradle
-
-### 14: red rising
-
-## adventure
-
-### 1844: the count of monte cristo
-
-## short stories
-
-### [1956: the last question ✨✔](https://my.mindnode.com/qrGA3PyEVxWZDisJ8dxpz9J7eJTbdqYLLXPnBND4)
-
-### 1943: the little prince ✨✔
-
-### 1991: understand ✨✔
-
-### [2005: the fable of the dragon-tyrant ✨✔](https://my.mindnode.com/jYyp4tzqcpUdapyqQsDSTm8orzBNcMmByq13i2UH)
-
-### 1998: story of your life
-
-## thriller
-
-### 1939: and then there were none 
-
-## non fiction
-
-### 1997: into thin air
-
-## history
-
-### 1986: the making of atomic bomb
-
-### 1980: a people’s history of the united states
-
-### 11: sapiens: a brief history of humankind
-
-### 1973: gravity’s rainbow
-
-### 12: the idea factory: bell labs and the great age of american innovation
-
-## alt history
-
-### 1962: the man in the high castle
-
-## evolution
-
-### [the selfish gene](https://my.mindnode.com/APDG3wu3couR4ZV6StdxWPaRYCi1qHTiqb6pDpFm)
-
-## philosophy
-
-### [1979: godel, escher, bach ✨](https://my.mindnode.com/SKWBeinTesSXaXSMJ4h8DpEamjQWUcpvZAgsuMgp)
-
-## operating systems
-
-### 1983: operating system concepts
-
-### 1992: modern operating systems
-
-## neuroscience
-
-### [01: molecular basis of neuropharmacology: a foundation for clinical neuroscience](https://my.mindnode.com/ryVUUpnoDx9mYcpXqJVkzdMH9MeyESsy5fWuSnN1)
-
-### thinking, fast and slow
-
-## design
-
-### the design of everyday things
-
-## politics
-
-### 1974: the anatomy of the state
-
-### 1944: the road to serfdom
-
-
-# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
-
-
-## personal
-
-
 # [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
 # ethics
+
+
+# [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+
+## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
+
+### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
+
+### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
+
+### [entactogen](https://my.mindnode.com/TfXq4xG4LbPKYgpUCGGFgUCn6XpyTujCzwUmyu5G)
+
+### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
+
+## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
+
+## stimulants
+
+### phenethylamine
+
+### amphetamine 
+
+## nootropics
+
+## antibiotics
+
+## steroids
 
 
 # [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
@@ -1468,32 +1632,6 @@ Learn something new. 🎊
 
 
 # [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
-
-
-# [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
-
-
-## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
-
-### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
-
-### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
-
-### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
-
-## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
-
-## stimulants
-
-### phenethylamine
-
-### amphetamine 
-
-## nootropics
-
-## antibiotics
-
-## steroids
 
 
 # globalisation
@@ -1563,13 +1701,21 @@ Learn something new. 🎊
 # [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
 
 
+# [principles](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
+
+
+## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
+
+
 # [networking](https://my.mindnode.com/Qz34KfpyV2j7b5N9iRWDDUCPtn3zwErFpwfE6QqJ)
 
 
 ## rest
 
+## [scalability](https://my.mindnode.com/SRxvLVJyAvyENCnJypt5s1swxv4ce8cz3FJvLNv3)
 
-# design
+
+# [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
 
 
 ## industrial
@@ -1656,6 +1802,12 @@ Learn something new. 🎊
 # plants
 
 
+# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
+
+
+## personal
+
+
 # typesetting
 
 
@@ -1710,9 +1862,6 @@ Learn something new. 🎊
 # growth hacking
 
 
-# fungus
-
-
 # [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
 
 
@@ -1720,6 +1869,9 @@ Learn something new. 🎊
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+
+
+# fungus
 
 
 # [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
@@ -1788,20 +1940,6 @@ Learn something new. 🎊
 ### china
 
 
-# protocols
-
-
-## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
-
-## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
-
-## tcp/ip
-
-## [websocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
-
-## LPWAN
-
-
 # companies
 
 
@@ -1849,6 +1987,20 @@ Learn something new. 🎊
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
 
 
+# protocols
+
+
+## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
+
+## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
+
+## tcp/ip
+
+## [websocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
+
+## LPWAN
+
+
 # server
 
 
@@ -1866,6 +2018,42 @@ Learn something new. 🎊
 ## real estate
 
 ## [supply chain ✨](https://my.mindnode.com/ViTExqEGpynsMsdLm7wNyqZhosAKZLerp8ojk1c6)
+
+
+# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+
+
+## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
+
+## [math ✨](https://my.mindnode.com/xrVig6mv5mRvNGSgD5vp2bbvUNbgW6QaHEjzVRy4)
+
+## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
+
+### [neural networks ✨](https://my.mindnode.com/DQcxpqpBKhMizY6LfaysgAMufBsyaxoxTnEeTj9M)
+
+## [computer science ✨](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
+
+## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
+
+## [deep learning ✨](https://my.mindnode.com/AyEiesv7g3aSaFuzg1hA4XCe95sRk8ASFfSzsHVe)
+
+## [testing](https://my.mindnode.com/nzZkyrMfzDNq36e845izj8afyy1pr4aaoCSsrs2f)
+
+## [programming ✨](https://my.mindnode.com/KuoCtEzYAxgu3VZyNAVajH8A4a7oPhzqDvi2zs6x)
+
+### [garbage collection](https://my.mindnode.com/Epw8ss2sXqThQhwruEo6CpZZDnUk1GPvoymyMKM8)
+
+## [system design](https://my.mindnode.com/hi6jyBWQkcMA2qJWLkLmZ7cE9EixVE8JJFpY72Lg)
+
+## [security](https://my.mindnode.com/Es5MSShuTMqFMzv5PnuxMTQoq6qwAy2chJ6spicK)
+
+## compilers
+
+### [jit](https://my.mindnode.com/sR9h2hNA46CHegFoVxx35Fyhqtz68Dxb3ZPqCLj1)
+
+## [big data](https://my.mindnode.com/hT1Q1HWqRppsPBejjmtbqN3GsHrpAQoz4xpsrj8d)
+
+## [design](https://my.mindnode.com/SzRJad86kmnaSdwfvWxKzHvKj9BsCSPyexoqqxFx)
 
 
 # [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
@@ -1916,22 +2104,6 @@ Learn something new. 🎊
 ## optimisation
 
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
-
-
-# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
-
-
-## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
-
-## [math](https://my.mindnode.com/xrVig6mv5mRvNGSgD5vp2bbvUNbgW6QaHEjzVRy4)
-
-## [machine learning](https://my.mindnode.com/KnxHHqeyGXr5Z7BcYAyFbY3z7dpQawANPytSfLi3)
-
-### [neural networks](https://my.mindnode.com/DQcxpqpBKhMizY6LfaysgAMufBsyaxoxTnEeTj9M)
-
-## [computer science](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
-
-## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
 
 
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
@@ -2133,6 +2305,8 @@ Learn something new. 🎊
 ## math
 
 ### [04: multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
+
+### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
 
 ## iOS
 
