@@ -50,7 +50,9 @@ If you have some specific questions about this project or about myself, my inter
 
 Learn something new. 🎊
 
-#mindmap index 🗄️ (advised to open them in new tab as there is a bug with going back (need to go back a few times 😞))
+#mindmap index 🗄️
+- advised to open them in new tab as there is a bug with going back 
+	- need to go back a few times 😞 (I hope it will be fixed soon)
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 # [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
