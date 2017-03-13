@@ -1,7 +1,7 @@
 #[Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F)
 ####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/YmGseOm.jpg)
+![](http://i.imgur.com/sNZXOvR.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
@@ -9,7 +9,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 ##[MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/vkdGSju.jpg)
+![](http://i.imgur.com/01xCRLy.jpg)
 
 
 ##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
@@ -142,6 +142,8 @@ Learn something new. 🎊
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
 ### [adversarial](https://my.mindnode.com/M9XhxHJ69MHhzAXzzU6ZAj1dCSwuXsxz1xifg5LF)
+
+### [pytorch](https://my.mindnode.com/mBtRzJ8yynasgDxSPrXxsNs9UNzkx9xM68vJ3UgG)
 
 ### [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
 
@@ -587,7 +589,7 @@ Learn something new. 🎊
 
 - [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
 
-- 15: crafting interpreters
+- [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
 
 - 12: programming in the large with design patterns
 
@@ -599,7 +601,7 @@ Learn something new. 🎊
 
 - 1979: structure and interpretation of computer programs
 
-- 1999: the pragmatic programmer
+- [1999: the pragmatic programmer](https://my.mindnode.com/6ePQfsptcxAz2n8KzfooEe6sMfN4cWEHFmxiUD3f)
 
 - [1999: refactoring](https://my.mindnode.com/WZyRVRx5r5rAQnDpiZnvYFYjgVqNWMe5c2ap12Dm)
 
@@ -611,37 +613,43 @@ Learn something new. 🎊
 
 - 1991: the art of the metaobject protocol
 
+- 1999: the practice of programming
+
+- 1974: the elements of programming style
+
 ### c
 
 - 1975: the c programming language
 
 ### go
 
-- 15: go in action
+- [15: go in action ✨](https://my.mindnode.com/QW6JBJKCPYpXgEXejtXtxEzoqhsD4qSyhm16FyHV)
 
-- 15: the go programming language
+- [15: the go programming language ✨](https://my.mindnode.com/PM3x2hMXEqgJ7NY9bQmx5yWxTpkqxUQSxi8XHyz1)
 
 - [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
 
-- build web application with golang ✨
+- [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
 
 ### python
 
-- 04: dive into python 3
+- [04: dive into python 3](https://my.mindnode.com/RudhkWsnsMZRgbSPnwKhZYym4Ap6m658VVyJj1ND)
 
 - [13: data structures and algorithms in python](https://my.mindnode.com/w1m9U8sjiuyBpvwpACExp6p7gcqHYjNz7NsxkqUE)
 
 - [14: test driven development with python](https://my.mindnode.com/1NuKTSCxb8dihLi5s7RyPTTyofLxxy1fRz7ky85a)
 
-- 15: effective python
+- [15: effective python](https://my.mindnode.com/8djuK3UtBhDhpwXGq9jeStHnaahzue8oD49vLSCX)
 
-- 15: fluent python
+- [15: fluent python](https://my.mindnode.com/ffjVRU6yNfGC2UrMzsaTnyFksyHzxzMxjoVrzFz4)
 
 ### java
 
-- 01: effective java
+- [01: effective java](https://my.mindnode.com/Rrbxmj3SYBgSpxkDqzSK9BTScftaCVFQeHdEdGzA)
 
-- 06: java concurrency in practice
+- [06: java concurrency in practice](https://my.mindnode.com/ProEi9Gr3GsWvnntQqpneViamJB1c3q25LMQkV3r)
+
+- [08: introduction to programming in java: an interdisciplinary approach](https://my.mindnode.com/LpyPGghSGAW91Jv5D8KJz3VQXKajYKsaQSoSQnSW)
 
 ### lisp
 
@@ -649,7 +657,7 @@ Learn something new. 🎊
 
 ### haskell
 
-- 14: write you a haskell
+- [14: write you a haskell](https://my.mindnode.com/ynpZwktGxfLaFiHQYvLpaCtGddEzHjgnvS9dMsTq)
 
 - [16: programming in haskell ✨](https://my.mindnode.com/xpqnuUYqQVEkzarNVWgqWKSSwn7pMC7rnqdUzch3)
 
@@ -657,43 +665,51 @@ Learn something new. 🎊
 
 - [08: cracking the coding interview ✨](https://my.mindnode.com/q56HqUGVibyi8s7MyfVye2cesSoyDndHTpoXEigv)
 
-- 12: elements of programming interviews
+- [12: elements of programming interviews](https://my.mindnode.com/LH2cKeEzENf3pyuzxCTecy625x4anqH9SiHfwZAc)
 
 ### javascript
 
 - you don’t know js
 
-	- up and going ✨✔
+	- [up and going ✨✔](https://my.mindnode.com/MR66Vxa9nNygTHGGyTV5ePVzDHdcqNRqH6bsSPM7)
 
-	- scope and closures
+	- [scope and closures](https://my.mindnode.com/yBwWLYxz75kePzR8RoqsVXK9EfYhNEHTq1wmRHao)
 
-	- this and object prototypes
+	- [this and object prototypes](https://my.mindnode.com/RbzgGuiyyLgi5ABvcxV5yB3Yy971RKiAbNw3px9z)
 
-	- types and grammar
+	- [types and grammar](https://my.mindnode.com/EzDQzVRYpcfay5VVUfBnPc33zrEksn4A4DVy8s7t)
 
-	- async ad performance
+	- [async and performance](https://my.mindnode.com/jDJkViDQ6vSuAbkeko1Pi4Ki8gLTcPhzwD14mujN)
 
-	- es6 and beyond
+	- [es6 and beyond](https://my.mindnode.com/s6yCswRucQpCJsDajBzLauhzgk68Bn4WyndTYMpr)
 
 - [15: learning javascript design patterns](https://my.mindnode.com/yJBi9dc5smcmuEHUVnTFLrHWJZaXpg7MFnwvpsRK)
 
+- [12: effective javascript: 68 specific ways to harness the power of javascript](https://my.mindnode.com/ATSp7wopYJZmsNhsyqUShtZAHcmfKyYLAL2DMGdZ)
+
+- [17: the javascript way](https://my.mindnode.com/yyFtVWeg4U6gjDdYFMyMd1nBTboVMx8SN59gNryX)
+
+- [13: secrets of the javascript ninja](https://my.mindnode.com/vzpZGH34LzZ6ZF5r8reKpX1jAyzXkvyajKMxJCxf)
+
+- [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
+
 ### swift
 
-- 14: swift programming language
+- [14: swift programming language ✨](https://my.mindnode.com/qxEPaW7xNpVvVEi14rHuqkzxppyayjKzxcMoC2SQ)
 
 ### ruby
 
-- 13: confident ruby
+- [13: confident ruby](https://my.mindnode.com/agQrbyM6zw9h8xEVXnG47HELmyzSWQJFG4zDZyMs)
 
-- 11: eloquent ruby
+- [11: eloquent ruby](https://my.mindnode.com/aCA3Uyg3aYXzPxGcJSsHZMTDepsy3qjoePZuMK3p)
 
-- 09: the well grounded rubyist
+- [09: the well grounded rubyist](https://my.mindnode.com/ShJpGuGWqbGZsoRMat8s5n9wZ9zHkHy5Y8Bwtsqk)
 
-- 12: practical object oriented design in ruby
+- [12: practical object oriented design in ruby](https://my.mindnode.com/L5nozPFLyppXEmHRvyeVM3RMZiSqprAJncCehyRg)
 
 ### smalltalk
 
-- 1997: smalltalk best practice patterns
+- [1997: smalltalk best practice patterns](https://my.mindnode.com/BwGjoLL65LHKXTTrHgvJ9QZ5ZTxLV88f4fyKFDkq)
 
 ### ios
 
@@ -701,17 +717,29 @@ Learn something new. 🎊
 
 ### vim
 
-- 12: practical vim
+- [12: practical vim](https://my.mindnode.com/3jutg8kRyCLGsPDvLQvZyx1mfGjXyc1fbVFsvGQd)
 
 ### git
 
-- 14: git in practice
+- [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
 
 ## physics
 
-### university physics with modern physics ✨
+### [university physics with modern physics ✨](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
 
-### 04: the fabric of the cosmos
+### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
+
+## networking
+
+### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
+
+### 00: computer networking: a top-down approach
+
+### 03: unix network programming, volume 1: the sockets networking api
+
+### 1999: interconnections: bridges, routers, switches, and internetworking protocols
+
+### 1992: TCP/IP network administration
 
 ## algorithms
 
@@ -753,6 +781,8 @@ Learn something new. 🎊
 
 ### 1922: siddhartha
 
+### 1992: mastery: the keys to success and long term fulfilment
+
 ## finance
 
 ### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
@@ -777,9 +807,13 @@ Learn something new. 🎊
 
 ### [1994: artificial intelligence a modern approach](https://my.mindnode.com/8ok1w3MLy4TzxZEmanaxmLnHyR8MP4DVpdmKPyB1)
 
+### 1991: paradigms of artificial intelligence programming
+
 ## machine learning
 
 ### [deep learning ✨](http://www.deeplearningbook.org/)
+
+### 12: machine learning: a probabilistic perspective
 
 ## math
 
@@ -805,25 +839,31 @@ Learn something new. 🎊
 
 ### [04: a first course in linear algebra](https://my.mindnode.com/ynpsot4oopEKj5XvWpJfinwQWvPsD4NZQXmo7wwx)
 
+### [1940: a mathematician's apology](https://my.mindnode.com/svqaW8VyqpxSu5fB4ydcpwsYLJwxvkviGy4G5VjL)
+
 ## statistics
 
 ### 13: an introduction to statistical learning: with applications in r
+
+### 1983: the visual display of quantitative information
 
 ## cs
 
 ### 08: annotated turing
 
-### 05: the elements of computing systems
+### [05: the elements of computing systems](https://my.mindnode.com/uyDi4SqQnVgFVuPWvakCrrvanJaj7pTcaNzb36yf)
 
 ### 11: the nature of computation
 
 ### 1989: the turing omnibus
 
-### 1996: introduction to the theory of computation
+### [1996: introduction to the theory of computation](https://my.mindnode.com/zaBR6zQPtynAodx49ygxrzTA6FqX9gEx2zMknLm3)
 
 ### [02: types and programming languages](https://my.mindnode.com/xMFn66c9gWpFtNbFbQVUyQyUL7dnoqzxMv6TUqph)
 
 ### [04: advanced topics in types and programming languages](https://my.mindnode.com/QVgt5LMzTSQqBRvPwC2ct5QMDzsXpqntgfVrC4qN)
+
+### [1996: purely functional data structures](https://my.mindnode.com/J2NvnMDKrysisQSxNqfKuRW1nwgzNoE8sPFqGxy6)
 
 ## science
 
@@ -837,7 +877,7 @@ Learn something new. 🎊
 
 ## management
 
-### 1975: the mythical man-month
+### [1975: the mythical man-month](https://my.mindnode.com/wm1nqbAvLGt3uEKZpzEqVTPjJFJHkKzZRhpFefcs)
 
 ### 1983: high output management
 
@@ -985,6 +1025,8 @@ Learn something new. 🎊
 
 ### 1997: into thin air
 
+### 09: coders at work: reflections on the craft of programming
+
 ## history
 
 ### 1986: the making of atomic bomb
@@ -1045,7 +1087,7 @@ Learn something new. 🎊
 
 ## design
 
-### the design of everyday things
+### [the design of everyday things](https://my.mindnode.com/mk3AnTTPKeEofiGurK7Rmxj7zr6c4N7pzsVyDXKK)
 
 ### the best interface is no interface: the simple path to brilliant technology
 
@@ -1076,6 +1118,22 @@ Learn something new. 🎊
 ## awareness 
 
 ### last chance to see
+
+## web design
+
+### 00: don’t make me think
+
+## visualisation
+
+### 1990: envisioning information
+
+## regex
+
+### 09: regular expressions cookbook
+
+## computer systems
+
+### computer systems: a programmer’s perspective
 
 
 # [engineering ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
@@ -1805,7 +1863,7 @@ Learn something new. 🎊
 ## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
 
 
-# [networking](https://my.mindnode.com/Qz34KfpyV2j7b5N9iRWDDUCPtn3zwErFpwfE6QqJ)
+# [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
 
 
 ## [rest](https://my.mindnode.com/Vs3ZspLvisyn3wckGsjgPY3cUVjY8fQPGBvFe3q5)
@@ -1817,6 +1875,8 @@ Learn something new. 🎊
 ## [peer to peer](https://my.mindnode.com/CXbZUE5ZvLzAk7VssssrCfH7VnWLNzbZaEBWvUba)
 
 ## [mesh networks](https://my.mindnode.com/rARXvBwQEijvyRvBLYSokji4eSpq1b1yYRXzMPiN)
+
+## [scapy](https://my.mindnode.com/Mu8ZdLsbny8DFRu6hzU8qB34g15QfpJzpGKZBdVj)
 
 
 # [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
