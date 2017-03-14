@@ -67,6 +67,14 @@ Learn something new. 🎊
 ## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
 
 
+# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+
+contains all the documentation for how I use and manage this mind map
+
+
+## test
+
+
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
 
@@ -81,9 +89,6 @@ Learn something new. 🎊
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
-
-
-# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 
 # [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
@@ -131,7 +136,7 @@ Learn something new. 🎊
 
 ## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
 
-## [visualisation ✨](%E2%9C%A8)
+## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
@@ -2788,7 +2793,7 @@ Learn something new. 🎊
 # [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
 
 
-## [dropwizard](https://github.com/stve/awesome-dropwizard)
+## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
 
 # [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
@@ -2797,5 +2802,5 @@ Learn something new. 🎊
 # design languages
 
 
-## [ant design ✨](%E2%9C%A8)
+## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
 
