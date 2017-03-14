@@ -67,10 +67,7 @@ Learn something new. 🎊
 
 ## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
 
-
-# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
-
-contains all the documentation for how I use and manage this mind map
+how did the first planes were built
 
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
@@ -83,18 +80,15 @@ contains all the documentation for how I use and manage this mind map
 ## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
 
 
+# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+
+contains all the documentation for how I use and manage this mind map
+
+
 # [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
-
-
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
@@ -107,16 +101,32 @@ contains all the documentation for how I use and manage this mind map
 ### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
 
 
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
+
+what efficient algorithms exist out there and what problems do they solve
 
 
 ## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
 
+how to analyse the correctness and running time of algorithms
+
 ## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
+
+how to prove an algorithm works and does its job correctly
 
 ## [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
 
 ## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
+
+how to design efficient and correct algorithms
 
 ## [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
 
@@ -132,12 +142,18 @@ contains all the documentation for how I use and manage this mind map
 
 ## [ai ✨](https://my.mindnode.com/4m9t3mPfyqswiCReekaA41Vt6xJmpMG4gN2zpvir)
 
+algorithms in the domain of artificial intelligence
+
 ## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
+
+big O notation and how it can be used to analyse running time
 
 ## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
+
+how to optimise processes (algorithms, systems and so on)
 
 
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
@@ -148,6 +164,8 @@ contains all the documentation for how I use and manage this mind map
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
+how to make machines ‘think’
+
 
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
@@ -156,6 +174,8 @@ contains all the documentation for how I use and manage this mind map
 ### [pytorch](https://my.mindnode.com/mBtRzJ8yynasgDxSPrXxsNs9UNzkx9xM68vJ3UgG)
 
 ### [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
+
+machine learning library by Google
 
 ### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY)
 
@@ -195,6 +215,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
+
+the root dependency of this mind map, understand math and you will have easier time understanding the rest
 
 
 ## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
@@ -540,18 +562,6 @@ contains all the documentation for how I use and manage this mind map
 ## [crystal](https://my.mindnode.com/xkatKAsBgFHEJhczPSq5qprZDwYgKgd1rU6LayDz)
 
 
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
-
-
-## [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
-
-## [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
-
-## [love2d](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
-
-## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
-
-
 # [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
 
 
@@ -605,6 +615,20 @@ contains all the documentation for how I use and manage this mind map
 ## [magenta](https://my.mindnode.com/xzutDRUrAzoQt7yZwqAT3VxWKgxs82oX7yh5dQsq)
 
 
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+
+how to develop fun and enjoyable games
+
+
+## [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+
+## [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+
+## [love2d](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
+
+## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
+
+
 # [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
 
 
@@ -627,6 +651,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
+
+all the books I am currently reading or have read
 
 
 ## programming 
@@ -1200,7 +1226,19 @@ contains all the documentation for how I use and manage this mind map
 ## [software](https://my.mindnode.com/AJpJHUt9xQxnA4hFcizyzR6NdxfD7nehRa6oxipq)
 
 
+# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+
+
+## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
+
+## WebVR
+
+### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
+
+
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+
+turning human written code into computer binary code or transpiling it to other languages
 
 
 ## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
@@ -1234,28 +1272,26 @@ contains all the documentation for how I use and manage this mind map
 ### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
 
 
-# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
-
-
-## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
-
-## WebVR
-
-### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
-
-
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
 
 
 ## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
 
+humans whose work I really respect and am curious about sorted by the domain in which they worked
+
 ### [alan watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+
+his talks and writing has changed my life in a very positive way
 
 ### richard feynman
 
 ## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
 
+all of the github people whose work I find interesting, sorted by their skills and interests
+
 ## [richest](https://my.mindnode.com/PzvpujT1DgzLs8WNZsSUzjDUSyx1GWE8x4pfN3th)
+
+all the richest humans of this planet with overview of how they got their wealth
 
 
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
@@ -1314,12 +1350,15 @@ contains all the documentation for how I use and manage this mind map
 ### karabiner
 
 - [my layout ✨](https://my.mindnode.com/aGPrpzjuxth5dqytYpTzts9PZWKMFydgGt1Sjddz)
+  an app that has changed the way I interact with my computer, has my bindings and keyboard layout I use
 
 ### [alfred](https://my.mindnode.com/Zqykr8ousaj7ZFRihhb48F1FynqX89wj9YK731mq)
 
 - [workflows ✨](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
+  alfred workflows I have found to use and enjoy
 
 - [my layout](https://my.mindnode.com/sF1i33RqWrYAWD2H48mg7UeFMJPFKRnEVaQAwoJs)
+  non-hotkey triggered workflows get documented here
 
 ### km
 
@@ -1384,6 +1423,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
+
+all the games I have played and want to play
 
 
 ## board
@@ -1483,6 +1524,7 @@ contains all the documentation for how I use and manage this mind map
 - [apps ✨](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
 
 	- [my setup ✨](https://my.mindnode.com/H1ejGz58APafNWf3s9MiD9E3CSpkxPTKapJSiNkA)
+	  all the applications I use on macOS, how, why and what hotkeys I have rebinded for each of the apps
 
 ### [windows](https://my.mindnode.com/PGg9qQz6zttzUMq4aPoEpzp7KBTnZDiyYg3bYs29)
 
@@ -1555,6 +1597,14 @@ contains all the documentation for how I use and manage this mind map
 ## [posix ✨](https://my.mindnode.com/zNsVJZhxAWsRy9xoC2ZqNzAqcWNxVyTeu9NsVDpx)
 
 
+# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
+
+
+## apache
+
+## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
+
+
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
 
 
@@ -1562,7 +1612,10 @@ contains all the documentation for how I use and manage this mind map
 
 ### [repos ✨](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
 
+amazing github repositories that don’t really fit into other topics of this mind map
+
 - [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+  my open source github repositories organised by their theme
 
 ### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
 
@@ -1570,28 +1623,28 @@ contains all the documentation for how I use and manage this mind map
 
 ## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
 
+reddit subreddits organised by topics
+
 ### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
 
 ## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
+
+quora communities organised and connected
 
 ## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
 
 ## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
 
+youtube channels I like organised and connected
+
 ## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
 
 ## [personal sites ✨](https://my.mindnode.com/vyq8VJhz7QGSAK9AbyKXABWmmz6hZWXpZyZgzQcq)
 
+personal websites that are really well made and inspiring
+
 
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
-
-
-# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
-
-
-## apache
-
-## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
 
 
 # [shells](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
@@ -1760,6 +1813,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [cryptocurrency](https://my.mindnode.com/Z4B2pqHmRYVzQetyii7pJwdJwAf5h4qwAGqopMKp)
+
+the future of money as I see it
 
 
 ## [dash](https://my.mindnode.com/S3vg9ZoqGUDbQS9gQUufJHCVaWm3sbtx9nKBxhpy)
@@ -2178,6 +2233,8 @@ what will happen in the future
 
 ## [personal](https://my.mindnode.com/TMjW8sdzjju6G6WHr4QkQjCXpefvQJP8Y56JFwRv)
 
+countries and cities I have been to with commentary and photos of each place
+
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
@@ -2239,6 +2296,8 @@ what will happen in the future
 
 
 ## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
+
+companies that I find interesting sorted by their domain
 
 ### tesla
 
@@ -2552,6 +2611,8 @@ research papers I am reading and want to read
 
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
+it is best to learn from mistakes of others so as to not repeat them
+
 
 ## events
 
@@ -2623,13 +2684,21 @@ research papers I am reading and want to read
 
 ## [sonic pi ✨](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
 
+write code and generate music, really is quite amazing
+
 ## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
+
+the theory behind writing music
 
 
 # [writing ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
 
+articles and tips on how to write better and express myself in words
+
 
 ## [poetry ✨](https://my.mindnode.com/4x6m1v6SfirRyVZFonNjS1BksMY6z43cR7dJ2qui)
+
+poems I found and enjoyed reading
 
 ## prose
 
@@ -2754,6 +2823,8 @@ courses I am doing or plan on doing
 
 # [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
+my curated gallery of all images I have personally collected organised by albums
+
 
 ## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
 
@@ -2767,9 +2838,13 @@ courses I am doing or plan on doing
 
 ## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
 
+all the music artists whose work I find interesting and enjoy
+
 ## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
 
 ## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
+
+playlists that I have made and shared
 
 
 # style sheet languages
@@ -2804,14 +2879,10 @@ courses I am doing or plan on doing
 
 # [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
 
+all the useful and interesting go packages I have found sorted by domain
+
 
 # [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
-
-
-# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
-
-
-## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
 
 # [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
@@ -2821,4 +2892,10 @@ courses I am doing or plan on doing
 
 
 ## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
+
+
+# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
+
+
+## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
