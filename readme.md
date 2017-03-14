@@ -67,7 +67,7 @@ Learn something new. 🎊
 
 ## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
 
-how did the first planes were built
+how were the first planes built
 
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
