@@ -72,9 +72,6 @@ Learn something new. 🎊
 contains all the documentation for how I use and manage this mind map
 
 
-## test
-
-
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
 
@@ -1799,6 +1796,9 @@ contains all the documentation for how I use and manage this mind map
 # [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
 
 
+# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+
+
 # [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 
@@ -1825,9 +1825,6 @@ contains all the documentation for how I use and manage this mind map
 ## japanese
 
 ## chinese
-
-
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
 # [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
@@ -1882,6 +1879,8 @@ contains all the documentation for how I use and manage this mind map
 
 # [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
 
+newsletters I found interesting
+
 
 # [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
 
@@ -1929,9 +1928,6 @@ contains all the documentation for how I use and manage this mind map
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
-
-
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 
@@ -1946,6 +1942,19 @@ contains all the documentation for how I use and manage this mind map
 ## [mindfulness ✨](https://my.mindnode.com/Vy6qpX9uD6qJKyN7cWCgpErpGzspoKsxB1FFFsXq)
 
 
+# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
+
+
+## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
+
+everyone should have some kind of principle they follow, these are mine
+
+
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+advice I have found on life, programming and all that I thought was of value
+
+
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
 
 
@@ -1954,13 +1963,9 @@ contains all the documentation for how I use and manage this mind map
 ## speech
 
 
-# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
-
-
-## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
-
-
 # [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
+
+blogs I like or want to read
 
 
 ## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
@@ -2001,6 +2006,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
+
+how to manifest and grow interesting ideas
 
 
 ## personal
@@ -2122,10 +2129,12 @@ contains all the documentation for how I use and manage this mind map
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 
-# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
-
-
 # [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
+
+what will happen in the future
+
+
+# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
 # [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
@@ -2283,6 +2292,8 @@ contains all the documentation for how I use and manage this mind map
 
 ## [mine ✨](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 
+articles I have written
+
 
 # [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
 
@@ -2322,6 +2333,8 @@ contains all the documentation for how I use and manage this mind map
 
 # [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
 
+interesting podcasts I have found and liked or want to listen to
+
 
 # [business](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
 
@@ -2334,6 +2347,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+
+research papers I am reading and want to read
 
 
 ## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
@@ -2655,6 +2670,8 @@ contains all the documentation for how I use and manage this mind map
 
 
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+
+courses I am doing or plan on doing
 
 
 ## ai
