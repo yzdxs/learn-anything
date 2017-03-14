@@ -62,6 +62,8 @@ Learn something new. 🎊
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
+the high level overview of all the knowledge
+
 # [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
 
 
@@ -158,7 +160,7 @@ big O notation and how it can be used to analyse running time
 
 ## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
 
-algorithm visualisations and how to visualise them
+algorithm visualisations 
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
@@ -482,21 +484,39 @@ how to get into competitive programming and learn to solve algorithmic challenge
 
 ## [c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
 
+2011: imperative, procedural and compiled, low level access to memory
+
 ## [c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
+
+1983: imperative, object oriented and generic with low level memory manipulation
 
 ## [c#](https://my.mindnode.com/6i1gPzi1Qp29sMuwz8iLp7scQ8rJNyYTc2xYasWx)
 
+2000: strong typed, imperative, declarative, functional, generic, object oriented and component oriented
+
 ## [python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
+
+1991: high level, general purpose, interpreted emphasising code readability 
 
 ### [cpython](https://my.mindnode.com/zjVZkR2hejWk3qfEjCys3Fyhx9W9XJDZ9ZwLisQa)
 
+original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop
+
 ## [objc ✨](https://my.mindnode.com/66qabf7Zyssep6qqzHE6b4pafuzxxaiVyBpg9SQ9)
+
+1984: general purpose, object oriented, implemented smalltalk-style messaging
 
 ## [swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
+2014: general purpose, multi paradigm and compiled
+
 ## [haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
 
+1990: general purpose, purely functional with non strict semantics and strong static typing
+
 ## [go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
+
+2009: compiled, statically typed with garbage collection, limited structural typing and memory safety features with focus great concurrency features
 
 ### [sdk](https://my.mindnode.com/pTaw9dxCcosqw1e9bjqpyjJFzxpBCzQeRbpxaFwX)
 
@@ -506,59 +526,101 @@ how to get into competitive programming and learn to solve algorithmic challenge
 
 ## [java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo)
 
+1995: concurrent, class based, object oriented, compiles to byte code to be ran on JVM
+
 ### [jml](https://my.mindnode.com/TuiM1QdBfFJfpE1YGzVq476B9g9kJHH2mkyagmn2)
 
 ### [maven](https://my.mindnode.com/Y1XyipvfrxzscpGhyBBzfcpidK27VACCpT2VzhKj)
 
 ## [scala](https://my.mindnode.com/M7FytAfDKTBBAZZrhhqbJesZ3tm4VNpkBtGTdBY8)
 
+2004: general purpose, functional with strong static type system, compiles to Java bytecode
+
 ## [smalltalk](https://my.mindnode.com/iy2T7txpBPzocqqPkJTxuWcxUeDAX2b9bG9qKXM5)
+
+1972: object oriented, dynamically typed, reflective, created for educational use
 
 ## [lua](https://my.mindnode.com/qgcfXaSGoASAEkQwPnZ9tupSkmWXxtBhBx7Tuh8m)
 
+1993: lightweight, multi-paradigm designed for embedded systems and clients
+
 ## [rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL)
+
+2010: general purpose, designed to be safe, concurrent and practical, supporting functional and imperative-procedural paradigms
 
 ## [ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7)
 
+1995: dynamic, reflective, object oriented, general purpose
+
 ## [r](https://my.mindnode.com/sJvn1f1Sp3WbhvbpLz1vuzSjYJ6zqNmdfDVhL5Kp)
+
+1993: language and software environment for statistical computing and graphics
 
 ## [php](https://my.mindnode.com/pvHdmG19ZushffGyqsAnLz1Ja1mtqGn5HmCiXkaF)
 
+1995: server side scripting designed primarily for webdev, can be embedded into HTML
+
 ## [perl](https://my.mindnode.com/v3XB2aGvSygfsvEZeqE2WJzMhNjqMSpXpJxgBVYx)
 
+1987: general purpose, interpreted, dynamic powerful text processing
+
 ## [clojure](https://my.mindnode.com/usZy8bc3U2oybNtLEpsgU5JimeCpGwmztGBnThVs)
+
+2007: general purpose with emphasis on functional programming, runs on jam ,clr and js engine, treats code as data and has a macro system
 
 ### [clojurescript](https://my.mindnode.com/sVztpyT1i8ftbWsWz1NwmsYiHpZsWs9qWahYLwRw)
 
 ## [processing](https://my.mindnode.com/XyhxvywCzvpsXkcaTVbX9kZquvxtMRS2JG119ZgK)
 
+2001: language and IDE built for electric arts and visual design with educational purpose
+
 ## [assembly](https://my.mindnode.com/aBpRSvC7cLjDLsPXUzyJT6VFoisq5C4fxs1xc6HL)
+
+1949: low level, very strong correspondence between the language and architecture’s machine code instructions
 
 ### [x86](https://my.mindnode.com/5K9xXhi81Tce2sWHAsSqdpHabjB2oCozQvMDswyz)
 
 ## [lisp](https://my.mindnode.com/owvaiMW5PspBP7cEU9qNxsorNo4nyV7zWyPzoNae)
 
+1958: originally created as mathematical notation for computer programs, was used in AI research, linked lists are one of lisp’s major data structures and lisp source code is made of lists thus allowing to manipulate source code as a data structure
+
 ### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
 
 ## [applescript ✨](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
 
+1993: scripting language created by Apple to do inter-application communication using AppleEvents
+
 ## [ocaml](https://my.mindnode.com/kDiqP5vxcxmMjkQLx3n6kC5kfVyNfv3aTydcxYTF)
+
+1996: extends caml language with object oriented programming constructs
 
 ## [elixir](https://my.mindnode.com/J6b3nTAzCC2ARbDsqhgH2iR4CeoaDYAriUx3VMni)
 
+2011: functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions
+
 ## [elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
+
+2012: domain specific for declaratively creating web browser based GUI, purely functional with emphasis on usability, performance and robustness
 
 ## [d](https://my.mindnode.com/GrApAj3ErZFVF98tjfMtsQeX7WqN5sznimQkXLKg)
 
+2007: object oriented, imperative, multi paradigm system programming language
+
 ## [idris](https://my.mindnode.com/7QsZ9uz12PzPfDbszd1UuW96dya26uqRGWCteuUE)
+
+2016: general purpose, purely functional with dependent types, supports interactive theorem proving
 
 ## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 ## [coq](https://my.mindnode.com/PZbYS7znvtFr4qz2HeptpcyoPSv3RnkS9fZr8hVs)
 
+1989: interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs
+
 ## [kitten](https://my.mindnode.com/DysArZp9yLbryAFYsjTWeWqjfG2xCmG2xJyrz4Fo)
 
 ## [javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a)
+
+1995: high level, dynamic, untyped and interpreted, prototype based with first class functions, making it a multi paradigm language
 
 ### [es6](https://my.mindnode.com/7bqrd5aXqfqp4KjrzBsWtq5QKMJViWTPFNXHKaj1)
 
@@ -566,19 +628,35 @@ how to get into competitive programming and learn to solve algorithmic challenge
 
 ## [erlang](https://my.mindnode.com/KxNBKYQCSmre7v78zDGLq3CSNzqJeu1hctxUJ5Ps)
 
+1986: general purpose, concurrent, functional with a garbage collected runtime system
+
 ## [julia](https://my.mindnode.com/pKF9seYpM6bH32C7YEcEshjqFJ59JqweuEhypdkf)
+
+2012: high level, dynamic, designed to address needs of high performance numerical analysis and computational science
 
 ## [groovy](https://my.mindnode.com/vQYZNctyAErZEzVV9SUUUHppHgBzn2Tvzww1NS9p)
 
+2003: object oriented, dynamic, can be used as a scripting language for the java platform, dynamically compiled to jvm bytecode
+
 ## [dart](https://my.mindnode.com/rqjteVJidb5moPEJWa3spqjVpiV4nxuGt51FcZU3)
+
+2011: general purpose, object oriented, class defined, single inheritance
 
 ## [kotlin](https://my.mindnode.com/Vu8B91eH8yuGcdCbvukte6kyYjyV52VUxWv8jpVT)
 
+2011: statically typed, runs on jvm, can be compiled to javascript source code
+
 ## [fortran](https://my.mindnode.com/eVzBsD3vJRLoysPvWWaZh2DknvdBt7ctS9F2Bo3R)
+
+1957: general purpose, imperative, suited for numeric computation and scientific computing
 
 ## [delphi](https://my.mindnode.com/vywEGSUki5oM4mqcjMfNuHz5NnErsNNrXV2UYX4q)
 
+1995: delphi’s compilers use their own object pascal dialect of pascal and generate native code for several platforms
+
 ## [crystal](https://my.mindnode.com/xkatKAsBgFHEJhczPSq5qprZDwYgKgd1rU6LayDz)
+
+2011: general purpose, object oriented, statically type checked with implementation of advanced global type inference
 
 
 # [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
@@ -1351,7 +1429,7 @@ insane customisability with focus on keeping your hands on the home row of your 
   the programming language created to extend vim
 
 - [plugins ✨](https://my.mindnode.com/H7EUqGs5Ezm9BsMDsLsNUpYkeBotC2yBHobMpUD3)
-  various plugging that I found interesting or useful
+  various plugins that I found interesting or useful
 
 - [my vimrc ✨](https://my.mindnode.com/QKK41ixhzhCk64Bss2xsvAssL7j79HDKdY1TsNd5)
   my vim set up
@@ -1408,6 +1486,12 @@ an app that has changed the way I interact with my computer by allowing me to re
 - my set up
 
 ### [hyper](https://my.mindnode.com/2aYqMggNxwVprbrLUjqZe5kKxgnMzyXPehqLXXff)
+
+## communication
+
+### slack
+
+- [teams](https://my.mindnode.com/nSzeaKsFhpf1TB9npxampNd8uQkhBhgfxezfbDW1)
 
 ## design
 
@@ -1609,8 +1693,12 @@ study and observation of natural phenomena
 
 ## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
 
+## PostgreSQL
+
 
 # [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+
+what it means to work with open source and how to best sustain an open source project
 
 
 # [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
@@ -1659,7 +1747,10 @@ amazing github repositories that don’t really fit into other topics of this mi
 
 ### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
 
+gists that I found interesting and useful 
+
 - [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
+  gists that I shared sorted by categories
 
 ## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
 
@@ -1667,17 +1758,23 @@ reddit subreddits organised by topics
 
 ### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
 
+a browser extension to improve reddit experience
+
 ## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
 
 quora communities organised and connected
 
 ## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
 
+codeine code that I found interesting organised
+
 ## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
 
 youtube channels I like organised and connected
 
 ## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
+
+websites whose design I really like
 
 ### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
 
@@ -1713,6 +1810,8 @@ the structure of my .dotfiles folder
 
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
+study of change of matter
+
 
 ## [molecular symmetry ✨](https://my.mindnode.com/syLbmWcosLUUrSUBsyphevrhRyMkHFCd1wgXa8M6)
 
@@ -1720,7 +1819,11 @@ the structure of my .dotfiles folder
 
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
 
+substance consisting of atoms which all have same number of protons (same atomic number)
+
 ## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
+
+any substance that has mass and takes up space
 
 
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
@@ -1825,7 +1928,7 @@ series I have seen or plan on watching
 
 # feelings
 
-the different feelings humans and other living organisms can feel and we can objectively quantify, are feelings just chemical processes or something greater
+the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
 
 
 ## depression
@@ -2520,6 +2623,8 @@ interesting podcasts I have found and liked or want to listen to
 
 ## [startups](https://my.mindnode.com/HbFANxd6nBWGo1oiTAnasaEALH4jwLpoabVEFJMP)
 
+how to successfully start and sustain a startup
+
 ## [real estate](https://my.mindnode.com/qhwRiqAYihd9fuW3pBycxdD3PzShFsnNu5mEZyq7)
 
 ## [supply chain ✨](https://my.mindnode.com/ViTExqEGpynsMsdLm7wNyqZhosAKZLerp8ojk1c6)
@@ -2708,15 +2813,17 @@ javascript libraries I found interesting that are not big enough to warrant itse
 ## [draft.js](https://my.mindnode.com/kDqR2uaa5aZdQsKNupKyrJV9F8tyGhbqTbGvAqvP)
 
 
-# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
-
-
 # lessons
 
 
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
 
 ### [flow ✨](https://my.mindnode.com/uofSvqqeJvwVVUSufcCbFpxqEVjDhywJyCXjATrZ)
+
+
+# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
+
+how to find work and what to focus on
 
 
 # data
@@ -2765,7 +2872,7 @@ about 1760-1840
 
 ### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
 
-for 15th to 19th century 
+15th to 19th century
 
 ### [american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
 
@@ -2886,6 +2993,26 @@ poems I found and enjoyed reading
 ## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
 
 
+# ideology
+
+
+## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+
+## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+
+# [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
+
+
+## scikit-learn
+
+## [django](https://my.mindnode.com/G4Fd4m9coy6UvVJ2xydbUt4KMaJEgr1u3kxeXWYy)
+
+## flask
+
+## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
+
+
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
 
 courses I am doing or plan on doing
@@ -2913,6 +3040,10 @@ courses I am doing or plan on doing
 
 ### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
 
+### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
+
+### [data structures](https://my.mindnode.com/7GyKLbtCEJhPKkuiRHXwxRduH7Sds9d1pxFBqdqV)
+
 ## math
 
 ### [04: multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
@@ -2931,29 +3062,19 @@ courses I am doing or plan on doing
 
 ### algorithms: part 2
 
+### [algorithms specialisation](https://my.mindnode.com/5XkfL517JLspUpmBS4QRpr3nTk7tqgHpMhVv3Ta1)
+
 ## business
 
 ### [gamification](https://my.mindnode.com/kPxL9NzZZKEqH7HxBweNMmmjcxBLDtvtm8qiGMR1)
 
+## gamedev
 
-# ideology
+### [HTML5 game development](https://my.mindnode.com/8pqL92aH3us7DFs2rTuL4k9NezS4kfy5Hpo5r3UX)
 
+## chemistry
 
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
-
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
-
-
-# [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
-
-
-## scikit-learn
-
-## [django](https://my.mindnode.com/G4Fd4m9coy6UvVJ2xydbUt4KMaJEgr1u3kxeXWYy)
-
-## flask
-
-## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
+### [bioinformatics specialisation](https://my.mindnode.com/rDzafu86YJx9sdRfz5FhaEfy4Ao4bpcL74BFYAF5)
 
 
 # [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
