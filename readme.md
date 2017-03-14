@@ -1,5 +1,6 @@
-#[Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F)
-####(the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
+# [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F)
+
+#### (the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
 
 ![](http://i.imgur.com/TjnNwdw.jpg)
 
@@ -7,19 +8,19 @@
 
 And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
 
-##[MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 ![](http://i.imgur.com/01xCRLy.jpg)
 
 
-##[My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
+## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-##[My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
+## [My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
 
 I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
 
-##Contributing 🎉
+## Contributing 🎉
 There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
 Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
@@ -30,12 +31,12 @@ If you do want to help me make my vision of open sourcing and visualising all of
 
 There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
 
-#Future 🚀
+# Future 🚀
 
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics.
  
 
-##Other folders in this repository 📁
+## Other folders in this repository 📁
  
 I am still thinking how I will try to structure this project and this repository well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and hope everything will be exported both in textual and image format and as a live mind map of links.
 
@@ -50,12 +51,12 @@ Here are the folders I have currently migrated in this way. The most up-to-date 
 	- I may add some interesting free of license pdfs to it in the future
 
 
-#Ask 💬
+# Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
 Learn something new. 🎊
 
-#mindmap index 🗄️
+# mindmap index 🗄️
 - advised to open them in new tab as there is a bug with going back 
 	- need to go back a few times 😞 (I hope it will be fixed soon)
 
