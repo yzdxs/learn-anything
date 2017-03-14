@@ -21,9 +21,14 @@ I love writing. I find the act of writing really enjoyable as I try to condense 
 I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
 
 ## Contributing 🎉
-There is a lot of knowledge that can be shared. I would love to visualise it for myself and every one else. I would love it if you could contribute and add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
+
+There are few ways in which you can contribute.
+
+I would love it if you would add your own knowledge or links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
 Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
+
+Another thing I am doing is giving succint and clear descriptions to each of the main nodes in the graph as can be seen in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) below some of the nodes. I wish to desribe each of the nodes in the most clear way possible. I would love some help on this by either adding your own descriptions and submitting a pull request or correcting or improving the descriptions I have written. Perhaps I have made a mistake or it could be said better.
 
 As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of Google where you have to know what to ask before getting an answer.
 
@@ -62,9 +67,11 @@ Learn something new. 🎊
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
-the high level overview of all the knowledge
+the high level overview of all the knowledge
 
 # [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+
+aeroplanes, helicopters or other machines capable of flight
 
 
 ## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
@@ -74,8 +81,12 @@ how were the first planes built
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
+movement of people, animals and goods from one location to another
+
 
 ## [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+
+different bike models that I find interesting
 
 ### [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
 
@@ -1719,18 +1730,18 @@ what it means to work with open source and how to best sustain an open source pr
 ## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
 
 
-# [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
-
-
-## [posix ✨](https://my.mindnode.com/zNsVJZhxAWsRy9xoC2ZqNzAqcWNxVyTeu9NsVDpx)
-
-
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
 
 ## apache
 
 ## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
+
+
+# [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
+
+
+## [posix ✨](https://my.mindnode.com/zNsVJZhxAWsRy9xoC2ZqNzAqcWNxVyTeu9NsVDpx)
 
 
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
@@ -1961,6 +1972,8 @@ the different feelings humans and other living organisms can feel and how can we
 
 
 ## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
+
+united states copyright law criminalising production and sharing of digital copyrighted material
 
 
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
@@ -2382,12 +2395,14 @@ browser developed by Google
 # [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
 
 
-# [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
-
-
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 live talks I have personally attended and have seen and made notes on
+
+
+# [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
+
+how to accelerate startup growth, acquire and keep new customers
 
 
 # [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
@@ -2477,9 +2492,6 @@ countries and cities I have been to with commentary and photos of each place
 # [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
 
 
-# [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
-
-
 # teaching
 
 how can you teach effectively, how does one learn
@@ -2505,6 +2517,11 @@ how can you teach effectively, how does one learn
 ### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
 
 - [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
+
+
+# [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
+
+how to find customers for your products and expose your product to the world in the most efficient way
 
 
 # companies
@@ -2620,6 +2637,8 @@ interesting podcasts I have found and liked or want to listen to
 
 # [business](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
 
+organisational entity involved in providing goods or services to customers
+
 
 ## [startups](https://my.mindnode.com/HbFANxd6nBWGo1oiTAnasaEALH4jwLpoabVEFJMP)
 
@@ -2627,7 +2646,11 @@ how to successfully start and sustain a startup
 
 ## [real estate](https://my.mindnode.com/qhwRiqAYihd9fuW3pBycxdD3PzShFsnNu5mEZyq7)
 
+property consisting of land and the buildings on it, along with all its natural resources
+
 ## [supply chain ✨](https://my.mindnode.com/ViTExqEGpynsMsdLm7wNyqZhosAKZLerp8ojk1c6)
+
+sequence of processes involved in the production and distribution of products
 
 
 # [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
@@ -2760,6 +2783,8 @@ javascript libraries I found interesting that are not big enough to warrant itse
 
 ## [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
 
+library for building user interfaces including one way data flow, virtual dom, jsx features
+
 ### [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
 
 ### [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
@@ -2773,6 +2798,8 @@ javascript libraries I found interesting that are not big enough to warrant itse
 ## [browserify](https://my.mindnode.com/EbDW1ixyWxUtTcc2rLEGGq9KAEECf5EsESKsNHp8)
 
 ## [webpack](https://my.mindnode.com/zgWc5GoHNEA2DDjsjLLvbQRoBDmMds36pzwE5v2p)
+
+packs many javascript modules into a few bundled assets
 
 ## whitestorm.js
 
@@ -3001,18 +3028,6 @@ poems I found and enjoyed reading
 ## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
 
 
-# [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
-
-
-## scikit-learn
-
-## [django](https://my.mindnode.com/G4Fd4m9coy6UvVJ2xydbUt4KMaJEgr1u3kxeXWYy)
-
-## flask
-
-## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
-
-
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
 
 courses I am doing or plan on doing
@@ -3083,22 +3098,22 @@ courses I am doing or plan on doing
 ## [jupyter](https://my.mindnode.com/N8Ym4F5kq3sJxy9zx5FVr687my2gb3tjq2TUcWoJ)
 
 
+# [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
+
+
+## scikit-learn
+
+## [django](https://my.mindnode.com/G4Fd4m9coy6UvVJ2xydbUt4KMaJEgr1u3kxeXWYy)
+
+## flask
+
+## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
+
+
 # [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
 
 
 ## russian
-
-
-# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
-
-my curated gallery of all images I have personally collected organised by albums
-
-
-## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
-
-## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
-
-## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
 
 
 # [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
@@ -3129,7 +3144,22 @@ playlists that I have made and shared
 ### [SASS](https://my.mindnode.com/7RjRMz1zXEcWH3HsYGwavroXLaf4GsDgJxE9tksL)
 
 
+# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+
+my curated gallery of all images I have personally collected organised by albums
+
+
+## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
+
+## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
+
+## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
+
+
 # [singing](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
+
+
+# [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
 
 
 # [swift libraries ✨](https://my.mindnode.com/JbqzJycnfpFsi3iAXHNDzSuJEEpgcYxK9nnW8Smo)
@@ -3140,9 +3170,6 @@ playlists that I have made and shared
 ## [perfect](https://my.mindnode.com/mSag1P8wZHT8JsRSJK5CuksJDqD5h48Lfp8aHESw)
 
 ## [RxSwift](https://my.mindnode.com/ER5sfkWpxL978asyXL32LqiZMaYyGphRgypMmzeq)
-
-
-# [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
 
 
 # [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
