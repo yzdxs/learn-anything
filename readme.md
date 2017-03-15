@@ -45,7 +45,7 @@ If you have some specific questions about this project or about myself, my inter
 
 Learn something new. 🎊
 
-# mindmap index 🗄️
+# Index 🗄️
 - advised to open them in new tab as there is a bug with going back 
 	- need to go back a few times 😞 (I hope it will be fixed soon)
 
