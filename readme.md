@@ -76,6 +76,8 @@ small, human powered land vehicles
 
 ## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
 
+road vehicle used to carry passengers
+
 
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
@@ -84,6 +86,8 @@ contains all the documentation for how I use and manage this mind map
 
 # [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
 
+someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
+
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
@@ -91,6 +95,8 @@ self driving cars are already a reality
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
+
+protecting something from dangers from the outside world 
 
 
 ## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
@@ -102,7 +108,7 @@ self driving cars are already a reality
 
 # [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
 
-how to make machines ‘see’ and ‘analyse’ images in a smart way
+learns how computers can find things in pictures 
 
 
 ## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
@@ -173,7 +179,7 @@ privacy is important, what can you do to preserve your identity online
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
-how to make machines ‘think’
+ability of a computer program or a machine to think and learn, making computers ‘smart’
 
 
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
@@ -236,13 +242,22 @@ came from trying to solve systems of linear equations, vectors and matrices are 
 
 ## [set theory](https://my.mindnode.com/MXEzZzQ4aXtJgEb4ZzFFGozqvew3CFrygjDfgmfv)
 
+study of sets where sets are collections of objects, we refer to these objects as “elements” “members” of the set, to write a set, one wraps the numbers in {curly brackets} and separates them with commas: e.g. {1,2,3} holds 1, 2 and 3
+
 ## [graph theory](https://my.mindnode.com/4qBQ8eA8wvpz6xBdDh1aoW3o9zxWxs1qKQXMqNB3)
+
+a graph is an abstract representation of a number of points that are connected by lines, each point is usually called a vertex (more than one are called vertices), and the lines are called edges, graphs are a tool for modelling relationships, they are used to find answers to a number of problems
 
 ## [statistics](https://my.mindnode.com/qVTGVEnNrmXDqy2UQTdPs1xRahZDNJFo94jy92Fb)
 
+science of data, enables the collection, analysis, understanding, and presentation of data
+
 ### [probability](https://my.mindnode.com/MZGoZtx41zsEo3SvzQtM3d3m651huqHRRyMqpEqh)
 
+has to do with chance, the study of things that might happen or might not happen
+
 - [markov chains](https://my.mindnode.com/e3Hjd7WSfzApQaKjS13xx2iE1GHsgqniAaNgqscb)
+  is a model of some random process that happens over time, they are called this way because they follow a rule called the Markov property which states that whatever happens next in a process only depends on how it is right now (the state)
 
 ### [survival analysis](https://my.mindnode.com/k8JiQykg46ppxrzKhA6uoNtx3pZdkhMz7BL6gVaT)
 
@@ -250,9 +265,15 @@ came from trying to solve systems of linear equations, vectors and matrices are 
 
 ### [regression analysis](https://my.mindnode.com/JzesnxsJb4qQ9papCBdxQiQeUpxyCvefcY7WosPM)
 
+a tool to show the relationship between the inputs and outputs of a system
+
 ### [statistical inference](https://my.mindnode.com/NBhxzRYRhzyGHoPDsxy7fKcD9zu5UPzNMXkhX2s1)
 
+process of drawing conclusions from data that is subject to random variation, i.e. observational errors or sampling variation
+
 ## [conjectures](https://my.mindnode.com/kphjsziKrppjdFjkZqndSzKwWsxdz3ZFjzQXjxW9)
+
+idea in mathematics that appears likely to be true but that has not been proven to be true, after it is proven, it becomes a theorem
 
 ## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
 
@@ -274,7 +295,11 @@ helps us understand changes between values that are related by a function
 
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
+study of mathematical structures that are discrete rather than continuous, in contrast to real numbers that vary “smoothly”, discrete math studies objects such as integers, graphs, and statements in logic, these objects do not vary smoothly, but have distinct, separated values
+
 ### [combinatorics](https://my.mindnode.com/nt83Gi2tzRRpJgSTRGszs5PSgbnrxQzvoKQn7kfc)
+
+concerned with finite or countable infinite sets, is about graph theory, or Partitions of sets, it looks at counting the number of possibilities, and about the questions whether certain configurations exist, and how to get to them
 
 - [matroid ✨](https://my.mindnode.com/sF7sUg4HkLRESjQmteMTuLGHCqm2KaXYPQdNSTu6)
 
@@ -286,6 +311,8 @@ science of reasoning, helps people decide whether something is true or false
 
 ### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
 
+Godel said that every non-trivial formal system is either incomplete or inconsistent
+
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
 shows how different ideas in mathematics are alike, for example some ideas from topology and abstract algebra are similar
@@ -296,51 +323,94 @@ explains what some types of numbers are, what properties they have, and ways tha
 
 ### [primes ✨](https://my.mindnode.com/SzKTAzYHZy2PzyzDR5VfNWxQc3SFk2VYJG9qYTbq)
 
-## [numerical analysis](https://my.mindnode.com/6EzVHCiusSpooCyqzdSnaDW1g28oYDWrbfvTpe5H)
-
 ## [geometry](https://my.mindnode.com/g5is6sLdVq7yBpgzezSFcH4UbKgqwHQyknLaQ39d)
+
+studies the size, shapes and positions of things, there are flat (2D) shapes and solid (3D) shapes
 
 ### [topology](https://my.mindnode.com/sJNa7EqTT1oZv9MXbbWbzuiHfH2pkyj3TpDZEzqw)
 
+study of how spaces are organised, how the objects are structured in terms of position, it also studies how spaces are connected
+
 - [network topology](https://my.mindnode.com/Eqxproi3vwszqAnaT559jLbhhDrHSiVrzsB7FUep)
+  layout of the connections (links, nodes, etc.) of a computer network, network topologies may be physical or logical
 
 ### [pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq)
 
-## [real analysis](https://my.mindnode.com/vBJ2PxQBL28fU22KgCTzc3JgiHxXQsoi8E9HJXDs)
+is a mathematical constant, it is the ration of the distance around a circle to the circle’s diameter, this produces a number and that number is always the same
+
+## analysis
+
+process of breaking a complex topic or substance into smaller parts to gain better understanding of it
+
+### [real analysis](https://my.mindnode.com/c7re682pzFtTXzbNnqgdbXo1gPScsjSxZvMoTSWd)
+
+deals with sets and sequences of real numbers, as well as functions of one or more variables
+
+### [frequency analysis](https://my.mindnode.com/dfih8v9qe7sqkpBqxpBEnV2xnAxUvW6nXR3fVzCo)
+
+is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies
+
+### [functional analysis](https://my.mindnode.com/AH8GyeFxecym2PAH4qhdqfyyVenHcGcEjFQ5moir)
+
+### [harmonic analysis](https://my.mindnode.com/ZsWX3PEy41PXKmnB8nsi2hzpvuYH85HZKgBxYMCs)
+
+looks at the theoretical foundations of digital signal processing, a continuous signal can be drawn as a wave, or as a combination of several waves, fourier transforms or fourier series are among the main tools used for signal analysis
+
+### [fourier analysis](https://my.mindnode.com/GTv2USZqpjKqq3yKJZHSsci1AgH66V9bTiXrFXR6)
+
+looks at how more complex functions can be built with simpler ones
+
+### [numerical analysis](https://my.mindnode.com/gCqezFhjRQGcxfusZph2WMQstSCwWsJjqeNHxpPp)
+
+studies different algorithms to get approximations for problems of mathematical analysis
 
 ## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
 
+a theory is a group of linked ideas intended to explain something, a theory provides a framework for explaining observations, the explanations are based on assumptions, from the assumptions follows a number of possible hypotheses, they can be tested to provide support for, or challenge, the theory
+
 ## [fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
+
+any pattern, that when seen as an image, produces a picture, which when zoomed onto will still make the same picture, it can be cut into parts which look like a smaller version of the picture that was started with
 
 ## [visualisation](https://my.mindnode.com/KHZZzzkuqLypx2RZzhfLzW8xySgmnD9pkj4piYnG)
 
 ## [lambda calculus](https://my.mindnode.com/T3szxY2FvQRQEkxRdH5HPx66mzDgwfHfCdzMsSXJ)
 
+is a formal system, was designed to investigate the definition of functions, and how to apply them, it is also a tool for analysing recursion
+
 ## [game theory ](https://my.mindnode.com/eFoMHf1ySiQTQr4bswzQENXTVkMTZFqp1WuPJG2W)
 
+study of how and why people make decisions
+
 ## [decision theory](https://my.mindnode.com/KAHNnVQjfus3JW9pyTK3ESNu4qeCQqms2n3NsXex)
+
+theory about how to best reach a decision, done using probability theory, statistics and logical reasoning
 
 ### [markov decision processes](https://my.mindnode.com/zJ5EyXG2cvWCUYozwtKyn4gzhXtYCUyK6oMGvgXG)
 
 ## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
 
-### [functional analysis](https://my.mindnode.com/udxWqpzhifs9r5yAzp1myNVt9y8SzYPhapRVvYXx)
-
-### [fourier analysis](https://my.mindnode.com/88VMyHU8LixjF5ZKxXdisXQqv33yJmyefovrxAfv)
-
-### [harmonic analysis](https://my.mindnode.com/cxRqxsAegErzdVSHzBcrsHoMopsV2HyDGvFDmsEi)
+is a prescription that assigns to every object of one set an object of another (or the same) set
 
 ### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
+
+mathematical equation that involves variables like x or y, as well as the rate at which these variables change, they are special because the solution of a differential equation is itself a function instead of a number
 
 ## [modularity ✨](https://my.mindnode.com/kXvXxFpeskVny5UVsqjDbnpxdyH6UJbyzxYsAx4o)
 
 ## [control theory](https://my.mindnode.com/kAsGVxziV9tzNS7Qp3SrfknynqLWW3U7YNbunjvk)
 
+deals with behaviour of dynamical systems, the desired output of a system is called the reference
+
 ## [information theory](https://my.mindnode.com/sV2rmysskLGTGzZjfckp3ouCeyyUEnyC2eTfiH5x)
+
+measures the amount of information in data that could have more than one value, in its most common use, information theory finds physical and mathematical limits on the amounts of data in data compression and data communication
 
 ## [uncertainty quantification](https://my.mindnode.com/Q8JHqfY9ENGCRQu3MDHgypqJazwTTqZ8EKhP9Yfy)
 
 ## [coding theory](https://my.mindnode.com/uxfLB6ozxTwBBRxMR551sysuLaHvdgqURhEnpejX)
+
+study of properties of codes and how good they are for use in the real world, codes are used for data compression, cryptography and error correction
 
 ## [computational math](https://my.mindnode.com/pXsZa7eZpNNmHPfV6yWxqRFyhMYE21zYZVz11fQ2)
 
@@ -356,19 +426,30 @@ explains what some types of numbers are, what properties they have, and ways tha
 
 ## [fractional calculus](https://my.mindnode.com/xVTYBJBzPpcpJ9E7xPTtupxZ7sCE1qeUz46yTbGW)
 
-## [frequency analysis](https://my.mindnode.com/h8kYs5EYvnxBPALm3kv4MJbqMVUZv2yHqcDRJb8U)
-
 ## [proofs](https://my.mindnode.com/XyTDyytxnnniBnQAEyMcCpyqs77sxMqmSfeXu56y)
+
+a way to show that a math theorem is true, one must show that the theory is true in all cases
 
 ### [induction](https://my.mindnode.com/fUnyydZRSrXfQnXtqFj7YDRdDqsD4LootHq1VpAJ)
 
+special way of proving a mathematical truth, it can be used to prove that something is true for all the natural numbers, the idea is that   
+  
+1. something is true for the first case  
+2. that same thing is always true for the next case
+
 ## [ring theory](https://my.mindnode.com/H7uZZ1syPfDBHyKspWf7qjKM4z9KQ8UA8hSHwbom)
 
+in algebra a ring is a structure where multiplication and addition are defined, rings are similar structure to that of integers
+
 ## [algebraic geometry](https://my.mindnode.com/vqkZziXCNsAaKraPAXsuyCyUgwq2qcc6bw3GSVqj)
+
+studies polynomial equations
 
 ## [representation theory](https://my.mindnode.com/rtP2zyWvKfBt61nqLKxCjEuphAqp78PGum9TtGoS)
 
 ## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
+
+studies a type of algebraic structure called a group, is often used in math as a starting point for the study of many algebraic structures, and of addition and multiplication of numbers
 
 
 # [configuration management](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
@@ -3236,3 +3317,4 @@ all the useful and interesting go packages I have found sorted by domain
 
 
 ## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
+
