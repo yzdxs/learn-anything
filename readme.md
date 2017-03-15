@@ -1,4 +1,4 @@
-# [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F)
+# [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
 #### (the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
 
