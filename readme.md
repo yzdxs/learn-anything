@@ -426,6 +426,8 @@ deals with behaviour of dynamical systems, the desired output of a system is cal
 
 measures the amount of information in data that could have more than one value, in its most common use, information theory finds physical and mathematical limits on the amounts of data in data compression and data communication
 
+### [algorithmic information theory](https://my.mindnode.com/vfXkctqPxGnnpZUnHQooLujkSJ6mPQfHspxx7sHZ)
+
 ## [uncertainty quantification](https://my.mindnode.com/Q8JHqfY9ENGCRQu3MDHgypqJazwTTqZ8EKhP9Yfy)
 
 ## [coding theory](https://my.mindnode.com/uxfLB6ozxTwBBRxMR551sysuLaHvdgqURhEnpejX)
@@ -557,6 +559,8 @@ set of steps or state changes
 ## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
 
 ### [test driven development](https://my.mindnode.com/ey6QYxyUo6JqQ6tDmmRRLykwjpr7ybbEf5fcicZr)
+
+### [unit testing](https://my.mindnode.com/z3wLxo6zw1KEpPs1kryj51ToaDH3RkfEDQx4GRDR)
 
 ## [error handling ✨](https://my.mindnode.com/hsypcsP4rFSaqi8Gs2J6a3KsMfeKUpVPqEudmXYw)
 
@@ -1160,6 +1164,10 @@ converts chemical energy into electrical energy by a chemical reaction
 
 limits the electrical current that flows through a circuit
 
+### circuits
+
+- RLC circuit
+
 ## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
 
 aims to solve problems which could not be solved by classical physics
@@ -1235,6 +1243,26 @@ any process that removes the excess salt and other minerals from water in order 
 ## [solar wind](https://my.mindnode.com/SsnzcEouwzqSNjydyxmgGVxBjhqeGxjGqQPKps1s)
 
 is wind from the sum, it is a stream of charged protons, electrons and plasma shot out of the Sun, the wind is shot out at hypersonic speed
+
+## thermodynamics
+
+### [absolute zero](https://my.mindnode.com/XxH1FY7jU2FjbRbujTsHSdvCzC7mxpbP2osJqasC)
+
+## [matter](https://my.mindnode.com/ZpWcFMjLGXAracsoyjHBzSxXPqbw8ox3yq4kKUqR)
+
+any substance that has mass and takes up space
+
+### [plasma](https://my.mindnode.com/AVJpD9UsKocg8VRsArdQpy5VcHapiWxtCFPFknCo)
+
+## fluid mechanics
+
+## chaos theory
+
+## classical mechanics
+
+### kinematics
+
+- continuum mechanics
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
@@ -1312,13 +1340,13 @@ name for a group of computer programs, device drivers, kernel and other things t
 ### [andromeda OS](https://my.mindnode.com/E9T3FZbseA166QRroExnvozpMqv3wPZuLteth18d)
 
 
-# [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
-
-
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
 
 ## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
+
+
+# [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
 # [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
@@ -1339,17 +1367,14 @@ name for a group of computer programs, device drivers, kernel and other things t
 ## PostgreSQL
 
 
-# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
-
-what it means to work with open source and how to best sustain an open source project
-
-
-# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
-
-
 # [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
 
 study of mind and of thought, feeling and behaviour
+
+
+# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+
+what it means to work with open source and how to best sustain an open source project
 
 
 # [quantum physics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
@@ -1363,6 +1388,8 @@ study of mind and of thought, feeling and behaviour
 
 ## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
 
+## [quantum field theory ✨](https://my.mindnode.com/Y2ZrpZdcqTzUyzAfx2w3T6mr1VrDQbHhAaGxDUV3)
+
 
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
@@ -1370,6 +1397,9 @@ study of mind and of thought, feeling and behaviour
 ## apache
 
 ## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
+
+
+# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
 
 
 # [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
@@ -1453,28 +1483,6 @@ the structure of my .dotfiles folder
 ## [cli programs](https://my.mindnode.com/sMNrKZZgN8KeLpFW3pLzJHEiQrrFtxmsXaibaj8e)
 
 
-# [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
-
-study of change of matter
-
-
-## [molecular symmetry ✨](https://my.mindnode.com/syLbmWcosLUUrSUBsyphevrhRyMkHFCd1wgXa8M6)
-
-describes the symmetry present in molecules and the classification of molecules according to their symmetry
-
-## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
-
-combination of two or more elements
-
-## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
-
-substance consisting of atoms which all have same number of protons (same atomic number)
-
-## [matter](https://my.mindnode.com/C5kfhmQRVWUF8JnEV4THcsb3x3mgYNWqkcM8xN6n#129.1,-9.9,2)
-
-any substance that has mass and takes up space
-
-
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
 
 
@@ -1507,6 +1515,28 @@ my solutions and working out of leetcode problems
 ## [problem solving ✨](https://my.mindnode.com/mEdx9q2SfcPpxpBnqyyn2uivbjcV3sDSN8Yb8U9y)
 
 how can you effectively problem solve and find efficient solutions to problems
+
+
+# [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
+
+study of change of matter
+
+
+## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
+
+combination of two or more elements
+
+## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
+
+substance consisting of atoms which all have same number of protons (same atomic number)
+
+## molecules
+
+### [molecular symmetry ✨](https://my.mindnode.com/Ayzozn7zGsp7LGuqPGyY8kR1AEtiywbJqDiyWxS1)
+
+describes the symmetry present in molecules and the classification of molecules according to their symmetry
+
+### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
 
 
 # [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
@@ -1574,6 +1604,17 @@ laws concerning United States
 laws concerning European Union
 
 
+# [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
+
+
+# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
+
+
+## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
+
+## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
+
+
 # [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
 
 
@@ -1593,8 +1634,13 @@ laws concerning European Union
 
 ## rock climbing
 
+## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
 
-# [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
+
+# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
+
+
+# [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
 # feelings
@@ -1617,20 +1663,6 @@ mental or emotional state of well being defined by positive or pleasant emotions
 ## love
 
 a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
-
-
-# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
-
-
-## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
-
-## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
-
-
-# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
-
-
-# [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
 # [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
@@ -1773,17 +1805,9 @@ which intentions, decisions and actions can be considered ‘right’ and which 
 # [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
-# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
-
-
-## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
-
-## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
-
-## drawing
-
-
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+
+any chemical that affects the human body or mind when it is consumed
 
 
 ## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
@@ -1809,6 +1833,16 @@ which intentions, decisions and actions can be considered ‘right’ and which 
 ## [antibiotics](https://my.mindnode.com/dTpsaz4v4W67qLVeXzTsgWNZzqaRCepzehzkvzjs)
 
 ## [steroids](https://my.mindnode.com/jWMCXd7gHng4KQoqaQnt1xDzfdrFdXSs2FjWxNpp)
+
+
+# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
+
+
+## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
+
+## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
+
+## drawing
 
 
 # [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
@@ -1891,6 +1925,11 @@ how to manifest and grow interesting ideas
 treating animals as equals and abstaining from eating and using animal products as commodity
 
 
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+advice I have found on life, programming and all that I thought was of value
+
+
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
@@ -1911,11 +1950,6 @@ what makes you, you, your self, an interesting and elusive thing
 ## [mindfulness ✨](https://my.mindnode.com/Vy6qpX9uD6qJKyN7cWCgpErpGzspoKsxB1FFFsXq)
 
 how to be aware of your actions and thoughts as you live through life
-
-
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
-
-advice I have found on life, programming and all that I thought was of value
 
 
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
@@ -2236,7 +2270,11 @@ all the books I am currently reading or have read
 
 ### [university physics with modern physics ✨](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
 
+- ch 3: motion in two or three dimensions
+
 ### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
+
+### 10: fields of colour: the theory that escaped Einstein
 
 ## networking
 
@@ -2361,6 +2399,8 @@ all the books I am currently reading or have read
 ### 13: an introduction to statistical learning: with applications in r
 
 ### 1983: the visual display of quantitative information
+
+### [01: the elements of statistical learning ✨](https://my.mindnode.com/yTgJgH6oNpTDa9PnYz67t8whuAJyyiETdk5q7s96)
 
 ## cs
 
@@ -2661,6 +2701,14 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### computer systems: a programmer’s perspective
 
 
+# [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
+
+
+# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
+
+live talks I have personally attended and have seen and made notes on
+
+
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
 
 
@@ -2669,14 +2717,6 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### running
 
 ## [strength training](https://my.mindnode.com/RceumyyqQMNJ8veUf4M1aQ7wksqyxuHAsUyvKwiz)
-
-
-# [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
-
-
-# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
-
-live talks I have personally attended and have seen and made notes on
 
 
 # [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
@@ -3055,70 +3095,6 @@ what it means to make a search engine and what is needed
 ## WWDC
 
 
-# [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
-
-javascript libraries I found interesting that are not big enough to warrant itself a node of their own
-
-
-## [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
-
-library for building user interfaces including one way data flow, virtual dom, jsx features
-
-### [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
-
-### [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
-
-### [react native](https://my.mindnode.com/JzUt9P3D3zRyN2MD12GGkGwNSsNPjH2QMx7qzUSA)
-
-### [components ✨](https://my.mindnode.com/wfi8BEQVtwNpezoexVAYxpfvkQp4tMSz8ccxwZBA)
-
-### [react router](https://my.mindnode.com/EUo6EryAwNW8rpiwADxKyr86zZy9txB6LyNNQvQc)
-
-## [browserify](https://my.mindnode.com/EbDW1ixyWxUtTcc2rLEGGq9KAEECf5EsESKsNHp8)
-
-## [webpack](https://my.mindnode.com/zgWc5GoHNEA2DDjsjLLvbQRoBDmMds36pzwE5v2p)
-
-packs many javascript modules into a few bundled assets
-
-## whitestorm.js
-
-## three.js
-
-## [jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
-
-## [immutable.js](https://my.mindnode.com/xR3A8YVBcPjUDSz6iomdqqsJLqsECMHv8oMFinzD)
-
-## [redux ✨](https://my.mindnode.com/nW1WEJKaSXAMqvb5TWxvukEnQQYJhHhxZYTrCtUd)
-
-## [angular](https://my.mindnode.com/vME2Qiop3hVbQmVnsRh6jHK7b4AhKZJ6NBo3wFxR)
-
-## [jest](https://my.mindnode.com/dsyTHkqYijFBbtzeW4p4PBpqTZEdzcPCpQgTevPq)
-
-## [d3.js ✨](%E2%9C%A8)
-
-## [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
-
-## [preact](https://my.mindnode.com/WAPnPzGkGX1GswCnFApEQKEqRg8t2R1iTx7ysoVm)
-
-## [jsdom](https://my.mindnode.com/AhPThRG9Agzqq78yDqbY88Fqspxbmxpzsnxvzd1z)
-
-## [rxjs ✨](https://my.mindnode.com/32xUhkhP9THq39sjGuTXxPkJiaxmS5WCcHqzdNsy)
-
-## [backbone.js](https://my.mindnode.com/EiqR35MzQTq1vST7GfT9wxsJCvboWfyz2sx6XpXd)
-
-## [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
-
-## [relay](https://my.mindnode.com/x5w2TZMw3nSrcDfgyuNseFWiCTCztWJJrXVMWq5M)
-
-## [ember.js](https://my.mindnode.com/Vvh4BeyiqTkw8gvxL4FzaqqxjjeSMqwqfhCPuBxs)
-
-## [meteor](https://my.mindnode.com/nyv9Ykt4NyrYr3zYf1qxR3QZ6ezBk964PqLbKdpT)
-
-## [cycle.js](https://my.mindnode.com/Y8szZz6fxi9rNcyakxyjzPxyYfaSapKrbNDAjprs)
-
-## [draft.js](https://my.mindnode.com/kDqR2uaa5aZdQsKNupKyrJV9F8tyGhbqTbGvAqvP)
-
-
 # lessons
 
 
@@ -3235,22 +3211,6 @@ about 1760-1840
 ## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
-# music creation
-
-
-## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
-
-### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
-
-## [sonic pi ✨](https://my.mindnode.com/iQZyMeouRxBfbgDW443mhkE5JwbpyDUT7LHJtXLH)
-
-write code and generate music, really is quite amazing
-
-## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
-
-the theory behind writing music
-
-
 # [writing ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
 
 articles and tips on how to write better and express myself in words
@@ -3265,34 +3225,6 @@ poems I found and enjoyed reading
 ## [calligraphy](https://my.mindnode.com/Uh3tar5bydHKtER6uHdyTg6ymSzy2y8oteApDrTC)
 
 
-# markup languages
-
-
-## xml
-
-## [html](https://github.com/diegocard/awesome-html5)
-
-### [canvas](https://my.mindnode.com/LWAz7pgJ9gALAXNCxKzMo3V7GJJUWbhy1bguLLJr)
-
-## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
-
-## [markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
-
-
-# package managers
-
-
-## [npm ✨](https://my.mindnode.com/yqLbHf4z3hAuVpq3t5xbTmAqcQWyXGDkznm2br8Q)
-
-## [yarn](https://my.mindnode.com/YEti5BhVyHTPnwuFLeKXYdqfjQFiNzKYadcmcS6z)
-
-## pip
-
-## [carthage](https://my.mindnode.com/r2dq6mzX6k1cad4CbRyQFstntVdvfgKt1f7zASd1)
-
-## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
-
-
 # practice
 
 
@@ -3305,6 +3237,70 @@ poems I found and enjoyed reading
 ## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
 
 ## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+
+# [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
+
+javascript libraries I found interesting that are not big enough to warrant itself a node of their own
+
+
+## [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
+
+library for building user interfaces including one way data flow, virtual dom, jsx features
+
+### [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
+
+### [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
+
+### [react native](https://my.mindnode.com/JzUt9P3D3zRyN2MD12GGkGwNSsNPjH2QMx7qzUSA)
+
+### [components ✨](https://my.mindnode.com/wfi8BEQVtwNpezoexVAYxpfvkQp4tMSz8ccxwZBA)
+
+### [react router](https://my.mindnode.com/EUo6EryAwNW8rpiwADxKyr86zZy9txB6LyNNQvQc)
+
+## [browserify](https://my.mindnode.com/EbDW1ixyWxUtTcc2rLEGGq9KAEECf5EsESKsNHp8)
+
+## [webpack](https://my.mindnode.com/zgWc5GoHNEA2DDjsjLLvbQRoBDmMds36pzwE5v2p)
+
+packs many javascript modules into a few bundled assets
+
+## whitestorm.js
+
+## three.js
+
+## [jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
+
+## [immutable.js](https://my.mindnode.com/xR3A8YVBcPjUDSz6iomdqqsJLqsECMHv8oMFinzD)
+
+## [redux ✨](https://my.mindnode.com/nW1WEJKaSXAMqvb5TWxvukEnQQYJhHhxZYTrCtUd)
+
+## [angular](https://my.mindnode.com/vME2Qiop3hVbQmVnsRh6jHK7b4AhKZJ6NBo3wFxR)
+
+## [jest](https://my.mindnode.com/dsyTHkqYijFBbtzeW4p4PBpqTZEdzcPCpQgTevPq)
+
+## [d3.js ✨](%E2%9C%A8)
+
+## [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
+
+## [preact](https://my.mindnode.com/WAPnPzGkGX1GswCnFApEQKEqRg8t2R1iTx7ysoVm)
+
+## [jsdom](https://my.mindnode.com/AhPThRG9Agzqq78yDqbY88Fqspxbmxpzsnxvzd1z)
+
+## [rxjs ✨](https://my.mindnode.com/32xUhkhP9THq39sjGuTXxPkJiaxmS5WCcHqzdNsy)
+
+## [backbone.js](https://my.mindnode.com/EiqR35MzQTq1vST7GfT9wxsJCvboWfyz2sx6XpXd)
+
+## [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
+
+## [relay](https://my.mindnode.com/x5w2TZMw3nSrcDfgyuNseFWiCTCztWJJrXVMWq5M)
+
+## [ember.js](https://my.mindnode.com/Vvh4BeyiqTkw8gvxL4FzaqqxjjeSMqwqfhCPuBxs)
+
+## [meteor](https://my.mindnode.com/nyv9Ykt4NyrYr3zYf1qxR3QZ6ezBk964PqLbKdpT)
+
+## [cycle.js](https://my.mindnode.com/Y8szZz6fxi9rNcyakxyjzPxyYfaSapKrbNDAjprs)
+
+## [draft.js](https://my.mindnode.com/kDqR2uaa5aZdQsKNupKyrJV9F8tyGhbqTbGvAqvP)
 
 
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
@@ -3375,10 +3371,18 @@ courses I am doing or plan on doing
 ### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
 
 
-# [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
+# markup languages
 
 
-## [jupyter](https://my.mindnode.com/N8Ym4F5kq3sJxy9zx5FVr687my2gb3tjq2TUcWoJ)
+## xml
+
+## [html](https://github.com/diegocard/awesome-html5)
+
+### [canvas](https://my.mindnode.com/LWAz7pgJ9gALAXNCxKzMo3V7GJJUWbhy1bguLLJr)
+
+## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
+
+## [markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
 
 
 # [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
@@ -3393,24 +3397,46 @@ courses I am doing or plan on doing
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
 
-# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
+# package managers
 
 
-## russian
+## [npm ✨](https://my.mindnode.com/yqLbHf4z3hAuVpq3t5xbTmAqcQWyXGDkznm2br8Q)
+
+## [yarn](https://my.mindnode.com/YEti5BhVyHTPnwuFLeKXYdqfjQFiNzKYadcmcS6z)
+
+## pip
+
+## [carthage](https://my.mindnode.com/r2dq6mzX6k1cad4CbRyQFstntVdvfgKt1f7zASd1)
+
+## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
 
 
-# [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
+# music creation
 
 
-## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
+## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
 
-all the music artists whose work I find interesting and enjoy
+### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
 
-## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
+## [sonic pi ✨](https://my.mindnode.com/udzJKf86dap2FzBVfeUsVm7TTfgkyPvqnuWsxsRL)
 
-## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
+write code and generate music, really is quite amazing
 
-playlists that I have made and shared
+## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
+
+the theory behind writing music
+
+
+# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+
+my curated gallery of all images I have personally collected organised by albums
+
+
+## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
+
+## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
+
+## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
 
 
 # style sheet languages
@@ -3427,22 +3453,24 @@ playlists that I have made and shared
 ### [SASS](https://my.mindnode.com/7RjRMz1zXEcWH3HsYGwavroXLaf4GsDgJxE9tksL)
 
 
-# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
-
-my curated gallery of all images I have personally collected organised by albums
+# [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
 
 
-## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
+## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
 
-## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
+all the music artists whose work I find interesting and enjoy
 
-## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
+## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
+
+## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
+
+playlists that I have made and shared
 
 
-# [singing](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
+# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
 
 
-# [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
+## russian
 
 
 # [swift libraries ✨](https://my.mindnode.com/JbqzJycnfpFsi3iAXHNDzSuJEEpgcYxK9nnW8Smo)
@@ -3460,7 +3488,25 @@ my curated gallery of all images I have personally collected organised by albums
 all the useful and interesting go packages I have found sorted by domain
 
 
+# [singing](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
+
+
+# [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
+
+
+## [jupyter](https://my.mindnode.com/N8Ym4F5kq3sJxy9zx5FVr687my2gb3tjq2TUcWoJ)
+
+
 # [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
+
+
+# [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
+
+
+# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
+
+
+## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
 
 # [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
@@ -3470,10 +3516,4 @@ all the useful and interesting go packages I have found sorted by domain
 
 
 ## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
-
-
-# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
-
-
-## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
