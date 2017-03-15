@@ -55,22 +55,22 @@ the high level overview of all the knowledge
 
 # [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
 
-aeroplanes, helicopters or other machines capable of flight
+is a flying machine, there are many different kinds of aircraft
 
 
 ## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
 
-how were the first planes built
+designed, built and flew the first controlled, powered, heavier than air airplane in 1903
 
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
-movement of people, animals and goods from one location to another
+moving people or things from one place to another place
 
 
 ## [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
 
-different bike models that I find interesting
+small, human powered land vehicles
 
 ### [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
 
@@ -225,10 +225,12 @@ machine learning library by Google
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
 
-the root dependency of this mind map, understand math and you will have easier time understanding the rest
+study of numbers, shapes and patterns
 
 
 ## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
+
+came from trying to solve systems of linear equations, vectors and matrices are used to solve these systems
 
 ## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-386.6,16.2,2)
 
@@ -254,7 +256,11 @@ the root dependency of this mind map, understand math and you will have easier t
 
 ## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
 
+uses variables to represent a value that is not yet known
+
 ### [euclidean space](https://my.mindnode.com/4p6W9xqHA9cq6zPThMs28tXqdxMpLySs24oBbt1a)
+
+space euclidean geometry uses, Euclidean plane and the three dimensional space are part of Euclidean space, sometimes called cartesian space
 
 ### [commutative algebra](https://my.mindnode.com/DY5pves9D9ZsMqJBPvg5cpxBSpYpy4UU3vKAPei1)
 
@@ -264,6 +270,8 @@ the root dependency of this mind map, understand math and you will have easier t
 
 ## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
 
+helps us understand changes between values that are related by a function
+
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
 ### [combinatorics](https://my.mindnode.com/nt83Gi2tzRRpJgSTRGszs5PSgbnrxQzvoKQn7kfc)
@@ -272,13 +280,19 @@ the root dependency of this mind map, understand math and you will have easier t
 
 ## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
 
+science of reasoning, helps people decide whether something is true or false
+
 ### [combinatory](https://my.mindnode.com/L8qVAYGatTeXQDecPUr9y1E1Qy68GQ1pH4R8qp7L)
 
 ### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
 
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
+shows how different ideas in mathematics are alike, for example some ideas from topology and abstract algebra are similar
+
 ## [number theory](https://my.mindnode.com/AexyD315VfyDLma8sy7sG9aA55H2wmMwd5YE2bS5)
+
+explains what some types of numbers are, what properties they have, and ways that they can be useful
 
 ### [primes ✨](https://my.mindnode.com/SzKTAzYHZy2PzyzDR5VfNWxQc3SFk2VYJG9qYTbq)
 
@@ -652,6 +666,8 @@ original python implementation in c, compiles python code into byte code and int
 ## [crystal](https://my.mindnode.com/xkatKAsBgFHEJhczPSq5qprZDwYgKgd1rU6LayDz)
 
 2011: general purpose, object oriented, statically type checked with implementation of advanced global type inference
+
+## ada
 
 
 # [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
@@ -1569,18 +1585,30 @@ all the games I have played and want to play
 
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
 
-study and observation of natural phenomena
+studies matter, and all forces and their effects
 
 
 ## [electricity ✨](https://my.mindnode.com/m36UfENqcbZrPX8vzwE5vheaf8d139u18YcS4NsG)
 
+presence and flow of electric charge, best known form is the flow of electrons through conductors such as copper wires
+
 ### [batteries](https://my.mindnode.com/WWKsbLeGhw2Sw9asy6qpyGjtuwpEqsstnyAdAZsP)
+
+converts chemical energy into electrical energy by a chemical reaction
 
 ### [resistors](https://my.mindnode.com/QRzcaB3qadvpqxXjDyUZw75kkddCwsoWyqmXhgqH)
 
+limits the electrical current that flows through a circuit
+
 ## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
 
+aims to solve problems which could not be solved by classical physics
+
 ### [time dilation](https://my.mindnode.com/ncEoxSH4GQVyr6poxik4NsYzN9QzT5YbRX92q5hj)
+
+### special relativity
+
+### general relativity
 
 ## [gravity](https://my.mindnode.com/VUyUTfxgXZ5p5hqFm5dDqPxSqqfyuh7yzp6KGSSX)
 
@@ -1810,7 +1838,11 @@ study of change of matter
 
 ## [molecular symmetry ✨](https://my.mindnode.com/syLbmWcosLUUrSUBsyphevrhRyMkHFCd1wgXa8M6)
 
+describes the symmetry present in molecules and the classification of molecules according to their symmetry
+
 ## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
+
+combination of two or more elements
 
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
 
@@ -1928,11 +1960,19 @@ the different feelings humans and other living organisms can feel and how can we
 
 ## depression
 
+mood disorder that causes a persistent feeling of sadness and loss of interest
+
 ## [loneliness](https://my.mindnode.com/MK9RzSKQ1LzV7kMBgx5dnNcvZhHzS6JZCJzvt9vn)
+
+complex and usually unpleasant emotional response to isolation or lack of companionship
 
 ## happiness
 
+mental or emotional state of well being defined by positive or pleasant emotions
+
 ## love
+
+a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
 
 
 # [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
@@ -1991,26 +2031,6 @@ the future of money as I see it
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
-# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
-
-
-## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
-
-## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
-
-## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
-
-
-# [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
-
-
-## [metaphysics](https://my.mindnode.com/TAtBGbE5GrxiPrMmV1kjaCb77pG9gqxQe3FgQAMW)
-
-### [free will](https://my.mindnode.com/BmtaiHvdqwz39S4AscYKG4yyQyep5VccbS3fpv7D)
-
-## [epistemology](https://my.mindnode.com/BDqZyxcfbybuY5BKsnqWYHVAXx12wpN11s6gRBmp)
-
-
 # [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 how to effectively prepare for a technical interview and pass it
@@ -2027,6 +2047,34 @@ questions you may get asked for an iOS interview
 ## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
 
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
+
+
+# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
+
+
+## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
+
+## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
+
+## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
+
+
+# [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
+
+study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
+
+
+## [metaphysics](https://my.mindnode.com/TAtBGbE5GrxiPrMmV1kjaCb77pG9gqxQe3FgQAMW)
+
+investigating the fundamental nature of reality
+
+### [free will](https://my.mindnode.com/BmtaiHvdqwz39S4AscYKG4yyQyep5VccbS3fpv7D)
+
+ability to choose between different possible courses of action
+
+## [epistemology](https://my.mindnode.com/BDqZyxcfbybuY5BKsnqWYHVAXx12wpN11s6gRBmp)
+
+what is the nature of knowledge, justification and the rationality of belief
 
 
 # [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
@@ -2062,8 +2110,15 @@ my often misspelled words to learn
 
 # [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
 
+what actions are objectively write or wrong and how to measure them
+
 
 ## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
+
+which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
+
+
+# [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
 # [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
@@ -2105,6 +2160,8 @@ my often misspelled words to learn
 
 
 # [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+
+study of language and its structure including study of grammar, syntax and phonetics
 
 
 # [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
@@ -2166,6 +2223,8 @@ everyone should have some kind of principle they follow, these are mine
 
 
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
+
+treating animals as equals and abstaining from eating and using animal products as commodity
 
 
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
@@ -3177,4 +3236,3 @@ all the useful and interesting go packages I have found sorted by domain
 
 
 ## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
-
