@@ -40,22 +40,6 @@ There are many other mind maps that you can explore and I would really love to h
 
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics.
  
-
-## Other folders in this repository 📁
- 
-I am still thinking how I will try to structure this project and this repository well. I want the contents of the mind maps to be indexed by search engines as currently that is not the case. This way of presenting information is still quite new to the web. For now I will export certain mind maps into folders with a respective image and index. I will automate exporting in the future and hope everything will be exported both in textual and image format and as a live mind map of links.
-
-Here are the folders I have currently migrated in this way. The most up-to-date version of the content will always be the big research [mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J). All of the folders below can also be found there.
-
-- [code](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2) folder includes interesting mind maps related to programming
-- [top](https://github.com/nikitavoloboev/research/tree/master/top) folder contains all mind maps that I found to be particularly interesting to transfer in the textual and image format
-- [personal](https://github.com/nikitavoloboev/research/tree/master/personal) folder contains my articles and my GitHub repositores in the textual and image format
-	- once again, the most up-to-date version will always be the live mind map
-- [index](https://github.com/nikitavoloboev/research/tree/master/index) folder includes some of the mind maps that I translated from the research mind map to textual index and image 
-- [pdfs](https://github.com/nikitavoloboev/research/tree/master/pdfs) currently contain some past notes I have made before I was introduced to this neat mind map format 
-	- I may add some interesting free of license pdfs to it in the future
-
-
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
