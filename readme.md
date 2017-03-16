@@ -1353,6 +1353,8 @@ name for a group of computer programs, device drivers, kernel and other things t
 
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
+quantum computers can use certain phenomena from quantum mechanics, such as superposition and entanglement, to perform operations on data, the basic principle behind quantum computation is that quantum properties can be used to represent data and perform operations on it
+
 
 ## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
 
@@ -1396,6 +1398,11 @@ what it means to work with open source and how to best sustain an open source pr
 
 ## [string theory](https://my.mindnode.com/SR2Z6ndrhp1gZRayycWksJEBzPcujR3xr7kWLfT9)
 
+set of attempts to model the four known fundamental interactions  
+  
+1. gravitation   
+2. electro
+
 ## [spin](https://my.mindnode.com/sDbRjiYXfC12qpF6efAn9sKpk2XyTdWFvwDeksph)
 
 ## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
@@ -1403,6 +1410,8 @@ what it means to work with open source and how to best sustain an open source pr
 ## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
 
 ## [quantum field theory ✨](https://my.mindnode.com/Y2ZrpZdcqTzUyzAfx2w3T6mr1VrDQbHhAaGxDUV3)
+
+## [bloch sphere](https://my.mindnode.com/TYQv7runzBk67VHq7ChTBKNbuwoRNf6kvWGs4Tg5)
 
 
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
