@@ -192,21 +192,26 @@ ability of a computer program or a machine to think and learn, making computers 
 
 gives computer the ability to learn without being explicitly programmed
 
+### libraries
+
+- [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
+  machine learning library by Google
+
+- [pytorch](https://my.mindnode.com/mBtRzJ8yynasgDxSPrXxsNs9UNzkx9xM68vJ3UgG)
+
+- [numpy ✨](https://my.mindnode.com/13xp2QzL5FTSvezyhB96ZUpqh2ZVyE84hSHVZvAC)
+
+- [darknet](https://my.mindnode.com/ksY7vgK52FRHggk4xy1sB6yDqeSFnGN4UxYjTqw9)
+
+### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
+
 ### [adversarial](https://my.mindnode.com/M9XhxHJ69MHhzAXzzU6ZAj1dCSwuXsxz1xifg5LF)
-
-### [pytorch](https://my.mindnode.com/mBtRzJ8yynasgDxSPrXxsNs9UNzkx9xM68vJ3UgG)
-
-### [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
-
-machine learning library by Google
 
 ### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY)
 
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
 is an artificial system made up of virtual abstractions of neutron cells, based on the human brain, neural networks are used to solve computation problems by imitating the way neutrons are fired or activated in the brain
-
-### [numpy ✨](https://my.mindnode.com/13xp2QzL5FTSvezyhB96ZUpqh2ZVyE84hSHVZvAC)
 
 ## [deep learning ✨](https://my.mindnode.com/ycU59gAXTjsXkJqjR2xAYawvcFuXqUPbxiDpBX4z)
 
@@ -2360,7 +2365,7 @@ all the books I am currently reading or have read
 
 ## machine learning
 
-### [deep learning ✨](http://www.deeplearningbook.org/)
+### [deep learning ✨](https://my.mindnode.com/ts4WPJDEyMjkiJuzy6YHbe1a9NdyFo1bqQ8QqQyJ)
 
 ### 12: machine learning: a probabilistic perspective
 
@@ -2396,11 +2401,13 @@ all the books I am currently reading or have read
 
 ## statistics
 
-### 13: an introduction to statistical learning: with applications in r
+### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/hpqqrKZqKMs28YbmS4Jrq8biEFC7yYDzcv9z6sYi)
 
 ### 1983: the visual display of quantitative information
 
 ### [01: the elements of statistical learning ✨](https://my.mindnode.com/yTgJgH6oNpTDa9PnYz67t8whuAJyyiETdk5q7s96)
+
+### 04: all of statistics
 
 ## cs
 
