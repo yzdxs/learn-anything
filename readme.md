@@ -1295,6 +1295,10 @@ all the games I have played and want to play
 
 ### [factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
 
+### [league of legends](https://my.mindnode.com/m1jLqAvaGq6hPxynbbxLmwTjE3yNJQ1M1qoijpu5)
+
+### dota
+
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
@@ -1354,6 +1358,9 @@ name for a group of computer programs, device drivers, kernel and other things t
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
+# [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
+
+
 # [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
 
@@ -1398,8 +1405,6 @@ what it means to work with open source and how to best sustain an open source pr
 
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
-
-## apache
 
 ## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
 
@@ -1464,6 +1469,26 @@ personal websites that are really well made and inspiring
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
+# [problems ✨](https://my.mindnode.com/C2QV5HZCgfa3AeAVTJ3SrCPnWYeZPpkvzZzGUquU)
+
+what problems do exist out there that I find
+
+
+## solutions
+
+### [leetcode ✨](https://my.mindnode.com/KwNmFjuicFJY66AeKBEA2qs8sZsGL1uvaMq4seep)
+
+my solutions and working out of leetcode problems
+
+### hackerrank
+
+### [project Euler](https://my.mindnode.com/pWLBybidACnQYbBsZbRnrLnUq5ZQBM2TR2nEXPXs)
+
+## [problem solving ✨](https://my.mindnode.com/mEdx9q2SfcPpxpBnqyyn2uivbjcV3sDSN8Yb8U9y)
+
+how can you effectively problem solve and find efficient solutions to problems
+
+
 # [shells](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
 
 
@@ -1488,6 +1513,26 @@ the structure of my .dotfiles folder
 ## [cli programs](https://my.mindnode.com/sMNrKZZgN8KeLpFW3pLzJHEiQrrFtxmsXaibaj8e)
 
 
+# [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
+
+how to effectively prepare for a technical interview and pass it
+
+
+## [questions](https://my.mindnode.com/sfwnVL7rwxhp9iJxGoSEHQUWfyWxUE6kzxNBA5QQ)
+
+what questions can you get asked
+
+### [javascript](https://my.mindnode.com/yxLPQpvxbpwGsJaK5ftfAmVP8q96xC5WEzLfxFtG)
+
+### [ios ✨](https://my.mindnode.com/k9ZueEUkyazS6wwzwykT1Rpn5pSeTpzuR3zEAUWS)
+
+questions you may get asked for an iOS interview
+
+## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
+
+## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
+
+
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
 
 
@@ -1500,26 +1545,6 @@ the structure of my .dotfiles folder
 # [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
 movies I have seen or plan on watching
-
-
-# [problems ✨](https://my.mindnode.com/C2QV5HZCgfa3AeAVTJ3SrCPnWYeZPpkvzZzGUquU)
-
-what problems do exist out there that I find
-
-
-## solutions
-
-### [leetcode ✨](https://my.mindnode.com/KwNmFjuicFJY66AeKBEA2qs8sZsGL1uvaMq4seep)
-
-my solutions and working out of leetcode problems
-
-### hackerrank
-
-### [project Euler](https://my.mindnode.com/pWLBybidACnQYbBsZbRnrLnUq5ZQBM2TR2nEXPXs)
-
-## [problem solving ✨](https://my.mindnode.com/mEdx9q2SfcPpxpBnqyyn2uivbjcV3sDSN8Yb8U9y)
-
-how can you effectively problem solve and find efficient solutions to problems
 
 
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
@@ -1712,24 +1737,6 @@ the future of money as I see itn
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
-# [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
-
-how to effectively prepare for a technical interview and pass it
-
-
-## [questions](https://my.mindnode.com/sfwnVL7rwxhp9iJxGoSEHQUWfyWxUE6kzxNBA5QQ)
-
-what questions can you get asked
-
-### [ios ✨](https://my.mindnode.com/k9ZueEUkyazS6wwzwykT1Rpn5pSeTpzuR3zEAUWS)
-
-questions you may get asked for an iOS interview
-
-## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
-
-## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
-
-
 # [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
 
 
@@ -1805,9 +1812,6 @@ what actions are objectively write or wrong and how to measure them
 ## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
 
 which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
-
-
-# [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
@@ -2287,17 +2291,17 @@ all the books I am currently reading or have read
 
 	- [ch 1: units, physical quantities, and vectors](https://my.mindnode.com/xBndniTXSs7PZN9geRrjSpBiPejUPtqkdwexjzLP)
 
-	- ch 2: motion along a straight line
+	- [ch 2: motion along a straight line](https://my.mindnode.com/wqohtqMgz1kH7CYQrJXcmynkzG5KUrygoQaQps8g)
 
-	- ch 3: motion in two or three dimensions
+	- [ch 3: motion in two or three dimensions](https://my.mindnode.com/5cubmxPwH7ZGHEEd1vcLEzeyB1yvEtDAa3johKi4)
 
-	- ch 4: newton’s laws of motion
+	- [ch 4: newton’s laws of motion](https://my.mindnode.com/W1qTSK3qga9Zi8xHkLWsSoi5cWrvgNrYcLrKrS9E)
 
-	- ch 5: applying newton’s laws
+	- [ch 5: applying newton’s laws](https://my.mindnode.com/pQ6FDweap2c3CYZMX3ngNmk2g7k7g7mzsqSJ9yyA)
 
-	- ch 6: work and kinetic energy
+	- [ch 6: work and kinetic energy](https://my.mindnode.com/mZtwuHDxpe3ytzhhsJGHJvC32ex1Y2tYUXEeesss)
 
-	- ch 7: potential energy and energy conservation
+	- [ch 7: potential energy and energy conservation](https://my.mindnode.com/tnjqwW5yByBjtX3iFJJu74Fd6xcEgtzkVrzr7wuC)
 
 	- ch 8: momentum, impulse and collisions
 
@@ -2505,13 +2509,19 @@ all the books I am currently reading or have read
 
 ## statistics
 
-### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/qqZCmK8h3y68UPy7zBG5Xqo77AEPRKGGxztVz629)
+### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/Z6gzpsCMzpfhQxkFt1iEtxpyMWEV7r5fLi6x1nYS)
 
 ### 1983: the visual display of quantitative information
 
 ### [01: the elements of statistical learning ✨](https://my.mindnode.com/yTgJgH6oNpTDa9PnYz67t8whuAJyyiETdk5q7s96)
 
 ### 04: all of statistics
+
+### [15: statistical rethinking: a bayesian course with examples in R and Stan](https://my.mindnode.com/f7q9d5mudLBey3ZqSYySKxmSyM8BUNxKeetRFvU1)
+
+### [12: think bayes: bayesian statistics made simple](https://my.mindnode.com/8KgZHdGy4ZRXU9puKwpc6Wx1PjRofEyxJxozpWyG)
+
+free: 
 
 ## cs
 
@@ -2937,12 +2947,6 @@ countries and cities I have been to with commentary and photos of each place
 how can you teach effectively, how does one learn
 
 
-# [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
-
-
-## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
-
-
 # [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
 
 
@@ -3017,6 +3021,8 @@ articles I have written
 
 ## [nginx](https://my.mindnode.com/WsyDTcxaptLEbzobxPqBMRiD3ffjpZDw85s2hytK)
 
+## apache
+
 
 # countries
 
@@ -3068,6 +3074,12 @@ history of europe
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
+
+
+# [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
+
+
+## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
 
 
 # [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
@@ -3134,6 +3146,8 @@ research papers I am reading and want to read
 
 ## [virtualisation](https://my.mindnode.com/mziaY76x1Ffr1tNazp6bzXDSXx2xyEyLXu1YLbaY)
 
+## [statistics](https://my.mindnode.com/VuFsrrURM944n8MEKMUe2pVKdAveNkT3HvYQ5Jjs)
+
 
 # backend
 
@@ -3171,9 +3185,6 @@ our home planet in the Solar System
 there are five oceans on this planet
 
 
-# full stack
-
-
 # [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
 
 
@@ -3193,6 +3204,11 @@ what it means to make a search engine and what is needed
 ## [optimisation](https://my.mindnode.com/75HoMYrMbpFNYHTSoRYXDDuMxD77FufKzWbS9Q7T)
 
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
+
+## solr
+
+
+# full stack
 
 
 # [talent](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
@@ -3237,15 +3253,15 @@ how to find work and what to focus on
 ## [visualisation ✨](https://my.mindnode.com/Ty8b4K23SwkBybULJpJR7fLZ5Wcx2xTSo3BDyoF4)
 
 
-# [api](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
-
-
 # caching layers
 
 
 ## [redis ✨](https://my.mindnode.com/3fYxqeHfbKSHMmGqG2uqzhzihR7qyqaQwAZ9C3Xt)
 
 ## varnish
+
+
+# [api](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
@@ -3322,6 +3338,10 @@ about 1760-1840
 
 ## sinatra
 
+## testing
+
+### rspec
+
 
 # [data science](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
 
@@ -3350,14 +3370,6 @@ poems I found and enjoyed reading
 
 
 ## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
-
-
-# ideology
-
-
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
-
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
 
 
 # [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
@@ -3397,8 +3409,6 @@ packs many javascript modules into a few bundled assets
 
 ## [angular](https://my.mindnode.com/vME2Qiop3hVbQmVnsRh6jHK7b4AhKZJ6NBo3wFxR)
 
-## [jest](https://my.mindnode.com/dsyTHkqYijFBbtzeW4p4PBpqTZEdzcPCpQgTevPq)
-
 ## [d3.js ✨](%E2%9C%A8)
 
 ## [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
@@ -3422,6 +3432,26 @@ packs many javascript modules into a few bundled assets
 ## [cycle.js](https://my.mindnode.com/Y8szZz6fxi9rNcyakxyjzPxyYfaSapKrbNDAjprs)
 
 ## [draft.js](https://my.mindnode.com/kDqR2uaa5aZdQsKNupKyrJV9F8tyGhbqTbGvAqvP)
+
+## testing
+
+### [jest](https://my.mindnode.com/L8Kvq85Xrz2fLsDB2sRgz9azZxtG3F9hxsmAjVtG)
+
+
+# ideology
+
+
+## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+
+## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+
+# task runners
+
+
+## gulp
+
+## grunt
 
 
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
@@ -3460,6 +3490,10 @@ courses I am doing or plan on doing
 ### [04: multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
 
 ### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
+
+## statistics
+
+### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
 
 ## iOS
 
@@ -3518,6 +3552,18 @@ courses I am doing or plan on doing
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
 
+# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+
+my curated gallery of all images I have personally collected organised by albums
+
+
+## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
+
+## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
+
+## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
+
+
 # package managers
 
 
@@ -3548,18 +3594,6 @@ write code and generate music, really is quite amazing
 the theory behind writing music
 
 
-# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
-
-my curated gallery of all images I have personally collected organised by albums
-
-
-## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
-
-## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
-
-## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
-
-
 # style sheet languages
 
 
@@ -3572,6 +3606,10 @@ my curated gallery of all images I have personally collected organised by albums
 ### [motion ui](https://my.mindnode.com/qizeogxZt1FsxBno1eDNUxqDVxLzpouvS9i9sHXS)
 
 ### [SASS](https://my.mindnode.com/7RjRMz1zXEcWH3HsYGwavroXLaf4GsDgJxE9tksL)
+
+### bootstrap
+
+### foundation
 
 
 # [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
@@ -3628,6 +3666,10 @@ all the useful and interesting go packages I have found sorted by domain
 
 
 ## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
+
+## spring
+
+## [spark](https://my.mindnode.com/gke94NVJMFiSTnzjWXXsfaNK6hnE7TiV4QQ79ZoL)
 
 
 # [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
