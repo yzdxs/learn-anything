@@ -10,7 +10,7 @@ And [here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love 
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/01xCRLy.jpg)
+![](http://i.imgur.com/pC5Usju.jpg)
 
 
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
@@ -1993,6 +1993,10 @@ what will happen in the future
 
 ## [material design](https://my.mindnode.com/j6ptpBbiTSXTrLfYYH5zQ2ePwiV2kUrqupd1r1xx)
 
+## colours
+
+### [colour theory](https://my.mindnode.com/UrsZLTK1grPpQ9iWe8SY8qFDpFUzjK7TZFFy7dRx)
+
 ## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
 
 
@@ -2271,11 +2275,111 @@ all the books I am currently reading or have read
 
 - [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
 
+### language design
+
+- [beautiful racket](https://my.mindnode.com/ceZ3hyXZGv3zaJmxKgqK73QpmKadBAPPry2epxyb)
+
 ## physics
 
 ### [university physics with modern physics ✨](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
 
-- ch 3: motion in two or three dimensions
+- mechanics
+
+	- [ch 1: units, physical quantities, and vectors](https://my.mindnode.com/xBndniTXSs7PZN9geRrjSpBiPejUPtqkdwexjzLP)
+
+	- ch 2: motion along a straight line
+
+	- ch 3: motion in two or three dimensions
+
+	- ch 4: newton’s laws of motion
+
+	- ch 5: applying newton’s laws
+
+	- ch 6: work and kinetic energy
+
+	- ch 7: potential energy and energy conservation
+
+	- ch 8: momentum, impulse and collisions
+
+	- ch 9: rotation of rigid bodies
+
+	- ch 10: dynamics of rotational motion
+
+	- ch 11: equilibrium and elasticity
+
+	- ch 12: fluid mechanics
+
+	- ch 13: gravitation
+
+	- ch 14: periodic motion
+
+- waves/acoustics
+
+	- ch 15: mechanical waves
+
+	- ch 16: sound and hearing
+
+- thermodynamics
+
+	- ch 17: temperature and heat
+
+	- ch 18: thermal properties of matter
+
+	- ch 19: the first law of thermodynamics
+
+	- ch 20: the second law of thermodynamics
+
+- electromagnetism
+
+	- ch 21: electric charge and electric field
+
+	- ch 22: gauss’s law
+
+	- ch 23: electric potential
+
+	- ch 24: capacitance and dielectrics
+
+	- ch 25: current, resistance and electromotive force
+
+	- ch 26: direct current circuits
+
+	- ch 27: magnetic field and magnetic forces
+
+	- ch 28: sources of magnetic field
+
+	- ch 29: electromagnetic induction
+
+	- ch 30: inductance
+
+	- ch 31: alternating current
+
+	- ch 32: electromagnetic waves
+
+- optics
+
+	- ch 33: the nature and propagation of light
+
+	- ch 34: geometric optics
+
+	- ch 35: interference
+
+	- ch 36: diffraction
+
+- modern physics
+
+	- ch 37: relativity
+
+	- ch 38: photons: light waves behaving as particles
+
+	- ch 39: particles behaving as waves
+
+	- ch 40: quantum mechanics 1: wave functions
+
+	- ch 41: quantum mechanics 2: atomic structure
+
+	- ch 43: nuclear physics
+
+	- ch 44: particle physics and cosmology
 
 ### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
 
@@ -2401,7 +2505,7 @@ all the books I am currently reading or have read
 
 ## statistics
 
-### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/hpqqrKZqKMs28YbmS4Jrq8biEFC7yYDzcv9z6sYi)
+### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/qqZCmK8h3y68UPy7zBG5Xqo77AEPRKGGxztVz629)
 
 ### 1983: the visual display of quantitative information
 
@@ -2706,6 +2810,16 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ## computer systems
 
 ### computer systems: a programmer’s perspective
+
+## biology
+
+### [1998: the cosmic serpent](https://my.mindnode.com/iFrFf1KyCSnwLVWoxsEeR1xzkWnjh8XFxqKmyKKN)
+
+## psychedelics
+
+### 02: breaking open the head
+
+### 05: supernatural: meetings with the ancient teachers of mankind
 
 
 # [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
