@@ -2,7 +2,7 @@
 
 #### (the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/wTMQMt6.jpg)
+![](http://i.imgur.com/j89gfhR.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
@@ -110,6 +110,10 @@ practice and study of hiding information, is used to try and keep information se
 ### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
 
 allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
+
+## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
+
+## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
 
 
 # [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
@@ -220,7 +224,7 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 ## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
 
 
-# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
+# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
 
 
 # [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
@@ -229,6 +233,16 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 ## [agile](https://my.mindnode.com/4hPUYtVtfLEL17EEecXhszyRpiM1pmjYec3i9ytr)
 
 ## [devops ✨](https://my.mindnode.com/ns3bCv8vPJrsDaq5koMfMsBZzJfRgeYqmy7SusxR)
+
+## approaches
+
+### [domain driven design ✨](https://my.mindnode.com/bCGsYrxxdgxfSS6x8WCHJ8FMMupN9LuHNKcybeKN)
+
+
+# [system administration](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
+
+
+# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
 
 
 # [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
@@ -243,6 +257,16 @@ a type of outsourcing of computer services, similar to the way in which electric
 ## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
 
 ## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+
+# [configuration management](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
+
+
+## [puppet](https://my.mindnode.com/8HRdnRDFCxspXpf7qdGpe84TipqnasfkHQYCcf5y)
+
+## [ansible](https://my.mindnode.com/rWEgABaoDTqViLJ6Payck4p4S8sb8jx2F1H81CAa)
+
+## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
 
 
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
@@ -479,16 +503,6 @@ studies polynomial equations
 ## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
 
 studies a type of algebraic structure called a group, is often used in math as a starting point for the study of many algebraic structures, and of addition and multiplication of numbers
-
-
-# [configuration management](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
-
-
-## [puppet](https://my.mindnode.com/8HRdnRDFCxspXpf7qdGpe84TipqnasfkHQYCcf5y)
-
-## [ansible](https://my.mindnode.com/rWEgABaoDTqViLJ6Payck4p4S8sb8jx2F1H81CAa)
-
-## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
 
 
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
@@ -896,6 +910,15 @@ how to develop fun and enjoyable games
 ## [microcontrollers](https://my.mindnode.com/R3NHfx7fU9pDRtyQKyqpAxro7qJpgBPNyZtQrqLB)
 
 
+# [reverse engineering ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
+
+
+# society
+
+
+## [activism](https://my.mindnode.com/SsD8h1XAXyKax82taEa3AksACwyQ6WvQQJbtyNM2)
+
+
 # [virtual machines](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
 
 a program on a computer that works like it is a separate computer inside the main computer, the program that controls visual machines is called a hypervisor and the computer that is running the virtual machine is called the host
@@ -912,13 +935,14 @@ is a set of computer software programs and data structures which use a virtual m
 ## [hypervisor](https://my.mindnode.com/iEH6suLAhq52zp4GjLNFLbAgm9YQ5BKkaUY3Cx8T)
 
 
-# [reverse engineering ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
-
-
 # [engineering ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
 
 
 ## [software](https://my.mindnode.com/AJpJHUt9xQxnA4hFcizyzR6NdxfD7nehRa6oxipq)
+
+### [analytics](https://my.mindnode.com/uMPRfm98RKiP8BYrMXKCzRyo7iC4r3q4poPz4Wpc)
+
+### [continuous delivery](https://my.mindnode.com/ppqPzVmMZQNpGLDDsLAGAnWqq76YLJdnhz3pfPrb)
 
 
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
@@ -944,15 +968,39 @@ all of the github people whose work I find interesting, sorted by their skills a
 
 all the richest humans of this planet with overview of how they got their wealth
 
+## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
 
-# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+interesting ask me anything threads I found on the internet
 
 
-## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
+# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
-## WebVR
+study of how to manipulate, manage, transform and encode information
 
-### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
+
+## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+
+act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
+
+## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
+
+looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
+
+### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
+
+algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
+
+## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
+
+set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
+
+## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
+
+## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
 
 
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
@@ -991,34 +1039,14 @@ turning human written code into computer binary code or transpiling it to other 
 ### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
 
 
-# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
-
-study of how to manipulate, manage, transform and encode information
+# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
 
 
-## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
 
-act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
+## WebVR
 
-### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
-
-## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
-
-looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
-
-### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
-
-algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
-
-## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
-
-set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
-
-## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
-
-## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
+### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
 
 
 # [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
@@ -1097,7 +1125,7 @@ an app that has changed the way I interact with my computer by allowing me to re
 
 ## communication
 
-### slack
+### [slack](https://my.mindnode.com/4WxwA91p5q5zHPSTL9wtczdaYgNVp5e8T96iSrss)
 
 - [teams](https://my.mindnode.com/nSzeaKsFhpf1TB9npxampNd8uQkhBhgfxezfbDW1)
 
@@ -1116,12 +1144,20 @@ an app that has changed the way I interact with my computer by allowing me to re
 ### matlab
 
 
+# [signal processing](https://my.mindnode.com/KKUQedYXPGxn3qtyAHq6xDyxiG3yKWAwnBNqeWg7)
+
+analysis, interpretation and manipulation of signals, signals of interest include song, images, biological signals such as ECG, radar signals and many others, processing of such signals includes storage and reconstruction, separation of information from nose, compression and feature extraction
+
+
+## [discrete time signal](https://my.mindnode.com/7hxVXYG2zNzcZBTiEzCxqDRsqnpzpt1pdpmNpRu7)
+
+
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
 
 ## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
 
-## [vulcan](https://my.mindnode.com/GJbqYq6bT4u2vM5uAi4qgSqsjxdLdxxeqiiwSGaS)
+## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
 
 ## metal
 
@@ -1134,14 +1170,6 @@ an app that has changed the way I interact with my computer by allowing me to re
 ## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
 
 
-# [signal processing](https://my.mindnode.com/KKUQedYXPGxn3qtyAHq6xDyxiG3yKWAwnBNqeWg7)
-
-analysis, interpretation and manipulation of signals, signals of interest include song, images, biological signals such as ECG, radar signals and many others, processing of such signals includes storage and reconstruction, separation of information from nose, compression and feature extraction
-
-
-## [discrete time signal](https://my.mindnode.com/7hxVXYG2zNzcZBTiEzCxqDRsqnpzpt1pdpmNpRu7)
-
-
 # [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
 
 
@@ -1152,124 +1180,6 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 ### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
 
 ### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
-
-
-# [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
-
-studies matter, and all forces and their effects
-
-
-## [electricity ✨](https://my.mindnode.com/m36UfENqcbZrPX8vzwE5vheaf8d139u18YcS4NsG)
-
-presence and flow of electric charge, best known form is the flow of electrons through conductors such as copper wires
-
-### [batteries](https://my.mindnode.com/WWKsbLeGhw2Sw9asy6qpyGjtuwpEqsstnyAdAZsP)
-
-converts chemical energy into electrical energy by a chemical reaction
-
-### [resistors](https://my.mindnode.com/QRzcaB3qadvpqxXjDyUZw75kkddCwsoWyqmXhgqH)
-
-limits the electrical current that flows through a circuit
-
-### circuits
-
-- RLC circuit
-
-## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
-
-aims to solve problems which could not be solved by classical physics
-
-### [time dilation](https://my.mindnode.com/ncEoxSH4GQVyr6poxik4NsYzN9QzT5YbRX92q5hj)
-
-### special relativity
-
-### general relativity
-
-## [gravity](https://my.mindnode.com/VUyUTfxgXZ5p5hqFm5dDqPxSqqfyuh7yzp6KGSSX)
-
-one of the fundamental forces, some physicists think gravity is caused by gravitons, but they are still unsure
-
-### [gravitational waves](https://my.mindnode.com/8qsuRyALoCgHFWkuaBzpWNWM41ppDw1UoxWvYqrm)
-
-are ripples in spacetime which are created whenever objects with mass move
-
-### [quantum gravity](https://my.mindnode.com/riMuKgoii4syDPAu8Z4Psbwrv7p2ySamiNMxbNWu)
-
-the goal of quantum gravity is to develop a theory which contains both general relativity and quantum mechanics, however combining the theories of the big and the small is very difficult in practice
-
-## [energy](https://my.mindnode.com/pBzAbjrNDE84CCDdohynDW3BToNYdvp7d1Smr6nH)
-
-how much potential a physical system has to change, energy is a property of matter, it can be transferred between objects, and converted in form, it cannot be created or destroyed
-
-## [time](https://my.mindnode.com/SewzcjSiPtry5MDXBwhL3KyCMu2bh3hzzEvxEauz)
-
-we use time to sequence events, to compare their durations and the intervals between them, and to quantify the speed at which objects move and things change
-
-## [particles](https://my.mindnode.com/Juzorpq28GxjqzBQh9zQJsT85UhgHqPsYENstpFx)
-
-are tiny bits of matter that make up everything in the universe, in particle physics, an elementary particle is a particle which cannot be plist up into smaller pieces
-
-### [higgs boson](https://my.mindnode.com/BqKXsxhPS3crZBo9XhzHpgyDvuhsAFVS68K4EDDm)
-
-is a particle in the Standard Model of physics, in 2013, it was confirmed that this particle was found by CERN
-
-### [photons](https://my.mindnode.com/GQwMptycqQ31CsBKDpwvVxy9KDs8kQFUMEgs2bMv)
-
-are particles which transmit light, in other words, light is carried over space by photons, a photon is an elementary particle that is its own antiparticle, in quantum mechanics each photon has a characteristic quantum of energy
-
-## [light](https://my.mindnode.com/38g72sjsYjJAgmatFmi2dME1XvEvpDN7ZgaDjvGP)
-
-is a type of energy, it is a form of electromagnetic radiation of a wavelength which can be detected by the human eye, it is a small part of the electromagnetic spectrum and radiation given off by stars like the sun
-
-## [waves](https://my.mindnode.com/kHbyKQxtnpQugwU4bdVKoC8zqTyDFwygXZyT5bsy)
-
-have properties that can be measured, all waves can be pictured by adding sine waves, sine waves can be measured too, the shape of a sine wave is given by its amplitude, phase, wavelength and frequency, the speed that the sine wave moves can also be measured
-
-## [fields](https://my.mindnode.com/Upn7kNaRSwZNsitT2jpF5xuuc6cKgBT6voU9jYbR)
-
-means that a physical quantity is assigned to every point in space (or, more generally spacetime), a field is seen as extending throughout a large region of space so that it influences everything, the strength of a field usually varies over a region
-
-### [electromagnetic](https://my.mindnode.com/KGyL9jP2JWPHzPuyUp5uxJgrFD4UEefSnsS6WoAh)
-
-## [radiation](https://my.mindnode.com/3mKNiSKRkZgfBWVYzHJmgcLvXc8sAMuhJJNz6YHz)
-
-is the emission or transmission of energy in the form of waves or particles through space or through a material medium
-
-## [antimatter](https://my.mindnode.com/TaYApZzCDVHkk6y5gVgPQvqPbRzTTUmmy7d5p1wg)
-
-is a material composed of antiparticles, these have the same mass as particles of ordinary matter but have opposite charge and properties, such as lepton and baryon number
-
-## [atomic physics](https://my.mindnode.com/ayQE83ZxYqNAxhWKqrD8fB9q3FKGCycrTpHVXWtB)
-
-### [atom](https://my.mindnode.com/knLpnUaEjJNfEpAPe8w36ezEwGypKCCQv9VxArFz)
-
-## [desalination](https://my.mindnode.com/k35dV9NvsQ6AziP1dn3sp59Tsky1LYy6iNr9zyyw)
-
-any process that removes the excess salt and other minerals from water in order to obtain fresh water suitable for animal consumption or irrigation
-
-## [solar wind](https://my.mindnode.com/SsnzcEouwzqSNjydyxmgGVxBjhqeGxjGqQPKps1s)
-
-is wind from the sum, it is a stream of charged protons, electrons and plasma shot out of the Sun, the wind is shot out at hypersonic speed
-
-## thermodynamics
-
-### [absolute zero](https://my.mindnode.com/XxH1FY7jU2FjbRbujTsHSdvCzC7mxpbP2osJqasC)
-
-## [matter](https://my.mindnode.com/ZpWcFMjLGXAracsoyjHBzSxXPqbw8ox3yq4kKUqR)
-
-any substance that has mass and takes up space
-
-### [plasma](https://my.mindnode.com/AVJpD9UsKocg8VRsArdQpy5VcHapiWxtCFPFknCo)
-
-## fluid mechanics
-
-## chaos theory
-
-## classical mechanics
-
-### kinematics
-
-- continuum mechanics
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
@@ -1362,6 +1272,126 @@ quantum computers can use certain phenomena from quantum mechanics, such as supe
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
+# [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
+
+studies matter, and all forces and their effects
+
+
+## [electricity ✨](https://my.mindnode.com/m36UfENqcbZrPX8vzwE5vheaf8d139u18YcS4NsG)
+
+presence and flow of electric charge, best known form is the flow of electrons through conductors such as copper wires
+
+### [batteries](https://my.mindnode.com/WWKsbLeGhw2Sw9asy6qpyGjtuwpEqsstnyAdAZsP)
+
+converts chemical energy into electrical energy by a chemical reaction
+
+### [resistors](https://my.mindnode.com/QRzcaB3qadvpqxXjDyUZw75kkddCwsoWyqmXhgqH)
+
+limits the electrical current that flows through a circuit
+
+### circuits
+
+- RLC circuit
+
+## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
+
+aims to solve problems which could not be solved by classical physics
+
+### [time dilation](https://my.mindnode.com/ncEoxSH4GQVyr6poxik4NsYzN9QzT5YbRX92q5hj)
+
+### special relativity
+
+### general relativity
+
+## [gravity](https://my.mindnode.com/VUyUTfxgXZ5p5hqFm5dDqPxSqqfyuh7yzp6KGSSX)
+
+one of the fundamental forces, some physicists think gravity is caused by gravitons, but they are still unsure
+
+### [gravitational waves](https://my.mindnode.com/8qsuRyALoCgHFWkuaBzpWNWM41ppDw1UoxWvYqrm)
+
+are ripples in spacetime which are created whenever objects with mass move
+
+### [quantum gravity](https://my.mindnode.com/riMuKgoii4syDPAu8Z4Psbwrv7p2ySamiNMxbNWu)
+
+the goal of quantum gravity is to develop a theory which contains both general relativity and quantum mechanics, however combining the theories of the big and the small is very difficult in practice
+
+## [energy](https://my.mindnode.com/pBzAbjrNDE84CCDdohynDW3BToNYdvp7d1Smr6nH)
+
+how much potential a physical system has to change, energy is a property of matter, it can be transferred between objects, and converted in form, it cannot be created or destroyed
+
+## [time](https://my.mindnode.com/SewzcjSiPtry5MDXBwhL3KyCMu2bh3hzzEvxEauz)
+
+we use time to sequence events, to compare their durations and the intervals between them, and to quantify the speed at which objects move and things change
+
+## [particles](https://my.mindnode.com/Juzorpq28GxjqzBQh9zQJsT85UhgHqPsYENstpFx)
+
+are tiny bits of matter that make up everything in the universe, in particle physics, an elementary particle is a particle which cannot be plist up into smaller pieces
+
+### [higgs boson](https://my.mindnode.com/BqKXsxhPS3crZBo9XhzHpgyDvuhsAFVS68K4EDDm)
+
+is a particle in the Standard Model of physics, in 2013, it was confirmed that this particle was found by CERN
+
+### [photons](https://my.mindnode.com/GQwMptycqQ31CsBKDpwvVxy9KDs8kQFUMEgs2bMv)
+
+are particles which transmit light, in other words, light is carried over space by photons, a photon is an elementary particle that is its own antiparticle, in quantum mechanics each photon has a characteristic quantum of energy
+
+## [light](https://my.mindnode.com/38g72sjsYjJAgmatFmi2dME1XvEvpDN7ZgaDjvGP)
+
+is a type of energy, it is a form of electromagnetic radiation of a wavelength which can be detected by the human eye, it is a small part of the electromagnetic spectrum and radiation given off by stars like the sun
+
+## [waves](https://my.mindnode.com/kHbyKQxtnpQugwU4bdVKoC8zqTyDFwygXZyT5bsy)
+
+have properties that can be measured, all waves can be pictured by adding sine waves, sine waves can be measured too, the shape of a sine wave is given by its amplitude, phase, wavelength and frequency, the speed that the sine wave moves can also be measured
+
+### [radio](https://my.mindnode.com/rAtdoZPcf9x4cyzbv3FunmHyZ5sjK5jchF8nzswp)
+
+## [fields](https://my.mindnode.com/Upn7kNaRSwZNsitT2jpF5xuuc6cKgBT6voU9jYbR)
+
+means that a physical quantity is assigned to every point in space (or, more generally spacetime), a field is seen as extending throughout a large region of space so that it influences everything, the strength of a field usually varies over a region
+
+### [electromagnetic](https://my.mindnode.com/KGyL9jP2JWPHzPuyUp5uxJgrFD4UEefSnsS6WoAh)
+
+## [radiation](https://my.mindnode.com/3mKNiSKRkZgfBWVYzHJmgcLvXc8sAMuhJJNz6YHz)
+
+is the emission or transmission of energy in the form of waves or particles through space or through a material medium
+
+## [antimatter](https://my.mindnode.com/TaYApZzCDVHkk6y5gVgPQvqPbRzTTUmmy7d5p1wg)
+
+is a material composed of antiparticles, these have the same mass as particles of ordinary matter but have opposite charge and properties, such as lepton and baryon number
+
+## [atomic physics](https://my.mindnode.com/ayQE83ZxYqNAxhWKqrD8fB9q3FKGCycrTpHVXWtB)
+
+### [atom](https://my.mindnode.com/knLpnUaEjJNfEpAPe8w36ezEwGypKCCQv9VxArFz)
+
+## [desalination](https://my.mindnode.com/k35dV9NvsQ6AziP1dn3sp59Tsky1LYy6iNr9zyyw)
+
+any process that removes the excess salt and other minerals from water in order to obtain fresh water suitable for animal consumption or irrigation
+
+## [solar wind](https://my.mindnode.com/SsnzcEouwzqSNjydyxmgGVxBjhqeGxjGqQPKps1s)
+
+is wind from the sum, it is a stream of charged protons, electrons and plasma shot out of the Sun, the wind is shot out at hypersonic speed
+
+## thermodynamics
+
+### [absolute zero](https://my.mindnode.com/XxH1FY7jU2FjbRbujTsHSdvCzC7mxpbP2osJqasC)
+
+## [matter](https://my.mindnode.com/ZpWcFMjLGXAracsoyjHBzSxXPqbw8ox3yq4kKUqR)
+
+any substance that has mass and takes up space
+
+### [plasma](https://my.mindnode.com/AVJpD9UsKocg8VRsArdQpy5VcHapiWxtCFPFknCo)
+
+## fluid mechanics
+
+## chaos theory
+
+## classical mechanics
+
+### kinematics
+
+- continuum mechanics
+
+
 # [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
@@ -1381,6 +1411,9 @@ quantum computers can use certain phenomena from quantum mechanics, such as supe
 ## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
 
 ## PostgreSQL
+
+
+# [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
 
 
 # [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
@@ -1434,9 +1467,7 @@ set of attempts to model the four known fundamental interactions
 
 ## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
 
-### [repos ✨](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
-
-amazing github repositories that don’t really fit into other topics of this mind map
+### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
 
 - [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
   my open source github repositories organised by their theme
@@ -1558,28 +1589,6 @@ questions you may get asked for an iOS interview
 movies I have seen or plan on watching
 
 
-# [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
-
-study of change of matter
-
-
-## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
-
-combination of two or more elements
-
-## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
-
-substance consisting of atoms which all have same number of protons (same atomic number)
-
-## molecules
-
-### [molecular symmetry ✨](https://my.mindnode.com/Ayzozn7zGsp7LGuqPGyY8kR1AEtiywbJqDiyWxS1)
-
-describes the symmetry present in molecules and the classification of molecules according to their symmetry
-
-### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
-
-
 # [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
 series I have seen or plan on watching
@@ -1648,6 +1657,28 @@ laws concerning European Union
 # [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
 
 
+# [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
+
+study of change of matter
+
+
+## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
+
+combination of two or more elements
+
+## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
+
+substance consisting of atoms which all have same number of protons (same atomic number)
+
+## molecules
+
+### [molecular symmetry ✨](https://my.mindnode.com/Ayzozn7zGsp7LGuqPGyY8kR1AEtiywbJqDiyWxS1)
+
+describes the symmetry present in molecules and the classification of molecules according to their symmetry
+
+### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
+
+
 # [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
 
 
@@ -1684,6 +1715,17 @@ laws concerning European Union
 # [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
+# [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
+
+
+# [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
+
+
+## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
+
+united states copyright law criminalising production and sharing of digital copyrighted material
+
+
 # feelings
 
 the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
@@ -1704,17 +1746,6 @@ mental or emotional state of well being defined by positive or pleasant emotions
 ## love
 
 a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
-
-
-# [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
-
-
-# [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
-
-
-## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
-
-united states copyright law criminalising production and sharing of digital copyrighted material
 
 
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
@@ -1748,16 +1779,6 @@ the future of money as I see itn
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
-# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
-
-
-## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
-
-## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
-
-## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
-
-
 # [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
 
 study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
@@ -1775,16 +1796,17 @@ ability to choose between different possible courses of action
 
 what is the nature of knowledge, justification and the rationality of belief
 
-
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
-
-
-# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
-
-what it means to be creative and where does creativity come from
+## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
 
 
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
+
+
+## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
+
+## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
+
+## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
 
 
 # [languages](https://my.mindnode.com/qdJymueqTMbEjCAK8CpzUsxXLH96sy7LtpkQzL69)
@@ -1805,6 +1827,22 @@ my often misspelled words to learn
 ## japanese
 
 ## chinese
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+
+
+# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
+
+what it means to be creative and where does creativity come from
+
+
+# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+
+
+# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+
+study of language and its structure including study of grammar, syntax and phonetics
 
 
 # [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
@@ -1863,11 +1901,6 @@ any chemical that affects the human body or mind when it is consumed
 ## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
 
 ## drawing
-
-
-# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
-
-study of language and its structure including study of grammar, syntax and phonetics
 
 
 # [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
@@ -1975,7 +2008,7 @@ how to be aware of your actions and thoughts as you live through life
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
 
 
-## audio
+## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
 
 ## speech
 
@@ -1993,6 +2026,9 @@ blogs I like or want to read
 what will happen in the future
 
 
+# [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
+
+
 # [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
 
 
@@ -2008,14 +2044,11 @@ what will happen in the future
 
 ## [material design](https://my.mindnode.com/j6ptpBbiTSXTrLfYYH5zQ2ePwiV2kUrqupd1r1xx)
 
-## colours
+## [colours](https://my.mindnode.com/xNCrpgeXX6nX6FTsbuZu1FNrwkpQQQAGzMipCbdL)
 
 ### [colour theory](https://my.mindnode.com/UrsZLTK1grPpQ9iWe8SY8qFDpFUzjK7TZFFy7dRx)
 
 ## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
-
-
-# [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
 
 
 # human anatomy
@@ -2095,6 +2128,8 @@ browser developed by Mozilla
 
 browser developed by Google
 
+### [automation](https://my.mindnode.com/ifcnqphmM7Tw3f6BK2zWZSzW3NjHjw3GJSmcykb5)
+
 ## [web crawlers](https://my.mindnode.com/XAwB4XxGXkKuhZQVt8Mno9dwo2UbkuNqwks2iYZv)
 
 ## [development](https://my.mindnode.com/xZaTvNJUJa9md8nmx4oMPZqQFpdWxCq35pW8QY3J)
@@ -2131,12 +2166,29 @@ browser developed by Google
 
 ## [service workers](https://my.mindnode.com/izz7JiysWsVyXCGqDU8Fu9Xr6siGpaV8kuDRz4Ph)
 
-## apps
+## [apps](https://my.mindnode.com/ibwtjzCx2DDRH5wWsfLGuBV3kz7nJ57RfqbuWUoi)
 
 ### [progressive](https://my.mindnode.com/inysHJFxMERmjSmFkEtQvXxpn4sfwThEtYytAf4T)
 
+## [selfhosting](https://my.mindnode.com/MkA22vk1Pkyn4TMehVzzRaxVBq3wqiNMTip8ydJ9)
 
-# [education](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos)
+## [site reliability](https://my.mindnode.com/YyiXsmaCRSQe4i89FpR87p8ZtYfyajd7CysbMLAQ)
+
+
+# [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
+
+
+## [gifs](https://my.mindnode.com/YQvddZDMwWycaw3eSYxyfqKPqmq4DWqViwFsWGzn)
+
+## [social](https://my.mindnode.com/TtLpQxuscftfbToszq8x5spgHMxmDA1h3GqJ7Ww4)
+
+
+# [public speaking](https://my.mindnode.com/sNrmgaBsj4cDn2eHwDhYwnTkMqsGLWrucesVaAsK)
+
+
+# [education ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos)
+
+amazing resources curated by other people
 
 
 # [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
@@ -2851,6 +2903,9 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 live talks I have personally attended and have seen and made notes on
 
 
+# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
+
+
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
 
 
@@ -2864,9 +2919,6 @@ live talks I have personally attended and have seen and made notes on
 # [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
 
 how to accelerate startup growth, acquire and keep new customers
-
-
-# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
 # [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
@@ -2891,7 +2943,7 @@ how to accelerate startup growth, acquire and keep new customers
 ## [birds](https://my.mindnode.com/d3Jsm6KXowatG8o5mBSa7pSmAtAZbrdpwxYB5yxA)
 
 
-# questions
+# [questions](https://my.mindnode.com/iyGwrtBKeFz27eTVNMemuqcu5z5pzA5nhPFXseRp)
 
 questions asked by me or some one else that I could not find an answer to
 
@@ -2911,7 +2963,7 @@ javascript engine developed by Google
 various talks I have found interesting that don’t fall into any category
 
 
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+# [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
 
 
 # [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
@@ -2936,6 +2988,9 @@ various talks I have found interesting that don’t fall into any category
 ## immune system
 
 
+# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+
+
 # [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
 
 travel tips and interesting places
@@ -2953,7 +3008,10 @@ countries and cities I have been to with commentary and photos of each place
 # [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
 
 
-# teaching
+# [discounts](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
+
+
+# [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
 
 how can you teach effectively, how does one learn
 
@@ -3076,6 +3134,12 @@ history of europe
 
 ## [ssh](https://my.mindnode.com/xTCkhQpzYmetBUCLmYBzEBfVH3SN2SygdhFriNZz)
 
+## [MQTT](https://my.mindnode.com/dLkAMqypEBPC7uskR7onk3mXsE59NfywBwBUmzkB)
+
+## [TAP](https://my.mindnode.com/6xqH9pgzGdxzKpzej6ffVKzcCEJftWshj1V7N8Rd)
+
+test anything protocol s a protocol to allow communication between unit tests and a test harness
+
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
 
 
@@ -3168,6 +3232,9 @@ research papers I am reading and want to read
 ### [electron ✨](https://my.mindnode.com/pdBpBnn91iXXwvsVRupwRbdMJkzAKSL9znUPq3vc)
 
 
+# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
+
+
 # [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
 
 
@@ -3225,6 +3292,16 @@ what it means to make a search engine and what is needed
 # [talent](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
 
 
+# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
+
+how to find work and what to focus on
+
+
+## [remote](https://my.mindnode.com/8Fq6vDwHryBC4rwdyqRU1Sh1c5MzyqnaHWqo51k2)
+
+## [environment ](https://my.mindnode.com/5BPJpkyLwUWNJq7Huovvufde5u1YehoqpBygJhmp)
+
+
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
 
 
@@ -3251,11 +3328,6 @@ what it means to make a search engine and what is needed
 ### [flow ✨](https://my.mindnode.com/uofSvqqeJvwVVUSufcCbFpxqEVjDhywJyCXjATrZ)
 
 
-# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
-
-how to find work and what to focus on
-
-
 # data
 
 
@@ -3270,9 +3342,6 @@ how to find work and what to focus on
 ## [redis ✨](https://my.mindnode.com/3fYxqeHfbKSHMmGqG2uqzhzihR7qyqaQwAZ9C3Xt)
 
 ## varnish
-
-
-# [api](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
@@ -3342,6 +3411,18 @@ about 1760-1840
 # [literature](https://my.mindnode.com/SyydAVSrqVq8pnWVyCRJYmLrppcHGtQyjUrdAvYA)
 
 
+# [api](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
+
+
+## [GraphQL](https://my.mindnode.com/FLzxt3X9eoBvimrDypq6VvyJ3NdxoG5NrrsumyjH)
+
+
+# [projects ✨](https://my.mindnode.com/yRxyF9EqG5YMhecUVA2agcPrUMUsR7fhhSPUxUyx)
+
+
+## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
+
+
 # [ruby gems](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
 
 
@@ -3355,12 +3436,6 @@ about 1760-1840
 
 
 # [data science](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
-
-
-# projects
-
-
-## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
 # [writing ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
@@ -3377,10 +3452,23 @@ poems I found and enjoyed reading
 ## [calligraphy](https://my.mindnode.com/Uh3tar5bydHKtER6uHdyTg6ymSzy2y8oteApDrTC)
 
 
+# data exchange
+
+
+## wireless
+
+### [bluetooth](https://my.mindnode.com/sD8b38yEMFyzdpefzNoyBhrnvbmSGiKsgzEJu3M6)
+
+
+# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
+
+
 # practice
 
 
 ## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
+
+### [katas](https://my.mindnode.com/duoYeBBx9GzeasYxzASYjzgzvqfqQNsw37ZzaJ5V)
 
 
 # [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
@@ -3460,9 +3548,26 @@ packs many javascript modules into a few bundled assets
 # task runners
 
 
-## gulp
+## [gulp](https://my.mindnode.com/btgJru7wziUq7q2jYLaTe3cpe9CSsXLZpAPJ2MF8)
 
 ## grunt
+
+
+# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
+
+
+# prototyping
+
+
+## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
+
+
+# encoding
+
+
+## text
+
+### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
 
 
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
@@ -3547,6 +3652,8 @@ courses I am doing or plan on doing
 ### [canvas](https://my.mindnode.com/LWAz7pgJ9gALAXNCxKzMo3V7GJJUWbhy1bguLLJr)
 
 ## [json](https://my.mindnode.com/tdfXax125ixD9J6qoPFMpjmR7SufiiiZPSgb6y1q)
+
+### [geojson](https://my.mindnode.com/r2nx7vtun2zrzTMg5tyBeDCSwPNFWMww1b42DxVq)
 
 ## [markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
 
