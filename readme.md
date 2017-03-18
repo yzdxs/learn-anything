@@ -2,7 +2,7 @@
 
 #### (the above link is clickable and leads to an [interactive mindmap](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)) (p.s. [all underlined nodes are hyperlinks](https://github.com/nikitavoloboev/knowledge-map#mindmap-key-) and lead to other mindmaps) (will need to wait a bit for it to load 😞) (but when it does, enjoy 😀) (you can also search [through the  index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) for what you want or use my [Alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) to instantly open the mind map you need wherever you are)
 
-![](http://i.imgur.com/j89gfhR.jpg)
+![](http://i.imgur.com/W902qLT.jpg)
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
@@ -91,7 +91,9 @@ someone who tries to get into another person’s computer using computer softwar
 contains all the documentation for how I use and manage this mind map
 
 
-# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
+# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+
+privacy is important, what can you do to preserve your identity online
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
@@ -119,9 +121,10 @@ allows information to be hidden so that it cannot be read without special knowle
 self driving cars are already a reality
 
 
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
 
-privacy is important, what can you do to preserve your identity online
+
+## [terraform](https://my.mindnode.com/wDMDsVb3yJycpncHpSnxTp5z2AG4nid3Xby4MFPp)
 
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -339,6 +342,8 @@ are an expression consisting of variables (or indeterminates) and coefficients, 
 
 helps us understand changes between values that are related by a function
 
+### multivariable
+
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
 study of mathematical structures that are discrete rather than continuous, in contrast to real numbers that vary “smoothly”, discrete math studies objects such as integers, graphs, and statements in logic, these objects do not vary smoothly, but have distinct, separated values
@@ -409,6 +414,8 @@ looks at how more complex functions can be built with simpler ones
 ### [numerical analysis](https://my.mindnode.com/gCqezFhjRQGcxfusZph2WMQstSCwWsJjqeNHxpPp)
 
 studies different algorithms to get approximations for problems of mathematical analysis
+
+### complex analysis
 
 ## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
 
@@ -498,6 +505,16 @@ studies polynomial equations
 ## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
 
 studies a type of algebraic structure called a group, is often used in math as a starting point for the study of many algebraic structures, and of addition and multiplication of numbers
+
+## [measure theory](https://my.mindnode.com/dADyE1Mt5rxYK6ZgsTJHu4HGhYsi8i1s8qreyqx6)
+
+## [relations](https://my.mindnode.com/xdZVy3XSy7ybUyTeYJUPBWaZ7Te5ym9oVSdSz93P)
+
+### [equivalence ](https://my.mindnode.com/g7garkNVyc37uqtqh5AXfyteFiwhK8eQ3AxZCMGz)
+
+## homology
+
+### homological algebra
 
 
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
@@ -924,13 +941,20 @@ original python implementation in c, compiles python code into byte code and int
 
 humans whose work I really respect and am curious about sorted by the domain in which they worked
 
-### [alan watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+### spirit
 
-his talks and writing has changed my life in a very positive way
+- [alan watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+  his talks and writing has changed my life in a very positive way
 
-### richard feynman
+### math
 
-### david hilbert
+- david hilbert
+
+- carl gauss
+
+### physics
+
+- richard feynman
 
 ## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
 
@@ -1062,36 +1086,6 @@ name for a group of computer programs, device drivers, kernel and other things t
 ### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
 
 
-# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
-
-study of how to manipulate, manage, transform and encode information
-
-
-## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
-
-act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
-
-### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
-
-## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
-
-looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
-
-### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
-
-algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
-
-## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
-
-set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
-
-## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
-
-## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
-
-
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
 turning human written code into computer binary code or transpiling it to other languages
@@ -1208,6 +1202,40 @@ an app that has changed the way I interact with my computer by allowing me to re
 ## other
 
 ### matlab
+
+### mathematica
+
+
+# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+
+study of how to manipulate, manage, transform and encode information
+
+
+## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+
+act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
+
+### [hypercomputation](https://my.mindnode.com/UHo3bpyyn4UwXH6SCUyyZy7XGn3rMru9Ns8k7V9N)
+
+## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
+
+looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
+
+### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
+
+algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
+
+## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
+
+set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
+
+## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
+
+## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
 
 
 # [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
@@ -2466,6 +2494,8 @@ all the books I am currently reading or have read
 
 ### 10: fields of colour: the theory that escaped Einstein
 
+### 1994: nonlinear dynamics and chaos
+
 ## networking
 
 ### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
@@ -2550,7 +2580,13 @@ free:
 
 ### [1994: artificial intelligence a modern approach](https://my.mindnode.com/8ok1w3MLy4TzxZEmanaxmLnHyR8MP4DVpdmKPyB1)
 
-### 1991: paradigms of artificial intelligence programming
+### [1991: paradigms of artificial intelligence programming](https://my.mindnode.com/M1revXTzUvszNhpDpmrY5WCyAXMC6TgikwwdmJFN)
+
+### [16: reinforcement learning: an introduction](https://my.mindnode.com/5KrEbpSHNXhmzYHMR3Ay71pxeM37sxQRpqzvqz92)
+
+### [17: tensorflow machine learning cookbook](https://my.mindnode.com/vpgqkQFd513ruMopWLTzHqFjK1k6We2dyaYQsXWe)
+
+### [09: the quest for artificial intelligence - a history of ideas and achievements](https://my.mindnode.com/cVBXseyMieZvxyicYonNMHoznn6KQUe7r4ntVPTs)
 
 ## machine learning
 
@@ -2596,13 +2632,15 @@ free:
 
 ### [01: the elements of statistical learning ✨](https://my.mindnode.com/yTgJgH6oNpTDa9PnYz67t8whuAJyyiETdk5q7s96)
 
-### 04: all of statistics
+### [04: all of statistics](https://my.mindnode.com/UcALpcbUZyqwiXKm4R2ksSsEwzEPDpGYuHfC1H6g)
 
 ### [15: statistical rethinking: a bayesian course with examples in R and Stan](https://my.mindnode.com/f7q9d5mudLBey3ZqSYySKxmSyM8BUNxKeetRFvU1)
 
 ### [12: think bayes: bayesian statistics made simple](https://my.mindnode.com/8KgZHdGy4ZRXU9puKwpc6Wx1PjRofEyxJxozpWyG)
 
 free: 
+
+### 07: introduction to bayesian statistics
 
 ## cs
 
@@ -2623,6 +2661,10 @@ free:
 ### [1996: purely functional data structures](https://my.mindnode.com/J2NvnMDKrysisQSxNqfKuRW1nwgzNoE8sPFqGxy6)
 
 ### [12: introduction to data compression](https://my.mindnode.com/2EbXzD8n2jUHa3qcLQe71Zgksmqy6LMDxSaEap7M)
+
+### [11: software foundations](https://my.mindnode.com/zWtaLGXxmMdQfG7HfwStAovEofps6VeM3G9z74sp)
+
+free:
 
 ## science
 
@@ -2983,6 +3025,9 @@ javascript engine developed by Google
 various talks I have found interesting that don’t fall into any category
 
 
+# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
+
+
 # [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
 
 
@@ -3023,9 +3068,6 @@ how to live without a home, travel and work
 ## [personal](https://my.mindnode.com/TMjW8sdzjju6G6WHr4QkQjCXpefvQJP8Y56JFwRv)
 
 countries and cities I have been to with commentary and photos of each place
-
-
-# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
 
 
 # [discounts](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
@@ -3105,28 +3147,6 @@ connecting physical objects to the internet and using them in a smart way
 articles I have written
 
 
-# countries
-
-
-## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
-
-history of europe
-
-### uk
-
-### germany
-
-## north america
-
-### usa
-
-## asia
-
-### russia
-
-### china
-
-
 # [protocols](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
 
 
@@ -3169,6 +3189,40 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
+
+
+# countries
+
+
+## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
+
+history of europe
+
+### uk
+
+sovereign state in northern Europe, it is a constitutional monarchy that is made up of four separate countries
+
+### germany
+
+situated in central Europe
+
+### netherlands
+
+## north america
+
+### usa
+
+United States of America is made up of 50 states, a deferral district, and five territories
+
+## asia
+
+### russia
+
+largest country in the world by land area
+
+### china
+
+is a cultural region, an ancient civilisation and a nation in east asia
 
 
 # [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
@@ -3243,6 +3297,11 @@ research papers I am reading and want to read
 
 ## [statistics](https://my.mindnode.com/VuFsrrURM944n8MEKMUe2pVKdAveNkT3HvYQ5Jjs)
 
+## [ai](https://my.mindnode.com/eTyJUZTw6nhQSUKbvLzsyrPaqxMP9SF1Dsf6usyT)
+
+
+# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
+
 
 # backend
 
@@ -3250,9 +3309,6 @@ research papers I am reading and want to read
 ## [node.js](https://my.mindnode.com/5iqRf7zVt3zQq1S8myXgBvddPBMz6TisgQSJWyxU)
 
 ### [electron ✨](https://my.mindnode.com/pdBpBnn91iXXwvsVRupwRbdMJkzAKSL9znUPq3vc)
-
-
-# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
 
 
 # [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
@@ -3308,7 +3364,7 @@ what it means to make a search engine and what is needed
 ## [solr](https://my.mindnode.com/mRA83X1ErSMKjRixiKEgZo4aDMQNwr7XGDAkJuxE)
 
 
-# full stack
+# [full stack](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
 
 
 # [talent](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
@@ -3578,20 +3634,6 @@ packs many javascript modules into a few bundled assets
 # [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
 
 
-# prototyping
-
-
-## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
-
-
-# encoding
-
-
-## text
-
-### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
-
-
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
 
 courses I am doing or plan on doing
@@ -3602,6 +3644,8 @@ courses I am doing or plan on doing
 ### [oxford cs deep nlp 2017](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
 
 ### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
+
+### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
 
 ## haskell
 
@@ -3664,6 +3708,23 @@ courses I am doing or plan on doing
 ### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
 
 
+# prototyping
+
+
+## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
+
+
+# encoding
+
+
+## text
+
+### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
+
+
+# [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
+
+
 # markup languages
 
 
@@ -3685,7 +3746,7 @@ courses I am doing or plan on doing
 
 ## scikit-learn
 
-## [django](https://my.mindnode.com/G4Fd4m9coy6UvVJ2xydbUt4KMaJEgr1u3kxeXWYy)
+## [django](https://my.mindnode.com/GBFvBMrnkhxzwFyy53orBoPnC8zir18JVxKmZJqW)
 
 ## flask
 
