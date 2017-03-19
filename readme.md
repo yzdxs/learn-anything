@@ -41,6 +41,16 @@ There are many other mind maps that you can explore and I would really love to h
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
 
 I also believe the user experience of using the web version of mind maps will improve greatly in the coming months and I hope the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
+
+# Where to start? 🤔
+
+It depends on what you are looking for and what your goals are. I would suggest to just wait a bit until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and most probably has really great resources linked to it. Just look into what you think is interesting and go from there. 
+
+The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. 
+
+I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) though as I try to cover any confusions one might have in navigating it. 
+
+This mind map is heavily a work in progress as I experiment heavily in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
  
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
@@ -113,7 +123,11 @@ allows information to be hidden so that it cannot be read without special knowle
 
 ## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
 
+a computer security competition, usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
+
 ## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
+
+short for malicious software, is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
@@ -129,7 +143,7 @@ self driving cars are already a reality
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
 
-what efficient algorithms exist out there and what problems do they solve
+is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function
 
 
 ## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
@@ -140,19 +154,29 @@ how to analyse the correctness and running time of algorithms
 
 how to prove an algorithm works and does its job correctly
 
-## [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
-
 ## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
 
 how to design efficient and correct algorithms
 
+### [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
+
+what techniques exist to coming up with efficient algorithmic solutions to solving a problem
+
 ## [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
+
+efficient genetic algorithms
 
 ## [sorting ✨](https://my.mindnode.com/Mj1UagFNqNLG4qzjkMFsgpZeHywMgyDSDwFrjqv2)
 
+efficient sorting algorithms
+
 ## [graphs ✨](https://my.mindnode.com/GafxJVenwGZPZbAgjCrCg3brxJJYAxmaTpFnJuRh)
 
+efficient graph algorithms
+
 ## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
+
+efficient searching algorithms
 
 ### [combinatorial](https://my.mindnode.com/GdcdQx9B5K7gqAUvyMppTCfJ9YuNc5u66Sxwmijp)
 
@@ -209,6 +233,28 @@ open source computer vision library for real time computer vision
 organisation of and implementing of values and information, where data structures are different from abstract data types is in the way they are used, data structures are the implementations of abstract data types in a concrete and physical setting suing algorithms in the implementation process
 
 
+# [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
+
+
+## [agile](https://my.mindnode.com/4hPUYtVtfLEL17EEecXhszyRpiM1pmjYec3i9ytr)
+
+describe a set of principles for software development under which requirements and solutions evolve through the collaborative effort or self organising cross functional teams, it advocates adaptive planning, evolutionary development, early delivery and continuous improvement and it encourages rapid and flexible response to change
+
+## [devops ✨](https://my.mindnode.com/ns3bCv8vPJrsDaq5koMfMsBZzJfRgeYqmy7SusxR)
+
+refers to a set of practices that emphasise the collaboration and communication of both software developers and information technology (IT) professionals while automating the process of software delivery and infrastructure change, aims to establishing a culture and environment where building, testing and releasing software can happen rapidly, frequently and more reliably 
+
+## approaches
+
+### [domain driven design ✨](https://my.mindnode.com/bCGsYrxxdgxfSS6x8WCHJ8FMMupN9LuHNKcybeKN)
+
+approach to software development for complex needs by connecting the implementation to an evolving model, it follows :   
+  
+1. placing the project’s primary focus on the core domain and logic  
+2. basing complex designs on a model of the domain  
+3. initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems
+
+
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
 ability of a computer program or a machine to think and learn, making computers ‘smart’
@@ -243,25 +289,18 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 
 ## [deep learning ✨](https://my.mindnode.com/ycU59gAXTjsXkJqjR2xAYawvcFuXqUPbxiDpBX4z)
 
-## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
-
-
-# [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
-
-
-## [agile](https://my.mindnode.com/4hPUYtVtfLEL17EEecXhszyRpiM1pmjYec3i9ytr)
-
-## [devops ✨](https://my.mindnode.com/ns3bCv8vPJrsDaq5koMfMsBZzJfRgeYqmy7SusxR)
-
-## approaches
-
-### [domain driven design ✨](https://my.mindnode.com/bCGsYrxxdgxfSS6x8WCHJ8FMMupN9LuHNKcybeKN)
+## [general intelligence](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
 
 
 # [system administration](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
 
 
+# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
+
+
 # [configuration management](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
+
+is a systems engineering process for establishing and maintaining consistency of a product’s performance, functional and physical attributes with its requirements, design and operational information through its life
 
 
 ## [puppet](https://my.mindnode.com/8HRdnRDFCxspXpf7qdGpe84TipqnasfkHQYCcf5y)
@@ -269,9 +308,6 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 ## [ansible](https://my.mindnode.com/rWEgABaoDTqViLJ6Payck4p4S8sb8jx2F1H81CAa)
 
 ## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
-
-
-# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -284,6 +320,8 @@ study of numbers, shapes and patterns
 came from trying to solve systems of linear equations, vectors and matrices are used to solve these systems
 
 ## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-386.6,16.2,2)
+
+is any class of formal systems, some which can serve as alternatives to set theory as a foundation for all mathematics, in type theory, every “term” has a “type” and operations are restricted to terms of a certain type, it was created to avoid paradoxes in a variety of formal logics and rewrite systems
 
 ## [set theory](https://my.mindnode.com/MXEzZzQ4aXtJgEb4ZzFFGozqvew3CFrygjDfgmfv)
 
@@ -306,7 +344,11 @@ has to do with chance, the study of things that might happen or might not happen
 
 ### [survival analysis](https://my.mindnode.com/k8JiQykg46ppxrzKhA6uoNtx3pZdkhMz7BL6gVaT)
 
+analysis on the expected duration of time until one or more events happen, such as death in biological organisms and failure in mechanical systems
+
 ### [time series analysis](https://my.mindnode.com/quKxxy1QV1osEUDTRJ3MS1ZAxPjxxkjqvQ8hPUaA)
+
+time series is a series of data points indexed (or listed or graphed) in time order, most commonly, a time series is a sequence taken at successive equally spaced points in time, thus it is a sequence of discrete time data
 
 ### [regression analysis](https://my.mindnode.com/JzesnxsJb4qQ9papCBdxQiQeUpxyCvefcY7WosPM)
 
@@ -516,6 +558,10 @@ studies a type of algebraic structure called a group, is often used in math as a
 
 ### homological algebra
 
+## [lie groups](https://my.mindnode.com/L9HGQrVat5LGtq3igzNqtfswz8ifqjyMbvxSF9qn)
+
+## [notation](https://my.mindnode.com/zzJBWaA5nkYYgAYLLMrudq73ps5PkQnPKu8HpZfr)
+
 
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
@@ -599,6 +645,8 @@ how to get into competitive programming and learn to solve algorithmic challenge
 
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
 
+
+## travis CI
 
 ## [microservices](https://my.mindnode.com/u79EngB79DqdaYsAzDkGycjBWGAphxDbZp1JpyEx)
 
@@ -1255,6 +1303,10 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 
 ## [discrete time signal](https://my.mindnode.com/7hxVXYG2zNzcZBTiEzCxqDRsqnpzpt1pdpmNpRu7)
 
+## bandwidth
+
+### signal to noise ratio
+
 
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
@@ -1670,6 +1722,24 @@ a word for thought processes where process is the way we think
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
 
 
+# [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
+
+set of rules that people are made to follow by the state, the courts and police enforce this system of rules and punish people who break the laws
+
+
+## justice
+
+people behave in a way that is fair, equal and balanced for everyone
+
+## usa
+
+laws concerning United States
+
+## [european union ✨](https://my.mindnode.com/rdepV96kjzq1xybqeyz1Tpsu9FqxHaZEUhWtL3Rz)
+
+laws concerning European Union
+
+
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 study of change of matter
@@ -1696,24 +1766,6 @@ substance consisting of atoms which all have same number of protons (same atomic
 describes the symmetry present in molecules and the classification of molecules according to their symmetry
 
 ### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
-
-
-# [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
-
-set of rules that people are made to follow by the state, the courts and police enforce this system of rules and punish people who break the laws
-
-
-## justice
-
-people behave in a way that is fair, equal and balanced for everyone
-
-## usa
-
-laws concerning United States
-
-## [european union ✨](https://my.mindnode.com/rdepV96kjzq1xybqeyz1Tpsu9FqxHaZEUhWtL3Rz)
-
-laws concerning European Union
 
 
 # [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
@@ -1839,16 +1891,6 @@ what is the nature of knowledge, justification and the rationality of belief
 ## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
 
 
-# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
-
-
-## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
-
-## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
-
-## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
-
-
 # [languages](https://my.mindnode.com/qdJymueqTMbEjCAK8CpzUsxXLH96sy7LtpkQzL69)
 
 
@@ -1864,7 +1906,7 @@ english words I want to learn and have learned
 
 my often misspelled words to learn
 
-## japanese
+## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
 
 ## chinese
 
@@ -1877,30 +1919,19 @@ my often misspelled words to learn
 what it means to be creative and where does creativity come from
 
 
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
+
+
+## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
+
+## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
+
+## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
 
 
 # [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
 
 study of language and its structure including study of grammar, syntax and phonetics
-
-
-# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
-
-
-## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
-
-everyone should have some kind of principle they follow, these are mine
-
-
-# [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
-
-what actions are objectively write or wrong and how to measure them
-
-
-## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
-
-which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
 
 
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
@@ -1933,6 +1964,27 @@ any chemical that affects the human body or mind when it is consumed
 ## [steroids](https://my.mindnode.com/jWMCXd7gHng4KQoqaQnt1xDzfdrFdXSs2FjWxNpp)
 
 
+# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
+
+
+## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
+
+everyone should have some kind of principle they follow, these are mine
+
+
+# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+
+
+# [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
+
+what actions are objectively write or wrong and how to measure them
+
+
+## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
+
+which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
+
+
 # [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
 
 
@@ -1957,11 +2009,6 @@ any chemical that affects the human body or mind when it is consumed
 ## [mesh networks](https://my.mindnode.com/rARXvBwQEijvyRvBLYSokji4eSpq1b1yYRXzMPiN)
 
 ## [scapy](https://my.mindnode.com/Mu8ZdLsbny8DFRu6hzU8qB34g15QfpJzpGKZBdVj)
-
-
-# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
-
-newsletters I found interesting
 
 
 # [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
@@ -2005,6 +2052,9 @@ study of large amounts of biological information, mostly it focuses on molecules
 studying nature to create modern technology
 
 
+# [academia](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
+
+
 # [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
 
 how to manifest and grow interesting ideas
@@ -2018,9 +2068,25 @@ how to manifest and grow interesting ideas
 treating animals as equals and abstaining from eating and using animal products as commodity
 
 
+# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
+
+newsletters I found interesting
+
+
 # [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
 
 advice I have found on life, programming and all that I thought was of value
+
+
+# [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
+
+
+## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
+
+## speech
+
+
+# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
 
 
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
@@ -2040,17 +2106,20 @@ how do you perceive this world and how and why is it different to someone’s el
 
 what makes you, you, your self, an interesting and elusive thing
 
+## thoughts
+
+### [biases ✨](https://my.mindnode.com/DFaDCrQrbbpwZkozssopop3qEMbMQBfP7w2GaUvy)
+
+happen when someone makes a bad choice that they think is a good choice
+
 ## [mindfulness ✨](https://my.mindnode.com/Vy6qpX9uD6qJKyN7cWCgpErpGzspoKsxB1FFFsXq)
 
 how to be aware of your actions and thoughts as you live through life
 
 
-# [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
+# [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
 
-
-## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
-
-## speech
+what will happen in the future
 
 
 # [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
@@ -2059,11 +2128,6 @@ blogs I like or want to read
 
 
 ## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
-
-
-# [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
-
-what will happen in the future
 
 
 # [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
@@ -2099,12 +2163,6 @@ what will happen in the future
 ### [limbic system](https://my.mindnode.com/cwqeAq9gpPxEsmvBQReBUN6FSCKztMVzbswXysFc)
 
 ## [body](https://my.mindnode.com/Tp4Khq4gHNZAw91rXsopiJBGbaJkmR4s3TviqEpT)
-
-
-# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
-
-
-# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
 
 
 # [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
@@ -2220,6 +2278,11 @@ browser developed by Google
 ## graphics
 
 ### [WebGL](https://my.mindnode.com/foLyxx8sixJ1eLrC6s8xqmPmb76TU1B6Z1xE1yGA)
+
+## dns
+
+
+# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
 
 
 # [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
@@ -2514,7 +2577,9 @@ all the books I am currently reading or have read
 
 ### 1990: introduction to algorithms
 
-### 1987: algorithm design manual
+### [1987: algorithm design manual](https://my.mindnode.com/spsEhTk9K3sEKTVGMvN5a3b41wBithXMJUZJLtJY)
+
+free:
 
 ### [05: algorithm design](https://my.mindnode.com/9LNaDUqpHqPZAT3uVxjeumMScWLmJyh13FXMrcrJ)
 
@@ -2588,11 +2653,9 @@ free:
 
 ### [09: the quest for artificial intelligence - a history of ideas and achievements](https://my.mindnode.com/cVBXseyMieZvxyicYonNMHoznn6KQUe7r4ntVPTs)
 
-## machine learning
+### 12: machine learning: a probabilistic perspective
 
 ### [deep learning ✨](https://my.mindnode.com/ts4WPJDEyMjkiJuzy6YHbe1a9NdyFo1bqQ8QqQyJ)
-
-### 12: machine learning: a probabilistic perspective
 
 ## math
 
@@ -2623,6 +2686,10 @@ free:
 ### [08: logicomix](https://my.mindnode.com/27sJyKNfq9M7y8mu2HfiaquJREsbsdqMxq6pn3s8)
 
 ### [physically based rendering: from theory to implementation ✨](https://my.mindnode.com/DUcX9CeTv2kBEUsqUHiyq8tJqvdhxSToogmzvqzz)
+
+### [17: immersive linear algebra ✨](https://my.mindnode.com/kaHsscPCN8pBzpZyDSrryCoNTqHUiSw38pSHPjsb)
+
+free: interactive look into linear algebra
 
 ## statistics
 
@@ -2957,15 +3024,15 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### 05: supernatural: meetings with the ancient teachers of mankind
 
 
+# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
+
+
 # [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
 
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 live talks I have personally attended and have seen and made notes on
-
-
-# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
@@ -3025,12 +3092,6 @@ javascript engine developed by Google
 various talks I have found interesting that don’t fall into any category
 
 
-# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
-
-
-# [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
-
-
 # [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
 
 
@@ -3051,6 +3112,12 @@ various talks I have found interesting that don’t fall into any category
 ## fasting
 
 ## immune system
+
+
+# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
+
+
+# [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
@@ -3160,7 +3227,7 @@ articles I have written
 
 ### [ethereum ✨](https://my.mindnode.com/eHDDPK5tHNgkxhb5ztzpJn4zus8xP3LSs8RRtNoL)
 
-## [websocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
+## [WebSocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
 
 ## [LPWAN](https://my.mindnode.com/rSozpF7SdeyqcUZqjiBnkKKvSnWfXb1xBR7qENt1)
 
@@ -3172,15 +3239,9 @@ articles I have written
 
 test anything protocol s a protocol to allow communication between unit tests and a test harness
 
+## [BitTorrent](https://my.mindnode.com/AimdYZ9ks4JhfzwB9AJfkNt2seVXsyw9NEtqLz97)
+
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
-
-
-# [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
-
-
-## [nginx](https://my.mindnode.com/WsyDTcxaptLEbzobxPqBMRiD3ffjpZDw85s2hytK)
-
-## apache
 
 
 # communication
@@ -3189,6 +3250,20 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
+
+
+# [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
+
+is a computer that serves many things to user, or client machines, every type of thing a server does is called a service, services are used by other computers are called clients
+
+
+## web
+
+type of server that is used to host websites, it can have one or many websites that it hosts, the default port for a web server to listen to is port 80 (HTTP) or 443 (HTTPS)
+
+### [nginx](https://my.mindnode.com/WsyDTcxaptLEbzobxPqBMRiD3ffjpZDw85s2hytK)
+
+### apache
 
 
 # countries
@@ -3224,11 +3299,7 @@ largest country in the world by land area
 
 is a cultural region, an ancient civilisation and a nation in east asia
 
-
-# [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
-
-
-## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
+### japan
 
 
 # [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
@@ -3298,6 +3369,12 @@ research papers I am reading and want to read
 ## [statistics](https://my.mindnode.com/VuFsrrURM944n8MEKMUe2pVKdAveNkT3HvYQ5Jjs)
 
 ## [ai](https://my.mindnode.com/eTyJUZTw6nhQSUKbvLzsyrPaqxMP9SF1Dsf6usyT)
+
+
+# [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
+
+
+## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
 
 
 # [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
@@ -3378,6 +3455,8 @@ how to find work and what to focus on
 ## [remote](https://my.mindnode.com/8Fq6vDwHryBC4rwdyqRU1Sh1c5MzyqnaHWqo51k2)
 
 ## [environment ](https://my.mindnode.com/5BPJpkyLwUWNJq7Huovvufde5u1YehoqpBygJhmp)
+
+## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
 
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
@@ -3460,6 +3539,8 @@ about 1760-1840
 1922-1991
 
 ### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### manhattan project
 
 ## wars
 
