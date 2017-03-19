@@ -48,9 +48,9 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. 
 
-I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) though as I try to cover any confusions one might have in navigating it. 
+I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) as I try to cover any confusions one might have in navigating these mind maps. 
 
-This mind map is heavily a work in progress as I experiment heavily in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
+These mind maps are heavily a work in progress as I experiment heavily in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
  
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
