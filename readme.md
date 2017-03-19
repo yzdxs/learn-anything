@@ -20,7 +20,7 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 
 Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are.
 
-These mind maps are heavily a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
+These mind maps are a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
