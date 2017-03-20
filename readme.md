@@ -436,7 +436,7 @@ study of how spaces are organised, how the objects are structured in terms of po
 
 is a mathematical constant, it is the ration of the distance around a circle to the circle’s diameter, this produces a number and that number is always the same
 
-## analysis
+## [analysis](https://my.mindnode.com/6sxbuYZbQANpyrhCVnrcw8APN9eZdGzBV5yvqtAq)
 
 process of breaking a complex topic or substance into smaller parts to gain better understanding of it
 
@@ -495,6 +495,10 @@ is a prescription that assigns to every object of one set an object of another (
 ### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
 
 mathematical equation that involves variables like x or y, as well as the rate at which these variables change, they are special because the solution of a differential equation is itself a function instead of a number
+
+### [taylor series ✨](https://my.mindnode.com/ELq3xbSpb8JNynMCMUgQzccGexDc5548pu1DRWdL)
+
+### [exponential](https://my.mindnode.com/Bqs68aWxm1RcctiLn76AdEwS3wBQi2sAV6gmb3Ga)
 
 ## [modularity ✨](https://my.mindnode.com/kXvXxFpeskVny5UVsqjDbnpxdyH6UJbyzxYsAx4o)
 
@@ -566,6 +570,8 @@ studies a type of algebraic structure called a group, is often used in math as a
 ## [lie groups](https://my.mindnode.com/L9HGQrVat5LGtq3igzNqtfswz8ifqjyMbvxSF9qn)
 
 ## [notation](https://my.mindnode.com/zzJBWaA5nkYYgAYLLMrudq73ps5PkQnPKu8HpZfr)
+
+## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
 
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
@@ -1003,7 +1009,11 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - david hilbert
 
-- carl gauss
+- [carl gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
+
+- leonhard euler ✨
+
+- augustin louis cauchy
 
 ### physics
 
@@ -1313,6 +1323,26 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 ### signal to noise ratio
 
 
+# [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
+
+
+## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
+
+### search
+
+- [google](https://my.mindnode.com/oLqsecQPzsbP1sdGvxZbxCcspHQK4aJFqMvT9uUT)
+
+- duckduckgo
+
+- wolfram alpha
+
+## dev
+
+### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
+
+### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
+
+
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
 
@@ -1332,18 +1362,6 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 
 
 # [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
-
-
-# [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
-
-
-## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
-
-## dev
-
-### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
-
-### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
 
 
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -1621,6 +1639,8 @@ websites whose design I really like
 personal websites that are really well made and inspiring
 
 ## twitter
+
+## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
 
 
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
@@ -2212,7 +2232,7 @@ documentaries I have seen and want to watch
 # [public speaking](https://my.mindnode.com/sNrmgaBsj4cDn2eHwDhYwnTkMqsGLWrucesVaAsK)
 
 
-# [web ✨](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+# [web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz)
 
 
 ## browsers
@@ -3197,18 +3217,11 @@ companies that I find interesting sorted by their domain
 
 - google
 
-	- [search](https://my.mindnode.com/f8kVtmise9Q9TicGf6Pcudge2GCfhGNpqK1GGZZs)
-
 ### amazon
 
 ### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 over 2 billion users and growing, collecting data on each individual user and growing its influence
-
-
-# [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
-
-connecting physical objects to the internet and using them in a smart way
 
 
 # [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
@@ -3255,6 +3268,11 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
 
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
+
+
+# [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
+
+connecting physical objects to the internet and using them in a smart way
 
 
 # [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
