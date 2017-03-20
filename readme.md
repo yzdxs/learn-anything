@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](http://i.imgur.com/W902qLT.jpg)
+![](http://i.imgur.com/nqcJ2R8.jpg)
 
 # Why? 🎈
 
@@ -281,6 +281,8 @@ gives computer the ability to learn without being explicitly programmed
 - [numpy ✨](https://my.mindnode.com/13xp2QzL5FTSvezyhB96ZUpqh2ZVyE84hSHVZvAC)
 
 - [darknet](https://my.mindnode.com/ksY7vgK52FRHggk4xy1sB6yDqeSFnGN4UxYjTqw9)
+
+- [caffe](https://my.mindnode.com/t4sfpuyguxDZ7chsCApvnUYsyqMfJ9Jv9L3NWuab)
 
 ### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
 
@@ -1100,6 +1102,16 @@ all the games I have played and want to play
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
+# keyboard
+
+
+## [layouts](https://my.mindnode.com/FFHzCy8318KBaKsjFpVAUZFLdLeGqMNqpGRDZWVz)
+
+## [mechanical](https://my.mindnode.com/RnsybqgwgmcNCCeqDHzdKaAGKeqKvXBXVzR9G3BE)
+
+### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
+
+
 # [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
 
 name for a group of computer programs, device drivers, kernel and other things that let a user work with a computer
@@ -1137,42 +1149,6 @@ name for a group of computer programs, device drivers, kernel and other things t
 - [powershell](https://my.mindnode.com/NnxxC7MpuPf3SUQpDYJW9zbhPMoQiPArx9x1Wnsa)
 
 ### [andromeda OS](https://my.mindnode.com/E9T3FZbseA166QRroExnvozpMqv3wPZuLteth18d)
-
-
-# keyboard
-
-
-## [layouts](https://my.mindnode.com/FFHzCy8318KBaKsjFpVAUZFLdLeGqMNqpGRDZWVz)
-
-## [mechanical](https://my.mindnode.com/RnsybqgwgmcNCCeqDHzdKaAGKeqKvXBXVzR9G3BE)
-
-### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
-
-
-# [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
-
-turning human written code into computer binary code or transpiling it to other languages
-
-
-## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
-
-## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
-
-## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
-
-## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
-
-## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
-
-## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
-
-## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
-
-## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
-
-## [template metaprogramming](https://my.mindnode.com/yqtNqRKq9kiwKqgVu4Gqsxa22tjWjGhQJh1Ks4SL)
-
-## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
 
 
 # [programs](https://my.mindnode.com/jNWAmZH1pR24zb4NSMijvTCuHiDoHT7xXLjkXAwP)
@@ -1267,6 +1243,32 @@ an app that has changed the way I interact with my computer by allowing me to re
 ### matlab
 
 ### mathematica
+
+
+# [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+
+turning human written code into computer binary code or transpiling it to other languages
+
+
+## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
+
+## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
+
+## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
+
+## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
+
+## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
+
+## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
+
+## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
+
+## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
+
+## [template metaprogramming](https://my.mindnode.com/yqtNqRKq9kiwKqgVu4Gqsxa22tjWjGhQJh1Ks4SL)
+
+## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
 
 
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
@@ -1484,14 +1486,6 @@ any substance that has mass and takes up space
 - continuum mechanics
 
 
-# version control
-
-
-## [mercurial](https://my.mindnode.com/NxcTDxweypHJ5dkqR7bWpryPxjbmzpCAxcKV9tG4)
-
-## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
-
-
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
 quantum computers can use certain phenomena from quantum mechanics, such as superposition and entanglement, to perform operations on data, the basic principle behind quantum computation is that quantum properties can be used to represent data and perform operations on it
@@ -1532,9 +1526,12 @@ study of mind and of thought, feeling and behaviour
 ## [posix ✨](https://my.mindnode.com/zNsVJZhxAWsRy9xoC2ZqNzAqcWNxVyTeu9NsVDpx)
 
 
-# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+# version control
 
-what it means to work with open source and how to best sustain an open source project
+
+## [mercurial](https://my.mindnode.com/NxcTDxweypHJ5dkqR7bWpryPxjbmzpCAxcKV9tG4)
+
+## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
 
 
 # [shells](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
@@ -1584,63 +1581,7 @@ set of attempts to model the four known fundamental interactions
 ## [bloch sphere](https://my.mindnode.com/TYQv7runzBk67VHq7ChTBKNbuwoRNf6kvWGs4Tg5)
 
 
-# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
-
-
-## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
-
-
 # [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
-
-
-# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
-
-
-## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
-
-### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
-
-- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
-  my open source github repositories organised by their theme
-
-### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
-
-gists that I found interesting and useful 
-
-- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
-  gists that I shared sorted by categories
-
-## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
-
-reddit subreddits organised by topics
-
-### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
-
-a browser extension to improve reddit experience
-
-## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
-
-quora communities organised and connected
-
-## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
-
-codeine code that I found interesting organised
-
-## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
-
-youtube channels I like organised and connected
-
-## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
-
-websites whose design I really like
-
-### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
-
-personal websites that are really well made and inspiring
-
-## twitter
-
-## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
 
 
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
@@ -1684,6 +1625,11 @@ questions you may get asked for an iOS interview
 ## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
 
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
+
+
+# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+
+what it means to work with open source and how to best sustain an open source project
 
 
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
@@ -1747,24 +1693,6 @@ a word for thought processes where process is the way we think
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
 
 
-# [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
-
-set of rules that people are made to follow by the state, the courts and police enforce this system of rules and punish people who break the laws
-
-
-## justice
-
-people behave in a way that is fair, equal and balanced for everyone
-
-## usa
-
-laws concerning United States
-
-## [european union ✨](https://my.mindnode.com/rdepV96kjzq1xybqeyz1Tpsu9FqxHaZEUhWtL3Rz)
-
-laws concerning European Union
-
-
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 study of change of matter
@@ -1804,43 +1732,10 @@ describes the symmetry present in molecules and the classification of molecules 
 ## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
 
 
-# [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
-
-
-## snowboarding
-
-## longboarding
-
-## skateboarding
-
-## basketball
-
-## football
-
-## golf
-
-## hiking
-
-## rock climbing
-
-## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
-
-
-# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
-
-
 # [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
 # [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
-
-
-# [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
-
-
-## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
-
-united states copyright law criminalising production and sharing of digital copyrighted material
 
 
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
@@ -1855,20 +1750,6 @@ can you create an artificial complex life such as humans and if so, how
 ## [origin of life](https://my.mindnode.com/kBBFUEC6zZxN6TBabsBq1E3pysDgzYu73Rs9QhzT)
 
 how did life came to arise in this universe, what are its implications
-
-
-# [cryptocurrency](https://my.mindnode.com/Z4B2pqHmRYVzQetyii7pJwdJwAf5h4qwAGqopMKp)
-
-the future of money as I see itn
-
-
-## [dash](https://my.mindnode.com/S3vg9ZoqGUDbQS9gQUufJHCVaWm3sbtx9nKBxhpy)
-
-## ripple
-
-## [monero ✨](https://my.mindnode.com/P9doYsT2FMAxG2eVVTJ6sSd8zYuthpNJe58CssPD)
-
-## [bitcoin ✨](https://my.mindnode.com/B7Sr6JyuyXsVriEE3HfxGopDNqB7ydRZs1SA1rEn)
 
 
 # feelings
@@ -1893,9 +1774,6 @@ mental or emotional state of well being defined by positive or pleasant emotions
 a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
 
 
-# [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
-
-
 # [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
 
 study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
@@ -1916,7 +1794,7 @@ what is the nature of knowledge, justification and the rationality of belief
 ## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
 
 
-# [languages](https://my.mindnode.com/qdJymueqTMbEjCAK8CpzUsxXLH96sy7LtpkQzL69)
+# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
 
 
 ## russian
@@ -1936,7 +1814,60 @@ my often misspelled words to learn
 ## chinese
 
 
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+
+
+## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
+
+### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+
+- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+  my open source github repositories organised by their theme
+
+### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
+
+gists that I found interesting and useful 
+
+- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
+  gists that I shared sorted by categories
+
+## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
+
+reddit subreddits organised by topics
+
+### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+
+a browser extension to improve reddit experience
+
+## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
+
+quora communities organised and connected
+
+## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
+
+codeine code that I found interesting organised
+
+## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
+
+youtube channels I like organised and connected
+
+## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
+
+websites whose design I really like
+
+### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
+
+personal websites that are really well made and inspiring
+
+## twitter
+
+## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
+
+## [education ✨](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C)
+
+## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5)
+
+## [find](https://my.mindnode.com/QazgEKAnzsigtdzNAp1hssqPGF4sYVc41papNeDo)
 
 
 # [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
@@ -2036,9 +1967,6 @@ which intentions, decisions and actions can be considered ‘right’ and which 
 ## [scapy](https://my.mindnode.com/Mu8ZdLsbny8DFRu6hzU8qB34g15QfpJzpGKZBdVj)
 
 
-# [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
-
-
 # [biology](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
 
 science of life and living things and their evolution
@@ -2103,17 +2031,6 @@ newsletters I found interesting
 advice I have found on life, programming and all that I thought was of value
 
 
-# [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
-
-
-## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
-
-## speech
-
-
-# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
-
-
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
@@ -2140,6 +2057,12 @@ happen when someone makes a bad choice that they think is a good choice
 ## [mindfulness ✨](https://my.mindnode.com/Vy6qpX9uD6qJKyN7cWCgpErpGzspoKsxB1FFFsXq)
 
 how to be aware of your actions and thoughts as you live through life
+
+
+# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
+
+
+## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
 
 
 # [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
@@ -2200,28 +2123,6 @@ blogs I like or want to read
 ## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
 
 ## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
-
-
-# [economics ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
-
-
-## [microeconomics](https://my.mindnode.com/suN5zf8GDJ1xqkqXspyMwfssZCVzyNFVrjppayJ7)
-
-## [macroeconomics](https://my.mindnode.com/2HEJEoVMmpkA7t5sUgC1W8KN6iz4NdmRgYnEUiWY)
-
-## [basic income](https://my.mindnode.com/5DXAJm6qAkqzz4zko44DzD7YY9xMffrDJ7FHGqa2)
-
-## [capitalism ✨](https://my.mindnode.com/QEL5z6FiGHaMFs7C9hyTK7soCB59fXpQj7s9xtng)
-
-## [investing](https://my.mindnode.com/1taGgJnPzGyJ8S5EBipeYb3NEzMV1f5V1GQqn6yq)
-
-## [pricing](https://my.mindnode.com/77ayhqCcgShYphiKh4Yf9UUtqmAn73g1JjrJUTVy)
-
-## [stocks](https://my.mindnode.com/XkTe9sMEmtsNQ9k5yWcRUSjAQE4Lq41zexam53NR)
-
-## [trading ✨](https://my.mindnode.com/Ezm6G58yULabwwzxB8PxfzrDFsNyKT2P5RMbJEMW)
-
-## [financial market](https://my.mindnode.com/3zSKzbpLZXxKMRKwqBmsRnnaerY6oUVrxfpPTnxx)
 
 
 # [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
@@ -2308,12 +2209,6 @@ browser developed by Google
 
 
 # [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
-
-
-# [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
-
-
-## [social](https://my.mindnode.com/TtLpQxuscftfbToszq8x5spgHMxmDA1h3GqJ7Ww4)
 
 
 # [education ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos)
@@ -3070,9 +2965,22 @@ live talks I have personally attended and have seen and made notes on
 ## [strength training](https://my.mindnode.com/RceumyyqQMNJ8veUf4M1aQ7wksqyxuHAsUyvKwiz)
 
 
-# [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
+# [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
 
-how to accelerate startup growth, acquire and keep new customers
+set of rules that people are made to follow by the state, the courts and police enforce this system of rules and punish people who break the laws
+
+
+## justice
+
+people behave in a way that is fair, equal and balanced for everyone
+
+## usa
+
+laws concerning United States
+
+## [european union ✨](https://my.mindnode.com/rdepV96kjzq1xybqeyz1Tpsu9FqxHaZEUhWtL3Rz)
+
+laws concerning European Union
 
 
 # [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
@@ -3100,6 +3008,31 @@ how to accelerate startup growth, acquire and keep new customers
 # [questions](https://my.mindnode.com/iyGwrtBKeFz27eTVNMemuqcu5z5pzA5nhPFXseRp)
 
 questions asked by me or some one else that I could not find an answer to
+
+
+# [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
+
+
+## snowboarding
+
+## longboarding
+
+## skateboarding
+
+## basketball
+
+## football
+
+## golf
+
+## hiking
+
+## rock climbing
+
+## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
+
+
+# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
 
 
 # javascript engines
@@ -3145,29 +3078,40 @@ various talks I have found interesting that don’t fall into any category
 # [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
 
 
+# [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
+
+
+## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
+
+united states copyright law criminalising production and sharing of digital copyrighted material
+
+
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
 
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+# [cryptocurrency](https://my.mindnode.com/Z4B2pqHmRYVzQetyii7pJwdJwAf5h4qwAGqopMKp)
 
-travel tips and interesting places
-
-
-## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
-
-how to live without a home, travel and work
-
-## [personal](https://my.mindnode.com/TMjW8sdzjju6G6WHr4QkQjCXpefvQJP8Y56JFwRv)
-
-countries and cities I have been to with commentary and photos of each place
+the future of money as I see itn
 
 
-# [discounts](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
+## [dash](https://my.mindnode.com/S3vg9ZoqGUDbQS9gQUufJHCVaWm3sbtx9nKBxhpy)
+
+## ripple
+
+## [monero ✨](https://my.mindnode.com/P9doYsT2FMAxG2eVVTJ6sSd8zYuthpNJe58CssPD)
+
+## [bitcoin ✨](https://my.mindnode.com/B7Sr6JyuyXsVriEE3HfxGopDNqB7ydRZs1SA1rEn)
+
+
+# [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
 # [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
 
 how can you teach effectively, how does one learn
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
 
 
 # [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
@@ -3184,11 +3128,6 @@ how can you teach effectively, how does one learn
 ### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
 
 - [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
-
-
-# [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
-
-how to find customers for your products and expose your product to the world in the most efficient way
 
 
 # companies
@@ -3289,63 +3228,12 @@ type of server that is used to host websites, it can have one or many websites t
 ### apache
 
 
-# countries
-
-
-## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
-
-history of europe
-
-### uk
-
-sovereign state in northern Europe, it is a constitutional monarchy that is made up of four separate countries
-
-### germany
-
-situated in central Europe
-
-### netherlands
-
-## north america
-
-### usa
-
-United States of America is made up of 50 states, a deferral district, and five territories
-
-## asia
-
-### russia
-
-largest country in the world by land area
-
-### china
-
-is a cultural region, an ancient civilisation and a nation in east asia
-
-### japan
+# [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
 
 
 # [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
 
 interesting podcasts I have found and liked or want to listen to
-
-
-# [business](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
-
-organisational entity involved in providing goods or services to customers
-
-
-## [startups](https://my.mindnode.com/HbFANxd6nBWGo1oiTAnasaEALH4jwLpoabVEFJMP)
-
-how to successfully start and sustain a startup
-
-## [real estate](https://my.mindnode.com/qhwRiqAYihd9fuW3pBycxdD3PzShFsnNu5mEZyq7)
-
-property consisting of land and the buildings on it, along with all its natural resources
-
-## [supply chain ✨](https://my.mindnode.com/ViTExqEGpynsMsdLm7wNyqZhosAKZLerp8ojk1c6)
-
-sequence of processes involved in the production and distribution of products
 
 
 # [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
@@ -3400,7 +3288,12 @@ research papers I am reading and want to read
 ## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
 
 
-# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
+# [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
+
+
+## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
+
+## speech
 
 
 # backend
@@ -3429,27 +3322,7 @@ research papers I am reading and want to read
 ## standups
 
 
-# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
-
-our home planet in the Solar System
-
-
-## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
-
-there are five oceans on this planet
-
-
 # [hackathons ✨](https://my.mindnode.com/zu37vDh1vzNhfSeyQwp5Rx9xbctcCWWpXixqEfxA)
-
-
-# [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
-
-
-## [petri nets](https://my.mindnode.com/szji6NR1NPFanHbqpopkPqgTiPc3gAzehqpNX5NL)
-
-## [hadoop](https://my.mindnode.com/nFdNGaPw1BgCsyiDnMPtSwtC8ZBJqHQAEVsnghXz)
-
-## [apache spark](https://my.mindnode.com/VNVjTVxwpDqC2rdvLwPk8HS5GBqf2rEQMxW1Bi3q)
 
 
 # [search engines](https://my.mindnode.com/QNV9yaf39CaLZyCvfFsCgs2AMcZdJbNvCpqkopNK)
@@ -3464,22 +3337,23 @@ what it means to make a search engine and what is needed
 ## [solr](https://my.mindnode.com/mRA83X1ErSMKjRixiKEgZo4aDMQNwr7XGDAkJuxE)
 
 
+# [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
+
+
+## [petri nets](https://my.mindnode.com/szji6NR1NPFanHbqpopkPqgTiPc3gAzehqpNX5NL)
+
+## [hadoop](https://my.mindnode.com/nFdNGaPw1BgCsyiDnMPtSwtC8ZBJqHQAEVsnghXz)
+
+## [apache spark](https://my.mindnode.com/VNVjTVxwpDqC2rdvLwPk8HS5GBqf2rEQMxW1Bi3q)
+
+
+# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
+
+
 # [full stack](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
 
 
 # [talent](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
-
-
-# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
-
-how to find work and what to focus on
-
-
-## [remote](https://my.mindnode.com/8Fq6vDwHryBC4rwdyqRU1Sh1c5MzyqnaHWqo51k2)
-
-## [environment ](https://my.mindnode.com/5BPJpkyLwUWNJq7Huovvufde5u1YehoqpBygJhmp)
-
-## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
 
 # [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
@@ -3524,85 +3398,41 @@ how to find work and what to focus on
 ## varnish
 
 
-# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
-
-it is best to learn from mistakes of others so as to not repeat them
+# [economics ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
 
 
-## events
+## [microeconomics](https://my.mindnode.com/suN5zf8GDJ1xqkqXspyMwfssZCVzyNFVrjppayJ7)
 
-### [brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
+## [macroeconomics](https://my.mindnode.com/2HEJEoVMmpkA7t5sUgC1W8KN6iz4NdmRgYnEUiWY)
 
-United Kingdom leaving European Union
+## [basic income](https://my.mindnode.com/5DXAJm6qAkqzz4zko44DzD7YY9xMffrDJ7FHGqa2)
 
-### [cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
+## [capitalism ✨](https://my.mindnode.com/QEL5z6FiGHaMFs7C9hyTK7soCB59fXpQj7s9xtng)
 
-### [russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
+## [investing](https://my.mindnode.com/1taGgJnPzGyJ8S5EBipeYb3NEzMV1f5V1GQqn6yq)
 
-1917
+## [pricing](https://my.mindnode.com/77ayhqCcgShYphiKh4Yf9UUtqmAn73g1JjrJUTVy)
 
-### [great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
+## [stocks](https://my.mindnode.com/XkTe9sMEmtsNQ9k5yWcRUSjAQE4Lq41zexam53NR)
 
-1930s
+## [trading ✨](https://my.mindnode.com/Ezm6G58yULabwwzxB8PxfzrDFsNyKT2P5RMbJEMW)
 
-### [industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
-
-about 1760-1840
-
-### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
-
-15th to 19th century
-
-### [american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
-
-1765-1783
-
-### [ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
-
-1922-1991
-
-### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
-
-### manhattan project
-
-## wars
-
-### [ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
-
-1939-1945
-
-- holocaust
-
-### [ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
-
-1914-1918
-
-## interesting
-
-### ancient cities
-
-
-# [data mining](https://my.mindnode.com/pyCmh6Gx51UuVc5pX1BfqKATXcxsTPEQTWdoWFBX)
-
-
-## [data modelling](https://my.mindnode.com/UbczBhGPRtsywRXLERa9jjVmgpopCydcqHvQpT6c)
-
-## [information retrieval](https://my.mindnode.com/t3MQ6qbrPacc3BW72znCYPtab2bVTPADCSJSszwb)
+## [financial market](https://my.mindnode.com/3zSKzbpLZXxKMRKwqBmsRnnaerY6oUVrxfpPTnxx)
 
 
 # [literature](https://my.mindnode.com/SyydAVSrqVq8pnWVyCRJYmLrppcHGtQyjUrdAvYA)
+
+
+# [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
+
+
+## [social](https://my.mindnode.com/TtLpQxuscftfbToszq8x5spgHMxmDA1h3GqJ7Ww4)
 
 
 # [api](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 ## [GraphQL](https://my.mindnode.com/FLzxt3X9eoBvimrDypq6VvyJ3NdxoG5NrrsumyjH)
-
-
-# [projects ✨](https://my.mindnode.com/yRxyF9EqG5YMhecUVA2agcPrUMUsR7fhhSPUxUyx)
-
-
-## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
 # [ruby gems](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
@@ -3634,23 +3464,18 @@ poems I found and enjoyed reading
 ## [calligraphy](https://my.mindnode.com/Uh3tar5bydHKtER6uHdyTg6ymSzy2y8oteApDrTC)
 
 
-# data exchange
+# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+
+travel tips and interesting places
 
 
-## wireless
+## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
 
-### [bluetooth](https://my.mindnode.com/sD8b38yEMFyzdpefzNoyBhrnvbmSGiKsgzEJu3M6)
+how to live without a home, travel and work
 
+## [personal](https://my.mindnode.com/TMjW8sdzjju6G6WHr4QkQjCXpefvQJP8Y56JFwRv)
 
-# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
-
-
-# practice
-
-
-## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
-
-### [katas](https://my.mindnode.com/duoYeBBx9GzeasYxzASYjzgzvqfqQNsw37ZzaJ5V)
+countries and cities I have been to with commentary and photos of each place
 
 
 # [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
@@ -3719,23 +3544,12 @@ packs many javascript modules into a few bundled assets
 ### [jest](https://my.mindnode.com/L8Kvq85Xrz2fLsDB2sRgz9azZxtG3F9hxsmAjVtG)
 
 
-# ideology
-
-
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
-
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
-
-
 # task runners
 
 
 ## [gulp](https://my.mindnode.com/btgJru7wziUq7q2jYLaTe3cpe9CSsXLZpAPJ2MF8)
 
 ## grunt
-
-
-# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
 
 
 # [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
@@ -3818,15 +3632,59 @@ courses I am doing or plan on doing
 ## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
 
 
-# encoding
+# countries
 
 
-## text
+## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
 
-### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
+history of europe
+
+### uk
+
+sovereign state in northern Europe, it is a constitutional monarchy that is made up of four separate countries
+
+### germany
+
+situated in central Europe
+
+### netherlands
+
+## north america
+
+### usa
+
+United States of America is made up of 50 states, a deferral district, and five territories
+
+## asia
+
+### russia
+
+largest country in the world by land area
+
+### china
+
+is a cultural region, an ancient civilisation and a nation in east asia
+
+### japan
+
+
+# [projects ✨](https://my.mindnode.com/yRxyF9EqG5YMhecUVA2agcPrUMUsR7fhhSPUxUyx)
+
+
+## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
 # [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
+
+
+# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
+
+our home planet in the Solar System
+
+
+## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
+
+there are five oceans on this planet
 
 
 # markup languages
@@ -3871,38 +3729,70 @@ courses I am doing or plan on doing
 ## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
 
 
-# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
-my curated gallery of all images I have personally collected organised by albums
-
-
-## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
-
-## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
-
-## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
+it is best to learn from mistakes of others so as to not repeat them
 
 
-# music creation
+## events
+
+### [brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
+
+United Kingdom leaving European Union
+
+### [cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
+
+### [russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
+
+1917
+
+### [great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
+
+1930s
+
+### [industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
+
+about 1760-1840
+
+### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
+
+15th to 19th century
+
+### [american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
+
+1765-1783
+
+### [ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
+
+1922-1991
+
+### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### manhattan project
+
+## wars
+
+### [ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
+
+1939-1945
+
+- holocaust
+
+### [ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
+
+1914-1918
+
+## interesting
+
+### ancient cities
 
 
-## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
-
-### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
-
-## [sonic pi ✨](https://my.mindnode.com/udzJKf86dap2FzBVfeUsVm7TTfgkyPvqnuWsxsRL)
-
-write code and generate music, really is quite amazing
-
-## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
-
-the theory behind writing music
+# [data mining](https://my.mindnode.com/pyCmh6Gx51UuVc5pX1BfqKATXcxsTPEQTWdoWFBX)
 
 
-# [gifs](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
+## [data modelling](https://my.mindnode.com/UbczBhGPRtsywRXLERa9jjVmgpopCydcqHvQpT6c)
 
-
-## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
+## [information retrieval](https://my.mindnode.com/t3MQ6qbrPacc3BW72znCYPtab2bVTPADCSJSszwb)
 
 
 # style sheet languages
@@ -3923,20 +3813,6 @@ the theory behind writing music
 ### foundation
 
 
-# [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
-
-
-## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
-
-all the music artists whose work I find interesting and enjoy
-
-## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
-
-## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
-
-playlists that I have made and shared
-
-
 # [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
 
 
@@ -3953,12 +3829,114 @@ playlists that I have made and shared
 ## [RxSwift](https://my.mindnode.com/ER5sfkWpxL978asyXL32LqiZMaYyGphRgypMmzeq)
 
 
-# [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
+# ideology
 
-all the useful and interesting go packages I have found sorted by domain
+
+## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+
+## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+
+# data exchange
+
+
+## wireless
+
+### [bluetooth](https://my.mindnode.com/sD8b38yEMFyzdpefzNoyBhrnvbmSGiKsgzEJu3M6)
+
+
+# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
+
+
+# practice
+
+
+## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
+
+### [katas](https://my.mindnode.com/duoYeBBx9GzeasYxzASYjzgzvqfqQNsw37ZzaJ5V)
+
+
+# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
+
+
+# [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
+
+
+# encoding
+
+
+## text
+
+### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
+
+
+# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
+
+
+# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+
+my curated gallery of all images I have personally collected organised by albums
+
+
+## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
+
+## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
+
+## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
+
+
+# music creation
+
+
+## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
+
+### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
+
+## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
+
+the theory behind writing music
+
+## [software](https://my.mindnode.com/WoGtqQMxxgzjWdcrgaecLyCcy2YzsAbAhQw55x17)
+
+### [sonic pi ✨](https://my.mindnode.com/udzJKf86dap2FzBVfeUsVm7TTfgkyPvqnuWsxsRL)
+
+write code and generate music, really is quite amazing
+
+### ableton
+
+
+# [gifs](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
+
+
+## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
+
+
+# [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
+
+
+## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
+
+all the music artists whose work I find interesting and enjoy
+
+## [interesting songs](https://my.mindnode.com/WPtnmfxmn1q6VQPpCLLZ5ttVms59ktcG7yUnrLpg)
+
+## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
+
+playlists that I have made and shared
 
 
 # [singing](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
+
+
+# [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
+
+how to accelerate startup growth, acquire and keep new customers
+
+
+# design languages
+
+
+## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
 
 
 # [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
@@ -3967,10 +3945,41 @@ all the useful and interesting go packages I have found sorted by domain
 ## [jupyter](https://my.mindnode.com/N8Ym4F5kq3sJxy9zx5FVr687my2gb3tjq2TUcWoJ)
 
 
-# [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
+# [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
+
+all the useful and interesting go packages I have found sorted by domain
+
+
+# [discounts](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
+
+
+# [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
+
+how to find customers for your products and expose your product to the world in the most efficient way
 
 
 # [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
+
+
+# [business](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
+
+organisational entity involved in providing goods or services to customers
+
+
+## [startups](https://my.mindnode.com/HbFANxd6nBWGo1oiTAnasaEALH4jwLpoabVEFJMP)
+
+how to successfully start and sustain a startup
+
+## [real estate](https://my.mindnode.com/qhwRiqAYihd9fuW3pBycxdD3PzShFsnNu5mEZyq7)
+
+property consisting of land and the buildings on it, along with all its natural resources
+
+## [supply chain ✨](https://my.mindnode.com/ViTExqEGpynsMsdLm7wNyqZhosAKZLerp8ojk1c6)
+
+sequence of processes involved in the production and distribution of products
+
+
+# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
 
 
 # [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
@@ -3986,8 +3995,14 @@ all the useful and interesting go packages I have found sorted by domain
 # [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
 
 
-# design languages
+# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
+
+how to find work and what to focus on
 
 
-## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
+## [remote](https://my.mindnode.com/8Fq6vDwHryBC4rwdyqRU1Sh1c5MzyqnaHWqo51k2)
+
+## [environment ](https://my.mindnode.com/5BPJpkyLwUWNJq7Huovvufde5u1YehoqpBygJhmp)
+
+## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
