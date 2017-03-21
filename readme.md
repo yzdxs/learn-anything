@@ -24,7 +24,7 @@ These mind maps are a work in progress as I experiment in keeping my 'bookmark m
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/pC5Usju.jpg)
+![](http://i.imgur.com/fuFPus5.jpg)
 
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
