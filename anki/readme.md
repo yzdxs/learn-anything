@@ -1,4 +1,4 @@
-#my anki decks 🎴
+# my anki decks 🎴
 [Anki](https://apps.ankiweb.net) is extremely powerful tool that allows you to remember information by putting it into your long term memory using [spaced repetion learning](http://www.wikiwand.com/en/Spaced_repetition) technique. 
 
 As time passes, it becomes unfeasible to really understand and process what is going on in this mind map. There are too many fields, too many topics, too many words and concepts you need to understand. That is why it is crucial to first understand how memory works and optimise for understanding and retention. There are few rules I follow before I put information into Anki for processing and memorisation. Here are these rules : 
