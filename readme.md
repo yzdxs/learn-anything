@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](http://i.imgur.com/KFmyRkJ.jpg)
+![](https://i.imgur.com/7D3xrRJ.jpg)
 
 # Why? 🎈
 
@@ -10,7 +10,15 @@
 
 # Where to start? 🤔
 
-It depends on what you are looking for and what your goals are. I would suggest to just wait a bit until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and most probably has really great resources linked to it. Just look into what you think is interesting and go from there. 
+It depends on what you are looking for and what your goals are. I would suggest to just wait until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. 
+
+⚠️️ 
+
+- it takes ~ 1 minute to load 
+- does not load on mobile 
+- small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
+
+Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and most probably has really great resources linked to it. Just look into what you think is interesting and go from there. 
 
 The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. 
 
@@ -529,6 +537,9 @@ modelling a dynamic system by using a number of cells where each cell has one of
 2. states of the neighbouring cells
 
 
+## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
+
+
 # [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
 
 
@@ -716,6 +727,8 @@ set of steps for packing data into a smaller space, while allowing for the origi
 ## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
 
 ## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
+
+## [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
 
 
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
@@ -1012,22 +1025,30 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 ### spirit
 
-- [alan watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+- [Alan Watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
   his talks and writing has changed my life in a very positive way
 
 ### math
 
-- david hilbert
+- David Hilbert
 
-- [carl gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
+- [Carl Gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
 
-- leonhard euler ✨
+- Leonhard Euler ✨
 
-- augustin louis cauchy
+- Augustin Louis Cauchy
 
 ### physics
 
-- richard feynman
+- Richard Feynman
+
+### art
+
+- M. C. Escher
+
+### cs
+
+- Edsger Dijkstra
 
 ## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
 
@@ -1496,6 +1517,8 @@ mental or emotional state of well being defined by positive or pleasant emotions
 
 a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
 
+## [compassion](https://my.mindnode.com/P5GHEByw9zzfW3BDmQYGyppdQfdf2ziDsHtpj9or)
+
 
 # [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
 
@@ -1525,6 +1548,26 @@ what is the nature of knowledge, justification and the rationality of belief
 ## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
 
 
+# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
+
+
+## russian
+
+## [english](https://my.mindnode.com/j4F9PxLxMDSX4RY3mVk8vCrK9AUxWtRMcqmssr6n)
+
+### [words ✨](https://my.mindnode.com/WZEFVxYs8nyNrPwQQ9zsXmaHHgGdnyqt27qJhNJ4)
+
+english words I want to learn and have learned
+
+### [spelling](https://my.mindnode.com/cSpgPne6qnMo6STU3gkvG7s9fGKgZxiowjpR1ZAS)
+
+my often misspelled words to learn
+
+## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
+
+## chinese
+
+
 # [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 how to effectively prepare for a technical interview and pass it
@@ -1544,25 +1587,24 @@ questions you may get asked for an iOS interview
 
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
 
+## [applying](https://my.mindnode.com/UPdzxzTpmjNxqP7QXxHH73qyFNkzkd4PvyNs7bqG)
 
-# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
+## cv
 
 
-## russian
+# [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
 
-## [english](https://my.mindnode.com/j4F9PxLxMDSX4RY3mVk8vCrK9AUxWtRMcqmssr6n)
 
-### [words ✨](https://my.mindnode.com/WZEFVxYs8nyNrPwQQ9zsXmaHHgGdnyqt27qJhNJ4)
+# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
 
-english words I want to learn and have learned
 
-### [spelling](https://my.mindnode.com/cSpgPne6qnMo6STU3gkvG7s9fGKgZxiowjpR1ZAS)
+## [schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
 
-my often misspelled words to learn
+## [alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
 
-## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
+## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
 
-## chinese
+## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
 
 
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
@@ -1593,21 +1635,6 @@ happen when someone makes a bad choice that they think is a good choice
 how to be aware of your actions and thoughts as you live through life
 
 
-# [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
-
-
-# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
-
-
-## [schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
-
-## [alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
-
-## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
-
-## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
-
-
 # [animals](https://my.mindnode.com/7cAhD48JHPyYE52gpTJ3xpqHdEL9roVTJd7TNrTK)
 
 
@@ -1636,24 +1663,6 @@ which intentions, decisions and actions can be considered ‘right’ and which 
 
 
 # [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
-
-
-# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
-
-
-## [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
-
-## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
-
-## database design
-
-## [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
-
-## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
-
-## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
-
-## PostgreSQL
 
 
 # [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
@@ -1811,6 +1820,7 @@ all the books I am currently reading or have read
 - [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
 
 - [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
+  free:
 
 - 12: programming in the large with design patterns
 
@@ -1821,6 +1831,7 @@ all the books I am currently reading or have read
 - 11: the art of readable code: simple and practical techniques for writing better code
 
 - [1979: structure and interpretation of computer programs](https://my.mindnode.com/8xWPcGnjAWhRr5nuRUxLCY4BpwLrvd3dNxKGeXpZ)
+  free:
 
 - [1999: the pragmatic programmer](https://my.mindnode.com/6ePQfsptcxAz2n8KzfooEe6sMfN4cWEHFmxiUD3f)
 
@@ -1856,6 +1867,7 @@ all the books I am currently reading or have read
 - [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
 
 - [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
+  free:
 
 ### python
 
@@ -1932,6 +1944,7 @@ all the books I am currently reading or have read
 ### swift
 
 - [14: swift programming language ✨](https://my.mindnode.com/qxEPaW7xNpVvVEi14rHuqkzxppyayjKzxcMoC2SQ)
+  free:
 
 ### ruby
 
@@ -1958,6 +1971,7 @@ all the books I am currently reading or have read
 ### git
 
 - [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
+  free:
 
 ### language design
 
@@ -2137,6 +2151,14 @@ free:
 
 ### 1966: the book on the taboo against knowing who you are ✨
 
+### meditations
+
+### 1951: the wisdom of insecurity: a message for an age of anxiety
+
+### 10: the happiness advantage
+
+### 14: waking up: a guide to spirituality without religion
+
 ## finance
 
 ### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
@@ -2154,6 +2176,8 @@ free:
 ### 11: debt: first 5000 years
 
 ### 13: how asia works: success and failure in the world’s most dynamic region
+
+### 13: capital in the twenty first century
 
 ## ai
 
@@ -2175,9 +2199,13 @@ free:
 
 ### [1997: machine learning](https://my.mindnode.com/jWpM7twMb1eoSUQWQLDRU8dSLQppzeESbmMT3h56)
 
+### 14: superintelligence: paths, dangers, strategies
+
 ## math
 
 ### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
+
+free:
 
 ### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
 
@@ -2257,6 +2285,10 @@ free:
 
 ### 1988: a brief history of time
 
+### 1962: the structure of scientific revolutions
+
+### 1980: cosmos
+
 ## data science
 
 ### [14: designing data intensive applications](https://my.mindnode.com/xgazkstoTxKmzb1SFsc1kUJsaPzy2gCpE8xERbCy)
@@ -2266,6 +2298,8 @@ free:
 ### [1975: the mythical man-month](https://my.mindnode.com/wm1nqbAvLGt3uEKZpzEqVTPjJFJHkKzZRhpFefcs)
 
 ### 1983: high output management
+
+### the essential drucker
 
 ## compilers
 
@@ -2371,6 +2405,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 - excession
 
+### foundation series
+
 ### blindsight
 
 ### 11: the martian
@@ -2399,13 +2435,19 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### [1956: the last question ✨✔](https://my.mindnode.com/qrGA3PyEVxWZDisJ8dxpz9J7eJTbdqYLLXPnBND4)
 
+free:
+
 ### 1943: the little prince ✨✔
 
 ### 1991: understand ✨✔
 
 ### [2005: the fable of the dragon-tyrant ✨✔](https://my.mindnode.com/jYyp4tzqcpUdapyqQsDSTm8orzBNcMmByq13i2UH)
 
+free:
+
 ### 1998: story of your life
+
+### 1971: franz kafka: the complete stories
 
 ## thriller
 
@@ -2437,6 +2479,10 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1962: the structure of scientific revolutions
 
+### 1997: guns, germs, and steel: the fates of human societies
+
+### 14: the sixth extinction: an unnatural history
+
 ## crypto
 
 ### [14: engineering security](https://my.mindnode.com/mTjeixwMWxBLP6dKAS2L5oedvNyDc6N7hV51TdqE)
@@ -2450,6 +2496,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 ## evolution
 
 ### [the selfish gene](https://my.mindnode.com/APDG3wu3couR4ZV6StdxWPaRYCi1qHTiqb6pDpFm)
+
+### darwin's dangerous idea
 
 ## philosophy
 
@@ -2509,6 +2557,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 1967: the effective executive
 
+### 14: give and take: why helping others drives our success
+
 ## startups
 
 ### 14: zero to one
@@ -2516,6 +2566,18 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ## biography
 
 ### 1965: the autobiography of malcolm x
+
+### 1991: the man who knew infinity: a life of the genius ramanujan
+
+### 05: team of rivals: the political genius of abraham lincoln
+
+### 01: madame curie: a biography
+
+### 15: elon musk: tesla, spacex, and the quest for a fantastic future
+
+### 04: benjamin franklin: an american life
+
+### 07: einstein: his life and universe
 
 ## awareness 
 
@@ -2548,6 +2610,28 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### 05: supernatural: meetings with the ancient teachers of mankind
 
 ### 94: the invisible landscape: mind, hallucinogens, and the i ching
+
+## graphics
+
+### [17: the book of shaders](https://my.mindnode.com/JvkYqhYCuNksMCV1F1s9cHdaZefnptdQnoEHjeDb)
+
+free: 
+
+## creativity
+
+### 14: creativity, inc
+
+## future
+
+### 14: the second machine age
+
+## engineering
+
+### 1978: structures: or why things don't fall down
+
+## investing
+
+### 1949: the intelligent investor
 
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
@@ -2872,6 +2956,8 @@ is a set of computer software programs and data structures which use a virtual m
 
 ## [financial market](https://my.mindnode.com/3zSKzbpLZXxKMRKwqBmsRnnaerY6oUVrxfpPTnxx)
 
+## behavioural
+
 
 # [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
 
@@ -3159,7 +3245,33 @@ personal websites that are really well made and inspiring
 
 ## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5)
 
+## [pinboard](https://my.mindnode.com/Errwf3QQTxovbgzsxpkxqZqYukzysTt7xcFi6yyT)
+
 ## [find](https://my.mindnode.com/QazgEKAnzsigtdzNAp1hssqPGF4sYVc41papNeDo)
+
+## dribble
+
+
+# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
+
+
+## database design
+
+## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
+
+## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
+
+## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
+
+## relational
+
+### PostgreSQL
+
+### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
+
+## noSQL
+
+### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
 
 
 # [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
@@ -3216,12 +3328,12 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
 
 
-# backend
+# [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
 
 
-## [node.js](https://my.mindnode.com/5iqRf7zVt3zQq1S8myXgBvddPBMz6TisgQSJWyxU)
+## [redis ✨](https://my.mindnode.com/3fYxqeHfbKSHMmGqG2uqzhzihR7qyqaQwAZ9C3Xt)
 
-### [electron ✨](https://my.mindnode.com/pdBpBnn91iXXwvsVRupwRbdMJkzAKSL9znUPq3vc)
+## varnish
 
 
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
@@ -3282,6 +3394,9 @@ about 1760-1840
 ### ancient cities
 
 
+# backend
+
+
 # [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
 
 connecting physical objects to the internet and using them in a smart way
@@ -3323,14 +3438,6 @@ connecting physical objects to the internet and using them in a smart way
 ## [scapy](https://my.mindnode.com/Mu8ZdLsbny8DFRu6hzU8qB34g15QfpJzpGKZBdVj)
 
 
-# caching layers
-
-
-## [redis ✨](https://my.mindnode.com/3fYxqeHfbKSHMmGqG2uqzhzihR7qyqaQwAZ9C3Xt)
-
-## varnish
-
-
 # [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
 
 
@@ -3360,28 +3467,28 @@ connecting physical objects to the internet and using them in a smart way
 
 companies that I find interesting sorted by their domain
 
-### tesla
+### Tesla
 
-### apple
+### Apple
 
-- mac
+- Mac
 
 - iPhone
 
-### spacex
+### SpaceX
 
-### alphabet
+### Alphabet
 
-- deepmind
+- Deepmind
 
 	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
 	  an algorithm that dominated all the best human players at a game of Go
 
-- google
+- Google
 
-### amazon
+### Amazon
 
-### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
+### [Facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 over 2 billion users and growing, collecting data on each individual user and growing its influence
 
@@ -3406,16 +3513,6 @@ over 2 billion users and growing, collecting data on each individual user and gr
 ### wireless
 
 - [bluetooth](https://my.mindnode.com/sD8b38yEMFyzdpefzNoyBhrnvbmSGiKsgzEJu3M6)
-
-
-# javascript engines
-
-
-## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
-
-javascript engine developed by Google
-
-## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
 
 
 # prototyping
@@ -3507,6 +3604,20 @@ browser developed by Google
 ## grunt
 
 
+# javascript engines
+
+
+## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
+
+javascript engine developed by Google
+
+### [node.js](https://my.mindnode.com/Kppy13hmHaa6qGhLoPX2JVrwMExcA3v2B5ZhsdYF)
+
+- [electron ✨](https://my.mindnode.com/GsyKuWEa6PEhQpvMxdAytpQHWsvUnA9Jiqp1Pisy)
+
+## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
+
+
 # encoding
 
 
@@ -3515,13 +3626,13 @@ browser developed by Google
 ### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
 
 
-# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
-
-
 # [api ✨](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 ## [GraphQL](https://my.mindnode.com/FLzxt3X9eoBvimrDypq6VvyJ3NdxoG5NrrsumyjH)
+
+
+# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
 
 
 # [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
@@ -3620,36 +3731,10 @@ the structure of my .dotfiles folder
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
-# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
-
-
-## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
-
-
 # [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
 
 javascript libraries I found interesting that are not big enough to warrant itself a node of their own
 
-
-## [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
-
-library for building user interfaces including one way data flow, virtual dom, jsx features
-
-### [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
-
-### [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
-
-### [react native](https://my.mindnode.com/JzUt9P3D3zRyN2MD12GGkGwNSsNPjH2QMx7qzUSA)
-
-### [components ✨](https://my.mindnode.com/wfi8BEQVtwNpezoexVAYxpfvkQp4tMSz8ccxwZBA)
-
-### [react router](https://my.mindnode.com/EUo6EryAwNW8rpiwADxKyr86zZy9txB6LyNNQvQc)
-
-## [browserify](https://my.mindnode.com/EbDW1ixyWxUtTcc2rLEGGq9KAEECf5EsESKsNHp8)
-
-## [webpack](https://my.mindnode.com/zgWc5GoHNEA2DDjsjLLvbQRoBDmMds36pzwE5v2p)
-
-packs many javascript modules into a few bundled assets
 
 ## whitestorm.js
 
@@ -3661,13 +3746,7 @@ packs many javascript modules into a few bundled assets
 
 ## [redux ✨](https://my.mindnode.com/nW1WEJKaSXAMqvb5TWxvukEnQQYJhHhxZYTrCtUd)
 
-## [angular](https://my.mindnode.com/vME2Qiop3hVbQmVnsRh6jHK7b4AhKZJ6NBo3wFxR)
-
 ## [d3.js ✨](%E2%9C%A8)
-
-## [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
-
-## [preact](https://my.mindnode.com/WAPnPzGkGX1GswCnFApEQKEqRg8t2R1iTx7ysoVm)
 
 ## [jsdom](https://my.mindnode.com/AhPThRG9Agzqq78yDqbY88Fqspxbmxpzsnxvzd1z)
 
@@ -3675,13 +3754,9 @@ packs many javascript modules into a few bundled assets
 
 ## [backbone.js](https://my.mindnode.com/EiqR35MzQTq1vST7GfT9wxsJCvboWfyz2sx6XpXd)
 
-## [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
-
 ## [relay](https://my.mindnode.com/x5w2TZMw3nSrcDfgyuNseFWiCTCztWJJrXVMWq5M)
 
 ## [ember.js](https://my.mindnode.com/Vvh4BeyiqTkw8gvxL4FzaqqxjjeSMqwqfhCPuBxs)
-
-## [meteor](https://my.mindnode.com/nyv9Ykt4NyrYr3zYf1qxR3QZ6ezBk964PqLbKdpT)
 
 ## [cycle.js](https://my.mindnode.com/Y8szZz6fxi9rNcyakxyjzPxyYfaSapKrbNDAjprs)
 
@@ -3690,6 +3765,52 @@ packs many javascript modules into a few bundled assets
 ## testing
 
 ### [jest](https://my.mindnode.com/L8Kvq85Xrz2fLsDB2sRgz9azZxtG3F9hxsmAjVtG)
+
+## ui
+
+### [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
+
+### [preact](https://my.mindnode.com/WAPnPzGkGX1GswCnFApEQKEqRg8t2R1iTx7ysoVm)
+
+### [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
+
+library for building user interfaces including one way data flow, virtual dom, jsx features
+
+- [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
+
+- [jsx](https://my.mindnode.com/X2z555F2ar4vWy6MC2aeKRmNDsdHdbVc33kSEJUh)
+
+- [react native](https://my.mindnode.com/JzUt9P3D3zRyN2MD12GGkGwNSsNPjH2QMx7qzUSA)
+
+- [components ✨](https://my.mindnode.com/wfi8BEQVtwNpezoexVAYxpfvkQp4tMSz8ccxwZBA)
+
+- [react router](https://my.mindnode.com/EUo6EryAwNW8rpiwADxKyr86zZy9txB6LyNNQvQc)
+
+## module loader
+
+### [browserify](https://my.mindnode.com/5bJqxJufmyqBsNFZHPNPYtK4D1ncbVrpqgbD6zRh)
+
+### [webpack](https://my.mindnode.com/gEQJxf2x4rpszqiJ11MfHuAi6wZpgHqCsgpFFQSW)
+
+packs many javascript modules into a few bundled assets
+
+### require js
+
+## full stack
+
+### [meteor](https://my.mindnode.com/nyv9Ykt4NyrYr3zYf1qxR3QZ6ezBk964PqLbKdpT)
+
+### [angular](https://my.mindnode.com/vME2Qiop3hVbQmVnsRh6jHK7b4AhKZJ6NBo3wFxR)
+
+## linters
+
+### [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
+
+
+# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
+
+
+## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
 
 
 # [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
@@ -3903,10 +4024,6 @@ an app that has changed the way I interact with my computer by allowing me to re
 my curated gallery of all images I have personally collected organised by albums
 
 
-## [space](https://my.mindnode.com/shNLZTQtqK2wujLdE2P16CPU18yNcvFcD4Stp4pY)
-
-## [unix](https://my.mindnode.com/srUddqC3qm9UJvojowyfrW7xLEeWyrrRqqWteLJz)
-
 ## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
 
 
@@ -3925,12 +4042,6 @@ what it means to make a search engine and what is needed
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
 
 
-# [gifs](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
-
-
-## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
-
-
 # style sheet languages
 
 
@@ -3944,9 +4055,15 @@ what it means to make a search engine and what is needed
 
 ### [SASS](https://my.mindnode.com/7RjRMz1zXEcWH3HsYGwavroXLaf4GsDgJxE9tksL)
 
-### bootstrap
+### [bootstrap](https://my.mindnode.com/pzn1xFFqCL8AZicwo25QqPgzC7zkwoVvw9phSzex)
 
 ### foundation
+
+
+# [gifs](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
+
+
+## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
 
 
 # [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
