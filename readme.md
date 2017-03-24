@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/7D3xrRJ.jpg)
+![](https://i.imgur.com/GDMnADS.jpg)
 
 # Why? 🎈
 
@@ -14,7 +14,7 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 ⚠️️ 
 
-- it takes ~ 1 minute to load 
+- it takes ~ 1 minute to load
 - does not load on mobile 
 - small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
 
@@ -29,6 +29,8 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are.
 
 These mind maps are a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
+
+[Here](https://transfer.sh/eyDm4/research.png) is the download for full resolution image of the main mind map.
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
@@ -88,9 +90,35 @@ privacy is important, what can you do to preserve your identity online
 someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
+# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+
+is a flying machine, there are many different kinds of aircraft
+
+
+## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
+
+designed, built and flew the first controlled, powered, heavier than air airplane in 1903
+
+
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 contains all the documentation for how I use and manage this mind map
+
+
+# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
+
+moving people or things from one place to another place
+
+
+## [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+
+small, human powered land vehicles
+
+### [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
+
+## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
+
+road vehicle used to carry passengers
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
@@ -117,30 +145,9 @@ a computer security competition, usually designed to serve as an educational exe
 short for malicious software, is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
-# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
-is a flying machine, there are many different kinds of aircraft
-
-
-## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
-
-designed, built and flew the first controlled, powered, heavier than air airplane in 1903
-
-
-# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
-
-moving people or things from one place to another place
-
-
-## [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
-
-small, human powered land vehicles
-
-### [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
-
-## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
-
-road vehicle used to carry passengers
+self driving cars are already a reality
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
@@ -148,9 +155,16 @@ road vehicle used to carry passengers
 how to optimise processes (algorithms, systems and so on)
 
 
-# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
 
-self driving cars are already a reality
+learns how computers can find things in pictures 
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+open source computer vision library for real time computer vision 
 
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -214,18 +228,6 @@ algorithm visualisations
 organisation of and implementing of values and information, where data structures are different from abstract data types is in the way they are used, data structures are the implementations of abstract data types in a concrete and physical setting suing algorithms in the implementation process
 
 
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-learns how computers can find things in pictures 
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
-
-open source computer vision library for real time computer vision 
-
-
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
 ability of a computer program or a machine to think and learn, making computers ‘smart’
@@ -250,6 +252,8 @@ gives computer the ability to learn without being explicitly programmed
 
 - [caffe](https://my.mindnode.com/t4sfpuyguxDZ7chsCApvnUYsyqMfJ9Jv9L3NWuab)
 
+- [edward](https://my.mindnode.com/QbAq4aQPt6MSPMxPJky8T6v7yZ3FhMUot2qDp9e2)
+
 ### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
 
 ### [adversarial](https://my.mindnode.com/M9XhxHJ69MHhzAXzzU6ZAj1dCSwuXsxz1xifg5LF)
@@ -263,6 +267,9 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 ## [deep learning ✨](https://my.mindnode.com/ycU59gAXTjsXkJqjR2xAYawvcFuXqUPbxiDpBX4z)
 
 ## [general intelligence](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
+
+
+# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -530,6 +537,12 @@ studies a type of algebraic structure called a group, is often used in math as a
 ## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
 
+# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
+
+
+## [terraform](https://my.mindnode.com/wDMDsVb3yJycpncHpSnxTp5z2AG4nid3Xby4MFPp)
+
+
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 modelling a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
@@ -538,25 +551,6 @@ modelling a dynamic system by using a number of cells where each cell has one of
 
 
 ## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
-
-
-# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
-
-
-# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
-
-
-## [terraform](https://my.mindnode.com/wDMDsVb3yJycpncHpSnxTp5z2AG4nid3Xby4MFPp)
-
-
-# [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
-
-study of robots, making robots, or using robots
-
-
-# [raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
-
-low cost credit car sized single board computer
 
 
 # [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
@@ -571,6 +565,16 @@ a type of outsourcing of computer services, similar to the way in which electric
 ## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
 
 ## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+
+# [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
+
+study of robots, making robots, or using robots
+
+
+# [raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
+
+low cost credit car sized single board computer
 
 
 # [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
@@ -695,48 +699,6 @@ is a way to describe sets of characters using syntactic rules
 
 
 ## [software architecture ✨](https://my.mindnode.com/dCGPsRx5okxjPJByJqDC6Kfbz3J9PpqeR55xmRvj)
-
-
-# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
-
-study of how to manipulate, manage, transform and encode information
-
-
-## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
-
-act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
-
-### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
-
-### [hypercomputation](https://my.mindnode.com/UHo3bpyyn4UwXH6SCUyyZy7XGn3rMru9Ns8k7V9N)
-
-## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
-
-looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
-
-### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
-
-algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
-
-## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
-
-set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
-
-## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
-
-## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
-
-## [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
-
-
-# [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
-
-quantum computers can use certain phenomena from quantum mechanics, such as superposition and entanglement, to perform operations on data, the basic principle behind quantum computation is that quantum properties can be used to represent data and perform operations on it
-
-
-## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
 
 
 # [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
@@ -921,6 +883,48 @@ original python implementation in c, compiles python code into byte code and int
 ## ada
 
 
+# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+
+study of how to manipulate, manage, transform and encode information
+
+
+## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+
+act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
+
+### [hypercomputation](https://my.mindnode.com/UHo3bpyyn4UwXH6SCUyyZy7XGn3rMru9Ns8k7V9N)
+
+## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
+
+looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
+
+### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
+
+algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
+
+## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
+
+set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
+
+## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
+
+## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
+
+## [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
+
+
+# [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
+
+quantum computers can use certain phenomena from quantum mechanics, such as superposition and entanglement, to perform operations on data, the basic principle behind quantum computation is that quantum properties can be used to represent data and perform operations on it
+
+
+## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
+
+
 # [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
 
 
@@ -996,12 +1000,6 @@ set of attempts to model the four known fundamental interactions
 ## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
 
 
-# society
-
-
-## [activism](https://my.mindnode.com/SsD8h1XAXyKax82taEa3AksACwyQ6WvQQJbtyNM2)
-
-
 # [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
 
 how to develop fun and enjoyable games
@@ -1014,56 +1012,6 @@ how to develop fun and enjoyable games
 ## [love2d](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
 
 ## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
-
-
-# [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
-
-
-## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
-
-humans whose work I really respect and am curious about sorted by the domain in which they worked
-
-### spirit
-
-- [Alan Watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
-  his talks and writing has changed my life in a very positive way
-
-### math
-
-- David Hilbert
-
-- [Carl Gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
-
-- Leonhard Euler ✨
-
-- Augustin Louis Cauchy
-
-### physics
-
-- Richard Feynman
-
-### art
-
-- M. C. Escher
-
-### cs
-
-- Edsger Dijkstra
-
-## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
-
-all of the github people whose work I find interesting, sorted by their skills and interests
-
-## [richest](https://my.mindnode.com/PzvpujT1DgzLs8WNZsSUzjDUSyx1GWE8x4pfN3th)
-
-all the richest humans of this planet with overview of how they got their wealth
-
-## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
-
-interesting ask me anything threads I found on the internet
-
-
-# [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
@@ -1096,9 +1044,6 @@ all the games I have played and want to play
 ### dota
 
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
-
-
-# [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -1279,6 +1224,16 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 study of mind and of thought, feeling and behaviour
 
 
+# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
+
+
+## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
+
+## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
+
+## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
+
+
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 study of change of matter
@@ -1305,19 +1260,6 @@ substance consisting of atoms which all have same number of protons (same atomic
 describes the symmetry present in molecules and the classification of molecules according to their symmetry
 
 ### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
-
-
-# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
-
-
-## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
-
-## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
-
-## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
-
-
-# [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
 
 
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
@@ -1370,6 +1312,12 @@ a word for thought processes where process is the way we think
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
 
 
+# [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
+
+
+# [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
+
+
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
 
 what makes something a living organism
@@ -1382,6 +1330,12 @@ can you create an artificial complex life such as humans and if so, how
 ## [origin of life](https://my.mindnode.com/kBBFUEC6zZxN6TBabsBq1E3pysDgzYu73Rs9QhzT)
 
 how did life came to arise in this universe, what are its implications
+
+
+# society
+
+
+## [activism](https://my.mindnode.com/SsD8h1XAXyKax82taEa3AksACwyQ6WvQQJbtyNM2)
 
 
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
@@ -1412,6 +1366,538 @@ any chemical that affects the human body or mind when it is consumed
 ## [antibiotics](https://my.mindnode.com/dTpsaz4v4W67qLVeXzTsgWNZzqaRCepzehzkvzjs)
 
 ## [steroids](https://my.mindnode.com/jWMCXd7gHng4KQoqaQnt1xDzfdrFdXSs2FjWxNpp)
+
+
+# [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
+
+
+# [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
+
+
+## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
+
+humans whose work I really respect and am curious about sorted by the domain in which they worked
+
+### spirit
+
+- 400 BC: Gautama Buddha
+
+- [1973: Alan Watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+  his talks and writing has changed my life in a very positive way
+
+- 00: Terrence McKenna
+
+### math
+
+- 546 BC: Thales of Miletus
+
+- 495 BC: Pythagoras
+  invented the famous Pythagoras’s Theorem
+
+- 322 BC: Aristotle
+
+- ~300BC: Euclid
+  mathematical treatment of “preferred outcomes” or utility was first finalised by him, gave the basis for modern proof-based mathematics
+
+- 212 BC: Archimedes
+  used a lot of advanced methods (something like infinitesimal calculus) which he used to derive the formulas for computing the volume of cones and other solids of revolution, he also used similar methods to investigate the properties of conics
+
+- 194 BC: Eratosthenes
+  known for the Sieve of Eratosthenes, which is a method of finding prime numbers
+
+- 299: Diophantus
+  was interested in properties of integers
+
+- 1425: Madhava of Sangamagrama
+
+- 1576: Gerolamo Cardano
+  first framed the idea of probability, describing it in terms of the possible outcomes of gambling events
+
+- 1617: John Napier
+  invented logarithms
+
+- 1655: Pierre Fermat
+
+- 1705: Jacob Bernoulli
+
+- 1650: Rene Descartes
+  give the first clear discussion of the distinction between mind and matter and of the problems that arise
+
+- 1662: Blaise Pascal
+  built a famous calculating machine
+
+- 1716: Gottfried Leibniz
+  built a mechanical device intended to carry out operations on concepts rather than numbers
+
+- 1761: Thomas Bayes
+  proposed a rule for updating probabilities in light of new evidence
+
+- 1777: Johann Lambert
+  intend Wave Equation
+
+- 1783: Leonhard Euler ✨
+  invented The Square Root of Minus One, Euler’s Formula for Polyhedra
+
+- 1813: Joseph Lagrande
+
+- 1827: Pierre Laplace
+  advanced the theory and introduced new statistical methods
+
+- 1829: Niels Abel
+
+- 1830: Joseph Fourier
+  invented Fourier Transform
+
+- 1832: Évariste Galois
+
+- 1833: Adrien Legendre
+
+- 1851: Carl Jacobi
+
+- 1852: Ada Lovelace
+
+- [1855: Carl Gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
+  invented Normal Distribution
+
+- 1857: Augustin Louis Cauchy
+
+- 1859: Peter Dirichlet
+
+- 1864: George Boole
+  worked out the details of propositional, or Boolean logic
+
+- 1866: Bernhard Riemann
+
+- 1871: Charles Babbage
+
+- 1912: Henri Poincaré
+
+- 1918: Georg Cantor
+
+- 1920: Srinivasa Ramanujan
+
+- 1925: Gottlob Frege
+  extended Boole’s logic to include objects and relations, creating the first-order logic that is used today
+
+- 1930: Frank Ramsey
+
+- 1935: Amalie Noether ✨
+
+- 1943: David Hilbert
+
+- 1945: Stefan Banach
+
+- 1947: Godfrey Hardy
+
+- 1962: Charles Vallee-Pussin
+
+- 1970: Bertrand Russel
+
+- 1977: John Littlewood
+
+- 1978: Kurt Godel
+
+- 1982: Haskell Curry
+
+- 1983: Alfred Tarski
+  introduced a theory of reference that shows how to relate the objects in logic to objects in the real world
+
+- 1996: Paul Erdős
+
+- 01: Claude Shannon
+  invented Information Theory
+
+- 14: Alexander Grothendieck
+
+- 15: John Nash
+
+- Jean Serre
+
+- Cédric Villani
+
+- Shinichi Mochizuki
+
+- Peter Scholze
+
+- Grigori Perelman
+
+- Andrew Wiles
+
+- John Conway
+
+- Terrence Tao
+
+- Andrew Granville
+
+### physics
+
+- 1726: Isaac Newton
+  invented Calculus and Law of Gravity
+
+- 1879: James Maxwell
+  invented Maxwell’s equations
+
+- 1894: Heinrich Hertz
+  first person to transmit and receive radio waves
+
+- 1906: Ludwig Boltzmann
+  invented Schrodinger’s Equation
+
+- 1943: Nikola Tesla
+
+- 1955: Albert Einstein
+
+- 1988: Richard Feynman
+
+- Roger Penrose
+
+- Stephen Hawking
+
+### cs
+
+- 1954: Alan Turing
+
+- 1957: John von Neumann
+
+- 02: Edsger Dijkstra
+
+- Donald Knuth
+
+- Tony Hoare
+  developed QuickSort algorithm
+
+### ai
+
+- 11: John McCarthy
+
+- Geoffrey Hinton
+  was one of the first researchers who demonstrated the use of generalised back propagation algorithm for training multi-layer neural nets
+
+- Demis Hassabis
+
+### code
+
+- 1992: Grace Hopper
+
+- Alan Kay
+
+- Ken Thompson
+
+- Linus Torvalds
+
+- Rob Pike
+
+- John Carmack
+
+- Steve Wozniak
+
+- Jeff Dean
+
+### philosophy
+
+- 323BC: Diogenes
+
+- 135: Epictetus
+
+- 1626: Francis Bacon
+
+- 1679: Thomas Hobbes
+  proposed that reasoning was like numerical computation, that “we add and subtract in our silent thoughts”
+
+- 1704: John Locke
+
+- 1833: William Thompson
+
+### art
+
+- 1519: Leonardo da Vinci
+
+- 1564: Michelangelo
+
+- 1669: Rembrandt
+
+- 1890: Vincent van Gogh
+
+- 1926: Claude Monet
+
+- 1972: M. C. Escher
+
+- 1973: Pablo Picasso
+
+- 1989: Salvador Dali
+
+- [James Eads](https://my.mindnode.com/4zALJspqHnjzs1BZdAxrams6qmb6FDWDqKLthmc1)
+
+### chemistry
+
+- 1794: Antoine Lavoisier
+
+- 1691: Robert Boyle
+
+- 1844: John Dalton
+
+- 1896: Alfred Nobel
+
+- 1907: Dmitri Mendeleev
+
+- 1927: Svante Arrhenius
+
+- 1867: Michael Faraday
+
+- 1934: Marie Curie
+
+- 1934: Fritz Haber
+
+- 1944: Linus Pauling
+
+- 14: Alexander Shulgin
+
+### medicine
+
+- 370 BC: Hippocrates
+
+- 210: Aelius Galen
+
+- 1564: Andreas Vesalius
+
+- 1657: William Harvey
+
+- 1824: James Parkinson
+
+- 1902: Rudolf Virchow
+
+- 1910: Elizabeth Blackwell
+
+- 1950: Charles Drew
+
+- 1964: Alfred Blalock
+
+- 1974: Virginia Apgar
+
+### writing
+
+- 1616: William Shakespeare
+
+- 1881: Fyodor Dostoyevsky
+
+- 1900: Oscar Wilde
+
+- 1940: Mikhail Bulgakov
+
+- 1910: Mark Twain
+
+- 1930: Arthur Conan Doyle
+
+- 1950: Eric Arthur Blair
+  known by his pen name ‘George Orwell’
+
+- 1963: Aldous Huxley
+
+- 1973: John Tolkien
+
+- Paul Graham
+
+- Ted Chiang
+
+### economics
+
+- 1790: Adam Smith
+
+- 1883: Karl Marx
+
+- 1946: John Keynes
+
+- 1992: Friedrich Hayek
+
+- 06: Milton Friedman
+
+- 09: Paul Samuelson
+
+### entrepreneur
+
+- 1919: Andrew Carnegie
+
+- 1931: Thomas Edison
+
+- 1937: John Rockefeller
+
+- 1947: Henry Ford
+
+- 11: Steve Jobs
+
+- 1966: Walt Disney
+
+- Larry Page
+
+- Elon Musk
+
+- Bill Gates
+
+- Jeff Bezos
+
+### investing
+
+- Warren Buffet
+
+### invention
+
+- 1922: Alexander Bell
+
+### psychology
+
+- 1936: Ivan Pavlov
+
+- 1939: Sigmund Freud
+
+- 1970: Abraham Maslow
+
+- 1980: Jean Piaget
+  known for his pioneering work in child development
+
+- 1987: Carl Rogers
+
+- 1990: Burros Skinner
+
+### music
+
+- 1750: Johann Bach
+
+- 1791: Wolfgang Mozart
+
+- 1827: Ludwig van Beethoven
+
+- 1970: Jimi Hendrix
+
+- 10: Jun Seba
+  stage name: Nujabes
+
+- Jon Hopkins
+
+- Kevin Parker
+  band: Tame Impala
+
+- Justin Vernon
+  band: Bon Iver
+
+- Marcos Ortega
+  stage name: Lorn
+
+- Douglas Appling
+  stage name: Emancipator
+
+- Jason Chung
+  stage name: Nosaj Thing
+
+- Nicolas Jaar
+
+- Chazwick Bundick
+  stage name: Tory Y Moi
+
+- Henry Laufer
+  stage name: Shlohmo
+
+### biology
+
+- 1778: Carl Linnaeus
+
+- 1873: Louis Agassiz
+
+- 1882: Charles Darwin
+
+- 1895: Louis Pasteur
+
+- 1913: Alfred Wallace
+
+- 1955: Alexander Fleming
+
+- 1964: Rachel Carson
+
+- 02: Stephen Gould
+
+- James Watson
+
+- David Baltimore
+
+### neuroscience
+
+- Aafia Siddiqui
+
+- Christof Koch
+
+- Sam Harris
+
+- David Eagleman
+
+- Antonio Damasio
+
+- Daniel Levitin
+
+- Robert Sapolsky
+
+- Henry Markram
+
+- Paul Greengard
+
+### architecture
+
+- 1926: Antoni Gaudí
+
+- 1959: Frank Wright
+
+- 1965: Charles Jeanneret
+
+- 1969: Ludwig van der Rohe
+
+- 1974: Louis Kahn
+
+- 05: Philip Johnson
+
+- Tadao Ando ✨
+
+- Renzo Piano
+
+- Frank Gehry
+
+### historian
+
+- 425 BC: Herodotus
+
+- 354 BC: Xenophon
+
+- 1990: Alan Taylor
+
+- 07: Arthur Schlesinger
+
+- 1794: Edward Gibbon
+
+### acting
+
+- Kevin Spacey
+
+- 04: Marlon Brando
+
+- Leonardo DiCaprio
+
+### film director
+
+- 1980: Alfred Hitchcock
+
+### human computer interaction
+
+- Larry Tesler
+  pioneered cut, copy, paste action
+
+## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
+
+all of the github people whose work I find interesting, sorted by their skills and interests
+
+## [richest](https://my.mindnode.com/PzvpujT1DgzLs8WNZsSUzjDUSyx1GWE8x4pfN3th)
+
+all the richest humans of this planet with overview of how they got their wealth
+
+## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
+
+interesting ask me anything threads I found on the internet
 
 
 # [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
@@ -1463,6 +1949,26 @@ study of large amounts of biological information, mostly it focuses on molecules
 studying nature to create modern technology
 
 
+# [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
+
+study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
+
+
+## [metaphysics](https://my.mindnode.com/TAtBGbE5GrxiPrMmV1kjaCb77pG9gqxQe3FgQAMW)
+
+investigating the fundamental nature of reality
+
+### [free will](https://my.mindnode.com/BmtaiHvdqwz39S4AscYKG4yyQyep5VccbS3fpv7D)
+
+ability to choose between different possible courses of action
+
+## [epistemology](https://my.mindnode.com/BDqZyxcfbybuY5BKsnqWYHVAXx12wpN11s6gRBmp)
+
+what is the nature of knowledge, justification and the rationality of belief
+
+## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
+
+
 # [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
@@ -1496,7 +2002,7 @@ how can you effectively problem solve and find efficient solutions to problems
 ## [body](https://my.mindnode.com/Tp4Khq4gHNZAw91rXsopiJBGbaJkmR4s3TviqEpT)
 
 
-# feelings
+# [feelings](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
 
 the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
 
@@ -1528,24 +2034,14 @@ study of language and its structure including study of grammar, syntax and phone
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
 
 
-# [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
+# [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
 
-study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
+what actions are objectively write or wrong and how to measure them
 
 
-## [metaphysics](https://my.mindnode.com/TAtBGbE5GrxiPrMmV1kjaCb77pG9gqxQe3FgQAMW)
+## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
 
-investigating the fundamental nature of reality
-
-### [free will](https://my.mindnode.com/BmtaiHvdqwz39S4AscYKG4yyQyep5VccbS3fpv7D)
-
-ability to choose between different possible courses of action
-
-## [epistemology](https://my.mindnode.com/BDqZyxcfbybuY5BKsnqWYHVAXx12wpN11s6gRBmp)
-
-what is the nature of knowledge, justification and the rationality of belief
-
-## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
+which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
 
 
 # [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
@@ -1652,14 +2148,9 @@ how to be aware of your actions and thoughts as you live through life
 # [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
-# [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
+# [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
-what actions are objectively write or wrong and how to measure them
-
-
-## [morality](https://my.mindnode.com/vomCmpv2kepFcSWE1qtwZYxH6pGekGsze4reNw3U)
-
-which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
+treating animals as equals and abstaining from eating and using animal products as commodity
 
 
 # [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
@@ -1699,11 +2190,6 @@ which intentions, decisions and actions can be considered ‘right’ and which 
 ## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
 
 everyone should have some kind of principle they follow, these are mine
-
-
-# [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
-
-treating animals as equals and abstaining from eating and using animal products as commodity
 
 
 # [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
@@ -1755,14 +2241,6 @@ how to manifest and grow interesting ideas
 ## immune system
 
 
-# [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
-
-
-## [latex ✨](https://my.mindnode.com/sppXszRUCzViXJA4jMHykEtMPGZey74zRm2HRU5x)
-
-### [packages ✨](https://my.mindnode.com/paFDsFpR6vUoXKxzpgoD2pbiygDpfbuFjLaVAqC1)
-
-
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
 
 
@@ -1785,6 +2263,16 @@ blogs I like or want to read
 
 
 ## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
+
+
+# [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
+
+
+## [latex ✨](https://my.mindnode.com/sppXszRUCzViXJA4jMHykEtMPGZey74zRm2HRU5x)
+
+### [packages ✨](https://my.mindnode.com/paFDsFpR6vUoXKxzpgoD2pbiygDpfbuFjLaVAqC1)
+
+- [TikZ](https://my.mindnode.com/kxsDhHQNkgwxymTRsgzQ2XhQ8RZCyCFdkUjbUSao)
 
 
 # [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
@@ -1853,6 +2341,9 @@ all the books I am currently reading or have read
 
 - [12: programming languages: application and interpretation](https://my.mindnode.com/npRPuKz5q5cocsGCzjJTU7MMpW4D7msXBEHBQZ2p)
   free: 
+
+- [composing programs](https://my.mindnode.com/qcZ7jnKm8sQ9mBPFWtDoNcpFH2qtbbrpu4Ln1T9N)
+  free:
 
 ### c
 
@@ -1941,6 +2432,9 @@ all the books I am currently reading or have read
 
 - [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
 
+- [exploring js](https://my.mindnode.com/CL3A8TQya3RDxTqsWji8aZoQyncusu35JVq5HqmT)
+  free: series of books
+
 ### swift
 
 - [14: swift programming language ✨](https://my.mindnode.com/qxEPaW7xNpVvVEi14rHuqkzxppyayjKzxcMoC2SQ)
@@ -1976,6 +2470,7 @@ all the books I am currently reading or have read
 ### language design
 
 - [beautiful racket](https://my.mindnode.com/ceZ3hyXZGv3zaJmxKgqK73QpmKadBAPPry2epxyb)
+  free:
 
 ## physics
 
@@ -2121,7 +2616,7 @@ free:
 
 ### 1937: think and grow rich
 
-### 14: a mind for numbers: how to excel at math and science ✨✔
+### [14: a mind for numbers: how to excel at math and science ✨✔](https://my.mindnode.com/p3WmZ4AHkrThNmdEx9dmNruyWGD4Z17NXxMasqpW)
 
 ### 11: models ✨✔
 
@@ -2158,6 +2653,8 @@ free:
 ### 10: the happiness advantage
 
 ### 14: waking up: a guide to spirituality without religion
+
+### 1989: the 7 habits of highly effective people
 
 ## finance
 
@@ -2201,6 +2698,8 @@ free:
 
 ### 14: superintelligence: paths, dangers, strategies
 
+### [14: understanding machine learning: from theory to algorithms](https://my.mindnode.com/Bknxxz8AoEn8hdvzxRr4scKo1ksf4dmyyGybE4YB)
+
 ## math
 
 ### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
@@ -2236,6 +2735,8 @@ free:
 ### [17: immersive linear algebra ✨](https://my.mindnode.com/kaHsscPCN8pBzpZyDSrryCoNTqHUiSw38pSHPjsb)
 
 free: interactive look into linear algebra
+
+### 1997: visual complex analysis
 
 ## statistics
 
@@ -2308,10 +2809,6 @@ free:
 ## gamedev
 
 ### 03: tricks of the 3D game programming gurus-advanced 3D graphics and rasterisation
-
-## bio
-
-### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/7iz6fHqthxvqyncW6G6uhz3zpPwxihVNgXAJWV8X)
 
 ## memoirs
 
@@ -2579,6 +3076,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 07: einstein: his life and universe
 
+### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/EYQVieik8Mh1x337GHJshm5BdaKgwWqAz4uZRWv9)
+
 ## awareness 
 
 ### last chance to see
@@ -2810,7 +3309,9 @@ the future of money as I see itn
 # comedy
 
 
-## standups
+## [standups](https://my.mindnode.com/GATJhq1GfNpiHMMRsqphq6nfe5uBaE8oeN4bGS7D)
+
+## [jokes](https://my.mindnode.com/HHywbmyswP9PCbaBUCjpsYFXxcN8Wxq6qF6AgtW4)
 
 
 # [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
@@ -2962,16 +3463,6 @@ is a set of computer software programs and data structures which use a virtual m
 # [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
 
 
-# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
-
-movies I have seen or plan on watching
-
-
-# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
-
-series I have seen or plan on watching
-
-
 # version control
 
 
@@ -3035,92 +3526,19 @@ how to live without a home, travel and work
 countries and cities I have been to with commentary and photos of each place
 
 
-# [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
-
-
 # [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 what it means to work with open source and how to best sustain an open source project
 
 
-# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
-courses I am doing or plan on doing
+movies I have seen or plan on watching
 
 
-## ai
+# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
-### [oxford cs deep nlp 2017](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
-
-### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
-
-### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
-
-## haskell
-
-### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
-
-## programming
-
-### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
-
-### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
-
-### introduction to programming with matlab
-
-## cs
-
-### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
-
-### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
-
-### [data structures](https://my.mindnode.com/7GyKLbtCEJhPKkuiRHXwxRduH7Sds9d1pxFBqdqV)
-
-## math
-
-### [04: multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
-
-### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
-
-## statistics
-
-### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
-
-## iOS
-
-### [developing iOS 10 apps wth Swift ✨](https://my.mindnode.com/NPAryQsGqSWERd2axwJraH9KcevhzZYBBQWwz58j)
-
-## algorithms
-
-### [12: design and analysis of algorithms](https://my.mindnode.com/wqUGtWCMTkVDZnesRCsF1jxJj9ZbCsGqss1M2ebY)
-
-### [algorithms: part 1](https://my.mindnode.com/zWvyHcb9jW9zczj91ycNYr2BnoTpixsog9xwWHbt)
-
-### algorithms: part 2
-
-### [algorithms specialisation](https://my.mindnode.com/5XkfL517JLspUpmBS4QRpr3nTk7tqgHpMhVv3Ta1)
-
-## business
-
-### [gamification](https://my.mindnode.com/kPxL9NzZZKEqH7HxBweNMmmjcxBLDtvtm8qiGMR1)
-
-## gamedev
-
-### [HTML5 game development](https://my.mindnode.com/8pqL92aH3us7DFs2rTuL4k9NezS4kfy5Hpo5r3UX)
-
-## chemistry
-
-### [bioinformatics specialisation](https://my.mindnode.com/rDzafu86YJx9sdRfz5FhaEfy4Ao4bpcL74BFYAF5)
-
-## networking
-
-### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
-
-## operating systems
-
-### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
-
-free: 
+series I have seen or plan on watching
 
 
 # [file system](https://my.mindnode.com/twpiix8ckRiWHrLqLBaAk2Pp8Avqcoskwgpgp37D)
@@ -3133,14 +3551,6 @@ a way of storing all data on a data storage device, the data is usually organise
 ## [BTRFS](https://my.mindnode.com/nPDMw4Madtqssm8QpqAqmhN26gHfBjpNPryV7GUv)
 
 ## [XFS](https://my.mindnode.com/fKkhCJpKpCb6hiD59zmAqnFWW8sB6J4KLzXLmjyw)
-
-
-# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
-
-what it means to be creative and where does creativity come from
-
-
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
 
 
 # countries
@@ -3179,17 +3589,99 @@ is a cultural region, an ancient civilisation and a nation in east asia
 ### japan
 
 
+# [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
+
+
 # [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
 
 
-# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
+# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+
+courses I am doing or plan on doing
 
 
-## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
+## ai
 
-## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
+### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
 
-## drawing
+### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
+
+### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
+
+## haskell
+
+### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
+
+## programming
+
+### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
+
+### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
+
+### introduction to programming with matlab
+
+## cs
+
+### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
+
+### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
+
+### [data structures](https://my.mindnode.com/7GyKLbtCEJhPKkuiRHXwxRduH7Sds9d1pxFBqdqV)
+
+## math
+
+### [04: mit multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
+
+### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
+
+### [06: mit singlevariable calculus](https://my.mindnode.com/jBspeyDM76ZjWPMPEsUoYSFqaKapH23TBmUTMUbA)
+
+### [07: mit multivariable calculus](https://my.mindnode.com/WyaVEZQ3Wj28qfkzxy1icFH8cVDpPviMpwWpvxYS)
+
+## statistics
+
+### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
+
+## iOS
+
+### [17: developing iOS 10 apps wth Swift ✨](https://my.mindnode.com/NPAryQsGqSWERd2axwJraH9KcevhzZYBBQWwz58j)
+
+## algorithms
+
+### [12: design and analysis of algorithms](https://my.mindnode.com/wqUGtWCMTkVDZnesRCsF1jxJj9ZbCsGqss1M2ebY)
+
+### [algorithms: part 1](https://my.mindnode.com/zWvyHcb9jW9zczj91ycNYr2BnoTpixsog9xwWHbt)
+
+### algorithms: part 2
+
+### [algorithms specialisation](https://my.mindnode.com/5XkfL517JLspUpmBS4QRpr3nTk7tqgHpMhVv3Ta1)
+
+## business
+
+### [gamification](https://my.mindnode.com/kPxL9NzZZKEqH7HxBweNMmmjcxBLDtvtm8qiGMR1)
+
+## gamedev
+
+### [HTML5 game development](https://my.mindnode.com/8pqL92aH3us7DFs2rTuL4k9NezS4kfy5Hpo5r3UX)
+
+## chemistry
+
+### [bioinformatics specialisation](https://my.mindnode.com/rDzafu86YJx9sdRfz5FhaEfy4Ao4bpcL74BFYAF5)
+
+## networking
+
+### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
+
+## operating systems
+
+### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
+
+free: 
+
+
+# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
+
+what it means to be creative and where does creativity come from
 
 
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
@@ -3251,6 +3743,11 @@ personal websites that are really well made and inspiring
 
 ## dribble
 
+## [news](https://my.mindnode.com/zwaZFTzz8H9gLdVismwMF9sNp6xrpdr5GkSoQ2EK)
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+
 
 # [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
@@ -3282,6 +3779,16 @@ our home planet in the Solar System
 ## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
 
 there are five oceans on this planet
+
+
+# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
+
+
+## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
+
+## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
+
+## drawing
 
 
 # [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
@@ -3324,6 +3831,8 @@ type of server that is used to host websites, it can have one or many websites t
 test anything protocol s a protocol to allow communication between unit tests and a test harness
 
 ## [BitTorrent](https://my.mindnode.com/AimdYZ9ks4JhfzwB9AJfkNt2seVXsyw9NEtqLz97)
+
+### [WebTorrent](https://my.mindnode.com/pr9yHY6vsSkj4p1HTFSq61ZsjDK33a1qVKufcVv9)
 
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
 
@@ -3524,7 +4033,7 @@ over 2 billion users and growing, collecting data on each individual user and gr
 # [web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz)
 
 
-## browsers
+## [browsers](https://my.mindnode.com/4G3PhTqxAg6bEToGT613X38ppXTP5KsCi1sYuz6i)
 
 ### [dom](https://my.mindnode.com/zYGz3TugXNU8qexToyw7BtsM4yG4tZxh2m7Bkfzm)
 
@@ -3604,20 +4113,6 @@ browser developed by Google
 ## grunt
 
 
-# javascript engines
-
-
-## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
-
-javascript engine developed by Google
-
-### [node.js](https://my.mindnode.com/Kppy13hmHaa6qGhLoPX2JVrwMExcA3v2B5ZhsdYF)
-
-- [electron ✨](https://my.mindnode.com/GsyKuWEa6PEhQpvMxdAytpQHWsvUnA9Jiqp1Pisy)
-
-## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
-
-
 # encoding
 
 
@@ -3655,6 +4150,20 @@ approach to software development for complex needs by connecting the implementat
 1. placing the project’s primary focus on the core domain and logic  
 2. basing complex designs on a model of the domain  
 3. initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems
+
+
+# javascript engines
+
+
+## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
+
+javascript engine developed by Google
+
+### [node.js](https://my.mindnode.com/Kppy13hmHaa6qGhLoPX2JVrwMExcA3v2B5ZhsdYF)
+
+- [electron ✨](https://my.mindnode.com/GsyKuWEa6PEhQpvMxdAytpQHWsvUnA9Jiqp1Pisy)
+
+## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
 
 
 # [system administration](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
@@ -4000,7 +4509,11 @@ an app that has changed the way I interact with my computer by allowing me to re
 
 - [teams](https://my.mindnode.com/nSzeaKsFhpf1TB9npxampNd8uQkhBhgfxezfbDW1)
 
-### discord
+### [discord](https://my.mindnode.com/yh6jUWnzTQjKqnzdhwMdF1YRyzmzDa66s2gLF1Mv)
+
+### telegram
+
+- [bots](https://my.mindnode.com/sZajUsrsv9fRfcsmSPpLcNGPyDERp7Y399s21CRA)
 
 ## design
 
@@ -4177,3 +4690,4 @@ how to find work and what to focus on
 
 ## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
+## [creative](https://my.mindnode.com/55YPRCtghqP6zzT5edpEX6nS5wzKwgwTDkFxvgBD)
