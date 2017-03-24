@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/GDMnADS.jpg)
 
-###[Full Resolution Mind Map Download 🗺️](https://transfer.sh/eyDm4/research.png)
+### [Full Resolution Mind Map Download 🗺️](https://transfer.sh/eyDm4/research.png)
 
 # Why? 🎈
 
