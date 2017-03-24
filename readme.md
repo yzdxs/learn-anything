@@ -2,11 +2,14 @@
 
 ![](https://i.imgur.com/GDMnADS.jpg)
 
+###[Full Resolution Mind Map Download 🗺️](https://transfer.sh/eyDm4/research.png)
+
 # Why? 🎈
 
 [Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to researh and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
 
 [Here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
+
 
 # Where to start? 🤔
 
@@ -30,7 +33,6 @@ Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfre
 
 These mind maps are a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
 
-[Here](https://transfer.sh/eyDm4/research.png) is the download for full resolution image of the main mind map.
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
