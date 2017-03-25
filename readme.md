@@ -80,7 +80,28 @@ Learn something new. 🎊
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
-the high level overview of all the knowledge
+- the high level visual overview of all the knowledge
+
+# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+
+- contains all the documentation for how I use and manage this mind map  
+	- abbreviations  
+	- emoji meanings  
+	- node descriptions  
+	- logic behind my structuring of nodes  
+- contains tips and tricks to navigate mind maps better  
+- includes ways with which one can approach learning topics
+
+
+# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+
+- is a flying machine  
+	- there are many different kinds of aircraft  
+- some aircraft keep in the sky by moving air over their wings  
+	- most use engine power  
+	- few use muscle power  
+
+
 
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
 
@@ -93,44 +114,58 @@ the high level overview of all the knowledge
 - someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
-# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
-
-is a flying machine, there are many different kinds of aircraft
-
-
-# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
-
-contains all the documentation for how I use and manage this mind map
-
-
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
-moving people or things from one place to another place
+- moving people or things from one place to another place  
+- can be divided into  
+	- infrastructure   
+	- vehicles  
+	- operations  
+- there are three main kinds of transportation  
+	- land  
+	- water  
+	- air
 
 
-## [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+## vehicles
 
-small, human powered land vehicles
+### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
 
-### [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
+- small, human powered land vehicles
 
-## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
+- [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
 
-road vehicle used to carry passengers
+### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
 
-### electric
+- road vehicle used to carry passengers
+
+- electric
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
 
-protecting something from dangers from the outside world 
+- is the degree of resistance to, or protection from, harm  
+- it applies to any vulnerable and/or valuable asset
 
 
 ## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
 
+- a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  
+- general attack sequence in steps is  
+	- find an exploitable vulnerability   
+	- design an attack around it  
+	- test the attack  
+	- seize a line in use  
+	- enter the attack  
+	- exploit the entry for information recovery
+
 ## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
 
-practice and study of hiding information, is used to try and keep information secret and safe
+- practice and study of hiding information, is used to try and keep information secret and safe  
+- when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
+- examples algorithms include   
+	- RSA  
+	- AES
 
 ### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
 
@@ -138,47 +173,67 @@ practice and study of hiding information, is used to try and keep information se
 
 ## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
 
-a computer security competition, usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
+- a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
 
 ## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
 
-short for malicious software, is a kind of software that can be installed on a computer without approval from the computer’s owner
+- short for malicious software  
+- is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
-self driving cars are already a reality
+- autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
+- they use a variety of techniques to detect their surroundings, such as   
+	- radar  
+	- laser light  
+	- GPS  
+	- odometry  
+	- and computer vision
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
 
-how to optimise processes (algorithms, systems and so on)
+- how to optimise processes (algorithms, systems and so on)
 
 
 # [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
 
-learns how computers can find things in pictures 
+- deals with how computers can be made for gaining high-level understanding from digital images or videos  
+- it seeks to automate tasks that the human visual system can do  
+- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
 
 
 ## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
 
 ## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
 
-open source computer vision library for real time computer vision 
+- open source computer vision library for real time computer vision 
 
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
 
-is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function
+- is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
+- starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
+- they are essential to the way computers process data  
+- they can be expressed in many kinds of notation, including  
+	- natural languages  
+	- pseudocode  
+	- flowcharts  
+	- drakon-charts  
+	- programming languages  
+	- control tables  
+- most algorithms are intended to be implemented as computer programs  
+	- however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device
 
 
 ## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
 
-how to analyse the correctness and running time of algorithms
+- how to analyse the correctness and running time of algorithms
 
 ## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
 
-how to prove an algorithm works and does its job correctly
+- how to prove an algorithm works and does its job correctly
 
 ## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
 
@@ -297,17 +352,32 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 
 ### [vectors](https://my.mindnode.com/BcLRxCpcZBuB6xsMin7BsEMvKtL4zUTt9PfmbJ2z)
 
+- is a mathematical object that has a size, called the magnitude, and a direction  
+- we usually draw vectors as arrows  
+	- the length of the arrow is proportional to the vector’s magnitude  
+	- the direction in which the arrow points is the vector’s direction
+
 ## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-386.6,16.2,2)
 
-is any class of formal systems, some which can serve as alternatives to set theory as a foundation for all mathematics, in type theory, every “term” has a “type” and operations are restricted to terms of a certain type, it was created to avoid paradoxes in a variety of formal logics and rewrite systems
+- is any class of formal systems, some which can serve as alternatives to set theory as a foundation for all mathematics   
+- in type theory, every “term” has a “type” and operations are restricted to terms of a certain type  
+- it was created to avoid paradoxes in a variety of formal logics and rewrite systems  
+- two well known type theories that can serve as mathematical foundations are Alonzo Church’s typed λ-calculus and Per Martin-Lof’s intuitionistic type theory
 
 ## [set theory](https://my.mindnode.com/MXEzZzQ4aXtJgEb4ZzFFGozqvew3CFrygjDfgmfv)
 
-study of sets where sets are collections of objects, we refer to these objects as “elements” “members” of the set, to write a set, one wraps the numbers in {curly brackets} and separates them with commas: e.g. {1,2,3} holds 1, 2 and 3
+- study of sets where sets are collections of objects  
+	- we refer to these objects as “elements” “members” of the set  
+- to write a set, one wraps the numbers in {curly brackets} and separates them with commas:   
+	- e.g. {1,2,3} holds 1, 2 and 3  
+- was invented in 1874
 
 ## [graph theory](https://my.mindnode.com/4qBQ8eA8wvpz6xBdDh1aoW3o9zxWxs1qKQXMqNB3)
 
-a graph is an abstract representation of a number of points that are connected by lines, each point is usually called a vertex (more than one are called vertices), and the lines are called edges, graphs are a tool for modelling relationships, they are used to find answers to a number of problems
+- a graph is an abstract representation of a number of points that are connected by lines  
+- each point is usually called a vertex (more than one are called vertices), and the lines are called edges  
+- graphs are a tool for modelling relationships  
+	- they are used to find answers to a number of problems
 
 ## [statistics](https://my.mindnode.com/qVTGVEnNrmXDqy2UQTdPs1xRahZDNJFo94jy92Fb)
 
