@@ -1,8 +1,8 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/GDMnADS.jpg)
+![](https://i.imgur.com/WF4OVJK.jpg)
 
-### [Full Resolution Mind Map Download 🗺️](https://transfer.sh/eyDm4/research.png)
+### [Full Resolution Mind Map Download 🗺️](https://transfer.sh/9azni/research.png)
 
 # Why? 🎈
 
@@ -97,11 +97,6 @@ someone who tries to get into another person’s computer using computer softwar
 is a flying machine, there are many different kinds of aircraft
 
 
-## [wright brothers](https://my.mindnode.com/ythKqQqTqoaL5dZZ9sJcqtX4AKpEbeshSsqyes5H)
-
-designed, built and flew the first controlled, powered, heavier than air airplane in 1903
-
-
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 contains all the documentation for how I use and manage this mind map
@@ -121,6 +116,8 @@ small, human powered land vehicles
 ## [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
 
 road vehicle used to carry passengers
+
+### electric
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
@@ -538,6 +535,8 @@ studies a type of algebraic structure called a group, is often used in math as a
 
 ## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
+## chaos theory
+
 
 # [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
 
@@ -884,6 +883,8 @@ original python implementation in c, compiles python code into byte code and int
 
 ## ada
 
+## awk
+
 
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
@@ -1048,6 +1049,9 @@ all the games I have played and want to play
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
+# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+
+
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
 
 studies matter, and all forces and their effects
@@ -1159,8 +1163,6 @@ any substance that has mass and takes up space
 
 ## fluid mechanics
 
-## chaos theory
-
 ## classical mechanics
 
 ### kinematics
@@ -1198,7 +1200,7 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 ### [andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
 
 
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+# astronomy
 
 
 # [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
@@ -1221,11 +1223,6 @@ analysis, interpretation and manipulation of signals, signals of interest includ
 ### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
 
 
-# [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
-
-study of mind and of thought, feeling and behaviour
-
-
 # [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
 
 
@@ -1234,6 +1231,11 @@ study of mind and of thought, feeling and behaviour
 ## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
 
 ## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
+
+
+# [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
+
+study of mind and of thought, feeling and behaviour
 
 
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
@@ -1371,535 +1373,6 @@ any chemical that affects the human body or mind when it is consumed
 
 
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
-
-
-# [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
-
-
-## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
-
-humans whose work I really respect and am curious about sorted by the domain in which they worked
-
-### spirit
-
-- 400 BC: Gautama Buddha
-
-- [1973: Alan Watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
-  his talks and writing has changed my life in a very positive way
-
-- 00: Terrence McKenna
-
-### math
-
-- 546 BC: Thales of Miletus
-
-- 495 BC: Pythagoras
-  invented the famous Pythagoras’s Theorem
-
-- 322 BC: Aristotle
-
-- ~300BC: Euclid
-  mathematical treatment of “preferred outcomes” or utility was first finalised by him, gave the basis for modern proof-based mathematics
-
-- 212 BC: Archimedes
-  used a lot of advanced methods (something like infinitesimal calculus) which he used to derive the formulas for computing the volume of cones and other solids of revolution, he also used similar methods to investigate the properties of conics
-
-- 194 BC: Eratosthenes
-  known for the Sieve of Eratosthenes, which is a method of finding prime numbers
-
-- 299: Diophantus
-  was interested in properties of integers
-
-- 1425: Madhava of Sangamagrama
-
-- 1576: Gerolamo Cardano
-  first framed the idea of probability, describing it in terms of the possible outcomes of gambling events
-
-- 1617: John Napier
-  invented logarithms
-
-- 1655: Pierre Fermat
-
-- 1705: Jacob Bernoulli
-
-- 1650: Rene Descartes
-  give the first clear discussion of the distinction between mind and matter and of the problems that arise
-
-- 1662: Blaise Pascal
-  built a famous calculating machine
-
-- 1716: Gottfried Leibniz
-  built a mechanical device intended to carry out operations on concepts rather than numbers
-
-- 1761: Thomas Bayes
-  proposed a rule for updating probabilities in light of new evidence
-
-- 1777: Johann Lambert
-  intend Wave Equation
-
-- 1783: Leonhard Euler ✨
-  invented The Square Root of Minus One, Euler’s Formula for Polyhedra
-
-- 1813: Joseph Lagrande
-
-- 1827: Pierre Laplace
-  advanced the theory and introduced new statistical methods
-
-- 1829: Niels Abel
-
-- 1830: Joseph Fourier
-  invented Fourier Transform
-
-- 1832: Évariste Galois
-
-- 1833: Adrien Legendre
-
-- 1851: Carl Jacobi
-
-- 1852: Ada Lovelace
-
-- [1855: Carl Gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
-  invented Normal Distribution
-
-- 1857: Augustin Louis Cauchy
-
-- 1859: Peter Dirichlet
-
-- 1864: George Boole
-  worked out the details of propositional, or Boolean logic
-
-- 1866: Bernhard Riemann
-
-- 1871: Charles Babbage
-
-- 1912: Henri Poincaré
-
-- 1918: Georg Cantor
-
-- 1920: Srinivasa Ramanujan
-
-- 1925: Gottlob Frege
-  extended Boole’s logic to include objects and relations, creating the first-order logic that is used today
-
-- 1930: Frank Ramsey
-
-- 1935: Amalie Noether ✨
-
-- 1943: David Hilbert
-
-- 1945: Stefan Banach
-
-- 1947: Godfrey Hardy
-
-- 1962: Charles Vallee-Pussin
-
-- 1970: Bertrand Russel
-
-- 1977: John Littlewood
-
-- 1978: Kurt Godel
-
-- 1982: Haskell Curry
-
-- 1983: Alfred Tarski
-  introduced a theory of reference that shows how to relate the objects in logic to objects in the real world
-
-- 1996: Paul Erdős
-
-- 01: Claude Shannon
-  invented Information Theory
-
-- 14: Alexander Grothendieck
-
-- 15: John Nash
-
-- Jean Serre
-
-- Cédric Villani
-
-- Shinichi Mochizuki
-
-- Peter Scholze
-
-- Grigori Perelman
-
-- Andrew Wiles
-
-- John Conway
-
-- Terrence Tao
-
-- Andrew Granville
-
-### physics
-
-- 1726: Isaac Newton
-  invented Calculus and Law of Gravity
-
-- 1879: James Maxwell
-  invented Maxwell’s equations
-
-- 1894: Heinrich Hertz
-  first person to transmit and receive radio waves
-
-- 1906: Ludwig Boltzmann
-  invented Schrodinger’s Equation
-
-- 1943: Nikola Tesla
-
-- 1955: Albert Einstein
-
-- 1988: Richard Feynman
-
-- Roger Penrose
-
-- Stephen Hawking
-
-### cs
-
-- 1954: Alan Turing
-
-- 1957: John von Neumann
-
-- 02: Edsger Dijkstra
-
-- Donald Knuth
-
-- Tony Hoare
-  developed QuickSort algorithm
-
-### ai
-
-- 11: John McCarthy
-
-- Geoffrey Hinton
-  was one of the first researchers who demonstrated the use of generalised back propagation algorithm for training multi-layer neural nets
-
-- Demis Hassabis
-
-### code
-
-- 1992: Grace Hopper
-
-- Alan Kay
-
-- Ken Thompson
-
-- Linus Torvalds
-
-- Rob Pike
-
-- John Carmack
-
-- Steve Wozniak
-
-- Jeff Dean
-
-### philosophy
-
-- 323BC: Diogenes
-
-- 135: Epictetus
-
-- 1626: Francis Bacon
-
-- 1679: Thomas Hobbes
-  proposed that reasoning was like numerical computation, that “we add and subtract in our silent thoughts”
-
-- 1704: John Locke
-
-- 1833: William Thompson
-
-### art
-
-- 1519: Leonardo da Vinci
-
-- 1564: Michelangelo
-
-- 1669: Rembrandt
-
-- 1890: Vincent van Gogh
-
-- 1926: Claude Monet
-
-- 1972: M. C. Escher
-
-- 1973: Pablo Picasso
-
-- 1989: Salvador Dali
-
-- [James Eads](https://my.mindnode.com/4zALJspqHnjzs1BZdAxrams6qmb6FDWDqKLthmc1)
-
-### chemistry
-
-- 1794: Antoine Lavoisier
-
-- 1691: Robert Boyle
-
-- 1844: John Dalton
-
-- 1896: Alfred Nobel
-
-- 1907: Dmitri Mendeleev
-
-- 1927: Svante Arrhenius
-
-- 1867: Michael Faraday
-
-- 1934: Marie Curie
-
-- 1934: Fritz Haber
-
-- 1944: Linus Pauling
-
-- 14: Alexander Shulgin
-
-### medicine
-
-- 370 BC: Hippocrates
-
-- 210: Aelius Galen
-
-- 1564: Andreas Vesalius
-
-- 1657: William Harvey
-
-- 1824: James Parkinson
-
-- 1902: Rudolf Virchow
-
-- 1910: Elizabeth Blackwell
-
-- 1950: Charles Drew
-
-- 1964: Alfred Blalock
-
-- 1974: Virginia Apgar
-
-### writing
-
-- 1616: William Shakespeare
-
-- 1881: Fyodor Dostoyevsky
-
-- 1900: Oscar Wilde
-
-- 1940: Mikhail Bulgakov
-
-- 1910: Mark Twain
-
-- 1930: Arthur Conan Doyle
-
-- 1950: Eric Arthur Blair
-  known by his pen name ‘George Orwell’
-
-- 1963: Aldous Huxley
-
-- 1973: John Tolkien
-
-- Paul Graham
-
-- Ted Chiang
-
-### economics
-
-- 1790: Adam Smith
-
-- 1883: Karl Marx
-
-- 1946: John Keynes
-
-- 1992: Friedrich Hayek
-
-- 06: Milton Friedman
-
-- 09: Paul Samuelson
-
-### entrepreneur
-
-- 1919: Andrew Carnegie
-
-- 1931: Thomas Edison
-
-- 1937: John Rockefeller
-
-- 1947: Henry Ford
-
-- 11: Steve Jobs
-
-- 1966: Walt Disney
-
-- Larry Page
-
-- Elon Musk
-
-- Bill Gates
-
-- Jeff Bezos
-
-### investing
-
-- Warren Buffet
-
-### invention
-
-- 1922: Alexander Bell
-
-### psychology
-
-- 1936: Ivan Pavlov
-
-- 1939: Sigmund Freud
-
-- 1970: Abraham Maslow
-
-- 1980: Jean Piaget
-  known for his pioneering work in child development
-
-- 1987: Carl Rogers
-
-- 1990: Burros Skinner
-
-### music
-
-- 1750: Johann Bach
-
-- 1791: Wolfgang Mozart
-
-- 1827: Ludwig van Beethoven
-
-- 1970: Jimi Hendrix
-
-- 10: Jun Seba
-  stage name: Nujabes
-
-- Jon Hopkins
-
-- Kevin Parker
-  band: Tame Impala
-
-- Justin Vernon
-  band: Bon Iver
-
-- Marcos Ortega
-  stage name: Lorn
-
-- Douglas Appling
-  stage name: Emancipator
-
-- Jason Chung
-  stage name: Nosaj Thing
-
-- Nicolas Jaar
-
-- Chazwick Bundick
-  stage name: Tory Y Moi
-
-- Henry Laufer
-  stage name: Shlohmo
-
-### biology
-
-- 1778: Carl Linnaeus
-
-- 1873: Louis Agassiz
-
-- 1882: Charles Darwin
-
-- 1895: Louis Pasteur
-
-- 1913: Alfred Wallace
-
-- 1955: Alexander Fleming
-
-- 1964: Rachel Carson
-
-- 02: Stephen Gould
-
-- James Watson
-
-- David Baltimore
-
-### neuroscience
-
-- Aafia Siddiqui
-
-- Christof Koch
-
-- Sam Harris
-
-- David Eagleman
-
-- Antonio Damasio
-
-- Daniel Levitin
-
-- Robert Sapolsky
-
-- Henry Markram
-
-- Paul Greengard
-
-### architecture
-
-- 1926: Antoni Gaudí
-
-- 1959: Frank Wright
-
-- 1965: Charles Jeanneret
-
-- 1969: Ludwig van der Rohe
-
-- 1974: Louis Kahn
-
-- 05: Philip Johnson
-
-- Tadao Ando ✨
-
-- Renzo Piano
-
-- Frank Gehry
-
-### historian
-
-- 425 BC: Herodotus
-
-- 354 BC: Xenophon
-
-- 1990: Alan Taylor
-
-- 07: Arthur Schlesinger
-
-- 1794: Edward Gibbon
-
-### acting
-
-- Kevin Spacey
-
-- 04: Marlon Brando
-
-- Leonardo DiCaprio
-
-### film director
-
-- 1980: Alfred Hitchcock
-
-### human computer interaction
-
-- Larry Tesler
-  pioneered cut, copy, paste action
-
-## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
-
-all of the github people whose work I find interesting, sorted by their skills and interests
-
-## [richest](https://my.mindnode.com/PzvpujT1DgzLs8WNZsSUzjDUSyx1GWE8x4pfN3th)
-
-all the richest humans of this planet with overview of how they got their wealth
-
-## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
-
-interesting ask me anything threads I found on the internet
 
 
 # [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
@@ -2061,6 +1534,8 @@ english words I want to learn and have learned
 
 my often misspelled words to learn
 
+### [abbreviations](https://my.mindnode.com/EUMA1h3YkYyLGVsVQkhfL3f3ppUu4pwmir6p4hLp)
+
 ## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
 
 ## chinese
@@ -2174,10 +1649,10 @@ treating animals as equals and abstaining from eating and using animal products 
 ## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
 
 
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
-
-
 # [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
+
+
+# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
 # [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
@@ -2307,42 +1782,44 @@ all the books I am currently reading or have read
 
 ### general
 
-- [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
+- 1968-: the art of computer programming
 
-- [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
-  free:
+- 1971: the psychology of computer programming
 
-- 12: programming in the large with design patterns
+- 1974: the elements of programming style
 
-- [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
-
-- [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
-
-- 11: the art of readable code: simple and practical techniques for writing better code
+- 1976: software reliability: principles and practices
 
 - [1979: structure and interpretation of computer programs](https://my.mindnode.com/8xWPcGnjAWhRr5nuRUxLCY4BpwLrvd3dNxKGeXpZ)
   free:
 
-- [1999: the pragmatic programmer](https://my.mindnode.com/6ePQfsptcxAz2n8KzfooEe6sMfN4cWEHFmxiUD3f)
-
-- [1999: refactoring](https://my.mindnode.com/WZyRVRx5r5rAQnDpiZnvYFYjgVqNWMe5c2ap12Dm)
-
-- [10: apprenticeship patterns](https://my.mindnode.com/aKDoUJ6xZcLhqLxQPD2KhMQzLyaSQVuAQccycj71)
-
-- 1971: the psychology of computer programming
-
-- 1976: software reliability: principles and practices
+- [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
 
 - 1991: the art of the metaobject protocol
 
+- [1999: code: hidden language of computer hardware and software ✨](https://my.mindnode.com/SMWybEjuyfYwHygskrv9PmDQGHsrgHvMDbUfEumY)
+
+- [1999: the pragmatic programmer](https://my.mindnode.com/6ePQfsptcxAz2n8KzfooEe6sMfN4cWEHFmxiUD3f)
+
 - 1999: the practice of programming
 
-- 1974: the elements of programming style
+- [1999: refactoring](https://my.mindnode.com/WZyRVRx5r5rAQnDpiZnvYFYjgVqNWMe5c2ap12Dm)
 
 - [01: how to design programs](https://my.mindnode.com/ppR7xmZLV54ntZby3qr3WP2939qvbcFpjZsMRATP)
 
+- [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
+
+- [10: apprenticeship patterns](https://my.mindnode.com/aKDoUJ6xZcLhqLxQPD2KhMQzLyaSQVuAQccycj71)
+
+- 11: the art of readable code: simple and practical techniques for writing better code
+
+- 12: programming in the large with design patterns
+
 - [12: programming languages: application and interpretation](https://my.mindnode.com/npRPuKz5q5cocsGCzjJTU7MMpW4D7msXBEHBQZ2p)
   free: 
+
+- [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
+  free:
 
 - [composing programs](https://my.mindnode.com/qcZ7jnKm8sQ9mBPFWtDoNcpFH2qtbbrpu4Ln1T9N)
   free:
@@ -2353,18 +1830,20 @@ all the books I am currently reading or have read
 
 ### go
 
-- [15: go in action ✨](https://my.mindnode.com/QW6JBJKCPYpXgEXejtXtxEzoqhsD4qSyhm16FyHV)
-
-- [15: the go programming language ✨](https://my.mindnode.com/PM3x2hMXEqgJ7NY9bQmx5yWxTpkqxUQSxi8XHyz1)
-
 - [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
 
 - [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
   free:
 
+- [15: go in action ✨](https://my.mindnode.com/QW6JBJKCPYpXgEXejtXtxEzoqhsD4qSyhm16FyHV)
+
+- [15: the go programming language ✨](https://my.mindnode.com/PM3x2hMXEqgJ7NY9bQmx5yWxTpkqxUQSxi8XHyz1)
+
 ### python
 
 - [04: dive into python 3](https://my.mindnode.com/RudhkWsnsMZRgbSPnwKhZYym4Ap6m658VVyJj1ND)
+
+- [05: problem solving with algorithms and data structures using python](https://my.mindnode.com/3aUdQ7QqBFftBraNnXbyUw5izMYwFuEQhUptDQTT)
 
 - [13: data structures and algorithms in python](https://my.mindnode.com/w1m9U8sjiuyBpvwpACExp6p7gcqHYjNz7NsxkqUE)
 
@@ -2374,8 +1853,6 @@ all the books I am currently reading or have read
 
 - [15: fluent python](https://my.mindnode.com/ffjVRU6yNfGC2UrMzsaTnyFksyHzxzMxjoVrzFz4)
 
-- [05: problem solving with algorithms and data structures using python](https://my.mindnode.com/3aUdQ7QqBFftBraNnXbyUw5izMYwFuEQhUptDQTT)
-
 ### java
 
 - [01: effective java](https://my.mindnode.com/Rrbxmj3SYBgSpxkDqzSK9BTScftaCVFQeHdEdGzA)
@@ -2383,6 +1860,10 @@ all the books I am currently reading or have read
 - [06: java concurrency in practice](https://my.mindnode.com/ProEi9Gr3GsWvnntQqpneViamJB1c3q25LMQkV3r)
 
 - [08: introduction to programming in java: an interdisciplinary approach](https://my.mindnode.com/LpyPGghSGAW91Jv5D8KJz3VQXKajYKsaQSoSQnSW)
+
+### scala
+
+- 14: functional programming in scala
 
 ### lisp
 
@@ -2424,15 +1905,15 @@ all the books I am currently reading or have read
 	- [es6 and beyond](https://my.mindnode.com/s6yCswRucQpCJsDajBzLauhzgk68Bn4WyndTYMpr)
 	  free: 
 
-- [15: learning javascript design patterns](https://my.mindnode.com/yJBi9dc5smcmuEHUVnTFLrHWJZaXpg7MFnwvpsRK)
+- [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
 
 - [12: effective javascript: 68 specific ways to harness the power of javascript](https://my.mindnode.com/ATSp7wopYJZmsNhsyqUShtZAHcmfKyYLAL2DMGdZ)
 
-- [17: the javascript way](https://my.mindnode.com/yyFtVWeg4U6gjDdYFMyMd1nBTboVMx8SN59gNryX)
-
 - [13: secrets of the javascript ninja](https://my.mindnode.com/vzpZGH34LzZ6ZF5r8reKpX1jAyzXkvyajKMxJCxf)
 
-- [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
+- [15: learning javascript design patterns](https://my.mindnode.com/yJBi9dc5smcmuEHUVnTFLrHWJZaXpg7MFnwvpsRK)
+
+- [17: the javascript way](https://my.mindnode.com/yyFtVWeg4U6gjDdYFMyMd1nBTboVMx8SN59gNryX)
 
 - [exploring js](https://my.mindnode.com/CL3A8TQya3RDxTqsWji8aZoQyncusu35JVq5HqmT)
   free: series of books
@@ -2444,13 +1925,13 @@ all the books I am currently reading or have read
 
 ### ruby
 
-- [13: confident ruby](https://my.mindnode.com/agQrbyM6zw9h8xEVXnG47HELmyzSWQJFG4zDZyMs)
+- [09: the well grounded rubyist](https://my.mindnode.com/ShJpGuGWqbGZsoRMat8s5n9wZ9zHkHy5Y8Bwtsqk)
 
 - [11: eloquent ruby](https://my.mindnode.com/aCA3Uyg3aYXzPxGcJSsHZMTDepsy3qjoePZuMK3p)
 
-- [09: the well grounded rubyist](https://my.mindnode.com/ShJpGuGWqbGZsoRMat8s5n9wZ9zHkHy5Y8Bwtsqk)
-
 - [12: practical object oriented design in ruby](https://my.mindnode.com/L5nozPFLyppXEmHRvyeVM3RMZiSqprAJncCehyRg)
+
+- [13: confident ruby](https://my.mindnode.com/agQrbyM6zw9h8xEVXnG47HELmyzSWQJFG4zDZyMs)
 
 ### smalltalk
 
@@ -2576,35 +2057,35 @@ all the books I am currently reading or have read
 
 	- ch 44: particle physics and cosmology
 
+### 1994: nonlinear dynamics and chaos
+
 ### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
 
 ### 10: fields of colour: the theory that escaped Einstein
-
-### 1994: nonlinear dynamics and chaos
 
 ### 13: the theoretical minimum
 
 ## networking
 
-### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
+### 1992: TCP/IP network administration
+
+### 1999: interconnections: bridges, routers, switches, and internetworking protocols
 
 ### 00: computer networking: a top-down approach
 
 ### 03: unix network programming, volume 1: the sockets networking api
 
-### 1999: interconnections: bridges, routers, switches, and internetworking protocols
-
-### 1992: TCP/IP network administration
+### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
 
 ### [an introduction to computer networks](https://my.mindnode.com/H3BVCfagx5UvEfzVNjDqGjBRxTYMy11m8tMwBDTs)
 
 ## algorithms
 
-### 1990: introduction to algorithms
-
 ### [1987: algorithm design manual](https://my.mindnode.com/spsEhTk9K3sEKTVGMvN5a3b41wBithXMJUZJLtJY)
 
 free:
+
+### 1990: introduction to algorithms
 
 ### [05: algorithm design](https://my.mindnode.com/9LNaDUqpHqPZAT3uVxjeumMScWLmJyh13FXMrcrJ)
 
@@ -2614,55 +2095,57 @@ free:
 
 ## mindset
 
-### 1936: how to win friends and influence people ✨
-
-### 1937: think and grow rich
-
-### [14: a mind for numbers: how to excel at math and science ✨✔](https://my.mindnode.com/p3WmZ4AHkrThNmdEx9dmNruyWGD4Z17NXxMasqpW)
-
-### 11: models ✨✔
-
-### 1990: peace is every step
-
-### 1946: man’s search for meaning
-
-### 1942: the stranger
-
-### 09: eating animals
-
-### 1992: mindfulness in plain english ✨
-
-### 04: emptiness dancing
-
-### 1957: the way of zen ✨
-
-### 1954: the first and last freedom
-
-### 12: mastery
+### meditations
 
 ### 6th century bc: tao te ching
 
 ### 1922: siddhartha
 
-### 1992: mastery: the keys to success and long term fulfilment
+### 1936: how to win friends and influence people ✨
+
+### 1937: think and grow rich
+
+### 1942: the stranger
+
+### 1946: man’s search for meaning
+
+### 1951: the wisdom of insecurity: a message for an age of anxiety
+
+### 1954: the first and last freedom
+
+### 1957: the way of zen ✨
 
 ### 1966: the book on the taboo against knowing who you are ✨
 
-### meditations
+### 1971: be here now
 
-### 1951: the wisdom of insecurity: a message for an age of anxiety
+### 1989: the 7 habits of highly effective people
+
+### 1990: peace is every step
+
+### 1992: mindfulness in plain english ✨
+
+### 1992: mastery: the keys to success and long term fulfilment
+
+### 04: emptiness dancing
+
+### 09: eating animals
+
+### 11: models ✨✔
+
+### 12: mastery
+
+### [14: a mind for numbers: how to excel at math and science ✨✔](https://my.mindnode.com/p3WmZ4AHkrThNmdEx9dmNruyWGD4Z17NXxMasqpW)
 
 ### 10: the happiness advantage
 
 ### 14: waking up: a guide to spirituality without religion
 
-### 1989: the 7 habits of highly effective people
-
 ## finance
 
-### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
-
 ### 1926: the richest man in babylon
+
+### [1997: rich dad poor dad](https://my.mindnode.com/Qv9ZXvz3yLTDzCLEEgzsTMy1pMesidPSRzWUhNzA)
 
 ## economics
 
@@ -2680,69 +2163,73 @@ free:
 
 ## ai
 
-### [11: introduction to artificial intelligence](https://my.mindnode.com/TYXYAZ4MaCsrGqbMZsaWqtopx6ZCWqr6w9QnDb6w)
+### [1991: paradigms of artificial intelligence programming](https://my.mindnode.com/M1revXTzUvszNhpDpmrY5WCyAXMC6TgikwwdmJFN)
 
 ### [1994: artificial intelligence a modern approach](https://my.mindnode.com/8ok1w3MLy4TzxZEmanaxmLnHyR8MP4DVpdmKPyB1)
 
-### [1991: paradigms of artificial intelligence programming](https://my.mindnode.com/M1revXTzUvszNhpDpmrY5WCyAXMC6TgikwwdmJFN)
-
-### [16: reinforcement learning: an introduction](https://my.mindnode.com/5KrEbpSHNXhmzYHMR3Ay71pxeM37sxQRpqzvqz92)
-
-### [17: tensorflow machine learning cookbook](https://my.mindnode.com/vpgqkQFd513ruMopWLTzHqFjK1k6We2dyaYQsXWe)
+### [1997: machine learning](https://my.mindnode.com/jWpM7twMb1eoSUQWQLDRU8dSLQppzeESbmMT3h56)
 
 ### [09: the quest for artificial intelligence - a history of ideas and achievements](https://my.mindnode.com/cVBXseyMieZvxyicYonNMHoznn6KQUe7r4ntVPTs)
 
+### [11: introduction to artificial intelligence](https://my.mindnode.com/TYXYAZ4MaCsrGqbMZsaWqtopx6ZCWqr6w9QnDb6w)
+
 ### 12: machine learning: a probabilistic perspective
-
-### [deep learning ✨](https://my.mindnode.com/ts4WPJDEyMjkiJuzy6YHbe1a9NdyFo1bqQ8QqQyJ)
-
-### [1997: machine learning](https://my.mindnode.com/jWpM7twMb1eoSUQWQLDRU8dSLQppzeESbmMT3h56)
 
 ### 14: superintelligence: paths, dangers, strategies
 
 ### [14: understanding machine learning: from theory to algorithms](https://my.mindnode.com/Bknxxz8AoEn8hdvzxRr4scKo1ksf4dmyyGybE4YB)
 
+### [16: reinforcement learning: an introduction](https://my.mindnode.com/5KrEbpSHNXhmzYHMR3Ay71pxeM37sxQRpqzvqz92)
+
+### [17: tensorflow machine learning cookbook](https://my.mindnode.com/vpgqkQFd513ruMopWLTzHqFjK1k6We2dyaYQsXWe)
+
+### [deep learning ✨](https://my.mindnode.com/ts4WPJDEyMjkiJuzy6YHbe1a9NdyFo1bqQ8QqQyJ)
+
 ## math
+
+### [1940: a mathematician's apology](https://my.mindnode.com/svqaW8VyqpxSu5fB4ydcpwsYLJwxvkviGy4G5VjL)
+
+### 1972: mathematics made difficult
+
+### 1982: a book of abstract algebra
+
+### 1985: to mock a mockingbird
 
 ### [1989: proofs and types](https://my.mindnode.com/WZ64AvXuxwKWhEySkkqzFVmZpL52XvTk8DgNoZ7y)
 
 free:
 
-### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
-
-### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
-
-### [invitation to ergodic theory](https://my.mindnode.com/xGoRE9DY9RiiJwNJcfprC5zn95RfsnEDijCdQYc4)
-
-### 1999: geometry and the imagination
-
-### 12: foundations of analysis
-
-### 09: essentials of discrete mathematics
+### 1994: concrete mathematics
 
 ### 1995: linear algebra done right
 
-### 1982: a book of abstract algebra
+### 1997: visual complex analysis
 
-### 1972: mathematics made difficult
+### 1999: geometry and the imagination
 
 ### [04: a first course in linear algebra](https://my.mindnode.com/ynpsot4oopEKj5XvWpJfinwQWvPsD4NZQXmo7wwx)
 
-### [1940: a mathematician's apology](https://my.mindnode.com/svqaW8VyqpxSu5fB4ydcpwsYLJwxvkviGy4G5VjL)
-
 ### [08: logicomix](https://my.mindnode.com/27sJyKNfq9M7y8mu2HfiaquJREsbsdqMxq6pn3s8)
 
-### [physically based rendering: from theory to implementation ✨](https://my.mindnode.com/DUcX9CeTv2kBEUsqUHiyq8tJqvdhxSToogmzvqzz)
+### 09: visual group theory
+
+### 09: essentials of discrete mathematics
+
+### 12: foundations of analysis
+
+### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
 
 ### [17: immersive linear algebra ✨](https://my.mindnode.com/kaHsscPCN8pBzpZyDSrryCoNTqHUiSw38pSHPjsb)
 
 free: interactive look into linear algebra
 
-### 1997: visual complex analysis
+### [physically based rendering: from theory to implementation ✨](https://my.mindnode.com/DUcX9CeTv2kBEUsqUHiyq8tJqvdhxSToogmzvqzz)
+
+### [invitation to ergodic theory](https://my.mindnode.com/xGoRE9DY9RiiJwNJcfprC5zn95RfsnEDijCdQYc4)
+
+### [linear algebra](https://my.mindnode.com/xqq1Q4pr7mXuLU2zrifTrSsLYLXLCxJY99c77rAv)
 
 ## statistics
-
-### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/Z6gzpsCMzpfhQxkFt1iEtxpyMWEV7r5fLi6x1nYS)
 
 ### 1983: the visual display of quantitative information
 
@@ -2750,47 +2237,49 @@ free: interactive look into linear algebra
 
 ### [04: all of statistics](https://my.mindnode.com/UcALpcbUZyqwiXKm4R2ksSsEwzEPDpGYuHfC1H6g)
 
-### [15: statistical rethinking: a bayesian course with examples in R and Stan](https://my.mindnode.com/f7q9d5mudLBey3ZqSYySKxmSyM8BUNxKeetRFvU1)
+### 07: introduction to bayesian statistics
 
 ### [12: think bayes: bayesian statistics made simple](https://my.mindnode.com/8KgZHdGy4ZRXU9puKwpc6Wx1PjRofEyxJxozpWyG)
 
 free: 
 
-### 07: introduction to bayesian statistics
+### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/Z6gzpsCMzpfhQxkFt1iEtxpyMWEV7r5fLi6x1nYS)
+
+### [15: statistical rethinking: a bayesian course with examples in R and Stan](https://my.mindnode.com/f7q9d5mudLBey3ZqSYySKxmSyM8BUNxKeetRFvU1)
 
 ## cs
 
-### 08: annotated turing
-
-### [05: the elements of computing systems](https://my.mindnode.com/uyDi4SqQnVgFVuPWvakCrrvanJaj7pTcaNzb36yf)
-
-### [11: the nature of computation ✨](https://my.mindnode.com/YskULHqqcYG3iumCyTVyHGzyJsixjaCfst9AwqPx)
-
-### 1989: the turing omnibus
+### 1989: the new turing omnibus
 
 ### [1996: introduction to the theory of computation](https://my.mindnode.com/zaBR6zQPtynAodx49ygxrzTA6FqX9gEx2zMknLm3)
+
+### [1996: purely functional data structures](https://my.mindnode.com/J2NvnMDKrysisQSxNqfKuRW1nwgzNoE8sPFqGxy6)
 
 ### [02: types and programming languages](https://my.mindnode.com/xMFn66c9gWpFtNbFbQVUyQyUL7dnoqzxMv6TUqph)
 
 ### [04: advanced topics in types and programming languages](https://my.mindnode.com/QVgt5LMzTSQqBRvPwC2ct5QMDzsXpqntgfVrC4qN)
 
-### [1996: purely functional data structures](https://my.mindnode.com/J2NvnMDKrysisQSxNqfKuRW1nwgzNoE8sPFqGxy6)
+### [05: the elements of computing systems](https://my.mindnode.com/uyDi4SqQnVgFVuPWvakCrrvanJaj7pTcaNzb36yf)
 
-### [12: introduction to data compression](https://my.mindnode.com/2EbXzD8n2jUHa3qcLQe71Zgksmqy6LMDxSaEap7M)
+### 08: annotated turing
+
+### [11: the nature of computation ✨](https://my.mindnode.com/YskULHqqcYG3iumCyTVyHGzyJsixjaCfst9AwqPx)
 
 ### [11: software foundations](https://my.mindnode.com/zWtaLGXxmMdQfG7HfwStAovEofps6VeM3G9z74sp)
 
 free:
 
+### [12: introduction to data compression](https://my.mindnode.com/2EbXzD8n2jUHa3qcLQe71Zgksmqy6LMDxSaEap7M)
+
 ## science
-
-### 03: a short history of nearly everything
-
-### 1988: a brief history of time
 
 ### 1962: the structure of scientific revolutions
 
 ### 1980: cosmos
+
+### 1988: a brief history of time
+
+### 03: a short history of nearly everything
 
 ## data science
 
@@ -2814,117 +2303,141 @@ free:
 
 ## memoirs
 
-### 2014: a thousand tiny failures: memoirs of a pickup artist ✔
+### 1854: walden
 
 ### 1942: the world of yesterday
 
-### 1854: walden
+### 2014: a thousand tiny failures: memoirs of a pickup artist ✔
 
 ## fiction
 
+### 1864: notes from underground
+
+### 1866: crime and punishment
+
+### 1869: the idiot
+
+### 1880: the brothers karamazov
+
+### 1884: flatland
+
 ### 1890: the picture of dorian gray ✨✔
 
-### [1932: brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
+### 1892: the yellow wallpaper  ✔
 
-### [1959: flowers for algernon ✨✔](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
+### 1908: the iron heel
+
+### 1914: the ragged trousered philanthropists
+
+### 1924: we
 
 ### 1925: heart of a dog ✨✔
 
-### 1967: master and margarita ✨✔
+### [1932: brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
 
-### 1972: roadside picnic ✨✔
+### 1943: the glass bead game
 
-### 1892: the yellow wallpaper  ✔
+### 1945: animal farm
+
+### 1949: nineteen eighty-four ✨
+
+### 1951: the rebel: an essay on man in revolt
+
+### 1953: fahrenheit 451
 
 ### 1954: the doors of perception ✨
 
 details Aldous Huxley’s own experiences when taking mescaline
 
-### 1949: nineteen eighty-four ✨
-
-### 1943: the glass bead game
-
-### 1981: the soul of new machine
-
-### 1880: the brothers karamazov
-
-### 1978: hitchhikers guide to the galaxy
-
-### 1996: the story of b: an adventure of the mind and spirit
-
-### 1965: dune
-
-### 1985: blood meridian
-
-### 1953: fahrenheit 451
-
-### 1914: the ragged trousered philanthropists
-
-### 1969: slaughterhouse five
-
-### 1908: the iron heel
-
-### 06: the road
-
-### 10: the passage
-
-### 1962: we have always lived in the castle
-
 ### 1955: lolita
 
-### 00: house of leaves
+### [1959: flowers for algernon ✨✔](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
 
-### 1864: notes from underground
+### 1962: pale fire
 
-### 1924: we
-
-### 1866: crime and punishment
-
-### 1977: the shining
-
-### 15: harry potter and the methods of rationality
-
-### 1951: the rebel: an essay on man in revolt
+### 1962: we have always lived in the castle
 
 ### 1962: one day in the life of ivan denisovich
 
 ### 1964: monday begins on saturday
 
-### 1962: pale fire
+### 1965: dune
 
-### 1869: the idiot
+### 1967: master and margarita ✨✔
+
+### 1969: slaughterhouse five
+
+### 1972: roadside picnic ✨✔
+
+### 1974: the forever war
+
+### 1977: the shining
+
+### 1978: hitchhikers guide to the galaxy
+
+### 1981: the soul of new machine
+
+### 1985: blood meridian
+
+### 1989: the remains of the day
+
+### 1996: the story of b: an adventure of the mind and spirit
 
 ### 1999: the perks of being a wallflower ✔
 
-### 1945: animal farm
+### 00: house of leaves
+
+### 06: the road
+
+### 10: the passage
+
+### 15: harry potter and the methods of rationality
 
 ## scifi
 
-### culture series
-
-- excession
-
-### foundation series
-
-### blindsight
-
-### 11: the martian
-
-### the dispossessed
+### 1961: stranger in a strange land
 
 ### 1963: cat’s cradle
 
-### 14: red rising
-
 ### 1968: do androids dream of electric sheep?
+
+### 1969: ubik
+
+### 1974: the mote in god's eye
+
+### 1985: ender’s game
+
+### 1988: the player of games
+
+### 1992: a fire upon the deep
 
 ### 1992: snow crash
 
 ### 1994: permutation city
 
-### 1988: the player of games
+### 1995: the diamond age
 
-### 1985: ender’s game
+### 11: the martian
+
+### 14: red rising
+
+### the dispossessed
+
+### blindsight
+
+### series
+
+- culture
+
+	- excession
+
+- hyperion cantos
+
+- foundation
+
+- rama
+
+	- 1973: rendezvous with rama
 
 ## adventure
 
@@ -2932,21 +2445,21 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ## [short stories](https://my.mindnode.com/pYb2gsa7vJXi1uyPDxo2yhwvNzyTfjDk7JmLWwsX)
 
+### 1943: the little prince ✨✔
+
 ### [1956: the last question ✨✔](https://my.mindnode.com/qrGA3PyEVxWZDisJ8dxpz9J7eJTbdqYLLXPnBND4)
 
 free:
 
-### 1943: the little prince ✨✔
+### 1971: franz kafka: the complete stories
 
 ### 1991: understand ✨✔
 
-### [2005: the fable of the dragon-tyrant ✨✔](https://my.mindnode.com/jYyp4tzqcpUdapyqQsDSTm8orzBNcMmByq13i2UH)
-
-free:
-
 ### 1998: story of your life
 
-### 1971: franz kafka: the complete stories
+### [05: the fable of the dragon-tyrant ✨✔](https://my.mindnode.com/jYyp4tzqcpUdapyqQsDSTm8orzBNcMmByq13i2UH)
+
+free:
 
 ## thriller
 
@@ -2960,33 +2473,33 @@ free:
 
 ## history
 
-### 1986: the making of atomic bomb
-
-### 1980: a people’s history of the united states
-
-### 11: sapiens: a brief history of humankind
-
-### 1973: gravity’s rainbow
-
-### 12: the idea factory: bell labs and the great age of american innovation
-
-### 03: masters of doom
-
 ### 1903: the souls of black folk
-
-### 1975: american slavery, american freedom
 
 ### 1962: the structure of scientific revolutions
 
+### 1973: gravity’s rainbow
+
+### 1975: american slavery, american freedom
+
+### 1980: a people’s history of the united states
+
+### 1986: the making of atomic bomb
+
 ### 1997: guns, germs, and steel: the fates of human societies
+
+### 03: masters of doom
+
+### 11: sapiens: a brief history of humankind
+
+### 12: the idea factory: bell labs and the great age of american innovation
 
 ### 14: the sixth extinction: an unnatural history
 
 ## crypto
 
-### [14: engineering security](https://my.mindnode.com/mTjeixwMWxBLP6dKAS2L5oedvNyDc6N7hV51TdqE)
-
 ### 1999: the code book ✨
+
+### [14: engineering security](https://my.mindnode.com/mTjeixwMWxBLP6dKAS2L5oedvNyDc6N7hV51TdqE)
 
 ## alt history
 
@@ -3014,19 +2527,19 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ## neuroscience
 
+### 00: principles of neural science
+
 ### [01: molecular basis of neuropharmacology: a foundation for clinical neuroscience](https://my.mindnode.com/ryVUUpnoDx9mYcpXqJVkzdMH9MeyESsy5fWuSnN1)
 
-### thinking, fast and slow
-
-### 00: principles of neural science
+### 11: thinking, fast and slow
 
 ## chemistry
 
-### 13: drugs 2.0: the web revolution that's changing how the world gets high
+### 1982: modern quantum chemistry: introduction to advanced electronic structure theory 
 
 ### 1997: tryptamines i have known and loved: the chemistry continues
 
-### 1982: modern quantum chemistry: introduction to advanced electronic structure theory 
+### 13: drugs 2.0: the web revolution that's changing how the world gets high
 
 ## design
 
@@ -3036,9 +2549,9 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ## politics
 
-### 1974: the anatomy of the state
-
 ### 1944: the road to serfdom
+
+### 1974: the anatomy of the state
 
 ### 13: the democracy project: a history, a crisis, a movement
 
@@ -3052,9 +2565,9 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ## business
 
-### 14: the hard things about hard things
-
 ### 1967: the effective executive
+
+### 14: the hard things about hard things
 
 ### 14: give and take: why helping others drives our success
 
@@ -3066,19 +2579,23 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 1965: the autobiography of malcolm x
 
-### 1991: the man who knew infinity: a life of the genius ramanujan
+### 1971: napoleon bonaparte: an intimate biography
 
-### 05: team of rivals: the political genius of abraham lincoln
+### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/EYQVieik8Mh1x337GHJshm5BdaKgwWqAz4uZRWv9)
+
+### 1991: the man who knew infinity: a life of the genius ramanujan
 
 ### 01: madame curie: a biography
 
-### 15: elon musk: tesla, spacex, and the quest for a fantastic future
-
 ### 04: benjamin franklin: an american life
+
+### 05: team of rivals: the political genius of abraham lincoln
 
 ### 07: einstein: his life and universe
 
-### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/EYQVieik8Mh1x337GHJshm5BdaKgwWqAz4uZRWv9)
+### 11: steve jobs
+
+### [15: elon musk: tesla, spacex, and the quest for a fantastic future](https://my.mindnode.com/oGry1D2y682DZSzo8yxxWuf1muezNEVR2BzK8uZN)
 
 ## awareness 
 
@@ -3106,11 +2623,11 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ## psychedelics
 
+### 94: the invisible landscape: mind, hallucinogens, and the i ching
+
 ### 02: breaking open the head
 
 ### 05: supernatural: meetings with the ancient teachers of mankind
-
-### 94: the invisible landscape: mind, hallucinogens, and the i ching
 
 ## graphics
 
@@ -3175,6 +2692,866 @@ various talks I have found interesting that don’t fall into any category
 
 
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
+
+
+# [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
+
+
+## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
+
+humans whose work I really respect and am curious about sorted by the domain in which they worked
+
+### spirit
+
+- 400 BC: Gautama Buddha
+
+- 1948: Mahatma Gandhi
+
+- 1950: Ramana Maharshi
+
+- 1950: Sri Aurobindo
+
+- [1973: Alan Watts ✨](https://my.mindnode.com/RxeFj3oCokkLpJjiebXfTUd4J4b8gbtAJH4xaPTc)
+  his talks and writing has changed my life in a very positive way
+
+- 1981: Nisargadatta Maharaj
+
+- 1981: Paul Brunton
+
+- 1986: Jiddu Krishnamurti
+
+- 1996: Timothy Leary
+
+- 00: Terrence McKenna
+
+- Graham Hancock
+
+- Stanislav Grof
+
+### math
+
+- 546 BC: Thales of Miletus
+
+- 495 BC: Pythagoras
+  invented the famous Pythagoras’s Theorem
+
+- 322 BC: Aristotle
+
+- ~300BC: Euclid
+  mathematical treatment of “preferred outcomes” or utility was first finalised by him, gave the basis for modern proof-based mathematics
+
+- 212 BC: Archimedes
+  used a lot of advanced methods (something like infinitesimal calculus) which he used to derive the formulas for computing the volume of cones and other solids of revolution, he also used similar methods to investigate the properties of conics
+
+- 194 BC: Eratosthenes
+  known for the Sieve of Eratosthenes, which is a method of finding prime numbers
+
+- 299: Diophantus
+  was interested in properties of integers
+
+- 1425: Madhava of Sangamagrama
+
+- 1576: Gerolamo Cardano
+  first framed the idea of probability, describing it in terms of the possible outcomes of gambling events
+
+- 1617: John Napier
+  invented logarithms
+
+- 1655: Pierre Fermat
+
+- 1705: Jacob Bernoulli
+
+- 1650: Rene Descartes
+  give the first clear discussion of the distinction between mind and matter and of the problems that arise
+
+- 1662: Blaise Pascal
+  built a famous calculating machine
+
+- 1716: Gottfried Leibniz
+  built a mechanical device intended to carry out operations on concepts rather than numbers
+
+- 1761: Thomas Bayes
+  proposed a rule for updating probabilities in light of new evidence
+
+- 1777: Johann Lambert
+  intend Wave Equation
+
+- 1783: Leonhard Euler ✨
+  invented The Square Root of Minus One, Euler’s Formula for Polyhedra
+
+- 1813: Joseph Lagrande
+
+- 1827: Pierre Laplace
+  advanced the theory and introduced new statistical methods
+
+- 1829: Niels Abel
+
+- 1830: Joseph Fourier
+  invented Fourier Transform
+
+- 1832: Évariste Galois
+
+- 1833: Adrien Legendre
+
+- 1851: Carl Jacobi
+
+- 1852: Ada Lovelace
+
+- [1855: Carl Gauss ✨](https://my.mindnode.com/1z2MezPqRe43qKMJZz5ydJJDNhnekMGLHUzg9qz7)
+  invented Normal Distribution
+
+- 1857: Augustin Louis Cauchy
+
+- 1859: Peter Dirichlet
+
+- 1864: George Boole
+  worked out the details of propositional, or Boolean logic
+
+- 1866: Bernhard Riemann
+
+- 1871: Charles Babbage
+
+- 1912: Henri Poincaré
+
+- 1918: Georg Cantor
+
+- 1920: Srinivasa Ramanujan
+
+- 1925: Gottlob Frege
+  extended Boole’s logic to include objects and relations, creating the first-order logic that is used today
+
+- 1930: Frank Ramsey
+
+- 1935: Amalie Noether ✨
+
+- 1943: David Hilbert
+
+- 1945: Stefan Banach
+
+- 1947: Godfrey Hardy
+
+- 1962: Charles Vallee-Pussin
+
+- 1970: Bertrand Russel
+
+- 1977: John Littlewood
+
+- 1978: Kurt Godel
+
+- 1982: Haskell Curry
+
+- 1983: Alfred Tarski
+  introduced a theory of reference that shows how to relate the objects in logic to objects in the real world
+
+- 1994: Stephen Kleene
+
+- 1996: Paul Erdős
+
+- 01: Claude Shannon
+  invented Information Theory
+
+- 14: Alexander Grothendieck
+
+- 15: John Nash
+
+- Jean Serre
+
+- Cédric Villani
+
+- Shinichi Mochizuki
+
+- Peter Scholze
+
+- Grigori Perelman
+
+- Andrew Wiles
+
+- John Conway
+
+- Terrence Tao
+
+- Andrew Granville
+
+### physics
+
+- 1543: Nicolaus Copernicus
+
+- 1642: Galileo Galilei
+
+- 1703: Robert Hooke
+
+- 1726: Isaac Newton
+  invented Calculus and Law of Gravity
+
+- 1879: James Maxwell
+  invented Maxwell’s equations
+
+- 1894: Heinrich Hertz
+  first person to transmit and receive radio waves
+
+- 1906: Ludwig Boltzmann
+  invented Schrodinger’s Equation
+
+- 1906: Pierre Curie
+
+- 1937: Ernest Rutherford
+
+- 1937: Guglielmo Marconi
+
+- 1940: Joseph Thompson
+
+- 1943: Nikola Tesla
+
+- 1947: Max Planck
+
+- 1951: Arnold Sommerfeld
+
+- 1954: Enrico Fermi
+
+- 1955: Albert Einstein
+
+- 1958: Wolfgang Pauli
+
+- 1961: Erwin Schrödinger
+
+- 1962: Niels Bohr
+
+- 1967: Julius Oppenheimer
+
+- 1970: Max Born
+
+- 1974: James Chadwick
+
+- 1974: Satyendra Bose
+
+- 1976: Werner Heisenberg
+
+- 1980: John Mauchly
+
+- 1984: Paul Dirac
+
+- 1987: Louis de Broglie
+
+- 1988: Richard Feynman
+
+- 1990: John Bell
+
+- 1991: John Bardeen
+
+- 1995: Eugene Wigner
+
+- Roger Penrose
+
+- Stephen Hawking
+
+- Anton Zeilinger
+
+### astronomy
+
+- 1953: Edwin Hubble
+
+- 1996: Carl Sagan
+
+### cs
+
+- 1936: Margaret Hamilton
+
+- 1954: Alan Turing
+
+- 1995: Konrad Zuse
+
+- 1957: John von Neumann
+
+- 1990: Alan Perlis
+
+- 02: Edsger Dijkstra
+
+- 03: Edgar Codd
+
+- Donald Knuth
+
+- Tony Hoare
+  developed QuickSort algorithm
+
+- Carl Sassenrath
+
+- Stephen Cook
+
+- Leslie Lamport
+
+### ai
+
+- 01: Herbert Simon
+
+- 11: John McCarthy
+
+- 16: Marvin Minsky
+
+- Geoffrey Hinton
+  was one of the first researchers who demonstrated the use of generalised back propagation algorithm for training multi-layer neural nets
+
+- Demis Hassabis
+
+### code
+
+- 1992: Grace Hopper
+
+- Linus Torvalds
+
+- John Carmack
+
+- Steve Wozniak
+
+- Jeff Dean
+
+### language design
+
+- 07: John Backus
+
+- 11: Dennis Ritchie
+  helped design C language
+
+- James Gosling
+  designed Java language
+
+- Martin Richards
+  developed BCPL programming language
+
+- Niklaus Wirth
+  designed several languages including Pascal
+
+- Xavier Leroy
+  primary developer of the OCaml system
+
+- Alan Kay
+  helped design Smalltalk language
+
+- Anders Hejlsberg
+  designed Turbo Pascal and Delphi languages and works as lead architect of C+ and core developer of TypeScript
+
+- Rob Pike
+  helped design Go language
+
+- Ken Thompson
+  designed C language
+
+- Yukihiro Matsumoto
+  designed ruby language
+
+- Larry Wall
+  designed Perl language
+
+- Guido van Rossum
+  designed Python language
+
+- Rasmus Lerdorf
+  designed PHP language
+
+- Bjarne Stroustrup
+  designed C++ language
+
+- Brendan Eich
+  designed Javascript language
+
+- Rich Hickey
+  designed Clojure language
+
+- Jose Valim
+  designed elixir language
+
+- Chris Lattner
+  designed Swift language
+
+### philosophy
+
+- 479 BC: Confucius
+
+- 399 BC: Socrates
+
+- 323 BC: Diogenes
+
+- 147 BC: Plato
+
+- 135: Epictetus
+
+- 1274: Thomas Aquinas
+
+- 1626: Francis Bacon
+
+- 1679: Thomas Hobbes
+  proposed that reasoning was like numerical computation, that “we add and subtract in our silent thoughts”
+
+- 1704: John Locke
+
+- 1776: David Hume
+
+- 1778: Jean-Jacques Rousseau
+
+- 1804: Immanuel Kant
+
+- 1833: William Thompson
+
+- 1855: Søren Kierkegaard
+
+- 1857: Auguste Comte
+
+- 1860: Arthur Schopenhauer
+
+- 1873: John Mill
+
+- 1900: Friedrich Nietzsche
+
+- 1938: Edmund Husserl
+
+- 1951: Ludwig Wittgenstein
+
+- 1952: John Dewey
+
+- 1960: Albert Camus
+
+- 1990: Manly Hall
+
+- 1994: Karl Popper
+
+- Peter Singer
+
+### art
+
+- 1519: Leonardo da Vinci
+
+- 1564: Michelangelo
+
+- 1669: Rembrandt
+
+- 1890: Vincent van Gogh
+
+- 1918: Gustav Klimt
+
+- 1926: Claude Monet
+
+- 1956: Jackson Pollock
+
+- 1972: M. C. Escher
+
+- 1973: Pablo Picasso
+
+- 1987: Andy Warhol
+
+- 1989: Salvador Dali
+
+- [James Eads](https://my.mindnode.com/4zALJspqHnjzs1BZdAxrams6qmb6FDWDqKLthmc1)
+
+### chemistry
+
+- 1794: Antoine Lavoisier
+
+- 1691: Robert Boyle
+
+- 1829: Humphry Davy
+
+- 1844: John Dalton
+
+- 1896: Alfred Nobel
+
+- 1907: Dmitri Mendeleev
+
+- 1927: Svante Arrhenius
+
+- 1867: Michael Faraday
+
+- 1934: Marie Curie
+
+- 1934: Fritz Haber
+
+- 1944: Linus Pauling
+
+- 1958: Rosalind Franklin
+
+- 14: Alexander Shulgin
+
+- 14: Stephanie Kwolek
+
+### medicine
+
+- 370 BC: Hippocrates
+
+- 210: Aelius Galen
+
+- 1564: Andreas Vesalius
+
+- 1657: William Harvey
+
+- 1824: James Parkinson
+
+- 1902: Rudolf Virchow
+
+- 1910: Elizabeth Blackwell
+
+- 1950: Charles Drew
+
+- 1964: Alfred Blalock
+
+- 1974: Virginia Apgar
+
+- 1995: Jonas Salk
+
+### writing
+
+- 1616: William Shakespeare
+
+- 1881: Fyodor Dostoyevsky
+
+- 1900: Oscar Wilde
+
+- 1940: Mikhail Bulgakov
+
+- 1910: Mark Twain
+
+- 1930: Arthur Conan Doyle
+
+- 1950: Eric Arthur Blair
+  known by his pen name ‘George Orwell’
+
+- 1955: Dale Carnegie
+
+- 1962: Hermann Hesse
+
+- 1963: Aldous Huxley
+
+- 1973: John Tolkien
+
+- 1977: Anais Nin
+
+- 07: Kurt Vonnegut
+
+- Paul Graham
+
+### scifi
+
+- 1905: Jules Verne
+
+- 1937: Howard Lovecraft
+
+- 1946: Herbert Wells
+
+- 1982: Philip Dick
+
+- 1988: Robert Heinlein
+
+- 1992: Isaac Asimov
+
+- 01: Douglas Adams
+
+- 06: Stanislaw Lem
+
+- 08: Arthur Clarke
+
+- Ursula Le Guin
+
+- Dan Simmons
+
+- Stephen King
+
+- Ted Chiang
+
+### economics
+
+- 1790: Adam Smith
+
+- 1883: Karl Marx
+
+- 1920: Max Weber
+
+- 1946: John Keynes
+
+- 1992: Friedrich Hayek
+
+- 06: Milton Friedman
+
+- 09: Paul Samuelson
+
+### entrepreneur
+
+- 1913: John Morgan
+
+- 1919: Andrew Carnegie
+
+- 1931: Thomas Edison
+
+- 1937: John Rockefeller
+
+- 1947: Henry Ford
+
+- 1966: Walt Disney
+
+- 11: Steve Jobs
+
+- Larry Page
+
+- Elon Musk
+
+- Bill Gates
+
+- Jeff Bezos
+
+- Jack Ma
+
+### investing
+
+- Warren Buffet
+
+- George Soros
+
+### invention
+
+- 1468: Johannes Gutenberg
+
+- 1815: Robert Fulton
+
+- 1819: James Watt
+
+- 1825: Eli Whitney
+
+- 1872: Samuel Morse
+
+- [1912, 1948: Wright brothers](https://my.mindnode.com/MFmim5EzAcpGhzchGhMyuGkqfXmoYy1qfu8yXztN)
+  designed, built and flew the first controlled, powered, heavier than air airplane in 1903
+
+- 1913: Rudolf Diesel
+
+- 1922: Alexander Bell
+
+- 1929: Karl Benz
+
+- 1932: George Eastman
+
+- 1943: George Carver
+
+- 1946: John Baird
+
+- 00: Hedy Lamarr
+
+- Vint Cerf
+
+- Tim Berners-Lee
+
+- Douglas Engelbart
+
+### genetics
+
+- 1884: Gregor Mendel
+
+### psychology
+
+- 1936: Ivan Pavlov
+
+- 1939: Sigmund Freud
+
+- 1970: Abraham Maslow
+
+- 1980: Jean Piaget
+  known for his pioneering work in child development
+
+- 1987: Carl Rogers
+
+- 1990: Burros Skinner
+
+### music
+
+- 1750: Johann Bach
+
+- 1791: Wolfgang Mozart
+
+- 1827: Ludwig van Beethoven
+
+- 1970: Jimi Hendrix
+
+- 1980: John Lennon
+
+- 10: Jun Seba
+  stage name: Nujabes
+
+- Paul McCartney
+
+- Jon Hopkins
+
+- Kevin Parker
+  band: Tame Impala
+
+- Justin Vernon
+  band: Bon Iver
+
+- Marcos Ortega
+  stage name: Lorn
+
+- Douglas Appling
+  stage name: Emancipator
+
+- Jason Chung
+  stage name: Nosaj Thing
+
+- Nicolas Jaar
+
+- Chazwick Bundick
+  stage name: Tory Y Moi
+
+- Henry Laufer
+  stage name: Shlohmo
+
+### biology
+
+- 1778: Carl Linnaeus
+
+- 1873: Louis Agassiz
+
+- 1882: Charles Darwin
+
+- 1895: Louis Pasteur
+
+- 1913: Alfred Wallace
+
+- 1955: Alexander Fleming
+
+- 1964: Rachel Carson
+
+- 02: Stephen Gould
+
+- James Watson
+
+- David Baltimore
+
+### neuroscience
+
+- Aafia Siddiqui
+
+- Christof Koch
+
+- Sam Harris
+
+- David Eagleman
+
+- Antonio Damasio
+
+- Daniel Levitin
+
+- Robert Sapolsky
+
+- Henry Markram
+
+- Paul Greengard
+
+### architecture
+
+- 1926: Antoni Gaudí
+
+- 1959: Frank Wright
+
+- 1965: Charles Jeanneret
+
+- 1969: Ludwig van der Rohe
+
+- 1974: Louis Kahn
+
+- 05: Philip Johnson
+
+- Tadao Ando ✨
+
+- Renzo Piano
+
+- Frank Gehry
+
+### historian
+
+- 425 BC: Herodotus
+
+- 354 BC: Xenophon
+
+- 1794: Edward Gibbon
+
+- 1990: Alan Taylor
+
+- 07: Arthur Schlesinger
+
+### acting
+
+- 04: Marlon Brando
+
+- Kevin Spacey
+
+- Leonardo DiCaprio
+
+### film directing
+
+- 1980: Alfred Hitchcock
+
+### photography
+
+- 1971: Diane Arbus
+
+- 1954: Robert Capa
+
+- 1958: Edward Weston
+
+- 1984: Ansel Adams
+
+- 04: Henri Cartier-Bresson
+
+- 04: Richard Avedon
+
+### industrial design
+
+- 1986: Raymond Loewy
+
+- Dieter Rams
+
+- Jonathan Ive
+
+- James Dyson
+
+### management
+
+- Tim Cook
+
+- Eric Schmidt
+
+- Sundar Pichai
+
+- Satya Nadella
+
+### fashion
+
+- 1971: Gabrielle Chanel
+
+- Tom Ford
+
+### human computer interaction
+
+- Larry Tesler
+  pioneered cut, copy, paste action
+
+### linguistics
+
+- Noam Chomsky
+
+### comedy
+
+- 1994: Bill Hicks
+
+### cryptography
+
+- Adi Shamir
+
+## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
+
+all of the github people whose work I find interesting, sorted by their skills and interests
+
+## [richest](https://my.mindnode.com/PzvpujT1DgzLs8WNZsSUzjDUSyx1GWE8x4pfN3th)
+
+all the richest humans of this planet with overview of how they got their wealth
+
+## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
+
+interesting ask me anything threads I found on the internet
 
 
 # [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
@@ -3634,11 +4011,11 @@ courses I am doing or plan on doing
 
 ### [04: mit multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
 
-### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
-
 ### [06: mit singlevariable calculus](https://my.mindnode.com/jBspeyDM76ZjWPMPEsUoYSFqaKapH23TBmUTMUbA)
 
 ### [07: mit multivariable calculus](https://my.mindnode.com/WyaVEZQ3Wj28qfkzxy1icFH8cVDpPviMpwWpvxYS)
+
+### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
 
 ## statistics
 
@@ -3997,7 +4374,7 @@ companies that I find interesting sorted by their domain
 
 - Google
 
-### Amazon
+### [Amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
 
 ### [Facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
@@ -4693,3 +5070,4 @@ how to find work and what to focus on
 ## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
 ## [creative](https://my.mindnode.com/55YPRCtghqP6zzT5edpEX6nS5wzKwgwTDkFxvgBD)
+
