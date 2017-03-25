@@ -273,7 +273,17 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
 
-study of numbers, shapes and patterns
+- study of numbers, shapes and patterns  
+- to a mathematician, the reason something is true is just as important as the fact that it is true  
+- it includes the study of :  
+	- numbers (i.e. 3 + 6 = 9)  
+	- structure (how things are organised) 		  
+	- place (where things are and their arrangement) 	  
+	- change (how things become different over time)  
+- it uses logic, paper and calculator  
+- a proof gives a reason why a rule in mathematics is correct  
+- sometimes, math finds ad studies res or ideas in the real world that we don’t understand yet  
+- staying the rules and ideas of mathematics can help us understand the world better
 
 
 ## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
@@ -2704,10 +2714,18 @@ humans whose work I really respect and am curious about sorted by the domain in 
 ### spirit
 
 - 400 BC: Gautama Buddha
+  - was the man who started Buddhism
 
 - 1948: Mahatma Gandhi
+  - was a leader of nationalism in British-ruled India  
+  - was a non-violent activist, who led the independence movement through a non-violent protest  
+  - his values were simple, based upon traditional Hindu beliefs: truth (satya), and non-violence (ahisma)  
+  - was assassinated by an extremist Hindu activist
 
 - 1950: Ramana Maharshi
+  - he gave his approval to a variety of paths and practices, but recommended self-enquiry as the principal means to remove ignorance and abide in self awareness  
+  - described his Self as a ‘force’ or ‘current’, which descended on him in his death experience and continued throughout his life  
+  - his main means of instruction to his devotees in order to remove ignorance and abide Self-awareness was through silently sitting together, using words sparingly
 
 - 1950: Sri Aurobindo
 
