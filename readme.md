@@ -2,7 +2,7 @@
 
 ![](https://i.imgur.com/WF4OVJK.jpg)
 
-### [Full Resolution Mind Map Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
+### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
 # Why? 🎈
 
