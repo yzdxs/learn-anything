@@ -84,12 +84,13 @@ the high level overview of all the knowledge
 
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
 
-privacy is important, what can you do to preserve your identity online
+- is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
+- it is the right of people to conceal information about themselves that others might use to their advantage
 
 
 # [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
 
-someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
+- someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
 # [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
@@ -133,7 +134,7 @@ practice and study of hiding information, is used to try and keep information se
 
 ### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
 
-allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
+- allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
 
 ## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
 
@@ -282,13 +283,17 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 	- change (how things become different over time)  
 - it uses logic, paper and calculator  
 - a proof gives a reason why a rule in mathematics is correct  
-- sometimes, math finds ad studies res or ideas in the real world that we don’t understand yet  
-- staying the rules and ideas of mathematics can help us understand the world better
+- sometimes, math finds and studies rules or ideas in the real world that we don’t understand yet  
+- studying the rules and ideas of mathematics can help us understand the world better
 
 
 ## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
 
-came from trying to solve systems of linear equations, vectors and matrices are used to solve these systems
+- came from trying to solve systems of linear equations  
+	- vectors and matrices are used to solve these systems  
+- main objects of study currently are vector spaces and linear mappings between vector spaces  
+- it describes ways to solve and manipulate (rearrange) systems of linear equations  
+- it uses a system of notation for describing system behaviour, called a matrix
 
 ### [vectors](https://my.mindnode.com/BcLRxCpcZBuB6xsMin7BsEMvKtL4zUTt9PfmbJ2z)
 
