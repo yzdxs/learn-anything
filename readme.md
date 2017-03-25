@@ -101,8 +101,7 @@ Learn something new. 🎊
 	- there are many different kinds of aircraft  
 - some aircraft keep in the sky by moving air over their wings  
 	- most use engine power  
-	- few use muscle power  
-
+	- few use muscle power
 
 
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
@@ -231,7 +230,22 @@ Learn something new. 🎊
 
 ## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
 
-- how to analyse the correctness and running time of algorithms
+- analysis of algorithms is the determination of the amount of resources (such as time and storage) necessary to execute them  
+- most algorithms are designed to work with inputs of arbitrary length   
+- usually, the efficiency or running time of an algorithm is stated as a function relating the input length to the number of steps (time complexity) or storage locations (space complexity)  
+- it is common to estimate the complexity in the asymptotic sense   
+	- i. e. estimate the complexity function for arbitrarily large input
+
+### [time](https://my.mindnode.com/py9p3zQvDjNJJR8e7LQvufFhuCNSQdbGxz9CCabE)
+
+- time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input  
+- it is commonly expressed using big O notation, which excludes coefficients and lower order terms  
+- it is commonly estimated by counting the number of elementary operations performed by the algorithm, where an elementary operation takes a fixed amount of time to perform
+
+### [space](https://my.mindnode.com/ifCnybuRTbNpqeupsHU9swWpW6qgpe3wmK2G2grT)
+
+- DSPACE or SPACE is the computational resources describing the resource of memory space for a deterministic Turing machine  
+- it represents the total amount of memory space that a ‘normal’ physical computer would need to solve a given computational problem with a given algorithm
 
 ## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
 
@@ -239,23 +253,39 @@ Learn something new. 🎊
 
 ## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
 
-how to design efficient and correct algorithms
+- algorithm design is a specific method to create a mathematical process in solving problems  
+- techniques for designing and implementing algorithm designs are algorithm design patterns, such as template method pattern and and decorator pattern, and uses of data structures, and name and sort lists  
+- steps in development of algorithms include :   
+1. problem definition  
+2. development of a model  
+3. specification of algorithm  
+4. designing an algorithm  
+5. checking the correctness of algorithm  
+6. analysis of algorithm  
+7. implementation of algorithm  
+8. program testing  
+9. documentation preparation
 
 ### [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
 
-what techniques exist to coming up with efficient algorithmic solutions to solving a problem
-
-## [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
-
-efficient genetic algorithms
+- common design paradigms  
+	- divide and conquer   
+	- dynamic programming  
+	- greedy algorithm  
+	- back tracking  
+	- brute force
 
 ## [sorting ✨](https://my.mindnode.com/Mj1UagFNqNLG4qzjkMFsgpZeHywMgyDSDwFrjqv2)
 
-efficient sorting algorithms
+- sorting algorithm is an algorithm that puts elements of a list in a certain order  
+- most used orders are numerical order and lexicographical order  
+- efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  
+- it is also often useful for canonicalising data and for producing human readable output
 
 ## [graphs ✨](https://my.mindnode.com/GafxJVenwGZPZbAgjCrCg3brxJJYAxmaTpFnJuRh)
 
-efficient graph algorithms
+- a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects  
+- inc: efficient graph algorithms
 
 ## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
 
@@ -278,6 +308,13 @@ big O notation and how it can be used to analyse running time
 ## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
 
 algorithm visualisations 
+
+## evolutionary
+
+### [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
+
+- genetic algorithm is a metaheuristic inspired by the process of natural selection  
+- are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
 
 
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
@@ -971,6 +1008,8 @@ original python implementation in c, compiles python code into byte code and int
 ## ada
 
 ## awk
+
+## [alpaca](https://my.mindnode.com/jLpsyfNSgeik4h7zcYNnLxWZXmkzs8EnAtQ2zeWx)
 
 
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
@@ -2737,6 +2776,10 @@ free:
 ## investing
 
 ### 1949: the intelligent investor
+
+## society
+
+### 15: the utopia of rules
 
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
