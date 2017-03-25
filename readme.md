@@ -282,34 +282,45 @@ Learn something new. 🎊
 - efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  
 - it is also often useful for canonicalising data and for producing human readable output
 
-## [graphs ✨](https://my.mindnode.com/GafxJVenwGZPZbAgjCrCg3brxJJYAxmaTpFnJuRh)
+## [graph ✨](https://my.mindnode.com/jtV98ApdqAA8RcaDwxrJRUyxTK6dyLxiL7xtkNey)
 
-- a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects  
-- inc: efficient graph algorithms
+- a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects
 
 ## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
 
-efficient searching algorithms
+- search algorithm is an algorithm that retrieves information stored within some data structure  
+- appropriate search algorithm often depends on the data structure being searched  
+- searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  
+- they can be classified based on their mechanism of searching
 
 ### [combinatorial](https://my.mindnode.com/GdcdQx9B5K7gqAUvyMppTCfJ9YuNc5u66Sxwmijp)
 
-## [matrix multiplication](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
+- combinatorial search usually exploits one or more pruning strategies to avoid testing all of the possible candidate solutions  
+- an example of combinatorial search is, for instance, branch and bound  
+	- here, you may safely skip some subtrees since, depending on your particular optimisation problem, you know in advance that no node within a certain subtree can yield a better solution than the current one during the execution of your algorithm
 
-algorithms to perform efficient matrix multiplication
+## [matrix multiplication ✨](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
+
+- applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  
+- many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)
 
 ## [ai ✨](https://my.mindnode.com/4m9t3mPfyqswiCReekaA41Vt6xJmpMG4gN2zpvir)
 
-algorithms in the domain of artificial intelligence
+- ai algorithms
 
 ## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
 
-big O notation and how it can be used to analyse running time
+- is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  
+- it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  
+- the letter O is used because the growth rate of a function is also referred to as order of the function
 
 ## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
 
-algorithm visualisations 
+- interactive visualisations of algorithms and ways in which you can learn to visualise algorithms
 
-## evolutionary
+## [evolutionary](https://my.mindnode.com/TML9eBpgZqFtzysC4KxufjgmDBEtp1BTzbtExtyh)
+
+- uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection
 
 ### [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
 
@@ -319,51 +330,136 @@ algorithm visualisations
 
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
-organisation of and implementing of values and information, where data structures are different from abstract data types is in the way they are used, data structures are the implementations of abstract data types in a concrete and physical setting suing algorithms in the implementation process
+- is a particular way of organising data in a computer so that it can be used efficiently  
+- can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  
+	- a data structure is a concrete implementation of the specification provided by an ADT  
+- are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  
+- implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
 
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
-ability of a computer program or a machine to think and learn, making computers ‘smart’
+- is intelligence exhibited by machines  
+- it is the study of ‘intelligent agents’ (any device that perceives its environment and takes actions that maximise its chance of success at some goal)  
+- the term applies what a machine mimics ‘cognitive’ functions that humans associate with other human minds, such as ‘learning’ and ‘problem solving’  
+- as machines become increasingly capable, mental facilities once thought to require intelligence are removed from the definition  
+- central problems (or goals) of AI research include reasoning, knowledge, planning, learning, natural language processing (communication), perception and the ability to move and manipulate objects  
+- approaches include  
+	- statistical methods  
+	- computational intelligence  
+	- traditional symbolic AI  
+- the field was founded on the claim that ‘human intelligence can be so precisely described that a machine can be made to simulate it’  
+  
+  
+  
+- ability of a computer program or a machine to think and learn, making computers ‘smart’
 
 
 ## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
 
-gives computer the ability to learn without being explicitly programmed
+- gives computers the ability to learn without being explicitly programmed  
+- evolved from the study of pattern recognition and computational learning theory in ai  
+- it explores the study and construction of algorithms that can learn from and make predictions on data  
+	- such algorithms overcome following strictly static program instructions by making data driven predictions or decisions, through building a model from sample inputs  
+- ‘a computer program is said to learn from experience E with respect to some class of tasks T and performance measure P if its performance at tasks in T, as measured by P, improves with experience E’
 
 ### libraries
 
+- various libraries used to ease implementation of machine learning algorithms
+
 - [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
-  machine learning library by Google
+  - developed by Google  
+  - provides Python API and less documented C++, Java and Go API's
 
 	- [TensorLayer](https://my.mindnode.com/RtnzDKzkLvx7tsqqgDjQXy5HWqAZxrhqqm5j9Did)
+	  - provides rich data pre-processing, training, post-processing and serving modules
+
+	- [edward](https://my.mindnode.com/QbAq4aQPt6MSPMxPJky8T6v7yZ3FhMUot2qDp9e2)
+	  - library for probabilistic modelling, inference and criticism   
+	  - deep generative models, variational inference  
+	  - runs on tensorflow
 
 - [pytorch](https://my.mindnode.com/mBtRzJ8yynasgDxSPrXxsNs9UNzkx9xM68vJ3UgG)
+  - tensors and dynamic neural networks in python with strong GPU acceleration
 
 - [numpy ✨](https://my.mindnode.com/13xp2QzL5FTSvezyhB96ZUpqh2ZVyE84hSHVZvAC)
+  - python package for scientific computing  
+  - contains  
+  	- a powerful N-dimensional array object  
+  	- sophisticated (broadcasting) functions  
+  	- useful linear algebra, Fourier transform or random number capabilities  
+  	- amongst other things
 
 - [darknet](https://my.mindnode.com/ksY7vgK52FRHggk4xy1sB6yDqeSFnGN4UxYjTqw9)
+  - open source neural networks written in C and CUDA
 
 - [caffe](https://my.mindnode.com/t4sfpuyguxDZ7chsCApvnUYsyqMfJ9Jv9L3NWuab)
-
-- [edward](https://my.mindnode.com/QbAq4aQPt6MSPMxPJky8T6v7yZ3FhMUot2qDp9e2)
+  - deep learning framework made with expression, speed and modularity in mind  
+  - has  
+  	- expressive architecture  
+  	- extensible code  
+  	- speed  
+  	- community
 
 ### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
 
+- inspired by behaviourist psychology, concerned with how software agents ought to take actions in an environment so as to maximise some notion of cumulative reward  
+- in machine learning, the environment is typically formulated as Markov decision process (MDP), as many reinforcement learning algorithms for this context utilise dynamic programming techniques  
+	- main differences between classical techniques and reinforcement learning algorithms is that the latter do not need knowledge about the MDP and they target large MDPs where exact methods become infeasible  
+- it differs from standard supervised learning in that correct input/output pairs are never presented, nor sub-optimal actions explicitly corrected  
+- basic reinforcement learning model consists of :  
+	1. a set of environment and agent states S  
+	2. a set of actions A of the agent  
+	3. policies of transitioning from states to actions  
+	4. rules that determine the scalar immediate reward of a transition  
+	5. rules that describe what the agent observes
+
 ### [adversarial](https://my.mindnode.com/M9XhxHJ69MHhzAXzzU6ZAj1dCSwuXsxz1xifg5LF)
+
+- aims to enable the safe adoption of machine learning techniques in adversarial settings like spam filtering, malware detection and biometric recognition
 
 ### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY)
 
+- is a collection of data  
+- most common a data set corresponds to the contents of a single database table, or a single statical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question
+
 ### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
 
-is an artificial system made up of virtual abstractions of neutron cells, based on the human brain, neural networks are used to solve computation problems by imitating the way neutrons are fired or activated in the brain
+- are computational models based on a large collection of simple neural units (artificial neurons), loosely analogous to the observed behaviour of a biological brain’s axons  
+- each neural unit is connected with many others, and links can enhance or inhibit the activation state of adjoining neural units  
+- each individual neural unit computes using summation function  
+- there may be a threshold function or limiting function on each connection and on the unit itself, such that the signal must surpass the limit before propagating to there neurons  
+- these systems are self learning and trained, rather than explicitly programmed, and excel in areas where the solution or feature detection is difficult to express in a traditional computer program
 
 ## [deep learning ✨](https://my.mindnode.com/ycU59gAXTjsXkJqjR2xAYawvcFuXqUPbxiDpBX4z)
 
-## [general intelligence](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
+- is a class of machine learning algorithms that :   
+	- use a cascade of many layers of nonlinear processing units for feature extraction and transformation  
+		- each successive layer uses the output from the previous layer as input  
+		- the algorithms may be supervised or unsupervised and applications include pattern analysis (unsupervised) and classification (supervised)  
+	- are based on the (unsupervised) learning of multiple levels of features or representations of the data  
+		- higher level features are derived from lower level features to form a hierarchical representation  
+	- are part of the broader machine learning field of learning representations of data  
+	- learn multiple levels of representations that correspond to different levels of abstraction (the levels form a hierarchy of concepts)
+
+## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
+
+- is the intelligence of a machine that could successfully perform any intellectual task that a human being can  
+- it is required to do the following  
+	- reason, use strategy, solve puzzles, and make judgements under uncertainty  
+	- represent knowledge, including common sense knowledge  
+	- plan  
+	- learn  
+	- communicate in natural language  
+	- and integrate all these skills towards common goals  
+- other important capabilities include the ability to sense (e.g. see) and the ability to act (e.g. move and manipulate objects) in the world where intelligent behaviour is to be observed 
 
 
 # [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
+
+- are software agents that act for a user or other programs in relationship of agency (an agreement to act on one’s behalf)  
+- they may be autonomous or work together with other agents or people  
+- agents interacting with people may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -420,103 +516,225 @@ is an artificial system made up of virtual abstractions of neutron cells, based 
 
 ## [statistics](https://my.mindnode.com/qVTGVEnNrmXDqy2UQTdPs1xRahZDNJFo94jy92Fb)
 
-science of data, enables the collection, analysis, understanding, and presentation of data
+- deals with the collection, analysis, interpretation, presentation and organisation of data  
+- it deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments  
+- in applying statistics to a problem, it is common practice to start with a population or process to be studied  
+	- populations can be diverse topics such as ‘all persons living in a country’ or ‘every atom composing a crystal’
 
 ### [probability](https://my.mindnode.com/MZGoZtx41zsEo3SvzQtM3d3m651huqHRRyMqpEqh)
 
-has to do with chance, the study of things that might happen or might not happen
+- is the measure of the likelihood that an event will occur  
+- is quantified as a number between 0 and 1 (where 0 indicates impossibility and 1 indicates certainty)  
+	- the higher the probability of an event, the more certain that the event will occur  
+- probability theory is required to describe quantum phenomena
 
 - [markov chains](https://my.mindnode.com/e3Hjd7WSfzApQaKjS13xx2iE1GHsgqniAaNgqscb)
+  - are stochastic processes that satisfy the Markov property (sometimes characterised as ‘memorylessness’)  
+  - a process satisfies the Markov property if one can make predictions for the future of the process based solely on its present state just as well as one could knowing the process’s full history, hence independently from such history (i.e. conditional on the present state of the system, its future and paste states are independent)  
+  - a Markov chain is a type of Markov process that has either discrete state space or discrete index set (often representing time), but the precise definition of a Markov chain varies  
+    
+    
+    
   is a model of some random process that happens over time, they are called this way because they follow a rule called the Markov property which states that whatever happens next in a process only depends on how it is right now (the state)
 
 ### [survival analysis](https://my.mindnode.com/k8JiQykg46ppxrzKhA6uoNtx3pZdkhMz7BL6gVaT)
 
-analysis on the expected duration of time until one or more events happen, such as death in biological organisms and failure in mechanical systems
+- deals with analysing the expected duration of time until one or more events happen, such as death in biological organisms and failure in mechanical systems
 
 ### [time series analysis](https://my.mindnode.com/quKxxy1QV1osEUDTRJ3MS1ZAxPjxxkjqvQ8hPUaA)
 
-time series is a series of data points indexed (or listed or graphed) in time order, most commonly, a time series is a sequence taken at successive equally spaced points in time, thus it is a sequence of discrete time data
+- time series is a series of data points indexed (or listed or graphed) in time order, most commonly, a time series is a sequence taken at successive equally spaced points in time, thus it is a sequence of discrete time data  
+- examples of time series are heights of ocean tides and counts of sunspots  
+- time series are very frequently plotted via line charts  
+- time series analysis compromises methods for analysing time series data in order to extract meaningful statistics and other characteristics of the data
 
 ### [regression analysis](https://my.mindnode.com/JzesnxsJb4qQ9papCBdxQiQeUpxyCvefcY7WosPM)
 
-a tool to show the relationship between the inputs and outputs of a system
+- estimates the relationships among variables  
+- it includes many techniques for modelling and analysing several variables, when the focus is on the relationship between a dependent variable and one or more independent variables (or ‘predictors’)
 
 ### [statistical inference](https://my.mindnode.com/NBhxzRYRhzyGHoPDsxy7fKcD9zu5UPzNMXkhX2s1)
 
-process of drawing conclusions from data that is subject to random variation, i.e. observational errors or sampling variation
+- is the process of deducing properties of an underlying distribution by analysis of data  
+- inferential statistical analysis infers properties about a population (this includes testing hypotheses and deriving estimates)  
+- it makes propositions about a population, using data drawn from the population with some form of sampling  
+	- given a hypothesis about a population, for which we wish to draw inferences, statistical inference consists of (firstly) selecting a statistical model of the process that generates the data and (secondly) deducing propositions from the model  
+- ‘the majority of the problems in statistical inference can be considered to be problems related to statistical modelling’
 
 ## [conjectures](https://my.mindnode.com/kphjsziKrppjdFjkZqndSzKwWsxdz3ZFjzQXjxW9)
 
-idea in mathematics that appears likely to be true but that has not been proven to be true, after it is proven, it becomes a theorem
+- are conclusions or provisions based on incomplete information, for which no proof has been found  
+- conjectures such as the Riemann hypothesis or Fermat’s Last Theorem have shaped much of mathematical history as new areas of math are developed in order to prove them
 
 ## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
 
-uses variables to represent a value that is not yet known
+- is the study of mathematical symbols and the rules for manipulating these symbols  
+- it is a unifying thread of almost all of mathematics  
+- it includes everything from elementary equation solving to the study of abstractions such as groups, rings, and fields  
+- it gives methods for solving equations and expressing formulas that are much easier (for those who know how to use them) than the older method of writing everything out in words
 
-### [commutative algebra](https://my.mindnode.com/DY5pves9D9ZsMqJBPvg5cpxBSpYpy4UU3vKAPei1)
+### [commutative](https://my.mindnode.com/Ems9PPFdqrWUGswcstM4ZVcc922rb9vj1sD7RpR6)
+
+- studies commutative rings, their ideals and modules over such rings  
+- both algebraic geometry and algebraic number theory build on commutative algebra  
+- examples of commutative rings include polynomial rings, rings of algebraic integers, including the ordinary integers 𝛧, and p-adic integers  
+- it is the main technical tool in the local study of schemes  
+- study of rings that are not necessarily commutative is known as non commutative algebra  
+	- it includes ring theory, representation theory, and the theory of Banach algebras
 
 ### [polynomials](https://my.mindnode.com/rz2pqqrzBLZ5zv4JV1Y55eM2A8pWtFkzwfagTiSg)
 
-are an expression consisting of variables (or indeterminates) and coefficients, that involves only the operations of addition, subtraction, multiplication, and non negative integer exponents
+- are expressions consisting of variables (or indeterminates) and coefficeints, that involve on the operations of addition, subtraction, multiplication, and non-negative integer exponents  
+- they are used to form polynomial equations, which encode a wide range of problems, from elementary word problems to complicated problems in the sciences  
+- they serve to approximate other functions, such as the use of splines
 
 ### [abstract ✨](https://my.mindnode.com/iJoDvZpGKSpHg7rozqGzf39poVDULtchtxRwYtJ2)
 
+- is the study of algebraic structures  
+- it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  
+- algebraic structures, with their associated homomorphisms, form mathematical categories
+
+### [universal](https://my.mindnode.com/bWV1m6GCx3kbBcRVsEUAEDupWpTjj4SssRuJWFTA)
+
+- studies algebraic structures themselves, not examples (‘models’) of algebraic structures  
+	- for instance, rather than take particular groups as the object of study, in universal algebra on takes the ‘theory of groups’ as an object of study  
+- in universal algebra, an algebra (or algebraic structure) is a set A together with a collection of operations on A
+
 ### [homomorphism ✨](https://my.mindnode.com/Ws5PJ3aSyH7BcyKfkJdsefcxHcQ91sVBe3Lse4pw)
+
+- is a structure-preserving map between two algebraic structures of the same type (such as two groups, two rings, or two vector spaces)  
+- homomorphisms of vector spaces are also called linear maps  
+- the concept of homomorphism has been generalised, under the name of morphism, to many other structures that either do not have an underlying set, or are not algebraic  
+	- this generalisation is the starting point in category theory  
+- being an isomorphism, an automorphism, or an endomorphism is a priority of some homomorphisms which may be defined in a way that may be generalised to any class of morphisms
+
+### elementary
+
+- considered to be essential for any study of mathematics, science, or engineering  
+- differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values
 
 ## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
 
-helps us understand changes between values that are related by a function
+- study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalisations of arithmetic operations  
+- differential and integral calculus are connected by the fundamental theorem of calculus, which states that differentiation is the reverse process to integration
 
-### multivariable
+### [differential](https://my.mindnode.com/euvusRrywcxqy32QHBFDhARe17ZqadGnQLBNnDvK)
+
+- is concerned with the study of the rates at which quantities change  
+- the primary objects of study in it are the derivative of a function, related notions such as the differentia, and their applications  
+- the derivative of a function at a chosen input value describes the rate of change of the function near that input value  
+	- the process of finding a derivative is called differentiation  
+- geometrically, the derivative at a point is the slope of the tangent line to the graph of the function at that point, provided that the derivative exists and is defined at that point  
+- for a real-valued function of a single real variable, the derivative of a function at a point generally determines the best linear approximation to the function at that point  
+- differentiation has applications to nearly all quantitative disciplines  
+- derivates are frequently used to find the maxima and minima of a function  
+- equations involving derivatives are called differential equations and are fundamental in describing natural phenomena
+
+### [integral](https://my.mindnode.com/XzzdBycWpX9FoRZgNGxDSkzNBy4v66Y44RZL4v6m)
+
+- an integral assigns numbers to functions in a way that can describe displacement, are, volume and other concepts that arise by combining infinitesimal data
+
+### [multivariable](https://my.mindnode.com/yRg5BBtdfZm6hnwbvG74E6epJC1z5P7Kn4cvUUNx)
+
+- is the extension of calculus in one variable to calculus with functions of several variables  
+	- the differentiation and integration of functions involving multiple variables, rather than just one  
+- a study of limits and continuity yields many counter-intuitive results not demonstrated by single-variable functions  
+	- for example, there are scalar functions of two variables with points in their domain which give a particular limit when approached along any arbitrary line, yet give a different limit when approached along a parabola  
+- a partial derivative of a multivariable function is a derivative with respect to one variable with all other variables held constant
 
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
-study of mathematical structures that are discrete rather than continuous, in contrast to real numbers that vary “smoothly”, discrete math studies objects such as integers, graphs, and statements in logic, these objects do not vary smoothly, but have distinct, separated values
+- is the study of mathematical structures that are fundamentally discrete rather than continuous  
+- in contrast to real numbers that have the property of varying ‘smoothly’, the objects studied in discrete math - such as integers, graphs, and statements in logic - do not vary smoothly in this way, but have distinct, separated values  
+- discrete objects can often be enumerated by integers  
+- more formally, discrete mathematics deals with countable sets (sets that have the same cardinality as subsets of the natural numbers, including rational numbers but not real numbers)  
+- the set of objects studied in discrete math can be finite and infinite
 
 ### [combinatorics](https://my.mindnode.com/nt83Gi2tzRRpJgSTRGszs5PSgbnrxQzvoKQn7kfc)
 
-concerned with finite or countable infinite sets, is about graph theory, or Partitions of sets, it looks at counting the number of possibilities, and about the questions whether certain configurations exist, and how to get to them
+- is the study of finite or countable discrete structures  
+- it includes counting the structures of a given kind and size (enumerative combinatorics), deciding when certain criteria can be met, and constructing and analysing objects meeting the criteria (as in combinatorial designs and matroid theory), finding ‘largest’, ‘smallest’, or ‘optimal’ objects (external combinatorics and combinatorial optimisation), and studying combinatorial structures arising in an algebraic context, or applying algebraic techniques to combinatorial problems (algebraic combinatorics)
 
 - [matroid ✨](https://my.mindnode.com/sF7sUg4HkLRESjQmteMTuLGHCqm2KaXYPQdNSTu6)
+  - is a structure that abstracts and generalises the notion of linear independence in vector spaces  
+  - there are many equivalent ways to define a matroid, the most significant being in terms of independent sets, bases, circuits, closed sets or flats, closure operators and rank functions  
+  - matroids have found applications in geometry, topology, combinatorial optimisation, network theory and coding theory
 
 ## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
 
-science of reasoning, helps people decide whether something is true or false
+- is the systematic study of the form of arguments  
+- a valid argument is one where there is a specific relation of logical support between the assumptions of the argument and its conclusion   
+- the validity of an argument is determined by its logical form, not by its content
 
 ### [combinatory](https://my.mindnode.com/L8qVAYGatTeXQDecPUr9y1E1Qy68GQ1pH4R8qp7L)
 
+- is a notation to eliminate the need for quantified variables in mathematical logic  
+- it is based on combinators   
+	- which is a higher order function that uses only function application and earlier defined combinators to define a result from its arguments  
+- in computer science, combinatory logic is used as simplified model of computation, used in computability theory and proof theory
+
 ### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
 
-Godel said that every non-trivial formal system is either incomplete or inconsistent
+- Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  
+- the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  
+- the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  
+	- for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  
+- the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency 
 
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
-shows how different ideas in mathematics are alike, for example some ideas from topology and abstract algebra are similar
+- formalises mathematical structure and its concepts in terms of a collection of objects and of arrows (also called morphisms)  
+- a category has two basic properties  
+	1. the ability to compose the arrows associatively   
+	2. and the existence of an identity arrow for each object  
+- the language of category theory has been used to formalise concepts of other high-level abstractions such as sets, rings and groups  
+- in category theory, morphisms obey conditions specific to category theory itself  
+- it has practical applications in programming language theory, in particular for the study of monads in functional programming
 
 ## [number theory](https://my.mindnode.com/AexyD315VfyDLma8sy7sG9aA55H2wmMwd5YE2bS5)
 
-explains what some types of numbers are, what properties they have, and ways that they can be useful
+- study of integers  
+- it the foundational place in the discipline of mathematics  
+- it studies prime numbers as well as the properties of objects made out of integers (e.g. rational numbers) or defined as generalisations of the integers (e.g. algebraic integers)  
+- integers can be considered either in themselves or as solutions to equations (Diophantine geometry)
 
 ### [primes ✨](https://my.mindnode.com/SzKTAzYHZy2PzyzDR5VfNWxQc3SFk2VYJG9qYTbq)
 
+- are prime numbers greater than 1 that has no positive divisors other than 1 and itself  
+- a natural number greater than 1 that is not a prime number is called a composite number  
+	- for example, 5 is prime because 1 and 5 are its only positive integer factors, whereas 6 is composite because it has the divisors 2 and 3 in addition to 1 and and 6  
+- any integer greater than 1 can be expressed as a product of primes that is unique up to ordering  
+- the property of being prime is called primality  
+- there are infinitely many primes
+
 ## [geometry](https://my.mindnode.com/g5is6sLdVq7yBpgzezSFcH4UbKgqwHQyknLaQ39d)
 
-studies the size, shapes and positions of things, there are flat (2D) shapes and solid (3D) shapes
+- studies shapes, sizes, relative positions of figures and the properties of space  
+- deals with lengths, areas and volumes
 
 ### [topology](https://my.mindnode.com/sJNa7EqTT1oZv9MXbbWbzuiHfH2pkyj3TpDZEzqw)
 
-study of how spaces are organised, how the objects are structured in terms of position, it also studies how spaces are connected
-
-- [network topology](https://my.mindnode.com/Eqxproi3vwszqAnaT559jLbhhDrHSiVrzsB7FUep)
-  layout of the connections (links, nodes, etc.) of a computer network, network topologies may be physical or logical
+- is concerned with the properties of space that are preserved under continuous deformations, such as stretching, crumpling and bending, but not tearing or gluing  
+	- this can be studied by considering a collection of subsets, called open sets, that satisfy certain properties, turning the given set into what is known as a topological space  
+	- important topological properties include connectedness and compactness  
+- it developed as a field of study out of geometry and set theory, through analysis of concepts such as space, dimension and transformation
 
 ### [pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq)
 
-is a mathematical constant, it is the ration of the distance around a circle to the circle’s diameter, this produces a number and that number is always the same
+- is a mathematical constant   
+- it is the ratio of a circle’s circumference to its diameter, commonly approximated as 3.14159  
+- being an irrational number, π cannot be expressed exactly as a fraction  
+- fractions such as 22/7 and other rational numbers are commonly used to approximate π  
+- the digits appear to be randomly distributed  
+- the digit sequence of π is conjectured to satisfy a specific kind of statistical randomness, but to date no proof of this has been discovered  
+- it is a transcendental number, i.e. a number that is not the root of any non-zero polynomial having rational coefficients   
+	- this transcendence of π implies that it is impossible to solve the ancient challenge of squaring the circle with a compass and straightedge
 
 ### [euclidean space](https://my.mindnode.com/tMaqSbrRYryARN3Lbs1tQQCq4NzziiyvRqv5xp5b)
 
-space euclidean geometry uses, Euclidean plane and the three dimensional space are part of Euclidean space, sometimes called cartesian space
+- encompasses the two-dimensional Euclidean plane, the three-dimensional space of Euclidean geometry and certain other spaces  
+- Euclidean spaces also generalise to higher dimensions  
+- from modern viewpoint, there is essentially only one Euclidean space of each dimension
 
 ### projective
 
@@ -4462,6 +4680,10 @@ connecting physical objects to the internet and using them in a smart way
 ## [mesh networks](https://my.mindnode.com/rARXvBwQEijvyRvBLYSokji4eSpq1b1yYRXzMPiN)
 
 ## [scapy](https://my.mindnode.com/Mu8ZdLsbny8DFRu6hzU8qB34g15QfpJzpGKZBdVj)
+
+## [network topology](https://my.mindnode.com/2d3GGMbyxT3SHCZvKkk98MT3sk6HVANuiSgpRskt)
+
+- 
 
 
 # [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
