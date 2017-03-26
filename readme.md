@@ -1,3 +1,89 @@
+# [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
+
+![](https://i.imgur.com/WF4OVJK.jpg)
+
+### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
+
+# Why? 🎈
+
+[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
+
+[Here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
+
+
+# Where to start? 🤔
+
+It depends on what you are looking for and what your goals are. I would suggest to just wait until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. 
+
+⚠️️ 
+
+- it takes ~ 1 minute to load
+- does not load on mobile 
+- small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
+
+Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and often has really great resources linked to it for further study. Just look into what you think is interesting and go from there. 
+
+The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. 
+
+I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) as I try to cover any confusions one might have in navigating these mind maps there.
+
+If you have expolored the interactive mind map a bit and are somewhat familiar with what is in it. There are two options you can take to quickly find the the appropriate mind map you may need. 
+
+1. You can come on this page and just search for what you want in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) and open the mind map from there. 
+
+2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are.
+
+These mind maps are a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
+
+
+## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+
+![](http://i.imgur.com/fuFPus5.jpg)
+
+## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
+I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
+
+## [My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
+
+I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
+
+## Contributing 🎉
+
+There are few ways in which you can contribute.
+
+I would love it if you would add your own knowledge or high quality links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
+
+Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
+
+Another thing I am doing is giving succint and clear descriptions to each of the main nodes in the graph as can be seen in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) below. I wish to desribe each of the nodes in the most clear way possible. I would love some help on this by either adding your own descriptions and submitting a pull request or correcting or improving the descriptions I have written. Perhaps I have made a mistake or it could be said better.
+
+As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of search engines where you have to know what to ask before getting an answer.
+
+If you do want to help me make my vision of open sourcing and visualising all of the world's knowledge in this way a reality, you can try look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu) and see what I have missed adding there that you think should be added. Quality over quantitiy though. The goal is to represent knoweldge visually and see connections between each of the nodes and provide paths to acquring this knowledge. 
+
+There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
+
+# Future 🚀
+
+I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
+
+I also believe the user experience of using the web version of mind maps will improve greatly in the coming months and I hope the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
+
+It would also be awesome to make collbarotive mind maps a thing but the technolgy isn't there yet.
+ 
+# Ask 💬
+If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
+
+**Don't search. Explore.** 🎊
+
+# Index 🗄️
+- advised to open them in new tab as there is a bug with going back 
+	- need to go back a few times 😞 (I hope it will be fixed soon)
+
+# [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
+
+- the high level visual overview of all the knowledge
+
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 - contains all the documentation for how I use and manage this mind map  
