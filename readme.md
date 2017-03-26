@@ -734,19 +734,37 @@ Learn something new. 🎊
 
 - encompasses the two-dimensional Euclidean plane, the three-dimensional space of Euclidean geometry and certain other spaces  
 - Euclidean spaces also generalise to higher dimensions  
-- from modern viewpoint, there is essentially only one Euclidean space of each dimension
+- from modern viewpoint, there is essentially only one Euclidean space of each dimension  
+- one way to think of the Euclidean plane is a set of points satisfying certain relationships, expressible in terms of distance and angle  
+	- for example, there are two fundamental operations (referred to as motions) on the plane  
+	- one is translation, which means a shifting of the plane so that every point is shifted in the same direction and by the same distance  
+	- the other is rotation about a fixed point in the plane, in which every point in the plane turns about that fixed point through the same angle  
+- one of the basic tenets of Euclidean geometry is that two figures (usually considered as subsets) of the plane should be considered equivalent (congruent) if one can be transformed into the other by some sequence of translations, rotations and reflections
 
-### projective
+### [projective](https://my.mindnode.com/ZRPCoypbzsosstWfitcTsu5UP6EznRstHcdzsyaC)
 
-### coordinate system
+- is the study of geometric properties that are invariant with respect to projective transformations  
+	- this means, that compared to elementary geometry, projective geometry has a different setting, projective space, and a selective set of basic geometric concepts  
+- the bass intuitions are that projective space has more points than Euclidean space, for a given dimension, and that geometric transformations are permitted that transform the extra points (called ‘points at infinity’) to Euclidean points, and vice versa
+
+### [coordinate system](https://my.mindnode.com/X4AdwT6PXGEGaHZMayNXzVsgcwbxabnUZqqUWcHc)
+
+- is a system which uses one ore more numbers, or coordinates, to uniquely determine the position of a point or there geometric element on a manifold such as Euclidean space  
+- the order of the coordinates is significant, and they are sometimes identified by their position in an ordered tuple and sometimes by a letter, as in ‘the x-coordinate’  
+- the coordinates are taken to be real numbers in elementary mathematics, but may be complex numbers or elements of a more abstract system such as a commutative ring  
+- the use of a coordinate system allows problems in geometry to be translated into problems about numbers and vice verse (this is the basis of analytic geometry)
 
 ## [analysis](https://my.mindnode.com/6sxbuYZbQANpyrhCVnrcw8APN9eZdGzBV5yvqtAq)
 
-process of breaking a complex topic or substance into smaller parts to gain better understanding of it
+- deals with limits and related theories, such as differentiation, integration, measure, infinite series and analytic functions  
+- these theories are usually studied in the context of real and complex numbers and functions  
+- analysis evolved from calculus, which involved the elementary concepts and techniques of analysis  
+- analysis may be distinguished from geometry, however it can be applied to any space of mathematical objects that has a definition of nearness (a topological space) or specific distances between objects (a metric space)
 
 ### [real analysis](https://my.mindnode.com/c7re682pzFtTXzbNnqgdbXo1gPScsjSxZvMoTSWd)
 
-deals with sets and sequences of real numbers, as well as functions of one or more variables
+- deals with real numbers and real-valued functions of a real variable  
+- it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions
 
 ### [frequency analysis](https://my.mindnode.com/dfih8v9qe7sqkpBqxpBEnV2xnAxUvW6nXR3fVzCo)
 
@@ -774,7 +792,17 @@ a theory is a group of linked ideas intended to explain something, a theory prov
 
 ## [fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
 
-any pattern, that when seen as an image, produces a picture, which when zoomed onto will still make the same picture, it can be cut into parts which look like a smaller version of the picture that was started with
+- is a mathematical set that exhibits a repeating pattern displayed at every scale  
+- is also known as expanding symmetry or evolving symmetry  
+- if the replication is exactly the same at every scale, it is called a self-similar pattern (i.e. Menger Sponge)  
+	- fractals can also be nearly the same at different levels   
+- they include the idea of a detailed pattern that repeats itself  
+- they are different from other geometric figures because of the way in which they scale  
+	- doubling the edge lengths of a polygon multiples its area by four, which is two (the ratio of the new to the old side length) raised to the power of two (here the dimension of the space the polygon resides in)  
+	- likewise, if the radius of a sphere is doubled, its volume scales by eight (to the power of its dimension)  
+	- this power is called the fractal dimension of the fractal and it usually exceeds the fractal’s topological dimension  
+- they are usually nowhere differentiable  
+	- an infinite fractal curve can be conceived of as winding through space differently from an ordinary line, still being a 1-dimensional line yet having a fractal dimension indication it also resembles a surface
 
 ## [visualisation](https://my.mindnode.com/KHZZzzkuqLypx2RZzhfLzW8xySgmnD9pkj4piYnG)
 
@@ -1331,20 +1359,56 @@ set of attempts to model the four known fundamental interactions
 
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
+- are pictures and films created using computers  
+- refers to computer generated image data created with help from specialised graphical hardware and software  
+- it is responsible for splaying art and image data effectively and meaningfully to the user  
+	- it is also used for processing image data received from the physical word
+
 
 ## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
 
+- is a cross-language, cross platform API for rendering 2D and 3D vector graphics  
+- it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering
+
 ## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
+
+- is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  
+- it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage
 
 ## metal
 
+- is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8  
+- it has better performance than OpenGL due to   
+	- precomputed shaders and up-front state validation  
+	- explicit synchronisation between GPU and CPU  
+	- shared memory space between GPU and CPU  
+	- lower driver overhead
+
 ## [rendering ✨](https://my.mindnode.com/2xnYJxwFM34AbKqxFs7R8PVzLJtcpQtoTgJHtaU2)
+
+- is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  
+- the results of such a model can be called a rendering  
+- a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  
+- the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file
 
 ### [vector graphics](https://my.mindnode.com/WMAbr5nznMzNmTiVrTV1qbbqCf1AcsPZ5bQNsjsh)
 
+- is the use of polygons to represent images  
+- are based on vectors, which lead through locations called control points or nodes  
+- each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   
+	- further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill
+
 - [svg](https://my.mindnode.com/7P2xkiDiypyoMTFPWqvs8AVQjbsbqFpPmCTaMpap)
+  - is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation  
+  - since they are defined in XML test files, they can be searched, indexed, scripted and compressed
 
 ## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
+
+- is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   
+- the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  
+- this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
+- it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
+- it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
 
 
 # [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
