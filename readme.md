@@ -1026,59 +1026,96 @@ Learn something new. 🎊
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
 
-# [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
-
-
-## [terraform](https://my.mindnode.com/wDMDsVb3yJycpncHpSnxTp5z2AG4nid3Xby4MFPp)
-
-
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
-modelling a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
-1. its current state  
-2. states of the neighbouring cells
+- models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
+	1. its current state  
+	2. states of the neighbouring cells
 
 
 ## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
 
+- the ‘game’ is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input  
+- rules of the game are : 	  
+	1. any live cell with fewer than two live neighbours dies, as if caused by underpopulation  
+	2. any live cell with two or three live neighbours lives on to the next generation  
+	3. any live cell with more than three live neighbours dies, as if by overpopulation  
+	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
+
 
 # [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
 
-a type of outsourcing of computer services, similar to the way in which electricity supply is outsources, users can simply use it, they do not need to worry where the electricity is from, how it is made, or transported, every month, they pay for what they consumed
+- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
 
 
 ## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
 
-### [serverless](https://my.mindnode.com/bfCJZXFMTK5mS9GeqAzUoMRDp2xuJWaiWjpZAKzZ)
+- owned by Amazon  
+- offered a suite of cloud computing services that make up an on-demand computing platform
+
+## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
+
+- known as function as a service (FaaS)  
+	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
 
 ## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
 
+- provides developer products to build a range of programs from simple websites to complex applications
+
 ## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+- owned by Microsoft  
+- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
+
+
+# infrastructure
+
+- refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
+
+
+## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
+
+- ways in which to 
+
+### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
+
+- enables you to safely and predictably create, change and improve production infrastructure   
+- is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
 
 
 # [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
 
-study of robots, making robots, or using robots
+- deals with design, construction, operation and use of robots, as well as computer systems for their control, sensory feedback, and information processing  
+- these technologies are used to develop machines that can substitute for humans  
+- robots can be used in any situation and for any purpose
 
 
 # [raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
 
-low cost credit car sized single board computer
+- is a series of small single-board computers
 
 
 # [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
 
-programming computers to do work   
-for us that we don’t have to do
+- is a process that leads from an original formulation of a computing problem to an executable computer programs
 
 
 ## [bitwise operations](https://my.mindnode.com/jjdFxBtm7BCMmZBfFHwwyRh3q3awMFxbXePMs4Cy)
 
-used in electronics and computer programming to change numbers using an operation such as AND, OR, NOT, Exclusive Or (XOR), or Not And (NAND)
+- operate on one or more bit patterns or binary numerals at the level of individual bits  
+- it is a fast, simple action directly supported by the processor, and is used to manipulate values for comparisons and calculations  
+- the operators are :  
+	- AND  
+	- OR  
+	- NOT  
+	- XOR (Exclusive Or)  
+	- NAND (Not And)
 
 ## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12)
 
-abstract solutions to certain problems, they give a possible solution to a problem of designing software
+- are general reusable solutions to a commonly occurring problem within a given context in software design  
+- it is not a finished design that can be transformed directly into source or machine code  
+	- it is a description or template for how to solve a problem that can be used in many different situations
 
 ## [dynamic programming](https://my.mindnode.com/cpxi9EqMbbF7cvq3vqD4pDQLwHetX81qagPEXi99)
 
