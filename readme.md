@@ -1151,16 +1151,6 @@ nVidia’s interface for using their GPUs for general computing tasks, is based 
   
 method of solving problems, using this method, a complex problem is split into simpler problems, which are then solved, at the end, the solutions of the simpler problems are used to find the solution of the original complex problem
 
-## [parallel programming](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
-
-- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
-- large problems can often be divided into smaller ones, which can then be solved at the same time  
-- there are several different forms of parallel computing  
-	- bit-level  
-	- instruction-level  
-	- data  
-	- and task parallelism
-
 ## [paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn#767.7,-730.8,2)
 
 - are a way to classify programming languages according to the style of computer programming   
@@ -1327,72 +1317,199 @@ method of solving problems, using this method, a complex problem is split into s
 
 # [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
 
-is a way to describe sets of characters using syntactic rules
+- are sequences of characters that define a search pattern  
+	- usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  
+- they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis
 
 
 # [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
 
+- is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constrains  
+- it is embedded as part of a complete device often including hardware and mechanical parts
+
 
 ## [microcontrollers](https://my.mindnode.com/R3NHfx7fU9pDRtyQKyqpAxro7qJpgBPNyZtQrqLB)
+
+- are small computers on a single integrated circuit  
+	- it is a system on a chip  
+- it contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals
 
 
 # [reverse engineering ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
 
+- is the process of extracting knowledge or design information from anything man-made and re-producing it or re-producing anything based on the extracted information  
+	- the process often involves disassembling something (a mechanical device, electronic component, computer program, or biological, chemical, or organic matter) and analysing its components and workings in details
+
 
 # [engineering ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
+
+- is the application of mathematics and scientific, economic, social and practical knowledge in order to invent, innovate, design, build, maintain and improve structures, machines, tools, systems, components, materials, processes, solutions and organisations
 
 
 ## [software](https://my.mindnode.com/AJpJHUt9xQxnA4hFcizyzR6NdxfD7nehRa6oxipq)
 
+- is the application of engineering to the development of software in a systematic method
+
 ### [analytics](https://my.mindnode.com/uMPRfm98RKiP8BYrMXKCzRyo7iC4r3q4poPz4Wpc)
 
+- it aims to describing, predicting and improving development, maintenance and management of complex software systems  
+- methods and techniques typically rely on gathering, analysing and visualising information found in the manifold data sources in the scope of software systems and their software development processses
+
 ### [continuous delivery](https://my.mindnode.com/ppqPzVmMZQNpGLDDsLAGAnWqq76YLJdnhz3pfPrb)
+
+- is a software engineering approach where teams produce software in short cycles, ensuring that the software can be reliably released at any time  
+- it aims at building, testing, and releasing software faster and more frequently
 
 
 # system design
 
+- is the process of defining the architecture, components, modules, interfaces and data for a system to satisfy specified requirements
+
 
 ## [software architecture ✨](https://my.mindnode.com/dCGPsRx5okxjPJByJqDC6Kfbz3J9PpqeR55xmRvj)
+
+- referee to the fundamental structures of a software system, the discipline of creating such structures, and the documentation of these structures  
+- it is about making fundamental structural choices which are costly to change once implemented
 
 
 # [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
 
+- is a formal computer language designed to communicate instructions to a machine, particularly a computer  
+- they can be used to create programs to control the behaviour of a machine or to express algorithms   
+- the description of a programming language is split into two components of syntax (form) and semantics (meaning)  
+- some languages are defined by a specification document (for example C being specified by an ISO standard) while other languages (like Perl) have a dominant implementation that is treated as a reference  
+	- some languages have both
 
-## [c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
 
-2011: imperative, procedural and compiled, low level access to memory
+## [1949: assembly](https://my.mindnode.com/aBpRSvC7cLjDLsPXUzyJT6VFoisq5C4fxs1xc6HL)
 
-## [c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
+- low level, very strong correspondence between the language and architecture’s machine code instructions
 
-1983: imperative, object oriented and generic with low level memory manipulation
+### [x86](https://my.mindnode.com/5K9xXhi81Tce2sWHAsSqdpHabjB2oCozQvMDswyz)
 
-## [c#](https://my.mindnode.com/6i1gPzi1Qp29sMuwz8iLp7scQ8rJNyYTc2xYasWx)
+## [1957: fortran](https://my.mindnode.com/eVzBsD3vJRLoysPvWWaZh2DknvdBt7ctS9F2Bo3R)
 
-2000: strong typed, imperative, declarative, functional, generic, object oriented and component oriented
+- general purpose, imperative, suited for numeric computation and scientific computing
 
-## [python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
+## [1958: lisp](https://my.mindnode.com/owvaiMW5PspBP7cEU9qNxsorNo4nyV7zWyPzoNae)
 
-1991: high level, general purpose, interpreted emphasising code readability 
+- originally created as mathematical notation for computer programs, was used in AI research, linked lists are one of lisp’s major data structures and lisp source code is made of lists thus allowing to manipulate source code as a data structure
+
+### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
+
+## [1969:: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
+
+- imperative, procedural and compiled, low level access to memory
+
+## [1972: smalltalk](https://my.mindnode.com/iy2T7txpBPzocqqPkJTxuWcxUeDAX2b9bG9qKXM5)
+
+- object oriented, dynamically typed, reflective, created for educational use
+
+## [1983: c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
+
+- imperative, object oriented and generic with low level memory manipulation
+
+## [1984: objc ✨](https://my.mindnode.com/66qabf7Zyssep6qqzHE6b4pafuzxxaiVyBpg9SQ9)
+
+- general purpose, object oriented, implemented smalltalk-style messaging
+
+## [1986: erlang](https://my.mindnode.com/KxNBKYQCSmre7v78zDGLq3CSNzqJeu1hctxUJ5Ps)
+
+- general purpose, concurrent, functional with a garbage collected runtime system
+
+## [1987: perl](https://my.mindnode.com/v3XB2aGvSygfsvEZeqE2WJzMhNjqMSpXpJxgBVYx)
+
+- general purpose, interpreted, dynamic powerful text processing
+
+## [1989: coq](https://my.mindnode.com/PZbYS7znvtFr4qz2HeptpcyoPSv3RnkS9fZr8hVs)
+
+- interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs
+
+## [1990: haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
+
+- general purpose, purely functional with non strict semantics and strong static typing
+
+## [1991: python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
+
+- high level, general purpose, interpreted emphasising code readability 
 
 ### [cpython](https://my.mindnode.com/zjVZkR2hejWk3qfEjCys3Fyhx9W9XJDZ9ZwLisQa)
 
-original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop
+- original python implementation in c, compiles python code into byte code and interprets the byte code in a evaluation loop
 
-## [objc ✨](https://my.mindnode.com/66qabf7Zyssep6qqzHE6b4pafuzxxaiVyBpg9SQ9)
+## [1993: lua](https://my.mindnode.com/qgcfXaSGoASAEkQwPnZ9tupSkmWXxtBhBx7Tuh8m)
 
-1984: general purpose, object oriented, implemented smalltalk-style messaging
+- lightweight, multi-paradigm designed for embedded systems and clients
 
-## [swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
+## [1993: r](https://my.mindnode.com/sJvn1f1Sp3WbhvbpLz1vuzSjYJ6zqNmdfDVhL5Kp)
 
-2014: general purpose, multi paradigm and compiled
+- language and software environment for statistical computing and graphics
 
-## [haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
+## [1993: applescript ✨](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
 
-1990: general purpose, purely functional with non strict semantics and strong static typing
+- scripting language created by Apple to do inter-application communication using AppleEvents
 
-## [go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
+## [1995: ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7)
 
-2009: compiled, statically typed with garbage collection, limited structural typing and memory safety features with focus great concurrency features
+- dynamic, reflective, object oriented, general purpose
+
+## [1995: php](https://my.mindnode.com/pvHdmG19ZushffGyqsAnLz1Ja1mtqGn5HmCiXkaF)
+
+- server side scripting designed primarily for webdev, can be embedded into HTML
+
+## [1995: java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo)
+
+- concurrent, class based, object oriented, compiles to byte code to be ran on JVM
+
+### [jml](https://my.mindnode.com/TuiM1QdBfFJfpE1YGzVq476B9g9kJHH2mkyagmn2)
+
+### [maven](https://my.mindnode.com/Y1XyipvfrxzscpGhyBBzfcpidK27VACCpT2VzhKj)
+
+## [1995: javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a)
+
+- high level, dynamic, untyped and interpreted, prototype based with first class functions, making it a multi paradigm language
+
+### [es6](https://my.mindnode.com/7bqrd5aXqfqp4KjrzBsWtq5QKMJViWTPFNXHKaj1)
+
+### [typescript](https://my.mindnode.com/gxoHHy5R7dFbXi6hFe9TgSpgesFah6iGxxNZGs9i)
+
+## [1995: delphi](https://my.mindnode.com/vywEGSUki5oM4mqcjMfNuHz5NnErsNNrXV2UYX4q)
+
+- delphi’s compilers use their own object pascal dialect of pascal and generate native code for several platforms
+
+## [1996: ocaml](https://my.mindnode.com/kDiqP5vxcxmMjkQLx3n6kC5kfVyNfv3aTydcxYTF)
+
+- extends caml language with object oriented programming constructs
+
+## [00: c#](https://my.mindnode.com/6i1gPzi1Qp29sMuwz8iLp7scQ8rJNyYTc2xYasWx)
+
+- strong typed, imperative, declarative, functional, generic, object oriented and component oriented
+
+## [01: processing](https://my.mindnode.com/XyhxvywCzvpsXkcaTVbX9kZquvxtMRS2JG119ZgK)
+
+- language and IDE built for electric arts and visual design with educational purpose
+
+## [03: groovy](https://my.mindnode.com/vQYZNctyAErZEzVV9SUUUHppHgBzn2Tvzww1NS9p)
+
+- object oriented, dynamic, can be used as a scripting language for the java platform, dynamically compiled to jvm bytecode
+
+## [04: scala](https://my.mindnode.com/M7FytAfDKTBBAZZrhhqbJesZ3tm4VNpkBtGTdBY8)
+
+- general purpose, functional with strong static type system, compiles to Java bytecode
+
+## [07: clojure](https://my.mindnode.com/usZy8bc3U2oybNtLEpsgU5JimeCpGwmztGBnThVs)
+
+- general purpose with emphasis on functional programming, runs on jam ,clr and js engine, treats code as data and has a macro system
+
+### [clojurescript](https://my.mindnode.com/sVztpyT1i8ftbWsWz1NwmsYiHpZsWs9qWahYLwRw)
+
+## [07: d](https://my.mindnode.com/GrApAj3ErZFVF98tjfMtsQeX7WqN5sznimQkXLKg)
+
+- object oriented, imperative, multi paradigm system programming language
+
+## [09: go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
+
+- compiled, statically typed with garbage collection, limited structural typing and memory safety features with focus great concurrency features
 
 ### [sdk](https://my.mindnode.com/pTaw9dxCcosqw1e9bjqpyjJFzxpBCzQeRbpxaFwX)
 
@@ -1400,205 +1517,173 @@ original python implementation in c, compiles python code into byte code and int
 
 ### effective go
 
-## [java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo)
+## [10: rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL)
 
-1995: concurrent, class based, object oriented, compiles to byte code to be ran on JVM
+- general purpose, designed to be safe, concurrent and practical, supporting functional and imperative-procedural paradigms
 
-### [jml](https://my.mindnode.com/TuiM1QdBfFJfpE1YGzVq476B9g9kJHH2mkyagmn2)
+## [11: kotlin](https://my.mindnode.com/Vu8B91eH8yuGcdCbvukte6kyYjyV52VUxWv8jpVT)
 
-### [maven](https://my.mindnode.com/Y1XyipvfrxzscpGhyBBzfcpidK27VACCpT2VzhKj)
+- statically typed, runs on jvm, can be compiled to javascript source code
 
-## [scala](https://my.mindnode.com/M7FytAfDKTBBAZZrhhqbJesZ3tm4VNpkBtGTdBY8)
+## [11: elixir](https://my.mindnode.com/J6b3nTAzCC2ARbDsqhgH2iR4CeoaDYAriUx3VMni)
 
-2004: general purpose, functional with strong static type system, compiles to Java bytecode
+- functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions
 
-## [smalltalk](https://my.mindnode.com/iy2T7txpBPzocqqPkJTxuWcxUeDAX2b9bG9qKXM5)
+## [11: dart](https://my.mindnode.com/rqjteVJidb5moPEJWa3spqjVpiV4nxuGt51FcZU3)
 
-1972: object oriented, dynamically typed, reflective, created for educational use
+- general purpose, object oriented, class defined, single inheritance
 
-## [lua](https://my.mindnode.com/qgcfXaSGoASAEkQwPnZ9tupSkmWXxtBhBx7Tuh8m)
+## [11: crystal](https://my.mindnode.com/xkatKAsBgFHEJhczPSq5qprZDwYgKgd1rU6LayDz)
 
-1993: lightweight, multi-paradigm designed for embedded systems and clients
+- general purpose, object oriented, statically type checked with implementation of advanced global type inference
 
-## [rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL)
+## [12: julia](https://my.mindnode.com/pKF9seYpM6bH32C7YEcEshjqFJ59JqweuEhypdkf)
 
-2010: general purpose, designed to be safe, concurrent and practical, supporting functional and imperative-procedural paradigms
+- high level, dynamic, designed to address needs of high performance numerical analysis and computational science
 
-## [ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7)
+## [12: elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
 
-1995: dynamic, reflective, object oriented, general purpose
+- domain specific for declaratively creating web browser based GUI, purely functional with emphasis on usability, performance and robustness
 
-## [r](https://my.mindnode.com/sJvn1f1Sp3WbhvbpLz1vuzSjYJ6zqNmdfDVhL5Kp)
+## [14: swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
-1993: language and software environment for statistical computing and graphics
+- general purpose, multi paradigm and compiled
 
-## [php](https://my.mindnode.com/pvHdmG19ZushffGyqsAnLz1Ja1mtqGn5HmCiXkaF)
+## [16: idris](https://my.mindnode.com/7QsZ9uz12PzPfDbszd1UuW96dya26uqRGWCteuUE)
 
-1995: server side scripting designed primarily for webdev, can be embedded into HTML
-
-## [perl](https://my.mindnode.com/v3XB2aGvSygfsvEZeqE2WJzMhNjqMSpXpJxgBVYx)
-
-1987: general purpose, interpreted, dynamic powerful text processing
-
-## [clojure](https://my.mindnode.com/usZy8bc3U2oybNtLEpsgU5JimeCpGwmztGBnThVs)
-
-2007: general purpose with emphasis on functional programming, runs on jam ,clr and js engine, treats code as data and has a macro system
-
-### [clojurescript](https://my.mindnode.com/sVztpyT1i8ftbWsWz1NwmsYiHpZsWs9qWahYLwRw)
-
-## [processing](https://my.mindnode.com/XyhxvywCzvpsXkcaTVbX9kZquvxtMRS2JG119ZgK)
-
-2001: language and IDE built for electric arts and visual design with educational purpose
-
-## [assembly](https://my.mindnode.com/aBpRSvC7cLjDLsPXUzyJT6VFoisq5C4fxs1xc6HL)
-
-1949: low level, very strong correspondence between the language and architecture’s machine code instructions
-
-### [x86](https://my.mindnode.com/5K9xXhi81Tce2sWHAsSqdpHabjB2oCozQvMDswyz)
-
-## [lisp](https://my.mindnode.com/owvaiMW5PspBP7cEU9qNxsorNo4nyV7zWyPzoNae)
-
-1958: originally created as mathematical notation for computer programs, was used in AI research, linked lists are one of lisp’s major data structures and lisp source code is made of lists thus allowing to manipulate source code as a data structure
-
-### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
-
-## [applescript ✨](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
-
-1993: scripting language created by Apple to do inter-application communication using AppleEvents
-
-## [ocaml](https://my.mindnode.com/kDiqP5vxcxmMjkQLx3n6kC5kfVyNfv3aTydcxYTF)
-
-1996: extends caml language with object oriented programming constructs
-
-## [elixir](https://my.mindnode.com/J6b3nTAzCC2ARbDsqhgH2iR4CeoaDYAriUx3VMni)
-
-2011: functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions
-
-## [elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
-
-2012: domain specific for declaratively creating web browser based GUI, purely functional with emphasis on usability, performance and robustness
-
-## [d](https://my.mindnode.com/GrApAj3ErZFVF98tjfMtsQeX7WqN5sznimQkXLKg)
-
-2007: object oriented, imperative, multi paradigm system programming language
-
-## [idris](https://my.mindnode.com/7QsZ9uz12PzPfDbszd1UuW96dya26uqRGWCteuUE)
-
-2016: general purpose, purely functional with dependent types, supports interactive theorem proving
-
-## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
-
-## [coq](https://my.mindnode.com/PZbYS7znvtFr4qz2HeptpcyoPSv3RnkS9fZr8hVs)
-
-1989: interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs
-
-## [kitten](https://my.mindnode.com/DysArZp9yLbryAFYsjTWeWqjfG2xCmG2xJyrz4Fo)
-
-## [javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a)
-
-1995: high level, dynamic, untyped and interpreted, prototype based with first class functions, making it a multi paradigm language
-
-### [es6](https://my.mindnode.com/7bqrd5aXqfqp4KjrzBsWtq5QKMJViWTPFNXHKaj1)
-
-### [typescript](https://my.mindnode.com/gxoHHy5R7dFbXi6hFe9TgSpgesFah6iGxxNZGs9i)
-
-## [erlang](https://my.mindnode.com/KxNBKYQCSmre7v78zDGLq3CSNzqJeu1hctxUJ5Ps)
-
-1986: general purpose, concurrent, functional with a garbage collected runtime system
-
-## [julia](https://my.mindnode.com/pKF9seYpM6bH32C7YEcEshjqFJ59JqweuEhypdkf)
-
-2012: high level, dynamic, designed to address needs of high performance numerical analysis and computational science
-
-## [groovy](https://my.mindnode.com/vQYZNctyAErZEzVV9SUUUHppHgBzn2Tvzww1NS9p)
-
-2003: object oriented, dynamic, can be used as a scripting language for the java platform, dynamically compiled to jvm bytecode
-
-## [dart](https://my.mindnode.com/rqjteVJidb5moPEJWa3spqjVpiV4nxuGt51FcZU3)
-
-2011: general purpose, object oriented, class defined, single inheritance
-
-## [kotlin](https://my.mindnode.com/Vu8B91eH8yuGcdCbvukte6kyYjyV52VUxWv8jpVT)
-
-2011: statically typed, runs on jvm, can be compiled to javascript source code
-
-## [fortran](https://my.mindnode.com/eVzBsD3vJRLoysPvWWaZh2DknvdBt7ctS9F2Bo3R)
-
-1957: general purpose, imperative, suited for numeric computation and scientific computing
-
-## [delphi](https://my.mindnode.com/vywEGSUki5oM4mqcjMfNuHz5NnErsNNrXV2UYX4q)
-
-1995: delphi’s compilers use their own object pascal dialect of pascal and generate native code for several platforms
-
-## [crystal](https://my.mindnode.com/xkatKAsBgFHEJhczPSq5qprZDwYgKgd1rU6LayDz)
-
-2011: general purpose, object oriented, statically type checked with implementation of advanced global type inference
+- general purpose, purely functional with dependent types, supports interactive theorem proving
 
 ## ada
 
 ## awk
 
+## [kitten](https://my.mindnode.com/DysArZp9yLbryAFYsjTWeWqjfG2xCmG2xJyrz4Fo)
+
 ## [alpaca](https://my.mindnode.com/jLpsyfNSgeik4h7zcYNnLxWZXmkzs8EnAtQ2zeWx)
+
+## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
-study of how to manipulate, manage, transform and encode information
+- is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
+- it is the study of automating algorithmic processes that scale
 
 
 ## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
 
-act of determining (working out) something by processing information, it involves using specific rules, either mathematical or logical, it may or may not involve using numbers
+- is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm  
+- it can be seen as a purely physical phenomenon occurring inside a closed physical system called a computer  
+- examples include  
+	- digital computers  
+	- mechanical computers  
+	- quantum computers  
+	- DNA computers  
+	- molecular computers  
+	- microfluidics-based computers   
+	- analog computers  
+	- or wetware computers  
+- some argue that evolution of the universe itself is a computation (pancomputationalism)
 
 ### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
 
+- branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
+
 ### [hypercomputation](https://my.mindnode.com/UHo3bpyyn4UwXH6SCUyyZy7XGn3rMru9Ns8k7V9N)
+
+- refers to models of computation that can provide outputs that are not Turing computable   
+	- i.e. a machine that could solve the halting problem would be a hyper computer; so too would one that can correctly evaluate every statement in Peano arithmetic 
 
 ## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
 
+- a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
+- the values returned by a hash function are called hash values, hash codes, digests or simply hashes  
+- one use is a data structure called a hash table, widely used in computer software for rapid data lookup
+
 ## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
 
-looks at how hard a problem is to do for a computer, and how good particular solutions (algorithms) to that problem are
+- focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  
+- a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  
+- one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do
 
 ### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
 
-algorithmic problem such that if you have a case of the problem of size n, the number of steps needed to check the answer is smaller than the value of some polynomial in n, it doesn’t mean one can find an answer in the polynomial number of steps, only check it
+- a decision problem is NP-complete when it is both in NP and NP-hard  
+- the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’
 
-## [compression](https://my.mindnode.com/8MRdRasEPUHAkoCUiNpNHucEXGaaMdxZLtozhBN1)
+## [parallel computing](https://my.mindnode.com/3BixssPswKdqHt4pCqzqCqxkqLg722PgPK4TSUNR)
 
-set of steps for packing data into a smaller space, while allowing for the original data to be seen again, compression is a two way process: a compression algorithm can be used to make a data package smaller but it can also be run the other way, to decompress the package into its original form
+- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
+- large problems can often be divided into smaller ones, which can then be solved at the same time  
+- there are several different forms of parallel computing  
+	- bit-level  
+	- instruction-level  
+	- data  
+	- and task parallelism
 
 ## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
 
-## [parallel computing](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
+- is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  
+	- this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  
+	- this allows for parallel execution of the concurrent units  
+- design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput
 
 ## [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
+
+- is a set of strings of symbols together with a set of rules that are specific to it  
+- the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
+	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
+- a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
 
 
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
-quantum computers can use certain phenomena from quantum mechanics, such as superposition and entanglement, to perform operations on data, the basic principle behind quantum computation is that quantum properties can be used to represent data and perform operations on it
+- studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  
+- they are different from binary digital electronic computers based on transistors   
+	- whereas common digital computing requires that the data be encoded into binary digits (bits), each of which is always in one two definite states (0 or 1), quantum computation uses quantum bits, which can be in superpositions of states  
+- a quantum turing machine is a theoretical model of such computer, and is also known as the universal quantum computer   
+- a single quit can represent a one, a zero, or any quantum superposition of those two quit states
 
 
 ## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
 
+- is information that is held in the state of a quantum system  
+- it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
+
 
 # [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+
+- refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
+- VR also simulates a user’s physical presence in this environment 
 
 
 ## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
 
+- oculus rift is a virtual reality headset developed by Oculus VR
+
 ## [WebVR](https://my.mindnode.com/mxBVNT2vEGjxgxizzHEq3yPmoodYtxZLGJxpZvXL)
 
+- is an experimental javascript API that provides support for virtual reality devices
+
 ### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
+
+- a web framework for building VR experiences
 
 
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
-- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language), with the latter often having a binary form known as object code
+- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
+	- is often done to create an executable program
 
 
 ## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
+
+- is compilation done during execution of a program (at run time), rather than prior to execution  
+- mist often this consists of translation to machine code, which is then executed directly, but can also refer to translation to another format  
+- a system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation would outweigh the overhead of compiled that code  
+- JIT compilation is a combination of two traditional approaches to translation to machine code  
+	1. ahead of time compilation (AOT)  
+	2. and interpretation
 
 ## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
 
@@ -5108,6 +5193,10 @@ over 2 billion users and growing, collecting data on each individual user and gr
 ### wireless
 
 - [bluetooth](https://my.mindnode.com/sD8b38yEMFyzdpefzNoyBhrnvbmSGiKsgzEJu3M6)
+
+## [compression](https://my.mindnode.com/JsNUbws3YE544uccgsgLGdxwDFqGGJmSDSji8bPX)
+
+- 
 
 
 # prototyping
