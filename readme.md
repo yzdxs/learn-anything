@@ -95,15 +95,6 @@ Learn something new. 🎊
 - includes ways with which one can approach learning topics
 
 
-# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
-
-- is a flying machine  
-	- there are many different kinds of aircraft  
-- some aircraft keep in the sky by moving air over their wings  
-	- most use engine power  
-	- few use muscle power
-
-
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
 
 - is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
@@ -115,32 +106,13 @@ Learn something new. 🎊
 - someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
-# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
+# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
 
-- moving people or things from one place to another place  
-- can be divided into  
-	- infrastructure   
-	- vehicles  
-	- operations  
-- there are three main kinds of transportation  
-	- land  
-	- water  
-	- air
-
-
-## vehicles
-
-### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
-
-- small, human powered land vehicles
-
-- [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
-
-### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
-
-- road vehicle used to carry passengers
-
-- electric
+- is a flying machine  
+	- there are many different kinds of aircraft  
+- some aircraft keep in the sky by moving air over their wings  
+	- most use engine power  
+	- few use muscle power
 
 
 # [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
@@ -180,6 +152,34 @@ Learn something new. 🎊
 
 - short for malicious software  
 - is a kind of software that can be installed on a computer without approval from the computer’s owner
+
+
+# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
+
+- moving people or things from one place to another place  
+- can be divided into  
+	- infrastructure   
+	- vehicles  
+	- operations  
+- there are three main kinds of transportation  
+	- land  
+	- water  
+	- air
+
+
+## vehicles
+
+### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+
+- small, human powered land vehicles
+
+- [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
+
+### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
+
+- road vehicle used to carry passengers
+
+- electric
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
@@ -764,31 +764,47 @@ Learn something new. 🎊
 ### [real analysis](https://my.mindnode.com/c7re682pzFtTXzbNnqgdbXo1gPScsjSxZvMoTSWd)
 
 - deals with real numbers and real-valued functions of a real variable  
-- it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions
+- in particular, it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions
 
 ### [frequency analysis](https://my.mindnode.com/dfih8v9qe7sqkpBqxpBEnV2xnAxUvW6nXR3fVzCo)
 
-is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies
+- study of the frequency of letters or groups of letters in a ciphertext  
+- it is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies  
+	- there is a characteristic distribution of letters that is roughly the same for almost all samples of that language
 
 ### [functional analysis](https://my.mindnode.com/AH8GyeFxecym2PAH4qhdqfyyVenHcGcEjFQ5moir)
 
+- the core of this study is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear functions defined on these spaces and respecting these structures in a suitable sense
+
 ### [harmonic analysis](https://my.mindnode.com/ZsWX3PEy41PXKmnB8nsi2hzpvuYH85HZKgBxYMCs)
 
-looks at the theoretical foundations of digital signal processing, a continuous signal can be drawn as a wave, or as a combination of several waves, fourier transforms or fourier series are among the main tools used for signal analysis
+- is concerned with the representation of functions or signals as the superposition of basic waves, and the study of and generalisation of the notions of Fourier series and Fourier transforms (i.e. an extended form of Fourier analysis)  
+- Fourier series can be conveniently studied in the context of Hilbert spaces, which provide a connection between harmonic analysis and functional analysis
 
 ### [fourier analysis](https://my.mindnode.com/GTv2USZqpjKqq3yKJZHSsci1AgH66V9bTiXrFXR6)
 
-looks at how more complex functions can be built with simpler ones
+- is the study of the way general functions may be represented or approximated by sums of simpler trigonometric functions  
+- it grew from the study of Fourier series which shows that representing a function as a sum of trigonometric functions greatly simplifies the study of heat transfer  
+- the decomposition process is called a Fourier transformation
 
 ### [numerical analysis](https://my.mindnode.com/gCqezFhjRQGcxfusZph2WMQstSCwWsJjqeNHxpPp)
 
-studies different algorithms to get approximations for problems of mathematical analysis
+- is the study of algorithms that use numerical approximation (as opposed to general symbolic manipulations) for the problems of mathematical analysis 
 
 ### complex analysis
 
+- investigates functions of complex numbers   
+- as a differentiable function of a complex variable is equal to the sum of its Taylor series (that is, it is analytic), complex analysis is particularly concerned with analytic functions of a complex variable (that is, holomorphic functions)
+
+### [fractional calculus](https://my.mindnode.com/xhT73BHjdEPwpgxhqexGBr1GhGFafrxzpqi9aBwp)
+
+- studies the possibility of taking real number powers, real number fractional powers or complex numbers powers of the differentiation operator and the integration operator
+
 ## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
 
-a theory is a group of linked ideas intended to explain something, a theory provides a framework for explaining observations, the explanations are based on assumptions, from the assumptions follows a number of possible hypotheses, they can be tested to provide support for, or challenge, the theory
+- is a contemplative and rational type of abstract or generalising thinking, or the results of such thinking  
+- they guide the enterprise of finding facts rather than of reaching goals, and are neutral concerning alternatives among values  
+- they are analytical tools for understanding, explaining and making predictions about a given subject matter
 
 ## [fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
 
@@ -806,106 +822,208 @@ a theory is a group of linked ideas intended to explain something, a theory prov
 
 ## [visualisation](https://my.mindnode.com/KHZZzzkuqLypx2RZzhfLzW8xySgmnD9pkj4piYnG)
 
+- allows one to understand and explore mathematical phenomena via visualisation   
+- usually done by using computers to make static two or three dimensional drawings, animations or interactive programs
+
 ## [lambda calculus](https://my.mindnode.com/T3szxY2FvQRQEkxRdH5HPx66mzDgwfHfCdzMsSXJ)
 
-is a formal system, was designed to investigate the definition of functions, and how to apply them, it is also a tool for analysing recursion
+- is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution  
+- it is a universal model of computation that can be used to simulate any single-taped Turing machine   
+- it consists of constructing lambda terms and performing reduction operations on them
 
 ## [game theory ](https://my.mindnode.com/eFoMHf1ySiQTQr4bswzQENXTVkMTZFqp1WuPJG2W)
 
-study of how and why people make decisions
+- is the study of mathematical models of conflict and cooperation between intelligent rational decision-makers  
+- originally, it addressed zero-sum games, in which one person’s gains result in losses for the other participants  
+- it applied to to a wide range of behavioural relations and is involved in the study of logical decision making in humans, animals and computers 
 
 ## [decision theory](https://my.mindnode.com/KAHNnVQjfus3JW9pyTK3ESNu4qeCQqms2n3NsXex)
 
-theory about how to best reach a decision, done using probability theory, statistics and logical reasoning
+- is the study of reasoning underlying an agent’s choices  
+- it can be broken into two branches   
+	- normative (which gives advice on how to make the best decisions, given a set of uncertain beliefs and a set of values)  
+	- and descriptive (which analysis how existing, possibly irrational agents actually make decisions)
 
 ### [markov decision processes](https://my.mindnode.com/zJ5EyXG2cvWCUYozwtKyn4gzhXtYCUyK6oMGvgXG)
 
+- provide a mathematical framework for modelling decision making in situations where outcomes are partly random and partly under the control of a decision maker  
+- they are useful for studying a wide range of optimisation problems solved via dynamic programming and reinforcement learning
+
 ## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
 
-is a prescription that assigns to every object of one set an object of another (or the same) set
+- are relations between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output  
+	- i. e. a function that relates each real number x to its square x²  
+- a function is defined by its set of inputs, called the domain; a set of outputs, and possible additional elements, as members, called its codomain; and the set of all input-output pairs, called its graph  
+- they are the ‘central objects of investigation’ in mathematics
 
 ### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
 
-mathematical equation that involves variables like x or y, as well as the rate at which these variables change, they are special because the solution of a differential equation is itself a function instead of a number
+- are mathematical equations that relate some function with its derivatives  
+- in applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two
 
 ### [taylor series ✨](https://my.mindnode.com/ELq3xbSpb8JNynMCMUgQzccGexDc5548pu1DRWdL)
 
+- is a representation of a function as an infinite sum of terms that are calculated from the values of the function’s derivatives at a single point  
+- a function can be approximated by using a finite number of terms of its Taylor series  
+- it is a real or complex-valued function f(x) that is infinitely differentiable at a real or complex number a in the power series
+
 ### [exponential](https://my.mindnode.com/Bqs68aWxm1RcctiLn76AdEwS3wBQi2sAV6gmb3Ga)
+
+- is a function of the form   
+	- f(n) = bⁿ  
+	- where the input variable n occurs as an exponent
 
 ## [modularity ✨](https://my.mindnode.com/kXvXxFpeskVny5UVsqjDbnpxdyH6UJbyzxYsAx4o)
 
+- is the degree to which a system’s components may be separated and recombined
+
 ## [control theory](https://my.mindnode.com/kAsGVxziV9tzNS7Qp3SrfknynqLWW3U7YNbunjvk)
 
-deals with behaviour of dynamical systems, the desired output of a system is called the reference
+- deals with the behaviour of dynamical systems with inputs, and how their behaviour is modified by feedback  
+- the usual objective of it, is to to control a system, often called the plant, so its output follows a desired control signal, called the reference, which may be a fixed or changing value
 
 ## [information theory](https://my.mindnode.com/sV2rmysskLGTGzZjfckp3ouCeyyUEnyC2eTfiH5x)
 
-measures the amount of information in data that could have more than one value, in its most common use, information theory finds physical and mathematical limits on the amounts of data in data compression and data communication
+- studies the quantification, storage and communication of information  
+- a key measure in information theory is ‘entropy’  
+	- entropy quantifies the amount of uncertainty involved in the value of a random variable or the outcome of a random process  
+	- i. e. identifying the outcome of a fair coin flip (with two equally likely outcomes) provides less information (lower entropy) than specifying the outcome from a roll of a die (with six equally likely outcomes)
 
 ### [algorithmic information theory](https://my.mindnode.com/vfXkctqPxGnnpZUnHQooLujkSJ6mPQfHspxx7sHZ)
 
+- concerns itself with relationship between computation and information   
+- it is the ‘result of putting Shannon’s information theory and Turing’s computability theory together’  
+- it studies complexity measures on strings (or other data structures)  
+	- as most mathematical objects can be described in terms of strings, or as the limit of a sequence of strings, it can be used to study a wide variety of mathematical objects, including integers
+
 ## [uncertainty quantification](https://my.mindnode.com/Q8JHqfY9ENGCRQu3MDHgypqJazwTTqZ8EKhP9Yfy)
+
+- is the science of quantitative characterisation and reduction of uncertainties in both computational and real world applications  
+- it tries to determine how like certain outcomes are if some aspects of the system are not exactly known
 
 ## [coding theory](https://my.mindnode.com/uxfLB6ozxTwBBRxMR551sysuLaHvdgqURhEnpejX)
 
-study of properties of codes and how good they are for use in the real world, codes are used for data compression, cryptography and error correction
+- is the study of the properties of codes and their respective fitness for specific applications   
+- codes are used for data compression, cryptography, error-correction and networking  
+- there are four types of coding  
+	1. data compression (or, source coding)  
+	2. error correction (or channel coding)  
+	3. cryptographic coding  
+	4. line coding
 
 ## [computational math](https://my.mindnode.com/pXsZa7eZpNNmHPfV6yWxqRFyhMYE21zYZVz11fQ2)
 
+- involves research in areas of science where computing plays a central and essential role, emphasising algorithms, numerical methods and symbolic computations
+
 ### [symbolic computation](https://my.mindnode.com/Vzboiw3TsJsNWX27k6a9ukyuc2oTryr7MeG7smWu)
 
-## [universal algebra](https://my.mindnode.com/Toy5Hzsexfxx4PSCG3exKLYL5bvpP2qYzcjmEbGP)
+- is the study and development of algorithms and software for manipulating mathematical expressions and other mathematical objects
 
 ## [model theory](https://my.mindnode.com/9PeyxAjPgiwXCr1zvoiJB66QbwgRusneqCty9kZC)
 
+- is the study of classes of mathematical structures (e.g. groups, fields, graphs, universes of set theory) from the perspective of mathematical logic  
+- it is intimately concerned with duality  
+	- it examines semantical elements (meaning and truth) by means of syntactical elements (formulas and proofs) of a corresponding language  
+- universal algebra + logic = model theory
+
 ## [operator theory](https://my.mindnode.com/of3fxpbV9ceAHzsR8ksajrCmsQiiKGSGx7eTzUvX)
+
+- is the study of linear operators on function spaces, beginning with differential operators and integral operators  
+	- the operators may be presented abstractly by their characteristics, such as bounded linear operators or closed operators, and consideration may be given to nonlinear operators  
+- if a collection of operators forms an algebra over a field, then it is an operator algebra
 
 ## [queueing theory](https://my.mindnode.com/KdDiVLY2oKFApemg68zAWr7qvqgZ1p6gr3h5tDqn)
 
-## [fractional calculus](https://my.mindnode.com/xVTYBJBzPpcpJ9E7xPTtupxZ7sCE1qeUz46yTbGW)
+- is the study of waiting lines or queues  
+- it queueing theory, a model is constructed so that queue lengths and waiting time can be predicted
 
 ## [proofs](https://my.mindnode.com/XyTDyytxnnniBnQAEyMcCpyqs77sxMqmSfeXu56y)
 
-a way to show that a math theorem is true, one must show that the theory is true in all cases
+- is an inferential argument for a mathematical statement  
+- in the argument, other previously established statements, such as theorems, can be used  
+- a proof can be traced back to self-evident or assumed statements, known as axioms, along with accepted rules of inference  
+	- axioms may be treated as conditions that must be met before the statement applies  
+- they are examples of exhaustive deductive reasoning or inductive reasoning  
+- a proof must demonstrate that a statement is always true (occasionally by listing all possible cases and showing that it holds in each), rather that enumerate many confirmatory cases
 
 ### [induction](https://my.mindnode.com/fUnyydZRSrXfQnXtqFj7YDRdDqsD4LootHq1VpAJ)
 
-special way of proving a mathematical truth, it can be used to prove that something is true for all the natural numbers, the idea is that   
-  
-1. something is true for the first case  
-2. that same thing is always true for the next case
+- is a proof technique used to prove a given statement about any well-ordered set  
+- it is a form of a direct proof, usually done in two steps  
+	1. base case  
+	2. and inductive step
 
 ## [ring theory](https://my.mindnode.com/H7uZZ1syPfDBHyKspWf7qjKM4z9KQ8UA8hSHwbom)
 
-in algebra a ring is a structure where multiplication and addition are defined, rings are similar structure to that of integers
+- is the study of rings - algebraic structures in which addition and multiplication are defined and have similar properties to those operations defined for integers  
+- it studies the structure of rings, and their representations
 
 ## [algebraic geometry](https://my.mindnode.com/vqkZziXCNsAaKraPAXsuyCyUgwq2qcc6bw3GSVqj)
 
-studies polynomial equations
+- studies zeros of multivariable polynomials  
+- it is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometrical problems about these sets of zeros  
+- the fundamental objects of study are algebraic varieties, which are geometric manifestations of solutions of system of polynomial equations
 
 ## [representation theory](https://my.mindnode.com/rtP2zyWvKfBt61nqLKxCjEuphAqp78PGum9TtGoS)
 
+- studies abstract algebraic structures by representing their elements as linear transformations of vector spaces, and studies modules over these abstract algebraic structures  
+- a representation makes an abstract algebraic object more concrete by describing its elements by matrices and the algebraic operations in terms of matrix addition and matrix multiplication  
+- representation theory is a useful method because it reduces problems in abstract algebra to problems in linear algebra (which is more well understood)
+
 ## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
 
-studies a type of algebraic structure called a group, is often used in math as a starting point for the study of many algebraic structures, and of addition and multiplication of numbers
+- studies the algebraic structures known as groups  
+- the concept of a group is central to abstract algebra  
+	- other well known algebraic structures, such as rings, fields and vector spaces, can be seen as groups endowed with additional operations and axioms  
+- various physical systems, such as crystals and the hydrogen atom, may be modelled by symmetry groups  
+- the range of groups being considered has gradually expanded from finite permutation groups and special examples of matrix groups to abstract groups that may be specified through a presentation by generators and relations
 
 ## [measure theory](https://my.mindnode.com/dADyE1Mt5rxYK6ZgsTJHu4HGhYsi8i1s8qreyqx6)
 
+- a measure on a set is a systematic way to assign a number to each suitable subset of that set, intuitively interpreted as its size  
+- a measure is a generalisation of the concepts of length, area and volume  
+- technically, a measure is a function that assigns a non-negative real number or +∞ to (certain) subsets of set X
+
 ## [relations](https://my.mindnode.com/xdZVy3XSy7ybUyTeYJUPBWaZ7Te5ym9oVSdSz93P)
+
+- a binary relation on a set A is a collection of ordered pairs of elements of A  
+	- in other words, it is a subset of the Cartesian product A² = A × A  
+- a binary relation between two sets A and B is a subset of A × B
 
 ### [equivalence ](https://my.mindnode.com/g7garkNVyc37uqtqh5AXfyteFiwhK8eQ3AxZCMGz)
 
-## homology
+- is a binary relation that is at the same time a reflexive relation, a symmetric relation and a transitive relation  
+- as a consequence of these properties, an equivalence relation provides a partition of a set into equivalence classes
 
-### homological algebra
+## [homology](https://my.mindnode.com/jBCCjLpvZXknimnMHbS2U8Kzzhr68svVGa2LypxG)
+
+- is a general way of associating a sequence of algebraic objects such as abelian groups or modules to other mathematical objects such as topological spaces
+
+### [homological algebra](https://my.mindnode.com/xtKyHgTSHC7U2yGyBuY5FxW7xyCo5WRMbLzb7Jzy)
+
+- studies homology in a general algebraic setting
 
 ## [lie groups](https://my.mindnode.com/L9HGQrVat5LGtq3igzNqtfswz8ifqjyMbvxSF9qn)
 
+- is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  
+- lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  
+	- one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version
+
 ## [notation](https://my.mindnode.com/zzJBWaA5nkYYgAYLLMrudq73ps5PkQnPKu8HpZfr)
+
+- is a system of graphics or symbols, characters and abbreviated expressions, used in artistic and scientific disciplines to represent technical facts and quantities by convention  
+- it is a collection of related symbols that are each given an arbitrary meaning, created to facilitate structured communication within a domain knowledge or field of study
 
 ## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
-## chaos theory
+- is an abstract concept describing something without any bound or larger than any number  
+- in math, ‘infinity’ is often treated as a number (i.e. it counts or measures things: ‘an infinite number of terms’) but it is not the same sort of number as natural or real numbers
+
+## [chaos theory](https://my.mindnode.com/Qmcp89sxqneWCMvKaqm7VV5qNNXWkscVmpaz3QqU)
+
+- focuses on the behaviour of dynamical systems that are highly sensitive to initial conditions  
+- ‘chaos’ is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organisation and reliance on programming at the initial point known as sensitive dependence on initial conditions  
+- the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
 
 # [cloud infrastructure](https://my.mindnode.com/ayTSUapzTmipG6x2xaRvpfVzkPtzs5aosR25CfFC)
@@ -1312,7 +1430,7 @@ quantum computers can use certain phenomena from quantum mechanics, such as supe
 
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
-turning human written code into computer binary code or transpiling it to other languages
+- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language), with the latter often having a binary form known as object code
 
 
 ## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
