@@ -74,7 +74,7 @@ It would also be awesome to make collbarotive mind maps a thing but the technolg
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
-**Don't search. Explore.** 🎊
+#**Don't search. Explore.** 🎊
 
 # Index 🗄️
 - advised to open them in new tab as there is a bug with going back 
@@ -1095,29 +1095,43 @@ If you have some specific questions about this project or about myself, my inter
 
 # [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
 
-tools and machines that help to solve problems or do new things
+- is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation  
+- human specie’s use of technology began with the conversion of natural resources into simple tools
 
 
 # [hardware ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
 
-physical parts that make up a computer
+- computer hardware is the collection of physical components that constitute a computer system  
+- it is the physical parts or components of a computer, such as monitor, keyboard, computer data storage, graphic card, sound card, motherboard and so on, all of which are tangible objects  
+- hardware is directed by software to execute any command or instruction
 
 
 ## [cpu](https://my.mindnode.com/YeT9uZop2oX3WBLqFQLoUktSnZnFVjbxasQVgsDq)
 
-sends signals to control other parts of the computer, almost like how a brain controls a body
-
-## [cache](https://my.mindnode.com/fQ1XBzCUgn4Vhz6pJfe9GuFdxCCDrJ5szhuYpQTG)
-
-the basic idea behind caching is to use the medium that is fast to access to have copies of data
+- is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, loci, control and input/output (I/O) operations specified by the instructions   
+- principal components of a CPU include   
+	- the arithmetic logic unit (ALU) that performs arithmetic and logic operations  
+	- processor registers that supply operands to the ALU and store the results of ALU operations  
+	- and a control unit that orchestrates the fetching (from memory) and execution of instructions by directing the coordinated operations of the ALU, registers and other components
 
 ## [gpu](https://my.mindnode.com/qrRQjspUTfSxUYRutiPtArZ5HWTNgVihVuepqGZc)
 
-processor whose task is calculating the graphical output for monitors
+- is a specialised electronic circuit designed to rapidly manipulate and alter memory to accelerate the creation of images in a frame buffer intended for output to display device  
+- they are very efficient at manipulating computer graphics and image processing, and their highly parallel structure makes them more efficient than general-purpose CPUs for algorithms where the processing of large blocks of data is done in parallel
 
 ### [cuda](https://my.mindnode.com/UzsD8fPyLmedeobRhtjqAygoxdZn9fD86WtFfAVS#-242.9,-144.7,2)
 
-nVidia’s interface for using their GPUs for general computing tasks, is based on c programming language
+- is a parallel computing platform and API model created by Nvidia   
+- it allows software developers and software engineers to use a CUDA-enabled GPU for general purpose processing
+
+## [memory](https://my.mindnode.com/WvTF5x4kKPzssXAftPcsaoqU5UDXjE2qyJzcZ7EK)
+
+- refers to computer hardware devices used to store information for immediate use in a computer
+
+### [cache](https://my.mindnode.com/fQ1XBzCUgn4Vhz6pJfe9GuFdxCCDrJ5szhuYpQTG)
+
+- is a fast and relatively small memory, not visible to the software, that is completely handled by the hardware, that stores the most recently used (MRU) main memory (MM) (or working memory) data  
+- the function of cache memory is to speed up the MM data access and to reduce the system bus and MM traffic in multiprocessor systems (which is one of the major bottlenecks of these systems)
 
 
 # [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
@@ -1210,6 +1224,11 @@ method of solving problems, using this method, a complex problem is split into s
 - it means that a program can be designed to read, generate, analyse or transform other programs, and even modify itself while running  
 - it can be used to move computations from run-time to compile-time, to generate code using compile time computations, and to enable self-modifying code
 
+- [template metaprogramming](https://my.mindnode.com/GkpWKLpuRFrkF6zPEW92CzDtyaxua4s7YyAmZ4Kn)
+  - is a metaprogramming technique in which templates are used by a compiler to generate temporary source code,, which is merged by the compiler to generate temporary source code, which is merged by the compiler with the rest of the source code and then compiled  
+  - the output of these templates include compile-time constants, data structures and complete functions  
+  	- the use of templates can be thought of as compile-time execution
+
 ## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
 
 - software testing is an investigation conducted to provide stakeholders with information about the quality of the product or service under test  
@@ -1288,7 +1307,8 @@ method of solving problems, using this method, a complex problem is split into s
 
 ## [linters](https://my.mindnode.com/6KxuVfowmW81Teuawc2FedkqG5QxiHwseUg3GZDP)
 
-- is the process of running a program that will analyse code for potential errors
+- linting is the process of running a   
+program that will analyse code for potential errors
 
 ## [evaluation](https://my.mindnode.com/NDkKMcxWGi5vHMwEbFzpM3yof8orjxvCyPuGUvCn)
 
@@ -1397,7 +1417,7 @@ method of solving problems, using this method, a complex problem is split into s
 
 ### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
 
-## [1969:: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
+## [1969: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
 
 - imperative, procedural and compiled, low level access to memory
 
@@ -1687,42 +1707,105 @@ method of solving problems, using this method, a complex problem is split into s
 
 ## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
 
+- is a computer program that directly executes (performs) instructions written in a programming or scripting language, without previously compiling them into machine language program  
+- an interpreter generally uses one of the following strategies for program execution :   
+	1. parse the source code and perform its behaviour directly (lisp, BASIC)  
+	2. translate source code into some efficient intermediate representation and immediately execute this (perl, python, ruby)  
+	3. explicitly execute stored precompiled code made by a compiler which is part of the interpreter system (Pascal)  
+- source programs are compiled ahead of time and stored as machine independent code, which is then linked at run-time and executed by an interpreter and/or compiler (for JIT systems)
+
 ## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
+
+- is a form of instruction set designed for efficient execution by a software interpreter  
+- unlike human-readable source code, byte codes are compact numeric codes, constants and references (normally numeric addresses) that encode the result of compiler parsing and semantic analysis of things like type and nesting depths of program objects  
+- they thus allow much better performance than interpreting source code directly  
+- authors of V8 and Dart have challenged the notion that intermediate byte code is needed for fast and efficient VM implementation, both of these languages do direct JIT compiling from source code to machine code with no byte code intermediary
 
 ## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
 
+- is what compiler produces   
+- it is a sequence of statements or instructions in a computer language, usually machine code language (i.e. binary) or an intermediate language such as register transfer language (RTL)  
+- object files can in turn be linked to form an executable file or library file  
+	- in order to be used, object code must either be placed in an executable file, a library file, or an object file  
+- object code is a portion of machine code that has not yet been linked into a complete program
+
 ## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
+
+- is a set of instructions executed directly by a computer’s central processing unit (CPU)  
+- each instruction performs a very specific task, such as a load, a jump or an ALU operation on a unit of data in a CPU register or memory  
+	- every program directly executed by a CPU is made up of a series of such instructions
 
 ## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
 
+- how to create an efficient and optimised compiler
+
 ## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
+
+- how to effectively optimise the process of compiling
+
+### [optimising compiler](https://my.mindnode.com/BgnCykCteFedakmQYGqqJnZS1SFufzAMUUrD6d5i)
+
+- is a compiler that tries to minimise or maximise some attributes of an executable computer program  
+- most common requirement is to minimise the time taken to execute a program, a less common one is to minimise the amount of memory required  
+- it has been shown that some code optimisation problems are NP-complete, or even undecidable
 
 ## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
 
-## [template metaprogramming](https://my.mindnode.com/yqtNqRKq9kiwKqgVu4Gqsxa22tjWjGhQJh1Ks4SL)
+- is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  
+- it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  
+- it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  
+	- this new IR can then be converted and linked into machine-dependent assembly language code for a target platform
 
 ## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
+
+- is the process by which a compiler’s code generator converts some intermediate representation of source code into a form (e.g. machine code) that can be readily executed by a machine  
+- the input to the code generator typically consists of a parse tree or an abstract syntax tree  
+	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
 
 
 # [quantum physics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
 
+- is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
+- classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
+- quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be   
+known (uncertainty principle)
+
 
 ## [string theory](https://my.mindnode.com/SR2Z6ndrhp1gZRayycWksJEBzPcujR3xr7kWLfT9)
 
-set of attempts to model the four known fundamental interactions  
-  
-1. gravitation   
-2. electro
+- is a theoretical framework in which the point-like particles or particle physics are replaced by one-dimensional objects called strings  
+	- it describes how these strings propagate through space and interact with each other  
+	- on distance scales large than the string scale, a string looks just like an ordinary particle, with its mass, charge and other properties determined by the vibrational state of the string  
+	- one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries gravitational force
 
 ## [spin](https://my.mindnode.com/sDbRjiYXfC12qpF6efAn9sKpk2XyTdWFvwDeksph)
 
+- is an intrinsic form of angular momentum carried by elementary particles, composite particles (hadrons) and atomic nuclei  
+- spin is one of two types of angular momentum in quantum mechanics, the other being orbital angular momentum  
+- in some ways, spins is like a vector quantity; it has a definite magnitude, and it has a ‘direction’ (but quantisation makes this ‘direction’ different from the direction of an ordinary vector)
+
 ## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
+
+- is a theory that attempt to describe the quantum properties of the universe and gravity  
+- it is also a theory of quantum spacetime because according to general relativity, gravity is a manifestation of the geometry of spacetime  
+- it is an attempt to merge quantum mechanics and general relativity
 
 ## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
 
+- is a physical phenomenon that occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently of the others, even when the particles are separated by a large distance   
+	- instead, a quantum state must be described for the system as a whole
+
 ## [quantum field theory ✨](https://my.mindnode.com/Y2ZrpZdcqTzUyzAfx2w3T6mr1VrDQbHhAaGxDUV3)
 
+- is the theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics  
+- it treats particles as excited states of the underlying physical field, so these are called field quanta
+
 ## [bloch sphere](https://my.mindnode.com/TYQv7runzBk67VHq7ChTBKNbuwoRNf6kvWGs4Tg5)
+
+- is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit)  
+- quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space  
+	- the space of pure states of a quantum system is given by the one-dimensional subspaces of the corresponding Hilbert space (or the ‘points’ of the projective Hilbert space)  
+	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
 
 
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
@@ -1781,7 +1864,7 @@ set of attempts to model the four known fundamental interactions
 
 # [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
 
-how to develop fun and enjoyable games
+- is the process of creating a video game
 
 
 ## [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
@@ -3328,6 +3411,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### 1944: the road to serfdom
 
 ### 1974: the anatomy of the state
+
+### 11: the dictator's handbook: why bad behaviour is almost always good politics
 
 ### 13: the democracy project: a history, a crisis, a movement
 
