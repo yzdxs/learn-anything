@@ -74,7 +74,7 @@ It would also be awesome to make collbarotive mind maps a thing but the technolg
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
 
-Learn something new. 🎊
+**Don't search. Explore.** 🎊
 
 # Index 🗄️
 - advised to open them in new tab as there is a bug with going back 
