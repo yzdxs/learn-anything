@@ -1,89 +1,3 @@
-# [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
-
-![](https://i.imgur.com/WF4OVJK.jpg)
-
-### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
-
-# Why? 🎈
-
-[Here is an article I wrote on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
-
-[Here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
-
-
-# Where to start? 🤔
-
-It depends on what you are looking for and what your goals are. I would suggest to just wait until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. 
-
-⚠️️ 
-
-- it takes ~ 1 minute to load
-- does not load on mobile 
-- small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
-
-Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and often has really great resources linked to it for further study. Just look into what you think is interesting and go from there. 
-
-The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. 
-
-I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) as I try to cover any confusions one might have in navigating these mind maps there.
-
-If you have expolored the interactive mind map a bit and are somewhat familiar with what is in it. There are two options you can take to quickly find the the appropriate mind map you may need. 
-
-1. You can come on this page and just search for what you want in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) and open the mind map from there. 
-
-2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are.
-
-These mind maps are a work in progress as I experiment in keeping my 'bookmark manager' and 'notebook' open and free in this way. 
-
-
-## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
-
-![](http://i.imgur.com/fuFPus5.jpg)
-
-## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
-I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
-
-## [My GitHup Repositories 👾](https://my.mindnode.com/CEAz1uZBt1erP7sL7QXmACp9MktpSTjBseqmghXx#-472.9,-1307.6,2)
-
-I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
-
-## Contributing 🎉
-
-There are few ways in which you can contribute.
-
-I would love it if you would add your own knowledge or high quality links to this mind map. You can do so by [starting an issue](https://github.com/nikitavoloboev/research/issues/new) and writing what it is that you want to add to it that I have missed. Here is an [example of one possible request](https://github.com/nikitavoloboev/knowledge-map/issues/1).
-
-Do you have a favourite book or course or project that you have found that you really love? Do you have a favourite website or article or quote? You can just open an issue and say what it is you wish was added that is missing. Perhaps there is a huge area of research that I missed all together and you wish it would be added to the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J), just [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say it.
-
-Another thing I am doing is giving succint and clear descriptions to each of the main nodes in the graph as can be seen in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) below. I wish to desribe each of the nodes in the most clear way possible. I would love some help on this by either adding your own descriptions and submitting a pull request or correcting or improving the descriptions I have written. Perhaps I have made a mistake or it could be said better.
-
-As it currently stands, this mind map is used mainly by me but as I explore further and further and do more research, I will try to structure knowledge in a way that visualises the various connections in a way that makes more and more sense. I really dislike the black box nature of search engines where you have to know what to ask before getting an answer.
-
-If you do want to help me make my vision of open sourcing and visualising all of the world's knowledge in this way a reality, you can try look into [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs), [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [GitHub repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG), [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu) and see what I have missed adding there that you think should be added. Quality over quantitiy though. The goal is to represent knoweldge visually and see connections between each of the nodes and provide paths to acquring this knowledge. 
-
-There are many other mind maps that you can explore and I would really love to hear your thoughts and suggestions of what I can add or how I can improve this project. I am heavily learning and experimenting with the web stack as I have some really exciting plans for this project, mind maps and visualisation in general. If you find this idea appealing to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts.
-
-# Future 🚀
-
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
-
-I also believe the user experience of using the web version of mind maps will improve greatly in the coming months and I hope the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
-
-It would also be awesome to make collbarotive mind maps a thing but the technolgy isn't there yet.
- 
-# Ask 💬
-If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
-
-**Don't search. Explore.** 🎊
-
-# Index 🗄️
-- advised to open them in new tab as there is a bug with going back 
-	- need to go back a few times 😞 (I hope it will be fixed soon)
-
-# [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
-
-- the high level visual overview of all the knowledge
-
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 - contains all the documentation for how I use and manage this mind map  
@@ -182,6 +96,11 @@ If you have some specific questions about this project or about myself, my inter
 - electric
 
 
+# [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
+
+- how to optimise processes (algorithms, systems and so on)
+
+
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
 - autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
@@ -191,25 +110,6 @@ If you have some specific questions about this project or about myself, my inter
 	- GPS  
 	- odometry  
 	- and computer vision
-
-
-# [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
-
-- how to optimise processes (algorithms, systems and so on)
-
-
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-- deals with how computers can be made for gaining high-level understanding from digital images or videos  
-- it seeks to automate tasks that the human visual system can do  
-- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
-
-- open source computer vision library for real time computer vision 
 
 
 # [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -335,6 +235,20 @@ If you have some specific questions about this project or about myself, my inter
 	- a data structure is a concrete implementation of the specification provided by an ADT  
 - are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  
 - implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
+
+
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+
+- deals with how computers can be made for gaining high-level understanding from digital images or videos  
+- it seeks to automate tasks that the human visual system can do  
+- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+- open source computer vision library for real time computer vision 
 
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
@@ -1026,23 +940,6 @@ If you have some specific questions about this project or about myself, my inter
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
 
-# [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
-
-- models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
-	1. its current state  
-	2. states of the neighbouring cells
-
-
-## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
-
-- the ‘game’ is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input  
-- rules of the game are : 	  
-	1. any live cell with fewer than two live neighbours dies, as if caused by underpopulation  
-	2. any live cell with two or three live neighbours lives on to the next generation  
-	3. any live cell with more than three live neighbours dies, as if by overpopulation  
-	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
-
-
 # [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
 
 - is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
@@ -1068,14 +965,29 @@ If you have some specific questions about this project or about myself, my inter
 - provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
 
 
+# [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
+
+- models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
+	1. its current state  
+	2. states of the neighbouring cells
+
+
+## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
+
+- the ‘game’ is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input  
+- rules of the game are : 	  
+	1. any live cell with fewer than two live neighbours dies, as if caused by underpopulation  
+	2. any live cell with two or three live neighbours lives on to the next generation  
+	3. any live cell with more than three live neighbours dies, as if by overpopulation  
+	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
+
+
 # infrastructure
 
 - refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
 
 
 ## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
-
-- ways in which to 
 
 ### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
 
@@ -1093,81 +1005,6 @@ If you have some specific questions about this project or about myself, my inter
 # [raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
 
 - is a series of small single-board computers
-
-
-# [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
-
-- is a process that leads from an original formulation of a computing problem to an executable computer programs
-
-
-## [bitwise operations](https://my.mindnode.com/jjdFxBtm7BCMmZBfFHwwyRh3q3awMFxbXePMs4Cy)
-
-- operate on one or more bit patterns or binary numerals at the level of individual bits  
-- it is a fast, simple action directly supported by the processor, and is used to manipulate values for comparisons and calculations  
-- the operators are :  
-	- AND  
-	- OR  
-	- NOT  
-	- XOR (Exclusive Or)  
-	- NAND (Not And)
-
-## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12)
-
-- are general reusable solutions to a commonly occurring problem within a given context in software design  
-- it is not a finished design that can be transformed directly into source or machine code  
-	- it is a description or template for how to solve a problem that can be used in many different situations
-
-## [dynamic programming](https://my.mindnode.com/cpxi9EqMbbF7cvq3vqD4pDQLwHetX81qagPEXi99)
-
-method of solving problems, using this method, a complex problem is split into simpler problems, which are then solved, at the end, the solutions of the simpler problems are used to find the solution of the original complex problem
-
-## [parallel programming](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
-
-## [paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn#767.7,-730.8,2)
-
-### [functional ✨](https://my.mindnode.com/VBKbwLewsn3MhqzDHunGu2GzKrU5apxicASUbHri)
-
-looks at programming like a function in mathematics, the program receives input, some information, and uses this information to create output, it will not have a state in between and it will also not change things that are not related to the computation
-
-### [object oriented](https://my.mindnode.com/bXt6DgouTpBrCURxSzAyvZxMEsSU4pd4ecBVtRzn)
-
-everything is modelled around objects that interact with each other, classes generate objects and define their structure, like a blueprint, the objects interact with each other to carry out the intent of the computer program
-
-### procedural
-
-set of steps or state changes
-
-## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
-
-### [test driven development](https://my.mindnode.com/ey6QYxyUo6JqQ6tDmmRRLykwjpr7ybbEf5fcicZr)
-
-### [unit testing](https://my.mindnode.com/z3wLxo6zw1KEpPs1kryj51ToaDH3RkfEDQx4GRDR)
-
-## [error handling ✨](https://my.mindnode.com/hsypcsP4rFSaqi8Gs2J6a3KsMfeKUpVPqEudmXYw)
-
-## [abstraction](https://my.mindnode.com/7aNxJDAnKfSqGHhHpnpewSeDdFMmCY5tj32fdFqH)
-
-process of removing or hiding details about something
-
-## [software verification](https://my.mindnode.com/i2Tmz28SzbT3WCq6aqrQy75sy226sNxAkZ3aABxG)
-
-## [dependency injection](https://my.mindnode.com/L1ZfeUJUTiLaJG9RUbE47q6QkDkYUxBGMA9URp2E)
-
-## [syntax trees](https://my.mindnode.com/55ZLtTbzDZJV6aXqXUxN92g6Ps7GMbnsEpjD7sqq)
-
-## [static analysis](https://my.mindnode.com/3sCkLyCxbePrDHzrCRpVEQX6xfMHFPSrN6tRzMfx)
-
-## [linters](https://my.mindnode.com/6KxuVfowmW81Teuawc2FedkqG5QxiHwseUg3GZDP)
-
-## [evaluation](https://my.mindnode.com/NDkKMcxWGi5vHMwEbFzpM3yof8orjxvCyPuGUvCn)
-
-## [memory](https://my.mindnode.com/wbRrdVuWerWQMHiPNrW7KdeLc9WFyz2EzBBQSgSd)
-
-## [type system ✨](https://my.mindnode.com/S5yqn46mnWuPPzHzQN5yaZPzoJ2gCfTbJWzJt4qZ)
-
-## [competitive ✨](https://my.mindnode.com/HjzAcCjnzpEcL69NSNYigoEyVeDTUiXLsEh3nM6P)
-
-how to get into competitive programming and learn to solve algorithmic challenges within a time limit
 
 
 # [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
@@ -1195,6 +1032,211 @@ processor whose task is calculating the graphical output for monitors
 ### [cuda](https://my.mindnode.com/UzsD8fPyLmedeobRhtjqAygoxdZn9fD86WtFfAVS#-242.9,-144.7,2)
 
 nVidia’s interface for using their GPUs for general computing tasks, is based on c programming language
+
+
+# [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
+
+- is a process that leads from an original formulation of a computing problem to an executable computer programs
+
+
+## [bitwise operations](https://my.mindnode.com/jjdFxBtm7BCMmZBfFHwwyRh3q3awMFxbXePMs4Cy)
+
+- operate on one or more bit patterns or binary numerals at the level of individual bits  
+- it is a fast, simple action directly supported by the processor, and is used to manipulate values for comparisons and calculations  
+- the operators are :  
+	- AND  
+	- OR  
+	- NOT  
+	- XOR (Exclusive Or)  
+	- NAND (Not And)
+
+## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12)
+
+- are general reusable solutions to a commonly occurring problem within a given context in software design  
+- it is not a finished design that can be transformed directly into source or machine code  
+	- it is a description or template for how to solve a problem that can be used in many different situations
+
+## [dynamic programming](https://my.mindnode.com/cpxi9EqMbbF7cvq3vqD4pDQLwHetX81qagPEXi99)
+
+- is a method for solving a complex problem by breaking it down into a collection of simpler subproblems, solving each of those subproblems just once, and storing their solutions - ideally, using a memory-based data structure  
+	- next time the same subproblem occurs, instead of recomputing its solution, one simply looks up the previously computed solution, thereby saving computation time at the expense of a (hopefully) modest expenditure in storage space  
+- the technique of storing solutions to subproblems instead of recomputing them is called ‘memoization’  
+- dynamic problem algorithms are often used for optimisation  
+  
+method of solving problems, using this method, a complex problem is split into simpler problems, which are then solved, at the end, the solutions of the simpler problems are used to find the solution of the original complex problem
+
+## [parallel programming](https://my.mindnode.com/GpTSNDPB9KpxJDmE3U6bSZXKvupWhYuPY1gEwCtn)
+
+- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
+- large problems can often be divided into smaller ones, which can then be solved at the same time  
+- there are several different forms of parallel computing  
+	- bit-level  
+	- instruction-level  
+	- data  
+	- and task parallelism
+
+## [paradigms](https://my.mindnode.com/qqjRxmiDoMyKteYicvarwjrgMgpsYJjLWgXsD5Wn#767.7,-730.8,2)
+
+- are a way to classify programming languages according to the style of computer programming   
+- features of various programming languages determine which programming paradigms they belong to  
+	- as a result, some languages fall into only one paradigm, while others fall into multiple paradigms  
+- common paradigms include  
+	- imperative which allows side effects  
+	- functional which disallows side effects  
+	- declarative which does not state the order in which the operations execute  
+	- object-oriented which groups code together with the state the code modifies  
+	- procedural which groups code into functions  
+	- logic which has a particular style of execution model coupled to a particular style of syntax and grammar  
+	- symbolic programming which has a particular style of syntax and grammar
+
+### declarative
+
+- is a style of building the structure and elements of computer programs that expresses the logic of a computation without describing the control flow
+
+- [functional ✨](https://my.mindnode.com/VBKbwLewsn3MhqzDHunGu2GzKrU5apxicASUbHri)
+  - is a style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data  
+  - in functional code, the output value of a function depends only on the argument that are passed to the function, so calling a function f twice with the same value for an argument x will produce the same result f(x) each time  
+  - eliminating side effects (changes in state that do not depend on the function inputs), can make it much easier to understand and predict the behaviour of a program  
+  - lambda calculus provides a theoretical framework for describing functions and their evaluation
+
+- logic
+  - is largely based on formal logic  
+  - any program written in a logic programming language is a set of sentences in logical form, expressing facts and rules about some problem domain
+
+- dataflow
+  - models a program as a directed graph of the data flowing between operations, thus implementing data flow principles and architecture
+
+- constraint
+  - is a paradigm wherein relations between variables are stated in the form of constraints  
+  - constraints differ from the common primitives of imperative programming languages in that they do not specify a step or sequence of steps to execute, but rather the properties of a solution to be found  
+  - constrain programming can be expresses in the form of constrain logic programming, which embeds constrains into a logic program
+
+### imperative
+
+- uses statements that change a program’s state  
+- imperative program consists of commands for the computer to perform  
+	- it focuses on describing how a program operates
+
+- [object oriented](https://my.mindnode.com/bXt6DgouTpBrCURxSzAyvZxMEsSU4pd4ecBVtRzn)
+  - is based on the concepts of ‘objects’, which may contain data, in the form of fields, often known as attributes; and code, in the form of procedures, often known as methods  
+  - a feature of objects is that an object’s procedures can access and often modify the data fields of the object with which they are associated (objects have a notion of ‘this’ or ‘self’)  
+  - in OOP, computer programs are designed by making them out of objects that interact with one another  
+  - most popular object oriented languages are class-based, meaning that objects are instances of classes, which typically also determine their type
+
+- procedural
+  - is derived from structured programming, based upon the concept of the procedure call  
+  - procedures, also known as routines, subroutines, or functions, simply contain a series of computation steps to be carried out  
+  - any given procedure might be called at any point during a program’s execution, including by other procedures or itself
+
+### metaprogramming
+
+- is a programming technique in which computer programs have the ability to treat programs as their data  
+- it means that a program can be designed to read, generate, analyse or transform other programs, and even modify itself while running  
+- it can be used to move computations from run-time to compile-time, to generate code using compile time computations, and to enable self-modifying code
+
+## [testing](https://my.mindnode.com/1qGKADJWJ2MtkLpVgCUF5Pooa4iVKbHjTfKfYGNu)
+
+- software testing is an investigation conducted to provide stakeholders with information about the quality of the product or service under test  
+- it involves the execution of a software component or system component to evaluate one or more properties of interest  
+	- it indicates the extent to which the component or system under test  
+		- meets the requirements that guided its design and development  
+		- responds correctly to all kinds of inputs  
+		- performs its functions within an acceptable time  
+		- is sufficiently usable  
+		- can be installed and run in its intended environments  
+		- achieves the general result its stakeholders desire
+
+### [test driven development](https://my.mindnode.com/ey6QYxyUo6JqQ6tDmmRRLykwjpr7ybbEf5fcicZr)
+
+- is a software development process that relies on the repetition of a very short development cycle  
+	- requirements are turned into very specific test cases, then the software is improved to pass the new tests, only  
+- it encourages simple designs and inspires confidence   
+- a typical test driven cycle is  
+	1. add a test  
+	2. run all tests and see if the new test fails  
+	3. write the code  
+	4. run tests  
+	5. refactor code
+
+### [unit testing](https://my.mindnode.com/z3wLxo6zw1KEpPs1kryj51ToaDH3RkfEDQx4GRDR)
+
+- is a software testing method where units of source code, sets of one or more computer program modules together with associated control data, usage procedures, and operating procedures, are tested to determine whether they are fit for use  
+- one can view a unit as the smallest testable part of an application  
+- ideally, each test case is independent from the others
+
+## [exception handling ✨](https://my.mindnode.com/xEiGQnjcJeqyxvxpxspGJR7q4zDQPawRYMpJDqVj)
+
+- exception handing is the process of responding to the occurrence, during computation, of exceptions (anomalous or exceptional conditions requiring special processing - often changing the normal flow of program execution)  
+- in general, an exception breaks the normal flow of execution and executes a pre-registered exception handler
+
+## [abstraction](https://my.mindnode.com/7aNxJDAnKfSqGHhHpnpewSeDdFMmCY5tj32fdFqH)
+
+- is a technique for arranging complexity of computer systems  
+- it works by establishing a level of complexity on which a person interacts with the system, surpassing the more complex details below the current level  
+- the programmer works with an idealised interface (usually well defined) and can add additional levels of functionality that would otherwise be too complex to handle  
+- abstraction can apply to control or to data  
+	- control abstraction is the abstraction of actions while data abstractions is that of data structures  
+	- control abstraction involves the use of subroutines and control flow abstractions  
+	- data abstraction allows handling pieces of data in meaningful ways  
+- the notion of an object in object-oriented programming can be viewed as a way to combine abstractions of data and code
+
+## [software verification](https://my.mindnode.com/i2Tmz28SzbT3WCq6aqrQy75sy226sNxAkZ3aABxG)
+
+- is a discipline of software engineering whose goal is to issue that software fully satisfies all the expected requirements  
+- there are two fundamental approaches to verification   
+	- dynamic verification, also known as Test or Experimentation (this is good for finding bugs)  
+	- static verification, also known as Analysis (is useful for proving correctness of a program although it may result in false positives)
+
+## [dependency injection](https://my.mindnode.com/L1ZfeUJUTiLaJG9RUbE47q6QkDkYUxBGMA9URp2E)
+
+- is a technique whereby one object supplies the dependencies of another object  
+- a dependency is an object that can be used (a service)  
+- an injection is the passing of a dependency to a dependent object (a client) that would use it  
+	- the service is made part of the client’s state  
+	- passing the service to the client, rather than allowing a client to build or find the service, is the fundamental requirement of the pattern  
+- the intent behind it, is to decouple objects to the extent that no client code has to be changed simply because an object it depends on needs to be changed to a different one
+
+## [syntax trees](https://my.mindnode.com/55ZLtTbzDZJV6aXqXUxN92g6Ps7GMbnsEpjD7sqq)
+
+- are tree representations of the abstract syntactic structure of source code written in a programming language  
+- each node of the tree denotes a construct occurring in the source code  
+- they are used in program analysis and program transformation systems  
+- they are data structures widely used in compilers due to their property of representing the structure of program code  
+	- an AST is usually the result of the syntax analysis phase of a compiler  
+	- it often serves as an intermediate representation of the program through several stages that the compiler requires, and has a strong impact on the final output of the compiler
+
+## [static analysis](https://my.mindnode.com/3sCkLyCxbePrDHzrCRpVEQX6xfMHFPSrN6tRzMfx)
+
+- is the analysis of computer software that is performed without actually executing programs (analysis performed on executing programs is known as dynamic analysis)  
+	- in most cases the analysis is performed on some version of the source code, and in the other cases, some form of the object code
+
+## [linters](https://my.mindnode.com/6KxuVfowmW81Teuawc2FedkqG5QxiHwseUg3GZDP)
+
+- is the process of running a program that will analyse code for potential errors
+
+## [evaluation](https://my.mindnode.com/NDkKMcxWGi5vHMwEbFzpM3yof8orjxvCyPuGUvCn)
+
+- is a systematic method for collecting, analysing and using information to answer questions about projects, policies and programs, particularly about their effectiveness and efficiency 
+
+## [memory](https://my.mindnode.com/wbRrdVuWerWQMHiPNrW7KdeLc9WFyz2EzBBQSgSd)
+
+- how to effectively manage data whilst programming
+
+## [type system ✨](https://my.mindnode.com/S5yqn46mnWuPPzHzQN5yaZPzoJ2gCfTbJWzJt4qZ)
+
+- is a set of rules that assign a property called a type to various contracts a computer program consists of, such as variables, expressions, functions or modules  
+- the main purpose of it is to reduce possibilities for bugs in computer programs by defining interfaces between different parts of a computer program, and then checking that the parts have been connected in a consistent way  
+	- this checking can happen   
+		- statically (at compile time)  
+		- dynamically (at run time)  
+		- or as a combination of static and dynamic checking  
+- other purposes of a type system include enabling certain compiler optimisations, allowing for multiple dispatch, providing a form of documentation, etc.  
+- it associates a type with each computed value and, by examining the flow of these values, attempts to ensure or prove that no type errors can occur
+
+## [competitive ✨](https://my.mindnode.com/HjzAcCjnzpEcL69NSNYigoEyVeDTUiXLsEh3nM6P)
+
+- is a mind sport usually held over internet or a local network which involves participants trying to program according to provided specifications  
+- the competition generally involves a set of logical or mathematical problems and contestants are required to write computer programs capable of solving each problem
 
 
 # [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
@@ -3451,7 +3493,7 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - 1543: Nicolaus Copernicus
 
-- 1642: Galileo Galilei
+- [1642: Galileo Galilei](https://my.mindnode.com/1i5YAicdW5yiKdXDs58BS4ppdhfAQz1yx3UTfDha)
 
 - 1703: Robert Hooke
 
