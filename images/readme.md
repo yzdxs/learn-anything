@@ -8,7 +8,7 @@ I have collected over 18,000 images over the years.
 
 I just need to sort them well, connect them together and share them. Each of the images in the [mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) are links to Imgur albums which I will update with time. I will also try to add descriptions of each image where appropriate.
 
-#Index 🗄️
+# Index 🗄️
 
 - [humans](https://imgur.com/a/p9FC3)
 
