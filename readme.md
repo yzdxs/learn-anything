@@ -60,7 +60,7 @@ I really love programming, building and sharing the things I have built. Aside f
 
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
 
-I also believe the user experience of using the web version of mind maps will improve greatly in the coming months and I hope the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
+User experience of using the web version of mind maps will improve greatly in the coming months and the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
 
 If you really love these ideas and find them  interesting, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts. I would love to work together to make this vision become a reality.
  
