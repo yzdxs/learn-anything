@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/WF4OVJK.jpg)
+![](https://i.imgur.com/a7kIOWr.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -1602,11 +1602,6 @@ program that will analyse code for potential errors
 
 - branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
 
-### [hypercomputation](https://my.mindnode.com/UHo3bpyyn4UwXH6SCUyyZy7XGn3rMru9Ns8k7V9N)
-
-- refers to models of computation that can provide outputs that are not Turing computable   
-	- i.e. a machine that could solve the halting problem would be a hyper computer; so too would one that can correctly evaluate every statement in Peano arithmetic 
-
 ## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
 
 - a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
@@ -2960,6 +2955,8 @@ all the books I am currently reading or have read
 
 ### 1994: nonlinear dynamics and chaos
 
+### 1994: pale blue dot
+
 ### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
 
 ### 10: fields of colour: the theory that escaped Einstein
@@ -2996,7 +2993,7 @@ free:
 
 ## mindset
 
-### meditations
+### [meditations](https://my.mindnode.com/pfYWpvSsrbnRBpCxRbYcqsJK5JwxBSZvxdWs9FKv)
 
 ### 6th century bc: tao te ching
 
@@ -3019,6 +3016,8 @@ free:
 ### 1966: the book on the taboo against knowing who you are ✨
 
 ### 1971: be here now
+
+### 1974: the inner game of tennis
 
 ### 1989: the 7 habits of highly effective people
 
@@ -3090,7 +3089,27 @@ free:
 
 ### [1940: a mathematician's apology](https://my.mindnode.com/svqaW8VyqpxSu5fB4ydcpwsYLJwxvkviGy4G5VjL)
 
+### 1945: handbook of mathematics
+
+### 1958: fantasia mathematica
+
+### 1958: gödel's proof
+
+### 1965: sphereland
+
+### [1965: topology from a differentiable viewpoint](https://my.mindnode.com/JvZcpPFA4pU1MNXevyNs8pPCUWzC25AxZdnaDeoz)
+
+free:
+
+### [1969: an introduction to commutative algebra](https://my.mindnode.com/qPzRp2wLp7fri7yPp6tnEHRUSPGHdhqkuzq1PJmL)
+
+free:
+
 ### 1972: mathematics made difficult
+
+### [1973: a course in arithmetic](https://my.mindnode.com/ywWcHEotdsyYbsyJYcmmyayqzyVVXg6VCDo9axCU)
+
+free:
 
 ### 1982: a book of abstract algebra
 
@@ -3111,6 +3130,8 @@ free:
 ### [04: a first course in linear algebra](https://my.mindnode.com/ynpsot4oopEKj5XvWpJfinwQWvPsD4NZQXmo7wwx)
 
 ### [08: logicomix](https://my.mindnode.com/27sJyKNfq9M7y8mu2HfiaquJREsbsdqMxq6pn3s8)
+
+### 08: the princeton companion to mathematics
 
 ### 09: visual group theory
 
@@ -3179,6 +3200,8 @@ free:
 ### 1980: cosmos
 
 ### 1988: a brief history of time
+
+### 1995: the demon-haunted world
 
 ### 03: a short history of nearly everything
 
@@ -3252,9 +3275,15 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1955: lolita
 
+### 1957: doctor zhivago
+
 ### [1959: flowers for algernon ✨✔](https://my.mindnode.com/HnYCLfb3q3xZCVswbafBfoMeDKngVCT1jaa8vYyh)
 
+### 1961: catch-22
+
 ### 1962: pale fire
+
+### 1962: island
 
 ### 1962: we have always lived in the castle
 
@@ -3286,6 +3315,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1999: the perks of being a wallflower ✔
 
+### 1999: cryptonomicon
+
 ### 00: house of leaves
 
 ### 06: the road
@@ -3296,6 +3327,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ## scifi
 
+### 1959: the sirens of titan
+
 ### 1961: stranger in a strange land
 
 ### 1963: cat’s cradle
@@ -3305,6 +3338,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 ### 1969: ubik
 
 ### 1974: the mote in god's eye
+
+### 1984: neuromancer
 
 ### 1985: ender’s game
 
@@ -3328,13 +3363,15 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### series
 
-- culture
-
-	- excession
+- the baroque cycle
 
 - hyperion cantos
 
 - foundation
+
+- culture
+
+	- excession
 
 - rama
 
@@ -3345,6 +3382,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 ### 1844: the count of monte cristo
 
 ## [short stories](https://my.mindnode.com/pYb2gsa7vJXi1uyPDxo2yhwvNzyTfjDk7JmLWwsX)
+
+### 1941-1956: ficciones
 
 ### 1943: the little prince ✨✔
 
@@ -3386,15 +3425,29 @@ free:
 
 ### 1986: the making of atomic bomb
 
+### 1993: lenin's tomb: the last days of the soviet empire
+
 ### 1997: guns, germs, and steel: the fates of human societies
 
 ### 03: masters of doom
+
+### 03: stalin: the court of the red tsar
+
+### 03-08: the third reich trilogy
+
+- the coming of the third reich
+
+- the third reich in power
+
+- the third reich at war
 
 ### 11: sapiens: a brief history of humankind
 
 ### 12: the idea factory: bell labs and the great age of american innovation
 
 ### 14: the sixth extinction: an unnatural history
+
+### 15: conquerors: how portugal forged the first global empire
 
 ## crypto
 
@@ -3418,7 +3471,11 @@ free:
 
 explores fundamental concepts of mathematics, symmetry and intelligence and how they interlink
 
+### 1983: prometheus rising
+
 ### 1986: finite and infinite games
+
+### 07: the stuff of thought
 
 ## operating systems
 
@@ -3428,9 +3485,15 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ## neuroscience
 
+### 1985: the man who mistook his wife for a hat
+
+### 1994: descartes' error
+
 ### 00: principles of neural science
 
 ### [01: molecular basis of neuropharmacology: a foundation for clinical neuroscience](https://my.mindnode.com/ryVUUpnoDx9mYcpXqJVkzdMH9MeyESsy5fWuSnN1)
+
+### 02: synaptic self: how our brains become who we are 
 
 ### 11: thinking, fast and slow
 
@@ -3453,6 +3516,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 ### 1944: the road to serfdom
 
 ### 1974: the anatomy of the state
+
+### 02: understanding power: the indispensable chomsky
 
 ### 11: the dictator's handbook: why bad behaviour is almost always good politics
 
@@ -3484,9 +3549,13 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 1971: napoleon bonaparte: an intimate biography
 
+### 1974: the power broker
+
 ### [1984: surely you’re joking mr Feynman ✨](https://my.mindnode.com/EYQVieik8Mh1x337GHJshm5BdaKgwWqAz4uZRWv9)
 
 ### 1991: the man who knew infinity: a life of the genius ramanujan
+
+### 1951: speak, memory
 
 ### 01: madame curie: a biography
 
@@ -3558,6 +3627,16 @@ free:
 
 ### 15: the utopia of rules
 
+## psychology
+
+### 1984: influence: the psychology of persuasion
+
+### 04: on intelligence
+
+## strategy
+
+### ~500 BC: the art of war
+
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
@@ -3599,6 +3678,68 @@ various talks I have found interesting that don’t fall into any category
 
 
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
+
+
+# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
+
+it is best to learn from mistakes of others so as to not repeat them
+
+
+## events
+
+### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
+
+### [1765-1783: american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
+
+### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
+
+1917
+
+### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
+
+1930s
+
+### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
+
+1922-1991
+
+### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
+
+### 1942-1946: manhattan project
+
+### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
+
+United Kingdom leaving European Union
+
+### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
+
+15th to 19th century
+
+### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+## wars
+
+### 1803-1815: napoleonic wars
+
+### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
+
+1914-1918
+
+### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
+
+1939-1945
+
+- holocaust
+
+### 1942-1943: battle of stalingrad
+
+### 1853-1856: crimean war
+
+### 1955-1975: vietnam war
+
+## interesting
+
+### ancient cities
 
 
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
@@ -4136,6 +4277,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 - 1973: John Tolkien
 
 - 1977: Anais Nin
+
+- 1986: Jorge Borges
 
 - 07: Kurt Vonnegut
 
@@ -4894,29 +5037,35 @@ is a cultural region, an ancient civilisation and a nation in east asia
 courses I am doing or plan on doing
 
 
-## ai
-
-### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
+## machine learning
 
 ### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
 
 ### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
 
+## deep learning
+
+### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
+
+### [stanford deep learning for natural language processing](https://my.mindnode.com/gzaewsTnpznLtwdj4BxsR1MjfpXAwfKQyyyPgxyT)
+
+### [stanford convolutional neural networks for visual recognition](https://my.mindnode.com/98pQJGFR4Z7LD45EKaq2L5pqctW4VtY3WefxwbaW)
+
 ## haskell
 
 ### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
+
+## scala
+
+### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
 
 ## programming
 
 ### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
 
-### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
-
-### introduction to programming with matlab
+### [introduction to programming with matlab](https://my.mindnode.com/ZJWdyvWPc4LfvWMxUhJcuSX7fsvjz95KWn1zRLdh)
 
 ## cs
-
-### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
 
 ### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
 
@@ -4930,11 +5079,15 @@ courses I am doing or plan on doing
 
 ### [07: mit multivariable calculus](https://my.mindnode.com/WyaVEZQ3Wj28qfkzxy1icFH8cVDpPviMpwWpvxYS)
 
+### [10: mit linear algebra](https://my.mindnode.com/dMALn7VEgVPLZHWM8gxXHwjExKXLZJwKcECusmAL)
+
 ### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
 
 ## statistics
 
 ### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
+
+### [10: mit probabilistic systems analysis and applied probability](https://my.mindnode.com/YqBFhDWYi2v7mH8S9rTXMgiX4mYPFs14bRoQ3LWr)
 
 ## iOS
 
@@ -4945,6 +5098,8 @@ courses I am doing or plan on doing
 ### [12: design and analysis of algorithms](https://my.mindnode.com/wqUGtWCMTkVDZnesRCsF1jxJj9ZbCsGqss1M2ebY)
 
 ### [algorithms: part 1](https://my.mindnode.com/zWvyHcb9jW9zczj91ycNYr2BnoTpixsog9xwWHbt)
+
+### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
 
 ### algorithms: part 2
 
@@ -5139,65 +5294,15 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## varnish
 
 
-# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
-
-it is best to learn from mistakes of others so as to not repeat them
-
-
-## events
-
-### [brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
-
-United Kingdom leaving European Union
-
-### [cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
-
-### [russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
-
-1917
-
-### [great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
-
-1930s
-
-### [industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
-
-about 1760-1840
-
-### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
-
-15th to 19th century
-
-### [american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
-
-1765-1783
-
-### [ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
-
-1922-1991
-
-### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
-
-### manhattan project
-
-## wars
-
-### [ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
-
-1939-1945
-
-- holocaust
-
-### [ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
-
-1914-1918
-
-## interesting
-
-### ancient cities
-
-
 # backend
+
+
+# ideology
+
+
+## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+
+## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
 
 
 # [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
@@ -5215,14 +5320,6 @@ connecting physical objects to the internet and using them in a smart way
 
 
 ## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
-
-
-# ideology
-
-
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
-
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
 
 
 # [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
