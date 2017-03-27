@@ -62,7 +62,7 @@ I want to develop a [web interface search engine](https://github.com/nikitavolob
 
 User experience of using the web version of mind maps will improve greatly in the coming months and the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
 
-If you really love these ideas and find them  interesting, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts. I would love to work together to make this vision become a reality.
+If you find these ideas interesting to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts. I would love to work together to make this vision become a reality.
  
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
