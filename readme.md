@@ -1867,76 +1867,125 @@ known (uncertainty principle)
 - is the process of creating a video game
 
 
-## [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+## game engines
 
-## [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
 
-## [love2d](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
+- framework in Lua to make 2D games
+
+### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+
+- cross platform
+
+### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+
+- provides a huge set of common tools to create multi-platform 2D and 3D games
 
 ## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
+
+- is a virtual machine designed to mimic a ‘fantasy video game console’
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
 
-all the games I have played and want to play
+- a game is a structured form of play  
+- key components of games are goals, rules, challenges and interaction  
+- contains all the games I have played and want to play
 
 
 ## board
 
-### [chess ✨](https://my.mindnode.com/1cTHSzKN2kkGnDzsqJQVU9tcSAcQbCeKwpUNMuxg)
+- are tabletop games that involve counters or pieces moved or placed on a pre-marked surface or ‘board’, according to a set of rules
 
-### [go ✨](https://my.mindnode.com/psx5yagnuKrHpZmpgCiqmkYPYFiXg6sT5r8azTNv)
+### ~[500 BC: go ✨](https://my.mindnode.com/psx5yagnuKrHpZmpgCiqmkYPYFiXg6sT5r8azTNv)
+
+- is an abstract strategy board game for two players where the aim is to surround more territory than the opponent  
+- is believed to be the oldest board game still being played today
+
+### ~ [600: chess ✨](https://my.mindnode.com/1cTHSzKN2kkGnDzsqJQVU9tcSAcQbCeKwpUNMuxg)
+
+- a two-player strategy board game played on a chessboard, a checkered game board with 64 squares arranged in an eight-by-eight grid  
+- each player begins the game with 16 pieces   
+	- 1 king  
+	- 1 queen   
+	- 2 rooks  
+	- 2 knights  
+	- 2 bishops  
+	- and 8 pawns  
+- originated in India
 
 ## card
 
-### [poker](https://my.mindnode.com/yyxmdpFhmfoezERPDTDs5QESgqL3qqHh1Ye7XXW1)
+### [1337: poker](https://my.mindnode.com/yyxmdpFhmfoezERPDTDs5QESgqL3qqHh1Ye7XXW1)
 
-### [contract bridge](https://my.mindnode.com/oibQMfyhhBVNg9qPLFD3swXmRsFf1FZysjXzScSx)
+### [1925: contract bridge](https://my.mindnode.com/oibQMfyhhBVNg9qPLFD3swXmRsFf1FZysjXzScSx)
 
 ## computer
 
-### [minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
+### [00: counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
 
-### [counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
+### 03: dota
 
-### [factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
+### [09: league of legends](https://my.mindnode.com/m1jLqAvaGq6hPxynbbxLmwTjE3yNJQ1M1qoijpu5)
 
-### [league of legends](https://my.mindnode.com/m1jLqAvaGq6hPxynbbxLmwTjE3yNJQ1M1qoijpu5)
+### [11: minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
 
-### dota
+### [12: factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
 
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
+- is all of the time and space and its contents  
+- it includes planets, moons, minor planets, stars, galaxies, the contents of intergalactic space and all matter and energy  
+- the size of the entire universe is unknown
+
 
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
 
-studies matter, and all forces and their effects
+- is involved with the study of matter and its motion and behaviour through space and time, lagoon with related concepts such as energy and force  
+- its fundamental goal is to understand how the universe behaves
 
 
 ## [electricity ✨](https://my.mindnode.com/m36UfENqcbZrPX8vzwE5vheaf8d139u18YcS4NsG)
 
-presence and flow of electric charge, best known form is the flow of electrons through conductors such as copper wires
+- is the set of physical phenomena associated with the presence of electric charge  
+- it is recognised to be a part of a single phenomenon: electromagnetism   
+- the presence of an electric charge which can be either positive or negative produces an electric field  
+	- on the other hand, the movement of electric charges, which is known as electric current, produces a magnetic field  
+- when a charge is placed in a location with non-zero electric field, a force will act on it
 
 ### [batteries](https://my.mindnode.com/WWKsbLeGhw2Sw9asy6qpyGjtuwpEqsstnyAdAZsP)
 
-converts chemical energy into electrical energy by a chemical reaction
+- are devices consisting of one or more electrochemical cells with external connections provided to power electrical devices  
+- when a battery is supplying electric power, its positive terminal is the cathode and its negative terminal is the anode  
+	- the terminal marked negative is the source of electrons that when connected to an external circuit will flow and deliver energy to an external device
 
 ### [resistors](https://my.mindnode.com/QRzcaB3qadvpqxXjDyUZw75kkddCwsoWyqmXhgqH)
 
-limits the electrical current that flows through a circuit
+- is a passive two-terminal electrical component that implements electrical resistance as a circuit element  
+- in circuits, they are used to reduce current flow, adjust signal levels, to divide voltages, bias active elements and terminate transmission lines, amongst other uses
 
 ### circuits
 
+- are composed of individual electronic components, such as resistors, transistors, capacitors, inductors and diodes, connected by conductive wires or traces through which electric current can flow  
+	- the combination of components and wires allows various simple and complex operations to be performed  
+	- signals can be amplified, computations can be performed, and data can be moved from one place to another
+
 - RLC circuit
+  - is an electrical circuit consisting of a resistor (R), an inductor (L) and a capacitor (C), connected in series or in parallel  
+  - the circuit forms a harmonic oscillator for current, and resonates in a similar way as an LC circuit
 
 ## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
 
-aims to solve problems which could not be solved by classical physics
+- usually encompasses two interrelated theories (special relativity and general relativity)  
+- special relativity applies to elementary particles and their interactions, describing all their physical phenomena except gravity  
+- general relativity explains the law of gravitation and its relation to other forces of nature
 
 ### [time dilation](https://my.mindnode.com/ncEoxSH4GQVyr6poxik4NsYzN9QzT5YbRX92q5hj)
+
+- is a difference of elapsed time between two events as measured by observers either moving relative to each other or differently situated from a gravitational mass or masses
 
 ### special relativity
 
