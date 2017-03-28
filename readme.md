@@ -37,7 +37,7 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/fuFPus5.jpg)
+![](http://i.imgur.com/C4Cum5u.jpg)
 
 ## Contributing 🎉
 
@@ -1042,6 +1042,10 @@ If you have some specific questions about this project or about myself, my inter
 - focuses on the behaviour of dynamical systems that are highly sensitive to initial conditions  
 - ‘chaos’ is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organisation and reliance on programming at the initial point known as sensitive dependence on initial conditions  
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
+
+## [trigonometry](https://my.mindnode.com/t9sbNyN6X6VmLWD8HLVQEsyhmgdQCqAmBp4xscWe)
+
+- studies relationships involving lengths and angles of triangles 
 
 
 # infrastructure
@@ -3593,6 +3597,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### [1998: the cosmic serpent](https://my.mindnode.com/iFrFf1KyCSnwLVWoxsEeR1xzkWnjh8XFxqKmyKKN)
 
+### [16: I contain multitudes](https://my.mindnode.com/YaBCnyaRvD7y8wxaYNzBXJJbVt7QGiZ43sXC2Zfd)
+
 ## psychedelics
 
 ### 94: the invisible landscape: mind, hallucinogens, and the i ching
@@ -5029,6 +5035,166 @@ is a cultural region, an ancient civilisation and a nation in east asia
 # [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
 
 
+# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
+
+what it means to be creative and where does creativity come from
+
+
+# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+
+
+## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
+
+### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+
+- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+  my open source github repositories organised by their theme
+
+### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
+
+gists that I found interesting and useful 
+
+- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
+  gists that I shared sorted by categories
+
+## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
+
+reddit subreddits organised by topics
+
+### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+
+a browser extension to improve reddit experience
+
+## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
+
+quora communities organised and connected
+
+## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
+
+codeine code that I found interesting organised
+
+## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
+
+youtube channels I like organised and connected
+
+## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
+
+websites whose design I really like
+
+### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
+
+personal websites that are really well made and inspiring
+
+## twitter
+
+## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
+
+## [education ✨](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C)
+
+## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5)
+
+## [pinboard](https://my.mindnode.com/Errwf3QQTxovbgzsxpkxqZqYukzysTt7xcFi6yyT)
+
+## [find](https://my.mindnode.com/QazgEKAnzsigtdzNAp1hssqPGF4sYVc41papNeDo)
+
+## dribble
+
+## [news](https://my.mindnode.com/zwaZFTzz8H9gLdVismwMF9sNp6xrpdr5GkSoQ2EK)
+
+## [experiments](https://my.mindnode.com/QHwcHsg7zBcjzmFYyyk9C1MjeW2ih3ADXpM2Jxm9)
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+
+
+# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
+
+
+## database design
+
+## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
+
+## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
+
+## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
+
+## relational
+
+### PostgreSQL
+
+### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
+
+## noSQL
+
+### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
+
+
+# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
+
+our home planet in the Solar System
+
+
+## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
+
+there are five oceans on this planet
+
+
+# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
+
+
+## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
+
+## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
+
+## drawing
+
+
+# [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
+
+is a computer that serves many things to user, or client machines, every type of thing a server does is called a service, services are used by other computers are called clients
+
+
+## web
+
+type of server that is used to host websites, it can have one or many websites that it hosts, the default port for a web server to listen to is port 80 (HTTP) or 443 (HTTPS)
+
+### [nginx](https://my.mindnode.com/WsyDTcxaptLEbzobxPqBMRiD3ffjpZDw85s2hytK)
+
+### apache
+
+
+# [protocols](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
+
+
+## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
+
+## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
+
+## [tcp/ip](https://my.mindnode.com/dtwqKMuSkbRUigxfAFnyVpW1AzCiKSJLMnsrGREH)
+
+## [blockchain](https://my.mindnode.com/jQV5gcqyWjmHqpkzyfpaxC25eAfxfXayesvfPWEL)
+
+### [ethereum ✨](https://my.mindnode.com/eHDDPK5tHNgkxhb5ztzpJn4zus8xP3LSs8RRtNoL)
+
+## [WebSocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
+
+## [LPWAN](https://my.mindnode.com/rSozpF7SdeyqcUZqjiBnkKKvSnWfXb1xBR7qENt1)
+
+## [ssh](https://my.mindnode.com/xTCkhQpzYmetBUCLmYBzEBfVH3SN2SygdhFriNZz)
+
+## [MQTT](https://my.mindnode.com/dLkAMqypEBPC7uskR7onk3mXsE59NfywBwBUmzkB)
+
+## [TAP](https://my.mindnode.com/6xqH9pgzGdxzKpzej6ffVKzcCEJftWshj1V7N8Rd)
+
+test anything protocol s a protocol to allow communication between unit tests and a test harness
+
+## [BitTorrent](https://my.mindnode.com/AimdYZ9ks4JhfzwB9AJfkNt2seVXsyw9NEtqLz97)
+
+### [WebTorrent](https://my.mindnode.com/pr9yHY6vsSkj4p1HTFSq61ZsjDK33a1qVKufcVv9)
+
+## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
+
+
 # [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
 
 
@@ -5141,163 +5307,9 @@ courses I am doing or plan on doing
 
 free: 
 
+## investing
 
-# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
-
-what it means to be creative and where does creativity come from
-
-
-# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
-
-
-## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
-
-### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
-
-- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
-  my open source github repositories organised by their theme
-
-### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
-
-gists that I found interesting and useful 
-
-- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
-  gists that I shared sorted by categories
-
-## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
-
-reddit subreddits organised by topics
-
-### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
-
-a browser extension to improve reddit experience
-
-## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
-
-quora communities organised and connected
-
-## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
-
-codeine code that I found interesting organised
-
-## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
-
-youtube channels I like organised and connected
-
-## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
-
-websites whose design I really like
-
-### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
-
-personal websites that are really well made and inspiring
-
-## twitter
-
-## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
-
-## [education ✨](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C)
-
-## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5)
-
-## [pinboard](https://my.mindnode.com/Errwf3QQTxovbgzsxpkxqZqYukzysTt7xcFi6yyT)
-
-## [find](https://my.mindnode.com/QazgEKAnzsigtdzNAp1hssqPGF4sYVc41papNeDo)
-
-## dribble
-
-## [news](https://my.mindnode.com/zwaZFTzz8H9gLdVismwMF9sNp6xrpdr5GkSoQ2EK)
-
-
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
-
-
-# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
-
-
-## database design
-
-## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
-
-## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
-
-## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
-
-## relational
-
-### PostgreSQL
-
-### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
-
-## noSQL
-
-### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
-
-
-# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
-
-our home planet in the Solar System
-
-
-## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
-
-there are five oceans on this planet
-
-
-# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
-
-
-## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
-
-## [comics](https://my.mindnode.com/mezvoqznETNcZawMeuGVpjQHcsDQTkqSDYRhwa5M)
-
-## drawing
-
-
-# [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
-
-is a computer that serves many things to user, or client machines, every type of thing a server does is called a service, services are used by other computers are called clients
-
-
-## web
-
-type of server that is used to host websites, it can have one or many websites that it hosts, the default port for a web server to listen to is port 80 (HTTP) or 443 (HTTPS)
-
-### [nginx](https://my.mindnode.com/WsyDTcxaptLEbzobxPqBMRiD3ffjpZDw85s2hytK)
-
-### apache
-
-
-# [protocols](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
-
-
-## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
-
-## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
-
-## [tcp/ip](https://my.mindnode.com/dtwqKMuSkbRUigxfAFnyVpW1AzCiKSJLMnsrGREH)
-
-## [blockchain](https://my.mindnode.com/jQV5gcqyWjmHqpkzyfpaxC25eAfxfXayesvfPWEL)
-
-### [ethereum ✨](https://my.mindnode.com/eHDDPK5tHNgkxhb5ztzpJn4zus8xP3LSs8RRtNoL)
-
-## [WebSocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
-
-## [LPWAN](https://my.mindnode.com/rSozpF7SdeyqcUZqjiBnkKKvSnWfXb1xBR7qENt1)
-
-## [ssh](https://my.mindnode.com/xTCkhQpzYmetBUCLmYBzEBfVH3SN2SygdhFriNZz)
-
-## [MQTT](https://my.mindnode.com/dLkAMqypEBPC7uskR7onk3mXsE59NfywBwBUmzkB)
-
-## [TAP](https://my.mindnode.com/6xqH9pgzGdxzKpzej6ffVKzcCEJftWshj1V7N8Rd)
-
-test anything protocol s a protocol to allow communication between unit tests and a test harness
-
-## [BitTorrent](https://my.mindnode.com/AimdYZ9ks4JhfzwB9AJfkNt2seVXsyw9NEtqLz97)
-
-### [WebTorrent](https://my.mindnode.com/pr9yHY6vsSkj4p1HTFSq61ZsjDK33a1qVKufcVv9)
-
-## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
+### [computational investing](https://my.mindnode.com/yRs5wd54bMxBK1g5Epi2AbhLqkR72AgzHJPCgUyC)
 
 
 # [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
