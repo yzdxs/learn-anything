@@ -444,6 +444,42 @@ If you have some specific questions about this project or about myself, my inter
 - electric
 
 
+# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
+
+- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
+
+
+## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
+
+- owned by Amazon  
+- offered a suite of cloud computing services that make up an on-demand computing platform
+
+## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
+
+- known as function as a service (FaaS)  
+	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
+
+## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
+
+- provides developer products to build a range of programs from simple websites to complex applications
+
+## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+- owned by Microsoft  
+- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
+
+
+# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
+
+- autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
+- they use a variety of techniques to detect their surroundings, such as   
+	- radar  
+	- laser light  
+	- GPS  
+	- odometry  
+	- and computer vision
+
+
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
 
 - study of numbers, shapes and patterns  
@@ -1008,29 +1044,17 @@ If you have some specific questions about this project or about myself, my inter
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
 
-# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
+# infrastructure
 
-- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
+- refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
 
 
-## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
+## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
 
-- owned by Amazon  
-- offered a suite of cloud computing services that make up an on-demand computing platform
+### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
 
-## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
-
-- known as function as a service (FaaS)  
-	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
-
-## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
-
-- provides developer products to build a range of programs from simple websites to complex applications
-
-## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
-
-- owned by Microsoft  
-- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
+- enables you to safely and predictably create, change and improve production infrastructure   
+- is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
 
 
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
@@ -1048,30 +1072,6 @@ If you have some specific questions about this project or about myself, my inter
 	2. any live cell with two or three live neighbours lives on to the next generation  
 	3. any live cell with more than three live neighbours dies, as if by overpopulation  
 	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
-
-
-# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
-
-- autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
-- they use a variety of techniques to detect their surroundings, such as   
-	- radar  
-	- laser light  
-	- GPS  
-	- odometry  
-	- and computer vision
-
-
-# infrastructure
-
-- refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
-
-
-## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
-
-### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
-
-- enables you to safely and predictably create, change and improve production infrastructure   
-- is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
 
 
 # [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
@@ -5037,15 +5037,29 @@ is a cultural region, an ancient civilisation and a nation in east asia
 courses I am doing or plan on doing
 
 
+## ai
+
+### [10: mit artificial intelligence](https://my.mindnode.com/uuNxq1nk1dSYnc5x589oKn1mxUEM7svGeA9DUXcf)
+
+### [14: berkeley intro to ai](https://my.mindnode.com/xHh7ENsoJp6uzCkx4WKi9wryAskoJHno6XnRLmg2)
+
 ## machine learning
+
+### [12: learning from data](https://my.mindnode.com/cbzTh7KFrC41sCbn6SbH5qhXyv4H5o6dbcU6gvYd)
 
 ### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
 
 ### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
 
+### [neural networks for machine learning](https://my.mindnode.com/itN6PAQdKyskdyFqLMhYhzhS2oQzJ4A2yQNSpLUS)
+
 ## deep learning
 
+### [15: deep learning at oxford](https://my.mindnode.com/QBFzLrxcdCQMq8z4RssfZZgtN4PsspXPy2SPZXCE)
+
 ### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
+
+### [17: berkeley deep reinforcement learning](https://my.mindnode.com/ypVmgii9xHwF5CqgN2kzqCisVFYBBL5ChBvpsW6P)
 
 ### [stanford deep learning for natural language processing](https://my.mindnode.com/gzaewsTnpznLtwdj4BxsR1MjfpXAwfKQyyyPgxyT)
 
