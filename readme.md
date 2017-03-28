@@ -88,248 +88,6 @@ If you have some specific questions about this project or about myself, my inter
 - includes ways with which one can approach learning topics
 
 
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
-
-- is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
-- it is the right of people to conceal information about themselves that others might use to their advantage
-
-
-# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
-
-- someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
-
-
-# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
-
-- is a flying machine  
-	- there are many different kinds of aircraft  
-- some aircraft keep in the sky by moving air over their wings  
-	- most use engine power  
-	- few use muscle power
-
-
-# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
-
-- is the degree of resistance to, or protection from, harm  
-- it applies to any vulnerable and/or valuable asset
-
-
-## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
-
-- a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  
-- general attack sequence in steps is  
-	- find an exploitable vulnerability   
-	- design an attack around it  
-	- test the attack  
-	- seize a line in use  
-	- enter the attack  
-	- exploit the entry for information recovery
-
-## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
-
-- practice and study of hiding information, is used to try and keep information secret and safe  
-- when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
-- examples algorithms include   
-	- RSA  
-	- AES
-
-### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
-
-- allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
-
-## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
-
-- a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
-
-## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
-
-- short for malicious software  
-- is a kind of software that can be installed on a computer without approval from the computer’s owner
-
-
-# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
-
-- moving people or things from one place to another place  
-- can be divided into  
-	- infrastructure   
-	- vehicles  
-	- operations  
-- there are three main kinds of transportation  
-	- land  
-	- water  
-	- air
-
-
-## vehicles
-
-### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
-
-- small, human powered land vehicles
-
-- [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
-
-### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
-
-- road vehicle used to carry passengers
-
-- electric
-
-
-# [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
-
-- how to optimise processes (algorithms, systems and so on)
-
-
-# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
-
-- autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
-- they use a variety of techniques to detect their surroundings, such as   
-	- radar  
-	- laser light  
-	- GPS  
-	- odometry  
-	- and computer vision
-
-
-# [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
-
-- is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
-- starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
-- they are essential to the way computers process data  
-- they can be expressed in many kinds of notation, including  
-	- natural languages  
-	- pseudocode  
-	- flowcharts  
-	- drakon-charts  
-	- programming languages  
-	- control tables  
-- most algorithms are intended to be implemented as computer programs  
-	- however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device
-
-
-## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
-
-- analysis of algorithms is the determination of the amount of resources (such as time and storage) necessary to execute them  
-- most algorithms are designed to work with inputs of arbitrary length   
-- usually, the efficiency or running time of an algorithm is stated as a function relating the input length to the number of steps (time complexity) or storage locations (space complexity)  
-- it is common to estimate the complexity in the asymptotic sense   
-	- i. e. estimate the complexity function for arbitrarily large input
-
-### [time](https://my.mindnode.com/py9p3zQvDjNJJR8e7LQvufFhuCNSQdbGxz9CCabE)
-
-- time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input  
-- it is commonly expressed using big O notation, which excludes coefficients and lower order terms  
-- it is commonly estimated by counting the number of elementary operations performed by the algorithm, where an elementary operation takes a fixed amount of time to perform
-
-### [space](https://my.mindnode.com/ifCnybuRTbNpqeupsHU9swWpW6qgpe3wmK2G2grT)
-
-- DSPACE or SPACE is the computational resources describing the resource of memory space for a deterministic Turing machine  
-- it represents the total amount of memory space that a ‘normal’ physical computer would need to solve a given computational problem with a given algorithm
-
-## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
-
-- how to prove an algorithm works and does its job correctly
-
-## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
-
-- algorithm design is a specific method to create a mathematical process in solving problems  
-- techniques for designing and implementing algorithm designs are algorithm design patterns, such as template method pattern and and decorator pattern, and uses of data structures, and name and sort lists  
-- steps in development of algorithms include :   
-1. problem definition  
-2. development of a model  
-3. specification of algorithm  
-4. designing an algorithm  
-5. checking the correctness of algorithm  
-6. analysis of algorithm  
-7. implementation of algorithm  
-8. program testing  
-9. documentation preparation
-
-### [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
-
-- common design paradigms  
-	- divide and conquer   
-	- dynamic programming  
-	- greedy algorithm  
-	- back tracking  
-	- brute force
-
-## [sorting ✨](https://my.mindnode.com/Mj1UagFNqNLG4qzjkMFsgpZeHywMgyDSDwFrjqv2)
-
-- sorting algorithm is an algorithm that puts elements of a list in a certain order  
-- most used orders are numerical order and lexicographical order  
-- efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  
-- it is also often useful for canonicalising data and for producing human readable output
-
-## [graph ✨](https://my.mindnode.com/jtV98ApdqAA8RcaDwxrJRUyxTK6dyLxiL7xtkNey)
-
-- a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects
-
-## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
-
-- search algorithm is an algorithm that retrieves information stored within some data structure  
-- appropriate search algorithm often depends on the data structure being searched  
-- searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  
-- they can be classified based on their mechanism of searching
-
-### [combinatorial](https://my.mindnode.com/GdcdQx9B5K7gqAUvyMppTCfJ9YuNc5u66Sxwmijp)
-
-- combinatorial search usually exploits one or more pruning strategies to avoid testing all of the possible candidate solutions  
-- an example of combinatorial search is, for instance, branch and bound  
-	- here, you may safely skip some subtrees since, depending on your particular optimisation problem, you know in advance that no node within a certain subtree can yield a better solution than the current one during the execution of your algorithm
-
-## [matrix multiplication ✨](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
-
-- applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  
-- many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)
-
-## [ai ✨](https://my.mindnode.com/4m9t3mPfyqswiCReekaA41Vt6xJmpMG4gN2zpvir)
-
-- ai algorithms
-
-## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
-
-- is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  
-- it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  
-- the letter O is used because the growth rate of a function is also referred to as order of the function
-
-## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
-
-- interactive visualisations of algorithms and ways in which you can learn to visualise algorithms
-
-## [evolutionary](https://my.mindnode.com/TML9eBpgZqFtzysC4KxufjgmDBEtp1BTzbtExtyh)
-
-- uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection
-
-### [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
-
-- genetic algorithm is a metaheuristic inspired by the process of natural selection  
-- are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
-
-
-# [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
-
-- is a particular way of organising data in a computer so that it can be used efficiently  
-- can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  
-	- a data structure is a concrete implementation of the specification provided by an ADT  
-- are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  
-- implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
-
-
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-- deals with how computers can be made for gaining high-level understanding from digital images or videos  
-- it seeks to automate tasks that the human visual system can do  
-- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
-
-- open source computer vision library for real time computer vision 
-
-
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
 
 - is intelligence exhibited by machines  
@@ -453,6 +211,237 @@ If you have some specific questions about this project or about myself, my inter
 - are software agents that act for a user or other programs in relationship of agency (an agreement to act on one’s behalf)  
 - they may be autonomous or work together with other agents or people  
 - agents interacting with people may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form
+
+
+# [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
+
+- how to optimise processes (algorithms, systems and so on)
+
+
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+
+- deals with how computers can be made for gaining high-level understanding from digital images or videos  
+- it seeks to automate tasks that the human visual system can do  
+- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+- open source computer vision library for real time computer vision 
+
+
+# [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
+
+- is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
+- starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
+- they are essential to the way computers process data  
+- they can be expressed in many kinds of notation, including  
+	- natural languages  
+	- pseudocode  
+	- flowcharts  
+	- drakon-charts  
+	- programming languages  
+	- control tables  
+- most algorithms are intended to be implemented as computer programs  
+	- however some are implemented as a biological neural network (for example, the human brain implementing arithmetic or an insect looking for food), in an electrical circuit, or in a mechanical device
+
+
+## [analysis](https://my.mindnode.com/hFFf6sxr9c8D7wxLU8tjQ6dBdx68nJuYu1MsSbEB)
+
+- analysis of algorithms is the determination of the amount of resources (such as time and storage) necessary to execute them  
+- most algorithms are designed to work with inputs of arbitrary length   
+- usually, the efficiency or running time of an algorithm is stated as a function relating the input length to the number of steps (time complexity) or storage locations (space complexity)  
+- it is common to estimate the complexity in the asymptotic sense   
+	- i. e. estimate the complexity function for arbitrarily large input
+
+### [time](https://my.mindnode.com/py9p3zQvDjNJJR8e7LQvufFhuCNSQdbGxz9CCabE)
+
+- time complexity of an algorithm quantifies the amount of time taken by an algorithm to run as a function of the length of the string representing the input  
+- it is commonly expressed using big O notation, which excludes coefficients and lower order terms  
+- it is commonly estimated by counting the number of elementary operations performed by the algorithm, where an elementary operation takes a fixed amount of time to perform
+
+### [space](https://my.mindnode.com/ifCnybuRTbNpqeupsHU9swWpW6qgpe3wmK2G2grT)
+
+- DSPACE or SPACE is the computational resources describing the resource of memory space for a deterministic Turing machine  
+- it represents the total amount of memory space that a ‘normal’ physical computer would need to solve a given computational problem with a given algorithm
+
+## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
+
+- how to prove an algorithm works and does its job correctly
+
+## [design ✨](https://my.mindnode.com/ojULgLaqiemKfMApk2zwibz8vkSaXsGeb6BFxm79)
+
+- algorithm design is a specific method to create a mathematical process in solving problems  
+- techniques for designing and implementing algorithm designs are algorithm design patterns, such as template method pattern and and decorator pattern, and uses of data structures, and name and sort lists  
+- steps in development of algorithms include :   
+1. problem definition  
+2. development of a model  
+3. specification of algorithm  
+4. designing an algorithm  
+5. checking the correctness of algorithm  
+6. analysis of algorithm  
+7. implementation of algorithm  
+8. program testing  
+9. documentation preparation
+
+### [techniques ✨](https://my.mindnode.com/sd9VZpmcMJ6x2ExsqnWpTZqEqxzSqDSn21hyyupY)
+
+- common design paradigms  
+	- divide and conquer   
+	- dynamic programming  
+	- greedy algorithm  
+	- back tracking  
+	- brute force
+
+## [sorting ✨](https://my.mindnode.com/Mj1UagFNqNLG4qzjkMFsgpZeHywMgyDSDwFrjqv2)
+
+- sorting algorithm is an algorithm that puts elements of a list in a certain order  
+- most used orders are numerical order and lexicographical order  
+- efficient sorting is important for optimising the use of other algorithms (such as search and merge algorithms) which require input data to be in sorted lists  
+- it is also often useful for canonicalising data and for producing human readable output
+
+## [graph ✨](https://my.mindnode.com/jtV98ApdqAA8RcaDwxrJRUyxTK6dyLxiL7xtkNey)
+
+- a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects
+
+## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
+
+- search algorithm is an algorithm that retrieves information stored within some data structure  
+- appropriate search algorithm often depends on the data structure being searched  
+- searching also encompasses algorithms that query the data structure, such as the SQL SELECT command  
+- they can be classified based on their mechanism of searching
+
+### [combinatorial](https://my.mindnode.com/GdcdQx9B5K7gqAUvyMppTCfJ9YuNc5u66Sxwmijp)
+
+- combinatorial search usually exploits one or more pruning strategies to avoid testing all of the possible candidate solutions  
+- an example of combinatorial search is, for instance, branch and bound  
+	- here, you may safely skip some subtrees since, depending on your particular optimisation problem, you know in advance that no node within a certain subtree can yield a better solution than the current one during the execution of your algorithm
+
+## [matrix multiplication ✨](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
+
+- applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  
+- many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)
+
+## [ai ✨](https://my.mindnode.com/4m9t3mPfyqswiCReekaA41Vt6xJmpMG4gN2zpvir)
+
+- ai algorithms
+
+## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
+
+- is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  
+- it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  
+- the letter O is used because the growth rate of a function is also referred to as order of the function
+
+## [visualisation ✨](https://my.mindnode.com/T75z4aGYRswThK8mosdnd3qoE84ngJbMArgZsARU)
+
+- interactive visualisations of algorithms and ways in which you can learn to visualise algorithms
+
+## [evolutionary](https://my.mindnode.com/TML9eBpgZqFtzysC4KxufjgmDBEtp1BTzbtExtyh)
+
+- uses mechanisms inspired by biological evolution, such as reproduction, mutation, recombination and selection
+
+### [genetic](https://my.mindnode.com/Ro5LQq6dzpotuvR3EGq3npFmXsFJQcg3W2t7VNFq)
+
+- genetic algorithm is a metaheuristic inspired by the process of natural selection  
+- are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
+
+
+# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+
+- is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
+- it is the right of people to conceal information about themselves that others might use to their advantage
+
+
+# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
+
+- someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
+
+
+# [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
+
+- is a particular way of organising data in a computer so that it can be used efficiently  
+- can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  
+	- a data structure is a concrete implementation of the specification provided by an ADT  
+- are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  
+- implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
+
+
+# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
+
+- is the degree of resistance to, or protection from, harm  
+- it applies to any vulnerable and/or valuable asset
+
+
+## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
+
+- a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  
+- general attack sequence in steps is  
+	- find an exploitable vulnerability   
+	- design an attack around it  
+	- test the attack  
+	- seize a line in use  
+	- enter the attack  
+	- exploit the entry for information recovery
+
+## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
+
+- practice and study of hiding information, is used to try and keep information secret and safe  
+- when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
+- examples algorithms include   
+	- RSA  
+	- AES
+
+### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
+
+- allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
+
+## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
+
+- a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
+
+## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
+
+- short for malicious software  
+- is a kind of software that can be installed on a computer without approval from the computer’s owner
+
+
+# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+
+- is a flying machine  
+	- there are many different kinds of aircraft  
+- some aircraft keep in the sky by moving air over their wings  
+	- most use engine power  
+	- few use muscle power
+
+
+# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
+
+- moving people or things from one place to another place  
+- can be divided into  
+	- infrastructure   
+	- vehicles  
+	- operations  
+- there are three main kinds of transportation  
+	- land  
+	- water  
+	- air
+
+
+## vehicles
+
+### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+
+- small, human powered land vehicles
+
+- [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
+
+### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
+
+- road vehicle used to carry passengers
+
+- electric
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -1059,6 +1048,17 @@ If you have some specific questions about this project or about myself, my inter
 	2. any live cell with two or three live neighbours lives on to the next generation  
 	3. any live cell with more than three live neighbours dies, as if by overpopulation  
 	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
+
+
+# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
+
+- autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
+- they use a variety of techniques to detect their surroundings, such as   
+	- radar  
+	- laser light  
+	- GPS  
+	- odometry  
+	- and computer vision
 
 
 # infrastructure
