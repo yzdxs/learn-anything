@@ -1,1 +1,0 @@
-Will probably deprecate it in the future in favour of mind map or use it to host some interesting free of license pdfs.
