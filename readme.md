@@ -4870,7 +4870,7 @@ research papers I am reading and want to read
 
 ## [security](https://my.mindnode.com/Es5MSShuTMqFMzv5PnuxMTQoq6qwAy2chJ6spicK)
 
-## compilers
+## [compilers](https://my.mindnode.com/ssyPBkLBzizkAX2opsg1qJdZ2bU2hrcLiShQCSY5)
 
 ### [jit](https://my.mindnode.com/sR9h2hNA46CHegFoVxx35Fyhqtz68Dxb3ZPqCLj1)
 
@@ -5379,127 +5379,6 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
 
 
-# [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
-
-
-# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
-
-courses I am doing or plan on doing
-
-
-## ai
-
-### [10: mit artificial intelligence](https://my.mindnode.com/uuNxq1nk1dSYnc5x589oKn1mxUEM7svGeA9DUXcf)
-
-### [14: berkeley intro to ai](https://my.mindnode.com/xHh7ENsoJp6uzCkx4WKi9wryAskoJHno6XnRLmg2)
-
-## machine learning
-
-### [12: learning from data](https://my.mindnode.com/cbzTh7KFrC41sCbn6SbH5qhXyv4H5o6dbcU6gvYd)
-
-### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
-
-### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
-
-### [neural networks for machine learning](https://my.mindnode.com/itN6PAQdKyskdyFqLMhYhzhS2oQzJ4A2yQNSpLUS)
-
-## deep learning
-
-### [15: deep learning at oxford](https://my.mindnode.com/QBFzLrxcdCQMq8z4RssfZZgtN4PsspXPy2SPZXCE)
-
-### [15: ucl reinforcement learning](https://my.mindnode.com/o1SSsqBHJDeLTR3Vs6CiYvWb4jC6QKSqMiz8Josy)
-
-### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
-
-### [17: berkeley deep reinforcement learning](https://my.mindnode.com/ypVmgii9xHwF5CqgN2kzqCisVFYBBL5ChBvpsW6P)
-
-### [stanford deep learning for natural language processing](https://my.mindnode.com/gzaewsTnpznLtwdj4BxsR1MjfpXAwfKQyyyPgxyT)
-
-### [stanford convolutional neural networks for visual recognition](https://my.mindnode.com/98pQJGFR4Z7LD45EKaq2L5pqctW4VtY3WefxwbaW)
-
-## haskell
-
-### [CIS 194 ✨](https://my.mindnode.com/d9g1CxYgsqDjJvrt4NU2VZeRrWCVX34LMMfqWnwe)
-
-## scala
-
-### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
-
-## programming
-
-### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
-
-### [introduction to programming with matlab](https://my.mindnode.com/ZJWdyvWPc4LfvWMxUhJcuSX7fsvjz95KWn1zRLdh)
-
-### [stanford c programming](https://my.mindnode.com/64J9mzwRuQytsMtLu2wNA1oVdFqGU5yt2rLtA5x7)
-
-## cs
-
-### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
-
-### [data structures](https://my.mindnode.com/7GyKLbtCEJhPKkuiRHXwxRduH7Sds9d1pxFBqdqV)
-
-## math
-
-### [04: mit multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
-
-### [06: mit singlevariable calculus](https://my.mindnode.com/jBspeyDM76ZjWPMPEsUoYSFqaKapH23TBmUTMUbA)
-
-### [07: mit multivariable calculus](https://my.mindnode.com/WyaVEZQ3Wj28qfkzxy1icFH8cVDpPviMpwWpvxYS)
-
-### [10: mit linear algebra](https://my.mindnode.com/dMALn7VEgVPLZHWM8gxXHwjExKXLZJwKcECusmAL)
-
-### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
-
-## statistics
-
-### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
-
-### [10: mit probabilistic systems analysis and applied probability](https://my.mindnode.com/YqBFhDWYi2v7mH8S9rTXMgiX4mYPFs14bRoQ3LWr)
-
-## iOS
-
-### [17: developing iOS 10 apps wth Swift ✨](https://my.mindnode.com/NPAryQsGqSWERd2axwJraH9KcevhzZYBBQWwz58j)
-
-## algorithms
-
-### [12: design and analysis of algorithms](https://my.mindnode.com/wqUGtWCMTkVDZnesRCsF1jxJj9ZbCsGqss1M2ebY)
-
-### [algorithms: part 1](https://my.mindnode.com/zWvyHcb9jW9zczj91ycNYr2BnoTpixsog9xwWHbt)
-
-### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
-
-### algorithms: part 2
-
-### [algorithms specialisation](https://my.mindnode.com/5XkfL517JLspUpmBS4QRpr3nTk7tqgHpMhVv3Ta1)
-
-## business
-
-### [gamification](https://my.mindnode.com/kPxL9NzZZKEqH7HxBweNMmmjcxBLDtvtm8qiGMR1)
-
-## gamedev
-
-### [HTML5 game development](https://my.mindnode.com/8pqL92aH3us7DFs2rTuL4k9NezS4kfy5Hpo5r3UX)
-
-## chemistry
-
-### [bioinformatics specialisation](https://my.mindnode.com/rDzafu86YJx9sdRfz5FhaEfy4Ao4bpcL74BFYAF5)
-
-## networking
-
-### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
-
-## operating systems
-
-### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
-
-free: 
-
-## investing
-
-### [computational investing](https://my.mindnode.com/yRs5wd54bMxBK1g5Epi2AbhLqkR72AgzHJPCgUyC)
-
-
 # [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
 
 
@@ -5576,6 +5455,199 @@ connecting physical objects to the internet and using them in a smart way
 ## testing
 
 ### rspec
+
+
+# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+
+courses I am doing or plan on doing
+
+
+## ai
+
+### [10: mit artificial intelligence](https://my.mindnode.com/uuNxq1nk1dSYnc5x589oKn1mxUEM7svGeA9DUXcf)
+
+### [11: the society of mind](https://my.mindnode.com/gBBwQxKCyNNWeQoEZbH2BaYZhFqjhSp32y7VErcz)
+
+### [14: berkeley intro to ai](https://my.mindnode.com/xHh7ENsoJp6uzCkx4WKi9wryAskoJHno6XnRLmg2)
+
+## machine learning
+
+### [12: learning from data](https://my.mindnode.com/cbzTh7KFrC41sCbn6SbH5qhXyv4H5o6dbcU6gvYd)
+
+### [15: machine learning for data science](https://my.mindnode.com/CZTcyoFwosxUqxZR7KJ6bassrmxzzoxsfb3gdKHv)
+
+### [15: introduction to matrix methods](https://my.mindnode.com/c1WypYysytZfj3vACtCvLyZeyouXgxHpzYxsqexM)
+
+### [15: statistical learning](https://my.mindnode.com/i5Vof2kyDX8hLaJYyCYvuh5MePwshZ8uHqSospMC)
+
+### [17: tensorflow for deep learning research](https://my.mindnode.com/uwN67wskDbRwYgqAwrCDJxkbpjyKC54ypW4qZ1sf)
+
+### [coursera machine learning](https://my.mindnode.com/gktBYCV34xYzqrka3Ye97opvEj53jpwe8hdtuq84)
+
+### [artificial intelligence for robotics](https://my.mindnode.com/hggZDkSnmNhqEBJdxX74AWKtnYpaxkHPhW8zvzkv)
+
+### [neural networks for machine learning](https://my.mindnode.com/itN6PAQdKyskdyFqLMhYhzhS2oQzJ4A2yQNSpLUS)
+
+## deep learning
+
+### [15: deep learning at oxford](https://my.mindnode.com/QBFzLrxcdCQMq8z4RssfZZgtN4PsspXPy2SPZXCE)
+
+### [15: ucl reinforcement learning](https://my.mindnode.com/o1SSsqBHJDeLTR3Vs6CiYvWb4jC6QKSqMiz8Josy)
+
+### [17: oxford cs deep nlp](https://my.mindnode.com/zJWxdxfwxZzMxwmEwqgxFYHq7aS5pcFGMfpPqLqy)
+
+### [17: deep learning](https://my.mindnode.com/zkHq5xpYjoqDAYDxUJvCEe6KEu5Ssq7Ay5gz2uhE)
+
+### [17: berkeley deep reinforcement learning](https://my.mindnode.com/ypVmgii9xHwF5CqgN2kzqCisVFYBBL5ChBvpsW6P)
+
+### [stanford deep learning for natural language processing](https://my.mindnode.com/gzaewsTnpznLtwdj4BxsR1MjfpXAwfKQyyyPgxyT)
+
+### [stanford convolutional neural networks for visual recognition](https://my.mindnode.com/98pQJGFR4Z7LD45EKaq2L5pqctW4VtY3WefxwbaW)
+
+## computer vision
+
+### [15: introduction to computer vision](https://my.mindnode.com/8oWGR8ydxzBBZtYS62SCxJmRaMC8x11WpP4KcZEm)
+
+## haskell
+
+### [14: stanford functional systems in haskell](https://my.mindnode.com/x5a2pd89d7gWyczJUDS2hq7sSAr9YHEfzLjvBmKp)
+
+### [16: introduction to haskell](https://my.mindnode.com/n6p17c7UkxxoQnHtAKHU2Ssk9fpTgJpJMQyodpg1)
+
+## scala
+
+### [functional programming principles in scala](https://my.mindnode.com/bPpysNqzx2yeY1sNyeB7eScYAMD8JzqnxWe1axju)
+
+## rust
+
+### [16: rust programming](https://my.mindnode.com/7zjji9G8wAVXKLcpzNUtHwWDfnd3ixG1qhTpmoKJ)
+
+## programming
+
+### [14: unix tools and scripting](https://my.mindnode.com/hi1zeotoVe98qhMAN4LEWwiabRSyuDHtV9nvS3yp)
+
+### [05: mit structure and interpretation of computer programs](https://my.mindnode.com/VmYDFz7McrDQqmpqKz93FRKFUqY4YCfCNP7sHeYJ)
+
+### [16: mit software construction](https://my.mindnode.com/sPxxC3SmssjMXJxo81zezL2NpSSdHNmaiCq8vjAs)
+
+### [17: structure and interpretation of computer programs (python)](https://my.mindnode.com/gPdC9gwwFHVHr4LsFjwGKvT3z9dqH38xd9CzJKcH)
+
+### [build a modern computer from first principles: from nand to tetris ✨](https://my.mindnode.com/tGB9nQdgD9dTxwiqYtNh8qYdoZ4sG2nFzuSyxApz)
+
+### [introduction to programming with matlab](https://my.mindnode.com/ZJWdyvWPc4LfvWMxUhJcuSX7fsvjz95KWn1zRLdh)
+
+### [stanford c programming](https://my.mindnode.com/64J9mzwRuQytsMtLu2wNA1oVdFqGU5yt2rLtA5x7)
+
+## cs
+
+### [08: computational complexity](https://my.mindnode.com/9zLi4xttpbMs9ycsxzDdKnF8LB4YLFk1C5ggE1n2)
+
+### [13: information retrieval](https://my.mindnode.com/77CS62sMW3by9ks3RqbA3nuuFGBTwJV1Q8GVf7cz)
+
+### [14: software foundations](https://my.mindnode.com/MBdLYfJiURFR4H5x92ksb4EF45p92oM34mpSqVxY)
+
+### [15: great ideas in computer architecture](https://my.mindnode.com/m1ofa3wUWWryuer9zxmtze5q2d2QNx65wrWPa8SX)
+
+### [mit great ideas in theoretical computer science](https://my.mindnode.com/47jrL2kfsy95TZ7s8MYb6AWzTofuFD5nyqhZSyxi)
+
+### [computer science 101](https://my.mindnode.com/Wb5gsCkqbxApRPrfhCFGQtWMqB1uj8MYpzgCEPP2)
+
+### [data structures](https://my.mindnode.com/7GyKLbtCEJhPKkuiRHXwxRduH7Sds9d1pxFBqdqV)
+
+## compilers
+
+### [16: principles of compiler design](https://my.mindnode.com/XVPBnCTiiPc3QRjbs39pPyzQUXcD4MWh2pNyuxpb)
+
+### [16: stanford compiler construction](https://my.mindnode.com/jbZ8191HsJtPZScxb1HPVqo2BP35Eyfkgfm95NxF)
+
+## math
+
+### [04: mit multivariable control systems](https://my.mindnode.com/LkGz9NTuRmC8UAVTxZ2LNKie2uUxnopWkjWCDZRN)
+
+### [06: mit singlevariable calculus](https://my.mindnode.com/jBspeyDM76ZjWPMPEsUoYSFqaKapH23TBmUTMUbA)
+
+### [07: mit multivariable calculus](https://my.mindnode.com/WyaVEZQ3Wj28qfkzxy1icFH8cVDpPviMpwWpvxYS)
+
+### [10: mit linear algebra](https://my.mindnode.com/dMALn7VEgVPLZHWM8gxXHwjExKXLZJwKcECusmAL)
+
+### [14: abstract algebra](https://my.mindnode.com/Lp9xzepjJswuaQFtqq1hPEwPogpsyyFyC8DUys3o)
+
+### [16: stanford mathematical foundations of computing](https://my.mindnode.com/yEwabqQmyKyLxPew9k49cxWpsK2i1iJjpZn1h3pM)
+
+## statistics
+
+### [introduction to probability - the science of uncertainty](https://my.mindnode.com/kpzGmjWSo1d36ePf5xxfSM7xz4gWpsLXQx45Xhg6)
+
+### [10: mit probabilistic systems analysis and applied probability](https://my.mindnode.com/YqBFhDWYi2v7mH8S9rTXMgiX4mYPFs14bRoQ3LWr)
+
+## iOS
+
+### [17: developing iOS 10 apps wth Swift ✨](https://my.mindnode.com/NPAryQsGqSWERd2axwJraH9KcevhzZYBBQWwz58j)
+
+## algorithms
+
+### [10: algorithms](https://my.mindnode.com/b2UZZUe85nSB6qNsTEQL9fnRVu7czftzyzx2rnyi)
+
+- taught by Manuel Blum who has a Turing Award due to his contributions to algorithms
+
+### [12: design and analysis of algorithms](https://my.mindnode.com/wqUGtWCMTkVDZnesRCsF1jxJj9ZbCsGqss1M2ebY)
+
+### [12: introduction to programming contests](https://my.mindnode.com/JVySx9pJgoCm4FAUz6szbgyXxFpwKrJh219o7WJv)
+
+### [14: mit advanced data structures](https://my.mindnode.com/DNptVMj29DFq4p6XqdeHpVNQ8QrxA9QcduYzyseM)
+
+### [14: evolutionary computation](https://my.mindnode.com/hQzdHxChqzMR3Mdd7CzqHRYF6bnLaEN1mcU9gKpP)
+
+### [16: data structures](https://my.mindnode.com/Qxdq4wnHAB7ZH2Vuara1FzWA4RQRytnduApi7xmu)
+
+### [algorithms: part 1](https://my.mindnode.com/zWvyHcb9jW9zczj91ycNYr2BnoTpixsog9xwWHbt)
+
+### [mit introduction to algorithms](https://my.mindnode.com/nNiZZqN8t3LBGg6Vxm2SFeUfQx71jDvStyTiJxDq)
+
+### algorithms: part 2
+
+### [algorithms specialisation](https://my.mindnode.com/5XkfL517JLspUpmBS4QRpr3nTk7tqgHpMhVv3Ta1)
+
+## business
+
+### [gamification](https://my.mindnode.com/kPxL9NzZZKEqH7HxBweNMmmjcxBLDtvtm8qiGMR1)
+
+## gamedev
+
+### [HTML5 game development](https://my.mindnode.com/8pqL92aH3us7DFs2rTuL4k9NezS4kfy5Hpo5r3UX)
+
+## chemistry
+
+### [bioinformatics specialisation](https://my.mindnode.com/rDzafu86YJx9sdRfz5FhaEfy4Ao4bpcL74BFYAF5)
+
+## networking
+
+### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
+
+## operating systems
+
+### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
+
+free: 
+
+## computer graphics
+
+### [computer vision](https://my.mindnode.com/BeGPpuCzA6x8c3HGCLBjXvE6kBvS2s4U3pdZQJSm)
+
+## investing
+
+### [computational investing](https://my.mindnode.com/yRs5wd54bMxBK1g5Epi2AbhLqkR72AgzHJPCgUyC)
+
+## security
+
+### [13: computer and network security](https://my.mindnode.com/1x2GtTpv8qg3MZwTkTszYLoAd7xEnLnhbT2YGERz)
+
+## web
+
+### [15: cutting-edge web technologies](https://my.mindnode.com/izxAs92yV9UVTenbT6LYxzsaiQwpAD8YTe9Favzp)
+
+
+# [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
 
 
 # companies
@@ -5997,16 +6069,6 @@ write code and generate music, really is quite amazing
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
 
-# keyboard
-
-
-## [layouts](https://my.mindnode.com/FFHzCy8318KBaKsjFpVAUZFLdLeGqMNqpGRDZWVz)
-
-## [mechanical](https://my.mindnode.com/RnsybqgwgmcNCCeqDHzdKaAGKeqKvXBXVzR9G3BE)
-
-### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
-
-
 # package managers
 
 
@@ -6043,106 +6105,6 @@ all the music artists whose work I find interesting and enjoy
 ## [playlists ✨](https://my.mindnode.com/gNxq3RNbBdjaBwGDXyUKhLpaf3yPRqws2p9CqpCD)
 
 playlists that I have made and shared
-
-
-# [programs](https://my.mindnode.com/jNWAmZH1pR24zb4NSMijvTCuHiDoHT7xXLjkXAwP)
-
-
-## text editors
-
-### [vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J)
-
-insane customisability with focus on keeping your hands on the home row of your keyboard
-
-- [viml](https://my.mindnode.com/rXWZACZjznf8z1D2ysAFRwVyxicbPpKx6skfNtpq)
-  the programming language created to extend vim
-
-- [plugins ✨](https://my.mindnode.com/H7EUqGs5Ezm9BsMDsLsNUpYkeBotC2yBHobMpUD3)
-  various plugins that I found interesting or useful
-
-- [my vimrc ✨](https://my.mindnode.com/QKK41ixhzhCk64Bss2xsvAssL7j79HDKdY1TsNd5)
-  my vim set up
-
-### [vs code ✨](https://my.mindnode.com/JRZKhcm7u9bPCEqbwHURfTFPcZCF1Bs1jF2JHpND)
-
-code editor by Microsoft based on Electron, quite fast and extensible
-
-- [extensions](https://my.mindnode.com/QchCtML4m4vzgY9p3xe4tgzFUnvRzbA8BNyyzwH5)
-  various extensions that I found were   
-  useful or interesting
-
-### [xcode](https://my.mindnode.com/nxBpUd1WzRXtZiocvCSQSYeWttCVy49RyczaGNVG)
-
-IDE by Apple to program macOS/iOS applications
-
-- [extensions](https://my.mindnode.com/mtvvwgx6fdZFCNaoPzXUJyPWz5grjz88cqkdqzuf)
-
-### intellij
-
-- plugins
-
-### [atom](https://my.mindnode.com/CgBasxG3f9ZxxD9pKWRq1yqXoLhFsNzTyoJs5C2C)
-
-### [sublime text](https://my.mindnode.com/GxFZMe3C1oqR6gYDwEsptUcxxRGpjG6DshdEsTGo)
-
-### [emacs](https://my.mindnode.com/CMvPkvVN54ZninFxj8VKzYerHeJEKbGiwznCzz3y)
-
-## productivity
-
-### karabiner
-
-an app that has changed the way I interact with my computer by allowing me to rebind every key on my keyboard into a new custom key
-
-- [my layout ✨](https://my.mindnode.com/aGPrpzjuxth5dqytYpTzts9PZWKMFydgGt1Sjddz)
-  my bindings and keyboard layout I use
-
-### [alfred](https://my.mindnode.com/Zqykr8ousaj7ZFRihhb48F1FynqX89wj9YK731mq)
-
-- [workflows ✨](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
-  alfred workflows I have found to use and enjoy
-
-- [my layout](https://my.mindnode.com/sF1i33RqWrYAWD2H48mg7UeFMJPFKRnEVaQAwoJs)
-  non-hotkey triggered workflows get documented here
-
-### km
-
-- macros
-
-### [hazel](https://my.mindnode.com/pUEgWAVJZezyqNuqEtSvyyh1bpmxN76eqo556JvS)
-
-### [hammerspoon](https://my.mindnode.com/oA4QiwmAjKwBKwL81VzXZqvW5REPB1cstD8psMsY)
-
-- my set up
-
-### [hyper](https://my.mindnode.com/2aYqMggNxwVprbrLUjqZe5kKxgnMzyXPehqLXXff)
-
-## communication
-
-### [slack](https://my.mindnode.com/4WxwA91p5q5zHPSTL9wtczdaYgNVp5e8T96iSrss)
-
-- [teams](https://my.mindnode.com/nSzeaKsFhpf1TB9npxampNd8uQkhBhgfxezfbDW1)
-
-### [discord](https://my.mindnode.com/yh6jUWnzTQjKqnzdhwMdF1YRyzmzDa66s2gLF1Mv)
-
-### telegram
-
-- [bots](https://my.mindnode.com/sZajUsrsv9fRfcsmSPpLcNGPyDERp7Y399s21CRA)
-
-## design
-
-### [sketch ✨](https://my.mindnode.com/NkvqveKMfEsMsYGszQJuK1zQKWHtv8rayFpgKpCE)
-
-## learning
-
-### anki
-
-- [decks](https://my.mindnode.com/9fBmxd6Sbi6FKkq6qpmqmz3t5GbsfZiPC3g2mXah)
-
-## other
-
-### matlab
-
-### mathematica
 
 
 # [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
@@ -6304,4 +6266,114 @@ how to find work and what to focus on
 ## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
 ## [creative](https://my.mindnode.com/55YPRCtghqP6zzT5edpEX6nS5wzKwgwTDkFxvgBD)
+
+
+# keyboard
+
+
+## [layouts](https://my.mindnode.com/FFHzCy8318KBaKsjFpVAUZFLdLeGqMNqpGRDZWVz)
+
+## [mechanical](https://my.mindnode.com/RnsybqgwgmcNCCeqDHzdKaAGKeqKvXBXVzR9G3BE)
+
+### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
+
+
+# [programs](https://my.mindnode.com/jNWAmZH1pR24zb4NSMijvTCuHiDoHT7xXLjkXAwP)
+
+
+## text editors
+
+### [vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J)
+
+insane customisability with focus on keeping your hands on the home row of your keyboard
+
+- [viml](https://my.mindnode.com/rXWZACZjznf8z1D2ysAFRwVyxicbPpKx6skfNtpq)
+  the programming language created to extend vim
+
+- [plugins ✨](https://my.mindnode.com/H7EUqGs5Ezm9BsMDsLsNUpYkeBotC2yBHobMpUD3)
+  various plugins that I found interesting or useful
+
+- [my vimrc ✨](https://my.mindnode.com/QKK41ixhzhCk64Bss2xsvAssL7j79HDKdY1TsNd5)
+  my vim set up
+
+### [vs code ✨](https://my.mindnode.com/JRZKhcm7u9bPCEqbwHURfTFPcZCF1Bs1jF2JHpND)
+
+code editor by Microsoft based on Electron, quite fast and extensible
+
+- [extensions](https://my.mindnode.com/QchCtML4m4vzgY9p3xe4tgzFUnvRzbA8BNyyzwH5)
+  various extensions that I found were   
+  useful or interesting
+
+### [xcode](https://my.mindnode.com/nxBpUd1WzRXtZiocvCSQSYeWttCVy49RyczaGNVG)
+
+IDE by Apple to program macOS/iOS applications
+
+- [extensions](https://my.mindnode.com/mtvvwgx6fdZFCNaoPzXUJyPWz5grjz88cqkdqzuf)
+
+### intellij
+
+- plugins
+
+### [atom](https://my.mindnode.com/CgBasxG3f9ZxxD9pKWRq1yqXoLhFsNzTyoJs5C2C)
+
+### [sublime text](https://my.mindnode.com/GxFZMe3C1oqR6gYDwEsptUcxxRGpjG6DshdEsTGo)
+
+### [emacs](https://my.mindnode.com/CMvPkvVN54ZninFxj8VKzYerHeJEKbGiwznCzz3y)
+
+## productivity
+
+### karabiner
+
+an app that has changed the way I interact with my computer by allowing me to rebind every key on my keyboard into a new custom key
+
+- [my layout ✨](https://my.mindnode.com/aGPrpzjuxth5dqytYpTzts9PZWKMFydgGt1Sjddz)
+  my bindings and keyboard layout I use
+
+### [alfred](https://my.mindnode.com/Zqykr8ousaj7ZFRihhb48F1FynqX89wj9YK731mq)
+
+- [workflows ✨](https://my.mindnode.com/88LJ6kp9RsKLUzBQmhHN79G7yyxuUHSHLsfzkWbK)
+  alfred workflows I have found to use and enjoy
+
+- [my layout](https://my.mindnode.com/sF1i33RqWrYAWD2H48mg7UeFMJPFKRnEVaQAwoJs)
+  non-hotkey triggered workflows get documented here
+
+### km
+
+- macros
+
+### [hazel](https://my.mindnode.com/pUEgWAVJZezyqNuqEtSvyyh1bpmxN76eqo556JvS)
+
+### [hammerspoon](https://my.mindnode.com/oA4QiwmAjKwBKwL81VzXZqvW5REPB1cstD8psMsY)
+
+- my set up
+
+### [hyper](https://my.mindnode.com/2aYqMggNxwVprbrLUjqZe5kKxgnMzyXPehqLXXff)
+
+## communication
+
+### [slack](https://my.mindnode.com/4WxwA91p5q5zHPSTL9wtczdaYgNVp5e8T96iSrss)
+
+- [teams](https://my.mindnode.com/nSzeaKsFhpf1TB9npxampNd8uQkhBhgfxezfbDW1)
+
+### [discord](https://my.mindnode.com/yh6jUWnzTQjKqnzdhwMdF1YRyzmzDa66s2gLF1Mv)
+
+### telegram
+
+- [bots](https://my.mindnode.com/sZajUsrsv9fRfcsmSPpLcNGPyDERp7Y399s21CRA)
+
+## design
+
+### [sketch ✨](https://my.mindnode.com/NkvqveKMfEsMsYGszQJuK1zQKWHtv8rayFpgKpCE)
+
+## learning
+
+### anki
+
+- [decks](https://my.mindnode.com/9fBmxd6Sbi6FKkq6qpmqmz3t5GbsfZiPC3g2mXah)
+
+## other
+
+### matlab
+
+### mathematica
 
