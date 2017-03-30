@@ -21,6 +21,7 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 - it takes ~ 1 minute to load (sometimes more)
 - does not load on mobile 
+- preferred to open mind maps in a new tab
 - small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
 
 Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and often has really great resources linked to it for further study. Just look into what you think is interesting and go from there. 
@@ -3503,6 +3504,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1996: the story of b: an adventure of the mind and spirit
 
+### 1996: infinite jest
+
 ### 1999: the perks of being a wallflower ✔
 
 ### 1999: cryptonomicon
@@ -3620,6 +3623,8 @@ free:
 ### 1995: why the allies won
 
 ### 1997: guns, germs, and steel: the fates of human societies
+
+### 02: two hundred years together
 
 ### 03: masters of doom
 
@@ -5445,6 +5450,8 @@ test anything protocol s a protocol to allow communication between unit tests an
 ### [WebTorrent](https://my.mindnode.com/pr9yHY6vsSkj4p1HTFSq61ZsjDK33a1qVKufcVv9)
 
 ## [IPFS ✨](https://my.mindnode.com/qVwyTNceorvb3bx2PdGMxwSgkquY5QgrfiVwS3kW)
+
+## [TLS](https://my.mindnode.com/zwL3SzsNTazPksvKPxiHFYJJcQjAZL5cd3m8WYHG)
 
 
 # [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
