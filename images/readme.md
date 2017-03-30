@@ -1,6 +1,6 @@
 # [Images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
-![](http://i.imgur.com/L9vV4Km.jpg)
+![](http://i.imgur.com/ld0smgm.jpg)
 
 Each image in the mind map is an Imgur album. 
 
