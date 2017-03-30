@@ -43,7 +43,7 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 
 ## Contributing 🎉
 
-There are few ways in which you can contribute. 
+There are few ways in which you can contribute and make this mind map even more amazing.
 
 1. Nearly all nodes in the mind map have the best resources I could find on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not there, please [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say where and what you wish was added like in example [here](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
@@ -2473,6 +2473,8 @@ science of life and living things and their evolution
 
 short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make
 
+### [gmo](https://my.mindnode.com/64ovUsp7NCKZLKDpBuvscHyKXGbkvNnZUVgg91sH)
+
 ## [longevity](https://my.mindnode.com/2pP1tdxXxtxhNyhGy551fVEb1JN8XbS4R6qbQhNf)
 
 ## [protein](https://my.mindnode.com/rK5HqsvLPJ7qih8EVE6ysKeE66WqDepH95K7VCAR)
@@ -2742,7 +2744,7 @@ treating animals as equals and abstaining from eating and using animal products 
 
 ## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
 
-everyone should have some kind of principle they follow, these are mine
+- everyone should have some kind of principle they follow, these are mine
 
 
 # [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
@@ -2767,9 +2769,6 @@ newsletters I found interesting
 # [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
 
 how to manifest and grow interesting ideas
-
-
-## personal
 
 
 # [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
@@ -2867,7 +2866,7 @@ all the books I am currently reading or have read
 - 1976: software reliability: principles and practices
 
 - [1979: structure and interpretation of computer programs](https://my.mindnode.com/8xWPcGnjAWhRr5nuRUxLCY4BpwLrvd3dNxKGeXpZ)
-  free:
+  - free:
 
 - [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
 
@@ -2892,13 +2891,13 @@ all the books I am currently reading or have read
 - 12: programming in the large with design patterns
 
 - [12: programming languages: application and interpretation](https://my.mindnode.com/npRPuKz5q5cocsGCzjJTU7MMpW4D7msXBEHBQZ2p)
-  free: 
+  - free: 
 
 - [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
-  free:
+  - free:
 
 - [composing programs](https://my.mindnode.com/qcZ7jnKm8sQ9mBPFWtDoNcpFH2qtbbrpu4Ln1T9N)
-  free:
+  - free:
 
 ### c
 
@@ -2909,7 +2908,7 @@ all the books I am currently reading or have read
 - [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
 
 - [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
-  free:
+  - free:
 
 - [15: go in action ✨](https://my.mindnode.com/QW6JBJKCPYpXgEXejtXtxEzoqhsD4qSyhm16FyHV)
 
@@ -2964,22 +2963,22 @@ all the books I am currently reading or have read
 - you don’t know js
 
 	- [up and going ✨✔](https://my.mindnode.com/MR66Vxa9nNygTHGGyTV5ePVzDHdcqNRqH6bsSPM7)
-	  free: 
+	  - free: 
 
 	- [scope and closures](https://my.mindnode.com/yBwWLYxz75kePzR8RoqsVXK9EfYhNEHTq1wmRHao)
-	  free: 
+	  - free: 
 
 	- [this and object prototypes](https://my.mindnode.com/RbzgGuiyyLgi5ABvcxV5yB3Yy971RKiAbNw3px9z)
-	  free: 
+	  - free: 
 
 	- [types and grammar](https://my.mindnode.com/EzDQzVRYpcfay5VVUfBnPc33zrEksn4A4DVy8s7t)
-	  free: 
+	  - free: 
 
 	- [async and performance](https://my.mindnode.com/jDJkViDQ6vSuAbkeko1Pi4Ki8gLTcPhzwD14mujN)
-	  free: 
+	  - free: 
 
 	- [es6 and beyond](https://my.mindnode.com/s6yCswRucQpCJsDajBzLauhzgk68Bn4WyndTYMpr)
-	  free: 
+	  - free: 
 
 - [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
 
@@ -2997,7 +2996,7 @@ all the books I am currently reading or have read
 ### swift
 
 - [14: swift programming language ✨](https://my.mindnode.com/qxEPaW7xNpVvVEi14rHuqkzxppyayjKzxcMoC2SQ)
-  free:
+  - free:
 
 ### ruby
 
@@ -3024,14 +3023,16 @@ all the books I am currently reading or have read
 ### git
 
 - [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
-  free:
+  - free:
 
 ### language design
 
 - [beautiful racket](https://my.mindnode.com/ceZ3hyXZGv3zaJmxKgqK73QpmKadBAPPry2epxyb)
-  free:
+  - free:
 
 ## physics
+
+### 1916: relativity: the special and the general theory
 
 ### [university physics with modern physics ✨](https://my.mindnode.com/1M2ZVqow9pgJ95qwCH7hnwFWdRL8sDcMQqx5b3z9)
 
@@ -3161,7 +3162,7 @@ all the books I am currently reading or have read
 
 ### [1987: algorithm design manual](https://my.mindnode.com/spsEhTk9K3sEKTVGMvN5a3b41wBithXMJUZJLtJY)
 
-free:
+- free:
 
 ### 1990: introduction to algorithms
 
@@ -3169,7 +3170,7 @@ free:
 
 ### [algorithm design: parallel and sequential](https://my.mindnode.com/jdDUT3hFjpSpG9BwEsqFBzJwxkzdxSj8ajqh5nvn)
 
-free:
+- free:
 
 ## mindset
 
@@ -3279,17 +3280,17 @@ free:
 
 ### [1965: topology from a differentiable viewpoint](https://my.mindnode.com/JvZcpPFA4pU1MNXevyNs8pPCUWzC25AxZdnaDeoz)
 
-free:
+- free:
 
 ### [1969: an introduction to commutative algebra](https://my.mindnode.com/qPzRp2wLp7fri7yPp6tnEHRUSPGHdhqkuzq1PJmL)
 
-free:
+- free:
 
 ### 1972: mathematics made difficult
 
 ### [1973: a course in arithmetic](https://my.mindnode.com/ywWcHEotdsyYbsyJYcmmyayqzyVVXg6VCDo9axCU)
 
-free:
+- free:
 
 ### 1982: a book of abstract algebra
 
@@ -3325,7 +3326,7 @@ free:
 
 ### [17: immersive linear algebra ✨](https://my.mindnode.com/kaHsscPCN8pBzpZyDSrryCoNTqHUiSw38pSHPjsb)
 
-free: interactive look into linear algebra
+- free: interactive look into linear algebra
 
 ### [physically based rendering: from theory to implementation ✨](https://my.mindnode.com/DUcX9CeTv2kBEUsqUHiyq8tJqvdhxSToogmzvqzz)
 
@@ -3345,7 +3346,7 @@ free: interactive look into linear algebra
 
 ### [12: think bayes: bayesian statistics made simple](https://my.mindnode.com/8KgZHdGy4ZRXU9puKwpc6Wx1PjRofEyxJxozpWyG)
 
-free: 
+- free: 
 
 ### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/Z6gzpsCMzpfhQxkFt1iEtxpyMWEV7r5fLi6x1nYS)
 
@@ -3373,7 +3374,7 @@ free:
 
 ### [11: software foundations](https://my.mindnode.com/zWtaLGXxmMdQfG7HfwStAovEofps6VeM3G9z74sp)
 
-free:
+- free:
 
 ### [12: introduction to data compression](https://my.mindnode.com/2EbXzD8n2jUHa3qcLQe71Zgksmqy6LMDxSaEap7M)
 
@@ -3880,82 +3881,6 @@ how can you teach effectively, how does one learn
 # [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
 
 
-# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
-
-it is best to learn from mistakes of others so as to not repeat them
-
-
-## events
-
-### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
-
-### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
-
-### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
-
-15th to 19th century
-
-### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
-
-### [1765-1783: american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
-
-### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
-
-1917
-
-### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
-
-1930s
-
-### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
-
-1922-1991
-
-### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
-
-### 1942-1946: manhattan project
-
-### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
-
-### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
-
-United Kingdom leaving European Union
-
-## wars
-
-### 1803-1815: napoleonic wars
-
-### [1839-1842: first opium war](https://my.mindnode.com/XgzxfY3n2JC9rmqm5EtZPXUU1kFM2qSBAWMB6Yss)
-
-### [1856-1860: second opium war](https://my.mindnode.com/YPL8fyxFNCN89C61B2HMz4YUesJfeoVmyHnxWapn)
-
-### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
-
-1914-1918
-
-### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
-
-1939-1945
-
-- holocaust
-
-### 1942-1943: battle of stalingrad
-
-### 1853-1856: crimean war
-
-### [1861-1865: american civil war](https://my.mindnode.com/u49JEnht2Qk7VmUpgiuYVt2y39gqGvazzbavW7G3)
-
-### 1955-1975: vietnam war
-
-## pandemics
-
-### [1346-1353: black death](https://my.mindnode.com/fcuvrZSHzxzeyMuPSQbtNYseVvtGeDk4sa2gAZMR)
-
-## interesting
-
-### ancient cities
-
-
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
 
 
@@ -4226,7 +4151,7 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - 1936: Margaret Hamilton
 
-- 1954: Alan Turing
+- [1954: Alan Turing ✨](https://my.mindnode.com/2zh2MSFCqgicUBbyth6PrjgDM8syEn7SSbPHWoM2)
 
 - 1995: Konrad Zuse
 
@@ -4261,6 +4186,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
   was one of the first researchers who demonstrated the use of generalised back propagation algorithm for training multi-layer neural nets
 
 - Demis Hassabis
+
+- Zoubin Ghahramani
 
 ### code
 
@@ -4872,6 +4799,82 @@ all the richest humans of this planet with overview of how they got their wealth
 interesting ask me anything threads I found on the internet
 
 
+# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
+
+it is best to learn from mistakes of others so as to not repeat them
+
+
+## events
+
+### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
+
+### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
+
+15th to 19th century
+
+### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
+
+### [1765-1783: american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
+
+### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
+
+1917
+
+### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
+
+1930s
+
+### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
+
+1922-1991
+
+### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
+
+### 1942-1946: manhattan project
+
+### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
+
+### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
+
+United Kingdom leaving European Union
+
+## wars
+
+### 1803-1815: napoleonic wars
+
+### [1839-1842: first opium war](https://my.mindnode.com/XgzxfY3n2JC9rmqm5EtZPXUU1kFM2qSBAWMB6Yss)
+
+### [1856-1860: second opium war](https://my.mindnode.com/YPL8fyxFNCN89C61B2HMz4YUesJfeoVmyHnxWapn)
+
+### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
+
+1914-1918
+
+### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
+
+1939-1945
+
+- holocaust
+
+### 1942-1943: battle of stalingrad
+
+### 1853-1856: crimean war
+
+### [1861-1865: american civil war](https://my.mindnode.com/u49JEnht2Qk7VmUpgiuYVt2y39gqGvazzbavW7G3)
+
+### 1955-1975: vietnam war
+
+## pandemics
+
+### [1346-1353: black death](https://my.mindnode.com/fcuvrZSHzxzeyMuPSQbtNYseVvtGeDk4sa2gAZMR)
+
+## interesting
+
+### ancient cities
+
+
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
 
 
@@ -5020,8 +5023,6 @@ the future of money as I see itn
 
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
 
-### [flow ✨](https://my.mindnode.com/uofSvqqeJvwVVUSufcCbFpxqEVjDhywJyCXjATrZ)
-
 
 # [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
 
@@ -5160,6 +5161,16 @@ is a set of computer software programs and data structures which use a virtual m
 ## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
 
 
+# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+
+travel tips and interesting places
+
+
+## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
+
+how to live without a home, travel and work
+
+
 # [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
 
 name for a group of computer programs, device drivers, kernel and other things that let a user work with a computer
@@ -5199,20 +5210,6 @@ name for a group of computer programs, device drivers, kernel and other things t
 ### [andromeda OS](https://my.mindnode.com/E9T3FZbseA166QRroExnvozpMqv3wPZuLteth18d)
 
 ## [development](https://my.mindnode.com/oNNwSdr4auaFLYHYyrPV5Zx3m5noowpnxfxc4w3V)
-
-
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
-
-travel tips and interesting places
-
-
-## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
-
-how to live without a home, travel and work
-
-## [personal](https://my.mindnode.com/TMjW8sdzjju6G6WHr4QkQjCXpefvQJP8Y56JFwRv)
-
-countries and cities I have been to with commentary and photos of each place
 
 
 # [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
