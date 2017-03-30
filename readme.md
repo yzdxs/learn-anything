@@ -19,13 +19,15 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 ⚠️️ 
 
-- it takes ~ 1 minute to load
+- it takes ~ 1 minute to load (sometimes more)
 - does not load on mobile 
 - small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
 
 Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and often has really great resources linked to it for further study. Just look into what you think is interesting and go from there. 
 
-The big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. 
+Every mind map is structured to be read from left to right. [Here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is an example of one. All mind maps have a definition on the left, followed by my 'notes', followed by 'resources', then 'articles', 'videos' and 'talks' and then 'terms' to learn related to the topic. Thus it should always be easy to find the most important 'resources' node from any of the mind maps.
+
+The big branch of nodes you see on the right of the big mind map are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. There is also a courses branch which has all the free courses you can take organised by their topic. All courses are free, ones I have taken, have my notes. There are also research papers I am reading or planning to read, again organised by their topic.
 
 I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) as I try to cover any confusions one might have in navigating these mind maps there.
 
