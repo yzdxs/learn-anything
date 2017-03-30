@@ -1450,7 +1450,7 @@ program that will analyse code for potential errors
 
 - general purpose, purely functional with non strict semantics and strong static typing
 
-## [1991: python ✨](https://my.mindnode.com/qoU3LqJjWdq5XGVcs4zasUmguyEX6iqyE9zuEKdg#787.9,-1184.3,2)
+## [1991: python ✨](https://my.mindnode.com/xdGgVg9P6HWwz9tpst7Q4WABRomKTfhXbzdsCWZf)
 
 - high level, general purpose, interpreted emphasising code readability 
 
