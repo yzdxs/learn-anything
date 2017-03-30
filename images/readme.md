@@ -41,15 +41,6 @@ You can either explore through [the mind map](https://my.mindnode.com/mTasm9Ay8V
 - [art](http://imgur.com/a/3m5wf)
 
 
-- photos
-
-
-- xkcd
-
-
-- web
-
-
 - [earth](https://imgur.com/a/4U5P7)
 
 
