@@ -2,97 +2,95 @@
 
 ![](http://i.imgur.com/L9vV4Km.jpg)
 
-I have collected over 18,000 images over the years.
+Each image in the mind map is an Imgur album. 
 
-![](http://i.imgur.com/CwZeXkE.png)
-
-I just need to sort them well, connect them together and share them. Each of the images in the [mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) are links to Imgur albums which I will update with time. I will also try to add descriptions of each image where appropriate.
+You can either explore through [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) or just search through the index below.
 
 # Index 🗄️
-
-- [humans](https://imgur.com/a/p9FC3)
-
-
-- [animals](http://imgur.com/a/yNpGf)
-
-
-- [nature](https://imgur.com/a/56pFc)
-
-
-- photos
-
-
-- [dogs](http://imgur.com/a/CExqu)
-
-
-- cats
-
-
-- [photos - artistic](https://imgur.com/a/jAEYj)
-
-
-- [photos - beautiful](https://imgur.com/a/vA2Ly)
-
 
 - [heavy mind](http://imgur.com/a/om6BB)
 
 
-- xkcd
+- [humans](https://imgur.com/a/p9FC3)
 
 
-- [space](http://imgur.com/a/uymmM)
-
-
-- [art](http://imgur.com/a/3m5wf)
-
-
-- [xkcd - favourite](http://imgur.com/a/LK364)
-
-
-- [art - psychedelic](http://imgur.com/a/NqhGo)
-
-
-- [earth](https://imgur.com/a/4U5P7)
-
-
-- science
+- [setups](https://imgur.com/a/BinVf)
 
 
 - [minimalism](http://imgur.com/a/IZPbP)
 
 
+- [nature](https://imgur.com/a/56pFc)
+
+
+- [space](http://imgur.com/a/uymmM)
+
+
+- [animals](http://imgur.com/a/yNpGf)
+
+
 - [math](http://imgur.com/a/hmK2C)
-
-
-- [psychedelic](http://imgur.com/a/urG7X)
 
 
 - [physics](http://imgur.com/a/Reo8S)
 
 
-- [art - James R. Eads](http://imgur.com/a/Aao8R)
+- [funny](http://imgur.com/a/NAZ9l)
 
 
-- [snowflakes under a microscope](http://imgur.com/a/4rE1H)
+- [art](http://imgur.com/a/3m5wf)
 
 
-- [replications](http://imgur.com/a/ep7CH)
+- photos
+
+
+- xkcd
 
 
 - web
 
 
-- [funny](http://imgur.com/a/NAZ9l)
+- [earth](https://imgur.com/a/4U5P7)
+
+
+- [cats](https://imgur.com/a/TgL0x)
+
+
+- [dogs](http://imgur.com/a/CExqu)
 
 
 - [geometric](http://imgur.com/a/7ThWP)
 
 
-- [404 pages](http://imgur.com/a/NJ2X7)
+- [photos - artistic](https://imgur.com/a/jAEYj)
 
 
 - [funny - o’rly covers](http://imgur.com/a/Ykcyb)
 
 
+- [snowflakes under a microscope](http://imgur.com/a/4rE1H)
+
+
+- [404 pages](http://imgur.com/a/NJ2X7)
+
+
+- [photos - beautiful](https://imgur.com/a/vA2Ly)
+
+
+- [xkcd - favourite](http://imgur.com/a/LK364)
+
+
 - [funny - programming](http://imgur.com/a/hb4nX)
+
+
+- [art - psychedelic](http://imgur.com/a/NqhGo)
+
+
+- [psychedelic](http://imgur.com/a/urG7X)
+
+
+- [art - James R. Eads](http://imgur.com/a/Aao8R)
+
+
+- [replications](http://imgur.com/a/ep7CH)
 
