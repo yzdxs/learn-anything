@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/a7kIOWr.jpg)
+![](https://i.imgur.com/RT8hhVD.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -2653,6 +2653,8 @@ questions you may get asked for an iOS interview
 
 ## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
 
+## [influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
+
 
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
@@ -3870,12 +3872,28 @@ various talks I have found interesting that don’t fall into any category
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
+# [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
+
+how can you teach effectively, how does one learn
+
+
+# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
+
+
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
 it is best to learn from mistakes of others so as to not repeat them
 
 
 ## events
+
+### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
+
+### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
+
+15th to 19th century
 
 ### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
 
@@ -3897,19 +3915,19 @@ it is best to learn from mistakes of others so as to not repeat them
 
 ### 1942-1946: manhattan project
 
+### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
+
 ### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
 
 United Kingdom leaving European Union
 
-### [transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
-
-15th to 19th century
-
-### [roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
-
 ## wars
 
 ### 1803-1815: napoleonic wars
+
+### [1839-1842: first opium war](https://my.mindnode.com/XgzxfY3n2JC9rmqm5EtZPXUU1kFM2qSBAWMB6Yss)
+
+### [1856-1860: second opium war](https://my.mindnode.com/YPL8fyxFNCN89C61B2HMz4YUesJfeoVmyHnxWapn)
 
 ### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
 
@@ -3925,7 +3943,13 @@ United Kingdom leaving European Union
 
 ### 1853-1856: crimean war
 
+### [1861-1865: american civil war](https://my.mindnode.com/u49JEnht2Qk7VmUpgiuYVt2y39gqGvazzbavW7G3)
+
 ### 1955-1975: vietnam war
+
+## pandemics
+
+### [1346-1353: black death](https://my.mindnode.com/fcuvrZSHzxzeyMuPSQbtNYseVvtGeDk4sa2gAZMR)
 
 ## interesting
 
@@ -4789,6 +4813,52 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - Adi Shamir
 
+### leaders
+
+- 1750 BC: Hammurabi
+
+- 1458 BC: Hatshepsut
+
+- 1231 BC: Ramesses II
+
+- [323 BC: Alexander the Great](https://my.mindnode.com/wzq5BNpcz5yHPESEpTssJQbM9pTc2nhq4uf2w2vV)
+
+- [44 BC: Julius Caesar](https://my.mindnode.com/KmjSiUsfAxCWW4F3nSqcDFAtqMMztwissg2vGJuU)
+
+- [14: Augustus](https://my.mindnode.com/jDTDuaWsRmznR7k51yGFkzbR7jgaWRaHftYDpdH5)
+
+- [814: Charlemagne](https://my.mindnode.com/USuakMDgaZGEoqoCuhHn4UVS7vP7pNAF7enmSg4z)
+
+- [1227: Genghis Khan](https://my.mindnode.com/kzmzp53CxszL1J3ePyfs1ThFpsEyybq9Rkesj9BS)
+
+- [1431: Joan of Arc](https://my.mindnode.com/Xg5cs3Mosaz5mq6sHPtDegmyzwvnbfZoJoa9Qp8S)
+
+- 1566: Suleiman the Magnificent
+
+- [1796: Catherine the Great](https://my.mindnode.com/phRVpEwWkYzZ4vSsbxFuz8bH6MPsUQ2kK2snpgyD)
+
+- [1821: Napoleon Bonaparte](https://my.mindnode.com/U2DHxC5wshh579mfHeXBCyoFtoitdcdVcQS3cpSz)
+
+- [1865: Abraham Lincoln](https://my.mindnode.com/qzr2AYKqk1fMjveuyL7UMiFMZL7DXuKfcvQhgsVx)
+
+- [1938: Mustafa Ataturk](https://my.mindnode.com/VPyjUzbShgpwPW8kY8x76qiqq3ifRCEp7G4MY3Xw)
+
+- [1945: Adolf Hitler](https://my.mindnode.com/7Bjfaw5CZMKDpRNx58ipyRsXscXmCqSnhoRvHz9f)
+
+- [1945: Franklin Roosevelt](https://my.mindnode.com/yxUzmTKmxybVJCzbD4rXyox4ezdzhCUqa1BKqxBH)
+
+- [1953: Joseph Stalin](https://my.mindnode.com/Lye4qBYdvmbksduVvMQgEx8tN1mPMefJGfBoR2H3)
+
+- [1963: John Kennedy](https://my.mindnode.com/5FuN66DTyFbySEb6tq2opAk9irpafFNGrKPpTdhq)
+
+- [1965: Winston Churchill](https://my.mindnode.com/ddL8yy3pxYWGUDqzGRH9FYUJHx1LjSd48qXvE36t)
+
+- [1968: Martin Luther King](https://my.mindnode.com/psFpTMaymuxERxRpNDYdoypAxrLMsFcsAykMkv9x)
+
+- [1976: Mao Zedong](https://my.mindnode.com/m5xqnrMfqNWGzFMi3v3fJppK5xixARKDiau8yMot)
+
+- [13: Nelson Mandela](https://my.mindnode.com/nhXdqpMySjVFJKu3SfMykJ5Uwp45Smy62zb64ze7)
+
 ## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
 
 all of the github people whose work I find interesting, sorted by their skills and interests
@@ -4800,14 +4870,6 @@ all the richest humans of this planet with overview of how they got their wealth
 ## [ama](https://my.mindnode.com/uPippXiyxfn19k53v5p1QPcuJvxXNLEzUKy4T4qd)
 
 interesting ask me anything threads I found on the internet
-
-
-# [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
-
-how can you teach effectively, how does one learn
-
-
-# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
 
 
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
@@ -5629,8 +5691,6 @@ courses I am doing or plan on doing
 ## operating systems
 
 ### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
-
-free: 
 
 ## computer graphics
 
