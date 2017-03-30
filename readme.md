@@ -2744,7 +2744,8 @@ treating animals as equals and abstaining from eating and using animal products 
 
 ## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
 
-- everyone should have some kind of principle they follow, these are mine
+- everyone should have some kind of set of principles that they follow to guide their thinking  
+	- these are mine
 
 
 # [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
@@ -3155,6 +3156,10 @@ all the books I am currently reading or have read
 ### 03: unix network programming, volume 1: the sockets networking api
 
 ### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
+
+### [15: openssl cookbook](https://my.mindnode.com/aLHfSPhKPXCkbv6yZtDkR75zD1Mx6XSzPyB6msAx)
+
+- free:
 
 ### [an introduction to computer networks](https://my.mindnode.com/H3BVCfagx5UvEfzVNjDqGjBRxTYMy11m8tMwBDTs)
 
@@ -4900,7 +4905,7 @@ united states copyright law criminalising production and sharing of digital copy
 
 ## [mine ✨](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 
-articles I have written
+- articles I have written
 
 
 # [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
@@ -5022,6 +5027,8 @@ the future of money as I see itn
 
 
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
+
+- lessons I have learned over the course of my life
 
 
 # [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
@@ -5291,14 +5298,14 @@ what it means to be creative and where does creativity come from
 ### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
 
 - [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
-  my open source github repositories organised by their theme
+  - my open source github repositories organised by their topics
 
 ### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
 
 gists that I found interesting and useful 
 
 - [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
-  gists that I shared sorted by categories
+  - gists that I shared sorted by categories
 
 ## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
 
@@ -5968,7 +5975,7 @@ what aliases and cli programs I use on my system
 
 ### [mine ✨](https://my.mindnode.com/RtzZgV6UUoBuyJeHykxa5sEAqpJpuptfunbGG8u4)
 
-the structure of my .dotfiles folder
+- the structure of my .dotfiles folder
 
 ## [cli programs](https://my.mindnode.com/sMNrKZZgN8KeLpFW3pLzJHEiQrrFtxmsXaibaj8e)
 
