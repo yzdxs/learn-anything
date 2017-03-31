@@ -1586,6 +1586,324 @@ program that will analyse code for potential errors
 ## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 
+# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+
+- refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
+- VR also simulates a user’s physical presence in this environment 
+
+
+## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
+
+- oculus rift is a virtual reality headset developed by Oculus VR
+
+## [WebVR](https://my.mindnode.com/mxBVNT2vEGjxgxizzHEq3yPmoodYtxZLGJxpZvXL)
+
+- is an experimental javascript API that provides support for virtual reality devices
+
+### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
+
+- a web framework for building VR experiences
+
+
+# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
+
+- are pictures and films created using computers  
+- refers to computer generated image data created with help from specialised graphical hardware and software  
+- it is responsible for splaying art and image data effectively and meaningfully to the user  
+	- it is also used for processing image data received from the physical word
+
+
+## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
+
+- is a cross-language, cross platform API for rendering 2D and 3D vector graphics  
+- it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering
+
+## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
+
+- is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  
+- it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage
+
+## metal
+
+- is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8  
+- it has better performance than OpenGL due to   
+	- precomputed shaders and up-front state validation  
+	- explicit synchronisation between GPU and CPU  
+	- shared memory space between GPU and CPU  
+	- lower driver overhead
+
+## [rendering ✨](https://my.mindnode.com/2xnYJxwFM34AbKqxFs7R8PVzLJtcpQtoTgJHtaU2)
+
+- is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  
+- the results of such a model can be called a rendering  
+- a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  
+- the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file
+
+### [vector graphics](https://my.mindnode.com/WMAbr5nznMzNmTiVrTV1qbbqCf1AcsPZ5bQNsjsh)
+
+- is the use of polygons to represent images  
+- are based on vectors, which lead through locations called control points or nodes  
+- each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   
+	- further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill
+
+- [svg](https://my.mindnode.com/7P2xkiDiypyoMTFPWqvs8AVQjbsbqFpPmCTaMpap)
+  - is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation  
+  - since they are defined in XML test files, they can be searched, indexed, scripted and compressed
+
+## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
+
+- is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   
+- the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  
+- this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
+- it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
+- it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
+
+
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+
+- is the process of creating a video game
+
+
+## game engines
+
+### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
+
+- framework in Lua to make 2D games
+
+### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+
+- cross platform
+
+### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+
+- provides a huge set of common tools to create multi-platform 2D and 3D games
+
+## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
+
+- is a virtual machine designed to mimic a ‘fantasy video game console’
+
+
+# [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
+
+- a game is a structured form of play  
+- key components of games are goals, rules, challenges and interaction  
+- contains all the games I have played and want to play
+
+
+## board
+
+- are tabletop games that involve counters or pieces moved or placed on a pre-marked surface or ‘board’, according to a set of rules
+
+### ~3000 BC: backgammon
+
+### ~[500 BC: go ✨](https://my.mindnode.com/psx5yagnuKrHpZmpgCiqmkYPYFiXg6sT5r8azTNv)
+
+- is an abstract strategy board game for two players where the aim is to surround more territory than the opponent  
+- is believed to be the oldest board game still being played today
+
+### ~ [600: chess ✨](https://my.mindnode.com/1cTHSzKN2kkGnDzsqJQVU9tcSAcQbCeKwpUNMuxg)
+
+- a two-player strategy board game played on a chessboard, a checkered game board with 64 squares arranged in an eight-by-eight grid  
+- each player begins the game with 16 pieces   
+	- 1 king  
+	- 1 queen   
+	- 2 rooks  
+	- 2 knights  
+	- 2 bishops  
+	- and 8 pawns  
+- originated in India
+
+### 1935: monopoly
+
+### 1938: scrabble
+
+### 1957: risk
+
+## card
+
+### [1337: poker](https://my.mindnode.com/yyxmdpFhmfoezERPDTDs5QESgqL3qqHh1Ye7XXW1)
+
+### 1601: blackjack
+
+### [1925: contract bridge](https://my.mindnode.com/oibQMfyhhBVNg9qPLFD3swXmRsFf1FZysjXzScSx)
+
+## computer
+
+### 1984: tetris
+
+### 1998: half-life
+
+### 1999: quake III
+
+### 1999: heroes of might and magic III
+
+### 1999: age of empires II
+
+### [00: counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
+
+### 00: deus ex
+
+### 00: the sims
+
+### 00: diablo II
+
+### 01: max payne
+
+### 01: stronghold
+
+### 01: runescape
+
+### 02: warcraft III
+
+### 02: grand theft auto: vice city
+
+### 04: doom 3
+
+### 04: grand theft auto: san andreas
+
+### 04: metal gear solid 3
+
+### 04: half-life 2
+
+### 04: world of warcraft
+
+### 07: mass effect
+
+### 07: portal
+
+### 07: halo 3
+
+### 07: call of duty 4
+
+### 08: dead space
+
+### 09: call of duty: modern warfare 2
+
+### 09: stalker: call of pripyat
+
+### 09: left 4 dead 2
+
+### [09: league of legends](https://my.mindnode.com/m1jLqAvaGq6hPxynbbxLmwTjE3yNJQ1M1qoijpu5)
+
+### 10: starcraft II
+
+### 10: red dead redemption
+
+### 10: civilisation V
+
+### 10: fallout: new vegas
+
+### 10: amnesia: the dark descent
+
+### 11: the elder scrolls V: skyrim
+
+### 11: the witcher 2: assassins of kings
+
+### [11: minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
+
+### 11: terraria
+
+### 11: the stanley parable
+
+### 11: kerbal space program
+
+### 11: portal 2
+
+### 11: the binding of isaac
+
+### [12: factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
+
+### 12: borderlands 2
+
+### 12: diablo III
+
+### 12: torchlight II
+
+### 12: faster than light
+
+### 12: hotline miami
+
+### 13: dota 2
+
+### 13: arma 3
+
+### 13: antichamber
+
+### 13: bioshock infinite
+
+### 13: the last of us
+
+### 13: gunpoint
+
+### 13: path of exile
+
+### 13: don’t starve
+
+### 13: papers, please
+
+### 13: rimworld
+
+### 13: grand theft auto V
+
+### 13: rust
+
+### 13: life is strange
+
+### 13: the wolf among us
+
+### 14: hearthstone
+
+### 14: lisa
+
+### 15: cities: skylines
+
+### 15: soma
+
+### 15: rocket league
+
+### 15: axiom verge
+
+### 15: undertale
+
+### 15: prison architect
+
+### 15: sunless sea
+
+### 15: metal gear solid V
+
+### 15: the witcher 3
+
+### 15: fallout 4
+
+### 16: dark souls III
+
+### 16: civilisation VI
+
+### 16: titan fall 2
+
+### 16: overwatch
+
+### 16: uncharted 4
+
+### 16: stardew valley
+
+### 16: ori and the blind forest
+
+### 16: dishonored 2
+
+### 16: firewatch
+
+### 16: battlefield 1
+
+### 16: doom
+
+### 16: oxenfree
+
+### 16: the witness
+
+## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
+
+
 # [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
 - is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
@@ -1671,25 +1989,6 @@ program that will analyse code for potential errors
 
 - is information that is held in the state of a quantum system  
 - it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
-
-
-# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
-
-- refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
-- VR also simulates a user’s physical presence in this environment 
-
-
-## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
-
-- oculus rift is a virtual reality headset developed by Oculus VR
-
-## [WebVR](https://my.mindnode.com/mxBVNT2vEGjxgxizzHEq3yPmoodYtxZLGJxpZvXL)
-
-- is an experimental javascript API that provides support for virtual reality devices
-
-### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
-
-- a web framework for building VR experiences
 
 
 # [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
@@ -1808,133 +2107,6 @@ known (uncertainty principle)
 - quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space  
 	- the space of pure states of a quantum system is given by the one-dimensional subspaces of the corresponding Hilbert space (or the ‘points’ of the projective Hilbert space)  
 	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
-
-
-# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
-
-- are pictures and films created using computers  
-- refers to computer generated image data created with help from specialised graphical hardware and software  
-- it is responsible for splaying art and image data effectively and meaningfully to the user  
-	- it is also used for processing image data received from the physical word
-
-
-## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
-
-- is a cross-language, cross platform API for rendering 2D and 3D vector graphics  
-- it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering
-
-## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
-
-- is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  
-- it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage
-
-## metal
-
-- is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8  
-- it has better performance than OpenGL due to   
-	- precomputed shaders and up-front state validation  
-	- explicit synchronisation between GPU and CPU  
-	- shared memory space between GPU and CPU  
-	- lower driver overhead
-
-## [rendering ✨](https://my.mindnode.com/2xnYJxwFM34AbKqxFs7R8PVzLJtcpQtoTgJHtaU2)
-
-- is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  
-- the results of such a model can be called a rendering  
-- a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  
-- the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file
-
-### [vector graphics](https://my.mindnode.com/WMAbr5nznMzNmTiVrTV1qbbqCf1AcsPZ5bQNsjsh)
-
-- is the use of polygons to represent images  
-- are based on vectors, which lead through locations called control points or nodes  
-- each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   
-	- further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill
-
-- [svg](https://my.mindnode.com/7P2xkiDiypyoMTFPWqvs8AVQjbsbqFpPmCTaMpap)
-  - is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation  
-  - since they are defined in XML test files, they can be searched, indexed, scripted and compressed
-
-## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
-
-- is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   
-- the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  
-- this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
-- it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
-- it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
-
-
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
-
-- is the process of creating a video game
-
-
-## game engines
-
-### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
-
-- framework in Lua to make 2D games
-
-### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
-
-- cross platform
-
-### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
-
-- provides a huge set of common tools to create multi-platform 2D and 3D games
-
-## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
-
-- is a virtual machine designed to mimic a ‘fantasy video game console’
-
-
-# [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
-
-- a game is a structured form of play  
-- key components of games are goals, rules, challenges and interaction  
-- contains all the games I have played and want to play
-
-
-## board
-
-- are tabletop games that involve counters or pieces moved or placed on a pre-marked surface or ‘board’, according to a set of rules
-
-### ~[500 BC: go ✨](https://my.mindnode.com/psx5yagnuKrHpZmpgCiqmkYPYFiXg6sT5r8azTNv)
-
-- is an abstract strategy board game for two players where the aim is to surround more territory than the opponent  
-- is believed to be the oldest board game still being played today
-
-### ~ [600: chess ✨](https://my.mindnode.com/1cTHSzKN2kkGnDzsqJQVU9tcSAcQbCeKwpUNMuxg)
-
-- a two-player strategy board game played on a chessboard, a checkered game board with 64 squares arranged in an eight-by-eight grid  
-- each player begins the game with 16 pieces   
-	- 1 king  
-	- 1 queen   
-	- 2 rooks  
-	- 2 knights  
-	- 2 bishops  
-	- and 8 pawns  
-- originated in India
-
-## card
-
-### [1337: poker](https://my.mindnode.com/yyxmdpFhmfoezERPDTDs5QESgqL3qqHh1Ye7XXW1)
-
-### [1925: contract bridge](https://my.mindnode.com/oibQMfyhhBVNg9qPLFD3swXmRsFf1FZysjXzScSx)
-
-## computer
-
-### [00: counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
-
-### 03: dota
-
-### [09: league of legends](https://my.mindnode.com/m1jLqAvaGq6hPxynbbxLmwTjE3yNJQ1M1qoijpu5)
-
-### [11: minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
-
-### [12: factorio](https://my.mindnode.com/38rFUTpJSrez6m4w4gAsZgbPWsWdv1hzMc8QcRqq)
-
-## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
@@ -2283,46 +2455,6 @@ means that a physical quantity is assigned to every point in space (or, more gen
 	- while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation
 
 
-# [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
-
-- is an item that can be used to achieve a goal
-
-
-## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
-
-- software tools that I have found to be interesting at tackling some problem
-
-### search
-
-- [google](https://my.mindnode.com/oLqsecQPzsbP1sdGvxZbxCcspHQK4aJFqMvT9uUT)
-  - how to effectively use Google Search Engine	  
-  	- search operators  
-  	- proper queries
-
-- duckduckgo
-  - how to effectively use DuckDuckGo  
-  	- instant answers  
-  	- cheat sheets
-
-- wolfram alpha
-  - how to effectively use this computation engine
-
-## dev
-
-- software development tools I found to be interesting
-
-### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
-
-- a set of web authoring and debugging tools built into Google Chrome  
-	- they provide web developers deep access into the internals of the browser and their web application
-
-### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
-
-- open source software used for building and maintaining portable virtual development environments   
-- it manages all the necessary configurations for the developers in order to avoid unnecessary maintenance and setup time  
-	- written in ruby and is open source
-
-
 # [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
 
 - is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sing light, wind, rain, tides, waves and geothermal heat  
@@ -2418,6 +2550,46 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - they range from familiar synthetic plastics such as polystyrene to natural biopolymers such as DNA and proteins that are fundamental to biological structure and function  
 - polymers, both natural and synthetic, are created via polymerisation of many small molecules, known as monomers  
 	- their consequently large molecular mass relative to small molecule compounds produces unique physical properties, including toughness, viscoelasticity, and a tendency to form glasses and semicrystalline structures rather than crystals
+
+
+# [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
+
+- is an item that can be used to achieve a goal
+
+
+## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
+
+- software tools that I have found to be interesting at tackling some problem
+
+### search
+
+- [google](https://my.mindnode.com/oLqsecQPzsbP1sdGvxZbxCcspHQK4aJFqMvT9uUT)
+  - how to effectively use Google Search Engine	  
+  	- search operators  
+  	- proper queries
+
+- duckduckgo
+  - how to effectively use DuckDuckGo  
+  	- instant answers  
+  	- cheat sheets
+
+- wolfram alpha
+  - how to effectively use this computation engine
+
+## dev
+
+- software development tools I found to be interesting
+
+### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
+
+- a set of web authoring and debugging tools built into Google Chrome  
+	- they provide web developers deep access into the internals of the browser and their web application
+
+### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
+
+- open source software used for building and maintaining portable virtual development environments   
+- it manages all the necessary configurations for the developers in order to avoid unnecessary maintenance and setup time  
+	- written in ruby and is open source
 
 
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
@@ -4082,9 +4254,7 @@ how can you teach effectively, how does one learn
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
 
 
-## [interesting ✨](https://my.mindnode.com/JkCzDZMnAGwz3Jsgsaqs8sJzAHR9UUFpVUwbVPra)
-
-humans whose work I really respect and am curious about sorted by the domain in which they worked
+## interesting
 
 ### spirit
 
@@ -4204,6 +4374,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - 1871: Charles Babbage
 
+- 1897: Karl Weierstass
+
 - 1912: Henri Poincaré
 
 - 1918: Georg Cantor
@@ -4225,6 +4397,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - 1962: Charles Vallee-Pussin
 
+- 1964: Norbert Wiener
+
 - 1970: Bertrand Russel
 
 - 1977: John Littlewood
@@ -4237,6 +4411,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
   introduced a theory of reference that shows how to relate the objects in logic to objects in the real world
 
 - 1994: Stephen Kleene
+
+- 1995: Alonzo Church
 
 - 1996: Paul Erdős
 
@@ -4262,6 +4438,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 - John Conway
 
 - Terrence Tao
+
+- Stephen Smale
 
 - Andrew Granville
 
@@ -4611,9 +4789,11 @@ humans whose work I really respect and am curious about sorted by the domain in 
 
 - 1962: Hermann Hesse
 
-- 1963: Aldous Huxley
+- [1963: Aldous Huxley](https://my.mindnode.com/QC5k8yKCJwKuqMaBWqCvxfkzRXZpSfUfsXmTW3NR)
 
 - 1973: John Tolkien
+
+- 1976: Agatha Christie
 
 - 1977: Anais Nin
 
@@ -4656,6 +4836,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 - 1790: Adam Smith
 
 - 1883: Karl Marx
+
+- 1910: Leon Walras
 
 - 1920: Max Weber
 
@@ -4965,6 +5147,8 @@ humans whose work I really respect and am curious about sorted by the domain in 
 - [1821: Napoleon Bonaparte](https://my.mindnode.com/U2DHxC5wshh579mfHeXBCyoFtoitdcdVcQS3cpSz)
 
 - [1865: Abraham Lincoln](https://my.mindnode.com/qzr2AYKqk1fMjveuyL7UMiFMZL7DXuKfcvQhgsVx)
+
+- 1924: Vladimir Lenin
 
 - [1938: Mustafa Ataturk](https://my.mindnode.com/VPyjUzbShgpwPW8kY8x76qiqq3ifRCEp7G4MY3Xw)
 
@@ -5407,7 +5591,7 @@ name for a group of computer programs, device drivers, kernel and other things t
 
 - [powershell](https://my.mindnode.com/NnxxC7MpuPf3SUQpDYJW9zbhPMoQiPArx9x1Wnsa)
 
-### [andromeda OS](https://my.mindnode.com/E9T3FZbseA166QRroExnvozpMqv3wPZuLteth18d)
+### [fuchsia](https://my.mindnode.com/iuwQYCqvRBmBJRsaWzHNwKsbhCZzsJcxTThDy7uu)
 
 ## [development](https://my.mindnode.com/oNNwSdr4auaFLYHYyrPV5Zx3m5noowpnxfxc4w3V)
 
@@ -5918,30 +6102,28 @@ courses I am doing or plan on doing
 
 companies that I find interesting sorted by their domain
 
-### Tesla
+### tesla
 
-### Apple
+### apple
 
 - Mac
 
 - iPhone
 
-### SpaceX
+### spacex
 
-### Alphabet
+### alphabet
 
-- Deepmind
+- deepmind
 
 	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
 	  an algorithm that dominated all the best human players at a game of Go
 
-- Google
+- google
 
-### [Amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
+### [amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
 
-### [Facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
-
-over 2 billion users and growing, collecting data on each individual user and growing its influence
+### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 
 # data
@@ -6268,6 +6450,9 @@ packs many javascript modules into a few bundled assets
 ## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
 
 
+# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
+
+
 # [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
 
 
@@ -6275,9 +6460,6 @@ packs many javascript modules into a few bundled assets
 
 
 ## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
-
-
-# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
 
 
 # markup languages
@@ -6301,10 +6483,6 @@ packs many javascript modules into a few bundled assets
 # [music creation](https://my.mindnode.com/aMeLZTuwJGwsHy6qsYx2MxThPqCHeNdPHrbyotkp)
 
 
-## [guitar](https://my.mindnode.com/1qxoVY48qE8hzrHqqGEta8XCTwnwC9h6ux6NS7jq)
-
-### [tabs](https://my.mindnode.com/cPqzxbqk482g8FxbuhJz3NcWouyudmCp8Cm4XGRL)
-
 ## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
 
 the theory behind writing music
@@ -6316,6 +6494,12 @@ the theory behind writing music
 write code and generate music, really is quite amazing
 
 ### ableton
+
+## instruments
+
+### [guitar](https://my.mindnode.com/xcTk6zZz9AK6dES5k4DiMLK3DYQfDxnvp54xHnzk)
+
+- [tabs](https://my.mindnode.com/dd96pRQfMwqUusQ9h9yXGiFKybyEaSsSoveYU2yQ)
 
 
 # [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
