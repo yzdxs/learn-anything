@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/RT8hhVD.jpg)
+![](https://i.imgur.com/WJHaUia.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -1659,30 +1659,6 @@ program that will analyse code for potential errors
 - it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
 
 
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
-
-- is the process of creating a video game
-
-
-## game engines
-
-### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
-
-- framework in Lua to make 2D games
-
-### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
-
-- cross platform
-
-### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
-
-- provides a huge set of common tools to create multi-platform 2D and 3D games
-
-## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
-
-- is a virtual machine designed to mimic a ‘fantasy video game console’
-
-
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
 
 - a game is a structured form of play  
@@ -1974,6 +1950,30 @@ program that will analyse code for potential errors
 - the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
 	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
 - a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
+
+
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+
+- is the process of creating a video game
+
+
+## game engines
+
+### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
+
+- framework in Lua to make 2D games
+
+### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+
+- cross platform
+
+### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+
+- provides a huge set of common tools to create multi-platform 2D and 3D games
+
+## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
+
+- is a virtual machine designed to mimic a ‘fantasy video game console’
 
 
 # [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
@@ -2861,6 +2861,9 @@ study of large amounts of biological information, mostly it focuses on molecules
 studying nature to create modern technology
 
 
+# [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
+
+
 # [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
 
 study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
@@ -2898,6 +2901,14 @@ my solutions and working out of leetcode problems
 ### hackerrank
 
 ### [project Euler](https://my.mindnode.com/pWLBybidACnQYbBsZbRnrLnUq5ZQBM2TR2nEXPXs)
+
+### topcoder
+
+### kaggle
+
+### codechef
+
+### spoj
 
 ## [problem solving ✨](https://my.mindnode.com/mEdx9q2SfcPpxpBnqyyn2uivbjcV3sDSN8Yb8U9y)
 
@@ -2938,14 +2949,6 @@ a variety of of different feelings, states and attitudes ranging from interperso
 ## [compassion](https://my.mindnode.com/P5GHEByw9zzfW3BDmQYGyppdQfdf2ziDsHtpj9or)
 
 
-# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
-
-study of language and its structure including study of grammar, syntax and phonetics
-
-
-# [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
-
-
 # [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
 
 what actions are objectively write or wrong and how to measure them
@@ -2956,26 +2959,7 @@ what actions are objectively write or wrong and how to measure them
 which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
 
 
-# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
-
-
-## russian
-
-## [english](https://my.mindnode.com/j4F9PxLxMDSX4RY3mVk8vCrK9AUxWtRMcqmssr6n)
-
-### [words ✨](https://my.mindnode.com/WZEFVxYs8nyNrPwQQ9zsXmaHHgGdnyqt27qJhNJ4)
-
-english words I want to learn and have learned
-
-### [spelling](https://my.mindnode.com/cSpgPne6qnMo6STU3gkvG7s9fGKgZxiowjpR1ZAS)
-
-my often misspelled words to learn
-
-### [abbreviations](https://my.mindnode.com/EUMA1h3YkYyLGVsVQkhfL3f3ppUu4pwmir6p4hLp)
-
-## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
-
-## chinese
+# [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
 # [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
@@ -3003,6 +2987,37 @@ questions you may get asked for an iOS interview
 
 
 # [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
+
+
+# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
+
+
+## russian
+
+## [english](https://my.mindnode.com/j4F9PxLxMDSX4RY3mVk8vCrK9AUxWtRMcqmssr6n)
+
+### [words ✨](https://my.mindnode.com/WZEFVxYs8nyNrPwQQ9zsXmaHHgGdnyqt27qJhNJ4)
+
+english words I want to learn and have learned
+
+### [spelling](https://my.mindnode.com/cSpgPne6qnMo6STU3gkvG7s9fGKgZxiowjpR1ZAS)
+
+my often misspelled words to learn
+
+### [abbreviations](https://my.mindnode.com/EUMA1h3YkYyLGVsVQkhfL3f3ppUu4pwmir6p4hLp)
+
+## [japanese](https://my.mindnode.com/nxJPagjAaQH4zS3jb5qZQWYzKg6EbLnfdKm8RpqH)
+
+## chinese
+
+## spanish
+
+## hindi
+
+
+# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+
+study of language and its structure including study of grammar, syntax and phonetics
 
 
 # [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
@@ -3059,9 +3074,6 @@ how to be aware of your actions and thoughts as you live through life
 ## [reptiles](https://my.mindnode.com/LRqKKMNJ5tMooG5JgDsoRhRyHjRqW3nMbqfsNSes)
 
 ## [birds](https://my.mindnode.com/d3Jsm6KXowatG8o5mBSa7pSmAtAZbrdpwxYB5yxA)
-
-
-# [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
@@ -4243,12 +4255,12 @@ various talks I have found interesting that don’t fall into any category
 # [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
+# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
+
+
 # [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
 
 how can you teach effectively, how does one learn
-
-
-# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
 
 
 # [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
@@ -5269,6 +5281,22 @@ United Kingdom leaving European Union
 ## [docker ✨](https://my.mindnode.com/3tDDSeJdpXeWHxU2L4mLyzpeAGLmCxepmMLWyu1R)
 
 
+# ideology
+
+
+## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+
+## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+## socialism
+
+## liberalism
+
+## anarchism
+
+## conservatism
+
+
 # [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
 
 
@@ -5495,9 +5523,6 @@ is a set of computer software programs and data structures which use a virtual m
 ## [hypervisor](https://my.mindnode.com/iEH6suLAhq52zp4GjLNFLbAgm9YQ5BKkaUY3Cx8T)
 
 
-# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
-
-
 # [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
 
 
@@ -5534,6 +5559,9 @@ is a set of computer software programs and data structures which use a virtual m
 ## behavioural
 
 
+# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
+
+
 # [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
 
 
@@ -5543,16 +5571,6 @@ is a set of computer software programs and data structures which use a virtual m
 ## [mercurial](https://my.mindnode.com/NxcTDxweypHJ5dkqR7bWpryPxjbmzpCAxcKV9tG4)
 
 ## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
-
-
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
-
-travel tips and interesting places
-
-
-## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
-
-how to live without a home, travel and work
 
 
 # [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
@@ -5621,42 +5639,6 @@ a way of storing all data on a data storage device, the data is usually organise
 ## [BTRFS](https://my.mindnode.com/nPDMw4Madtqssm8QpqAqmhN26gHfBjpNPryV7GUv)
 
 ## [XFS](https://my.mindnode.com/fKkhCJpKpCb6hiD59zmAqnFWW8sB6J4KLzXLmjyw)
-
-
-# countries
-
-
-## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
-
-history of europe
-
-### uk
-
-sovereign state in northern Europe, it is a constitutional monarchy that is made up of four separate countries
-
-### germany
-
-situated in central Europe
-
-### netherlands
-
-## north america
-
-### usa
-
-United States of America is made up of 50 states, a deferral district, and five territories
-
-## asia
-
-### russia
-
-largest country in the world by land area
-
-### [china](https://my.mindnode.com/guBAPkiXi7cKfAh1AN2pi6LyeYzqB5PqsBJMGzzv)
-
-is a cultural region, an ancient civilisation and a nation in east asia
-
-### japan
 
 
 # [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
@@ -5758,16 +5740,6 @@ personal websites that are really well made and inspiring
 ## [sql](https://my.mindnode.com/pLxGS7nzpTo1VuCYeG7NKpx11B9VxKbrs3qfjpwp)
 
 
-# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
-
-our home planet in the Solar System
-
-
-## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
-
-there are five oceans on this planet
-
-
 # [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
 
 
@@ -5825,6 +5797,12 @@ test anything protocol s a protocol to allow communication between unit tests an
 
 ## [TLS](https://my.mindnode.com/zwL3SzsNTazPksvKPxiHFYJJcQjAZL5cd3m8WYHG)
 
+## DNS
+
+## FTP
+
+## ARP
+
 
 # [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
 
@@ -5837,17 +5815,19 @@ test anything protocol s a protocol to allow communication between unit tests an
 # backend
 
 
-# ideology
-
-
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
-
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
-
-
 # [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
 
 connecting physical objects to the internet and using them in a smart way
+
+
+# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+
+travel tips and interesting places
+
+
+## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
+
+how to live without a home, travel and work
 
 
 # [full stack](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
@@ -6126,6 +6106,114 @@ companies that I find interesting sorted by their domain
 ### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 
+# countries
+
+
+## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
+
+history of europe
+
+### 681: bulgaria
+
+### 872: norway
+
+### 895: hungary
+
+### ~900: france
+
+### ~1000: denmark
+
+### 1025: poland
+
+### 1291: switzerland
+
+### 1397: sweden
+
+### 1648: netherlands
+
+### 1707: uk
+
+### 1804: austria
+
+### 1830: belgium
+
+### 1830: greece
+
+### 1877: romania
+
+### 1917: finland
+
+### 1923: turkey
+
+### 1949: germany
+
+### 1960: cyprus
+
+### 1991: ukraine
+
+### 1993: czech republic
+
+### 06: serbia
+
+## asia
+
+### 2879 BC: vietnam
+
+### 660 BC: japan
+
+### 1238: thailand
+
+### 1819: singapore
+
+### 1920: syria
+
+### 1947: india
+
+### 1948: south korea
+
+### [1949: china](https://my.mindnode.com/guBAPkiXi7cKfAh1AN2pi6LyeYzqB5PqsBJMGzzv)
+
+is a cultural region, an ancient civilisation and a nation in east asia
+
+### 1991: russia
+
+largest country in the world by land area
+
+## africa
+
+### 1956: morocco
+
+### 1960: madagascar
+
+### 1961: south africa
+
+## north america
+
+### 1776: usa
+
+United States of America is made up of 50 states, a deferral district, and five territories
+
+### 1824: mexico
+
+### 1867: canada
+
+### 1868: cuba
+
+## south america
+
+### 1810: colombia
+
+### 1816: argentina
+
+### 1821: peru
+
+### 1822: brazil
+
+### 1845: venezuela
+
+## 1901: australia
+
+
 # data
 
 
@@ -6327,6 +6415,26 @@ is a systems engineering process for establishing and maintaining consistency of
 ## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
 
 
+# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
+
+our home planet in the Solar System
+
+
+## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
+
+there are five oceans on this planet
+
+### pacific
+
+### atlantic
+
+### indian
+
+### arctic
+
+### antarctic
+
+
 # [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
 
 
@@ -6444,6 +6552,9 @@ packs many javascript modules into a few bundled assets
 ### [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
 
 
+# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
+
+
 # [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
 
 
@@ -6451,9 +6562,6 @@ packs many javascript modules into a few bundled assets
 
 
 # [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
-
-
-# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
 
 
 # [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
@@ -6500,6 +6608,14 @@ write code and generate music, really is quite amazing
 ### [guitar](https://my.mindnode.com/xcTk6zZz9AK6dES5k4DiMLK3DYQfDxnvp54xHnzk)
 
 - [tabs](https://my.mindnode.com/dd96pRQfMwqUusQ9h9yXGiFKybyEaSsSoveYU2yQ)
+
+### piano
+
+### drums
+
+### saxophone
+
+### violin
 
 
 # [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
@@ -6619,6 +6735,18 @@ what it means to make a search engine and what is needed
 ## rock climbing
 
 ## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
+
+## volleyball
+
+## skiing
+
+## rowing
+
+## fencing
+
+## squash
+
+## surfing
 
 
 # [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
