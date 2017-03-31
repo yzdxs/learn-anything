@@ -2277,174 +2277,362 @@ means that a physical quantity is assigned to every point in space (or, more gen
 
 # astronomy
 
+- studies celestial objects and phenomena   
+- applies mathematics, physics and chemistry, in effort to explain the origin of those objects and phenomena and their evolution  
+- objects of interest include planets, moons, stars, galaxies and comets  
+	- while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation
+
 
 # [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
+
+- is an item that can be used to achieve a goal
 
 
 ## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
 
+- software tools that I have found to be interesting at tackling some problem
+
 ### search
 
 - [google](https://my.mindnode.com/oLqsecQPzsbP1sdGvxZbxCcspHQK4aJFqMvT9uUT)
+  - how to effectively use Google Search Engine	  
+  	- search operators  
+  	- proper queries
 
 - duckduckgo
+  - how to effectively use DuckDuckGo  
+  	- instant answers  
+  	- cheat sheets
 
 - wolfram alpha
+  - how to effectively use this computation engine
 
 ## dev
 
+- software development tools I found to be interesting
+
 ### [chrome dev tools ✨](https://my.mindnode.com/oAiXakFqpTKNDUahKywF4u4zPXCmMwv8j5HHZPyh)
 
+- a set of web authoring and debugging tools built into Google Chrome  
+	- they provide web developers deep access into the internals of the browser and their web application
+
 ### [vagrant](https://my.mindnode.com/yVugpzJ7dzzY6FoXzmTRqNkMfKKHxkwqdr3qbLjS)
+
+- open source software used for building and maintaining portable virtual development environments   
+- it manages all the necessary configurations for the developers in order to avoid unnecessary maintenance and setup time  
+	- written in ruby and is open source
 
 
 # [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
 
+- is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sing light, wind, rain, tides, waves and geothermal heat  
+- renewable energy systems are rapidly becoming more efficient and cheaper
+
 
 ## [solar](https://my.mindnode.com/5oLMmJdETx4aaHndxBPSBvxVeicQ7kNzUs85e8Vq)
 
+- solar power is the conversion of energy from sunlight into electricity, either directly using photovoltaics, or indirectly using concentrated solar power  
+- concentrated solar power systems use lenses or mirrors and tracking systems to focus a large area of sunlight into a small beam  
+- photovoltaic cells convert light into an electric current using the photovoltaic effect
+
 ## [wind](https://my.mindnode.com/RcVEcVMeH9C83ywqvFQiJFQCjuV4yGpxPZzq8M5T)
 
+- is the use of air flow through wind turbines to mechanically power generators for electric power  
+- wind farms consist of many individual wind turbines which are connected to the electric power transmission network
+
 ## [nuclear](https://my.mindnode.com/jwi2hX1M9dZKegUs91sUD45jniHqzTVUZuZHAQSa)
+
+- is the use of nuclear reactions that release nuclear energy to generate heat, which most frequently is then used in steam turbines to produce electricity in a nuclear power plant  
+- it includes nuclear fission, nuclear decay and nuclear fusion
 
 
 # [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
 
-study of mind and of thought, feeling and behaviour
+- is the science of behaviour and mind, embracing all aspects of conscious and unconscious experience as well as thought  
+- it seeks to understand individuals and groups by establishing general principles and researching specific cases  
+- psychologists explore behaviour and mental processes, including perception, cognition, attention, emotion (affect), intelligence, phenomenology, motivation, brain functioning and personality
 
 
 # [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
-study of change of matter
+- studies the composition, structure, properties and change of matter  
+- it includes topics such as the properties of individual atoms, how atoms form chemical bonds to create chemical compounds, the interactions of substances through intermolecular forces that give matter its general properties, and the interactions between substances through chemical reactions to form different substances
 
 
 ## [compounds](https://my.mindnode.com/Mp1YiKoPGthEkykex4qQx6QnB2iaYfLKFu9S5H2C#-107.9,117.9,2)
 
-combination of two or more elements
+- are entities consisting of two or more atoms, at least two from different elements, which associate via chemical bonds  
+- there are four types of compounds, depending on how the constituent atoms are held together :  
+	- molecules held together by covalent bonds  
+	- ionic compounds held by ionic bonds  
+	- inter metallic compounds held together by metallic bonds  
+	- and certain complexes held together by coordinate covalent bonds  
+- many chemical compounds have a unique numerical identifier assigned by the Chemical Abstracts Service  
+	- its CAS number
 
 ## [elements](https://my.mindnode.com/s2t5UnPoUS3CA5BFqvsyqkEnynxCMAspAj2v3VEN)
 
-substance consisting of atoms which all have same number of protons (same atomic number)
+- is a species of atoms having the same number of protons in their atomic nuclei (i.e. same atomic number, 𝛧)  
+- there are 118 elements that have been identified, of which 94 occur naturally on Earth with the remaining 24 being synthetic elements  
+	- there are 80 elements that have at least one stable isotope and 38 that have exclusively radioactive isotopes, which decay over time into other elements  
+- chemical elements constitute all of the ordinary matter of the universe  
+	- however astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe  
+	- the remainder is dark matter (composition of this is unknown, but it is not composed of chemical elements)  
+	
 
 ## [quantum chemistry](https://my.mindnode.com/HLh4asnpQJ4bFAKKaspqsyF62udVQbx7qgqPTe3M)
 
+- focuses on the application of quantum mechanics in physical models and experiments of chemical systems
+
 ## reactions
+
+- is a process that leads to the transformation of one set of chemical substances to another  
+- they encompass changes that only involve the positions of electrons in the forming and breaking of chemical bonds between atoms, with no change to the nuclei (no change to the elements present), and can often be described by a chemical equation
 
 ### [redox](https://my.mindnode.com/XNs8XpLidz3eMNjWNu2FhshnywiPLPqWAcyqhnr4)
 
+- is a chemical reaction in which the oxidation states of atoms are changed  
+- any such reaction involves both a reduction process and a complementary oxidation process, two key concepts involved with electron transfer processes  
+- they include all chemical reactions in which atoms have their oxidation state changed  
+	- this involves the transfer of electrons between chemical species  
+- the chemical species from which the electron is stripped is said to have been oxidised, while the chemical species to which the electron is added is said to have been reduced  
+- oxidation   
+	- is the loss of electrons or an increase in oxidation state by a molecule, atom, or ion  
+- reduction   
+	- is the gain of electrons or a decrease in oxidation state by a molecule, atom, or ion
+
 ## molecules
+
+- is an electrically neutral group of two or more atoms held together by chemical bonds  
+- they are distinguished from ions by their lack of electrical charge
 
 ### [molecular symmetry ✨](https://my.mindnode.com/Ayzozn7zGsp7LGuqPGyY8kR1AEtiywbJqDiyWxS1)
 
-describes the symmetry present in molecules and the classification of molecules according to their symmetry
+- describes the symmetry present in molecules and the classification of molecules according to their symmetry  
+- it is a fundamental concept in chemistry, as it can predict or explain many of a molecule's chemical properties, such as its dipole moment and its allowed spectroscopic transitions (based on selection rules such as the Laporte rule)  
+- various frameworks for the study of molecular symmetry exist, group theory is the predominant one
 
 ### [polymers](https://my.mindnode.com/GeXjnpRb5iJz1YiJHgb64scXzic3sNbu3cJRzeGR)
+
+- is a large molecule, or macromolecule, composed of many repeated subunits  
+- they range from familiar synthetic plastics such as polystyrene to natural biopolymers such as DNA and proteins that are fundamental to biological structure and function  
+- polymers, both natural and synthetic, are created via polymerisation of many small molecules, known as monomers  
+	- their consequently large molecular mass relative to small molecule compounds produces unique physical properties, including toughness, viscoelasticity, and a tendency to form glasses and semicrystalline structures rather than crystals
 
 
 # [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
 
+- is a vibration that propagates as a typically audible mechanical wave of pressure and displacement, through a transmission medium such as air or water  
+- sound above 20 kHz is ultrasound and below 20 Hz is infrasound  
+- animals have different hearing ranges
+
 
 ## [audio](https://my.mindnode.com/x2AkxjvLzNyKDsaesb9CGdyRiBT1pjtpEoTRzoRB)
 
+- audio signal is a representation of sound, typically as an electrical voltage  
+- they may be synthesised directly, or may originate at a transducer such as a microphone, musical instrument pickup, phonograph cartridge, or tape head  
+- loudspeakers or headphones convert an electrical audio signal into sound
+
 ## speech
+
+- is the vocalised form of communication based upon the syntactic combination of lexicals and names that are drawn from very large vocabularies   
+- each spoken word is created out of the phonetic combination of a limited set of vowel and consonant speech sound units (phonemes)  
+	- these vocabularies, the syntax that structures them, and their sets of speech sound units differ, creating many thousands of different, and mutually unintelligible, human languages
 
 
 # [neuroscience ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
 
-study of the human neurological action and inaction of thought, design and purpose with the identification of brain, cord and sympathetic and parasympathetic nervous system
+- is the scientific study of the nervous system  
+- it studies the molecular, cellular, developmental, structural, functional, evolutionary, computational, psychosocial and medical aspects of the nervous system
 
 
 ## [brain computer interface](https://my.mindnode.com/8BvABzGKgpcYmsvxp6kVvuWmHuQ2ov33DQq1QQMp)
 
+- is a direct communication pathway between an enhanced or wired brain and an external device  
+- they are often directed at researching, mapping, assisting, augmenting, or repairing human cognitive or sensory-motor functions
+
 ## [memory ✨](https://my.mindnode.com/dyFyVwr6e1mBUNWL5HWuuMbMyNgwnKNwHqG3BbY2)
+
+- is the faculty of the mind by which information is encoded, stored, and retrieved  
+- it is vital to experiences and related to limbic systems, it is the retention of information over time for the purpose of influencing future action  
+	- if we could not remember past events, we could not learn or develop language, relationships, nor personal identity  
+- it is understood as an informational processing system with explicit and implicit functioning that is made up of a sensory processor, short-term (or working) memory, and long-term memory
 
 ## [sleep](https://my.mindnode.com/S2GoddXvkAbq2NkTWszTk52CB3iqcnyzGxeMUVJa)
 
-state of rest, which happens in animals, including humans, animals that sleep are in an unconscious state, or mostly so, most of the muscles that animals can control on purpose are inactive
+- is a naturally recurring state of mind and body characterised by altered consciousness, relatively inhibited sensory activity, inhibition of nearly all voluntary muscles, and reduced interactions with surroundings  
+- it occurs in repeating periods, in which the body alternates between two highly distinct modes known as non-REM and REM sleep  
+	- REM stands for "rapid eye movement"  
+- during sleep, most systems are in an anabolic state, helping to restore the immune, nervous, skeletal, and muscular systems
 
 ### [dreaming](https://my.mindnode.com/xtqSJ9S78ZQB9GG35jnUmHUqR1xdb561zTVPpRyQ)
 
+- is the process of experiencing a dream during sleep
+
 - [lucid](https://my.mindnode.com/3wWWq3fvM4acGHakP7iWMJsyDqy3VUzjuUkxpXq5)
+  - is a dream during which the dreamer is aware of dreaming  
+  - during lucid dreaming, the dreamer may be able to exert some degree of control over the dream characters, narrative, and environment
 
 ## [addiction](https://my.mindnode.com/WPBuHKWttyoukpSPSRu8q8mypxKGeaMqhAZ5cvWs)
 
-when the body or mind badly wants or needs something in order to work right
+- is a brain disorder characterised by compulsive engagement in rewarding stimuli, despite adverse consequences  
+- despite the involvement of a number of psychosocial factors, a biological process – one which is induced by repeated exposure to an addictive stimulus – is the core pathology that drives the development and maintenance of an addiction  
+- the two properties that characterise all addictive stimuli are that they are   
+	- reinforcing (i.e., they   
+increase the likelihood that a person will seek repeated exposure to them)   
+	- and intrinsically rewarding (i.e., perceived as being positive or desirable)
 
 ## [habits](https://my.mindnode.com/VLUhpGz7vDLAjF5smkTLt1WGbEqSidD7GoF42pnP)
 
+- is a routine of behaviour that is repeated regularly and tends to occur subconsciously
+
 ## [neurotransmitters](https://my.mindnode.com/qcoqRoDpkRevTy2cZ86PRhtA5sqcpcyGVKbp2Kdp)
 
-are chemical messengers, they send information between neutrons by crossing a synapse, electrical signals are not able to cross the gap between most neutrons, they are changed into chemical signals to cross the gap, they mostly act on chemical synapses
+- are endogenous chemicals that enable neurotransmission  
+- they transmit signals across a chemical synapse, such as a neuromuscular junction, from one neuron (nerve cell) to another "target" neuron, muscle cell, or gland cell  
+- they are released from synaptic vesicles in synapses into the synaptic cleft, where they are received by receptors on the target cells  
+- many neurotransmitters are synthesized from simple and plentiful precursors such as amino acids, which are readily available from the diet and only require a small number of biosynthetic steps for conversion  
+- their exact numbers are unknown, but more than 100 chemical messengers have been uniquely identified
 
 ### [serotonin](https://my.mindnode.com/MbJsK1PUbdSgQjunGFoNdoV8epyvivhHoZYvmP8q)
 
-from its chemical structure it is called 5-Hydroxytryptamine or 5-HT, it is derived from tryptophan
+- is a monoamine neurotransmitter  
+- biochemically derived from tryptophan, serotonin is primarily found in the gastrointestinal tract (GI tract), blood platelets, and the central nervous system of animals, including humans  
+	- it is popularly thought to be a contributor to feelings of well-being and happiness
 
 ### [dopamine](https://my.mindnode.com/xqZQ2ozXsuY5QCuzC8atUWaBfsFSVcHtEyHRWbcs)
 
-many different kinds of animals and humans use it to transmit information, it is used when the brain sends signals to the muscles in the body to make them move, it can make a person feel good
+- is an organic chemical of the catecholamine and phenethylamine families that plays several important roles in the brain and body  
+- it is an amine synthesised by removing a carboxyl group from a molecule of its precursor chemical L-DOPA, which is synthesised in the brain and kidneys  
+- it is also synthesised in plants and most multicellular animals
 
 ## [cognition](https://my.mindnode.com/xyMqiupnAsbdKJNzaTg4k2Dgim7qHsFwhuBYSRJk)
 
-a word for thought processes where process is the way we think
+- is the mental action or process of acquiring knowledge and understanding through thought, experience, and the senses  
+- it encompasses processes such as knowledge, attention, memory and working memory, judgment and evaluation, reasoning and "computation", problem solving and decision making, comprehension and production of language  
+- human cognition is conscious and unconscious, concrete or abstract, as well as intuitive (like knowledge of a language) and conceptual (like a model of a language)  
+- cognitive processes use existing knowledge and generate new knowledge
 
 ## [disorders](https://my.mindnode.com/KqktP1jc4dEyZtZRQ34BxfXAwH5gZ9nQ3iyiGpBg)
+
+- is a derangement or abnormality of function; a morbid physical or mental state
 
 
 # [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
 
+- is a systematic enterprise that builds and organises knowledge in the form of testable explanations and predictions about the universe  
+- it is typically subdivided into  
+	- the natural sciences, which study the material universe  
+	- the social sciences, which study people and societies  
+	- and the formal sciences, which study logic and mathematics  
+- formal sciences are often excluded as they do not depend on empirical observations
+
 
 # [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
+
+- is the study of various aspects of humans within past and present societies  
+- social anthropology and cultural anthropology  
+- linguistic anthropology studies how language affects social life  
+- biological or physical anthropology studies the biological development of humans
 
 
 # [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
 
-what makes something a living organism
+- is a characteristic distinguishing physical entities having biological processes, such as signalling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate  
+- various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria  
+- the criteria can at times be ambiguous and may or may not define viruses, viroids, or potential artificial life as "living"  
+- the current definition of life is that organisms maintain homeostasis, are composed of cells, undergo metabolism, can grow, adapt to their environment, respond to stimuli, and reproduce
 
 
 ## [artificial](https://my.mindnode.com/VbHAoa4cd8iQXZUkTTqpkjK5xusfxy6N6pZDuBjY)
 
-can you create an artificial complex life such as humans and if so, how
+- examines systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry
 
-## [origin of life](https://my.mindnode.com/kBBFUEC6zZxN6TBabsBq1E3pysDgzYu73Rs9QhzT)
+## [abiogenesis](https://my.mindnode.com/ogtu6fjMRhtchZQjDbLtJ5fNHcQL92ZSWk3CY1SE)
 
-how did life came to arise in this universe, what are its implications
+- is the natural process by which life arises from non-living matter, such as simple organic compounds
 
 
 # society
 
+- is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  
+- they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions
+
 
 ## [activism](https://my.mindnode.com/SsD8h1XAXyKax82taEa3AksACwyQ6WvQQJbtyNM2)
+
+- consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society  
+- forms of activism range from writing letters to newspapers or to politicians, political campaigning, economic activism such as boycotts or preferentially patronising businesses, rallies, street marches, strikes, sit-ins, and hunger strikes
 
 
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
 
-any chemical that affects the human body or mind when it is consumed
+- is any substance (other than food that provides nutritional support) that, when inhaled, injected, smoked, consumed, absorbed via a patch on the skin, or dissolved under the tongue, causes a physiological change in the body  
+- psychoactive drugs are chemical substances that affect the function of the central nervous system, altering perception, mood or consciousness
 
 
 ## [psychedelics ✨](https://my.mindnode.com/twLboGdPHhGmh3rbtx9Qgxx89Zc5msPzDsuxkPye)
 
+- is a drug whose primary action is to alter cognition and perception, typically by agonising serotonin receptors  
+- not to be confused with psychoactive drugs, such as stimulants and opioids, which induce familiar states of consciousness, psychedelics tend to affect the mind in ways that result in the experience being qualitatively different from those of ordinary consciousness  
+- the psychedelic experience is often compared to non-ordinary forms of consciousness such as trance, meditation, yoga, religious ecstasy, dreaming and even near-death experiences
+
 ### [lysergamide](https://my.mindnode.com/fDqnq3VDcDRpPw5LoH6T5pBHnhwBYFzzxnMZaoMp)
+
+- refers to a class of compounds derived from alkaloids of a group of fungi known as ergot in the claviceps genus
 
 ### [tryptamine](https://my.mindnode.com/4vDdBrQUaHvRqxbvVs6ekfoRBZSJBz5txLK2ZZmh)
 
+- is a monoamine alkaloid found in animals, plants and fungi  
+	- substituted tryptamine refers to a class of compounds which are typically capable of producing strong psychedelic and entheogenic effects
+
 ### [entactogen](https://my.mindnode.com/TfXq4xG4LbPKYgpUCGGFgUCn6XpyTujCzwUmyu5G)
+
+- is used to describe a class of psychoactive drugs that produce distinctive emotional and social effects similar to those of MDMA
 
 ### [microdosing](https://my.mindnode.com/2CAaVhiRfhEWzkqWEhtswpFqQQxw28SKyXWcAavS)
 
+- are sub-perceptual doses which are so low that they are unlikely to induce directly noticeable or perceptible effects
+
 ## [research chemicals](https://my.mindnode.com/3n4kmWxihzdPpXFsLYCwRvqcAq7suzJxfBAznssE)
+
+- are psychoactive substances which have undergone little to no scientific and medical studies
 
 ## stimulants
 
+- are psychoactive substances that predominantly increase activity in the brain and induce temporary alterations in either mental or physical function or both  
+	- examples of these kinds of effects may include enhanced alertness, wakefulness, and locomotion, among others
+
 ### phenethylamine
+
+- is a trace amine and influencer of many neurotransmitters, such as dopamine and serotonin  
+- it is an important molecule in the brain, but is not often used as a supplement because it is rapidly broken down into inactive components
 
 ### amphetamine 
 
+- is a strong central nervous system stimulant that increases activity in the brain and induces temporary improvements such as enhanced alertness, wakefulness, and locomotion
+
 ## [nootropics](https://my.mindnode.com/fNqDjrMDXd9bMxU1p8G1mDsh1WhXqxQJNNFppxpX)
+
+- are drugs, supplements, nutraceuticals, and functional foods that purportedly improve mental functions such as cognition, memory, intelligence, motivation, attention, and concentration  
+- they are thought to work by altering the availability of the brain's supply of neurochemicals (neurotransmitters, enzymes, and hormones), by improving the brain's oxygen supply, or by stimulating nerve growth  
+- the following criteria is used to determine whether or not a substance fits its ‘nootropic’ descriptor   
+	- enhancement of learning and memory function  
+	- improvement of learned behaviours when conditions are set to disrupt them (e.g. administering an amnesiac)  
+	- must be neuroprotective  
+	- must be extremely low in toxicity, with few to no side effects
 
 ## [antibiotics](https://my.mindnode.com/dTpsaz4v4W67qLVeXzTsgWNZzqaRCepzehzkvzjs)
 
+- are a type of antimicrobial drug used in the treatment and prevention of bacterial infections  
+- they may either kill or inhibit the growth of bacteria
+
 ## [steroids](https://my.mindnode.com/jWMCXd7gHng4KQoqaQnt1xDzfdrFdXSs2FjWxNpp)
+
+- are organic compounds with four rings arranged in a specific configuration  
+- they have two principal biological functions :  
+	- certain steroids (such as cholesterol) are important components of cell membranes which alter membrane fluidity  
+	- and many steroids are signalling molecules which activate steroid hormone receptors
 
 
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
