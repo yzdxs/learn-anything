@@ -421,6 +421,9 @@ If you have some specific questions about this project or about myself, my inter
 	- few use muscle power
 
 
+## rockets
+
+
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
 - moving people or things from one place to another place  
@@ -703,6 +706,8 @@ If you have some specific questions about this project or about myself, my inter
 - the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  
 	- for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  
 - the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency 
+
+### [peano axioms](https://my.mindnode.com/sNyqn3X7QWLSPAtJYx2ppzsoKxVjjRvsXkxMpe5z)
 
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
@@ -2109,11 +2114,92 @@ known (uncertainty principle)
 	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
 
 
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+# [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
 
-- is all of the time and space and its contents  
-- it includes planets, moons, minor planets, stars, galaxies, the contents of intergalactic space and all matter and energy  
-- the size of the entire universe is unknown
+- is the boundless three-dimensional extent in which objects and events have relative position and direction  
+	- physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a bodiless four-dimensional continuum known as spacetime  
+- there disagreements over wither space is itself an entity, a relationship between entities or part of a conceptual framework
+
+
+## [black holes](https://my.mindnode.com/MRykcdETz9b44NS6rZkeUkiEhyiPkbqQTpH9w17h)
+
+- is a region of spacetime exhibiting such strong gravitational effects that nothing - not even particles and electromagnetic radiation such as light - can escape from inside  
+- the theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole  
+	- the boundary of the region from which no escape is possible is called the event horizon  
+- black holes of stellar mass are expected to form when very massive stars collapse at the end of their life cycle
+
+## [stars](https://my.mindnode.com/4KSp6CSqpQdRhJNzxQvjnFyUWzF3DHEym9CLdsw5)
+
+- is a luminous sphere of plasma held together by its own gravity  
+- the most prominent stars were grouped into constellations and asterisms  
+- most of the stars in the Universe, including all stars outside our galaxy, the Milky Way, are invisible to the naked eye from Earth  
+- for at least a portion of its life, a star shines due to thermonuclear fusion of hydrogen into helium in its core, releasing energy that traverses the star's interior and then radiates into outer space
+
+### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
+
+- is the star at the centre of the Solar System  
+- it is nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process  
+- it is by far the most important source of energy for life on Earth
+
+## [galaxies](https://my.mindnode.com/DpAsGBaYpqxysaMfzPXZsUxotRyYKQSPwtf2cXKh)
+
+- is gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter  
+- they range in size from dwarfs with just a few billion stars, to giants with one hundred trillion stars, each orbiting its galaxy's centre of mass  
+- are categorised according to their visual morphology as elliptical, spiral and irregular  
+- estimates of the number of galaxies in the observable universe range from 200 billion to 2 trillion or more, containing more stars than all the grains of sand on planet earth  
+- the space between galaxies is filled with a tenuous gas having an average density of less than one atom per cubic meter  
+- the majority of galaxies are gravitationally organised into groups, clusters, and superclusters  
+- at the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids  
+- the largest structure of galaxies yet recognised is a cluster of superclusters, that has been named Laniakea
+
+### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
+
+- is the galaxy that contains our Solar System  
+- it is a barred spiral galaxy with a diameter between 100,000 light-years and 180,000 light-years  
+	- it is estimated to contain 100–400 billion stars  
+- it is located within the disk, about 26,000 light-years from the Galactic Centre  
+- the very centre is marked by an intense radio source, named Sagittarius A*, which is likely to be a supermassive black hole
+
+- [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
+  - is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  
+  - it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud
+
+	- mercury
+
+	- venus
+
+	- [earth](https://my.mindnode.com/UVu4yxXBk1mRV1yPWtd4vSyLDhdpzo5goXCsPj7z)
+	  our home planet in the Solar System
+
+		- [oceans](https://my.mindnode.com/xZty4yPYNpB5dbk5Fn8P2fzSACEgEjFu98tMQ1jH)
+		  there are five oceans on this planet
+
+			- pacific
+
+			- atlantic
+
+			- indian
+
+			- arctic
+
+			- antarctic
+
+	- mars
+
+	- jupiter
+
+	- saturn
+
+	- uranus
+
+	- neptune
+
+### [andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
+
+- is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  
+- It is the nearest major galaxy to the Milky Way  
+- it is approximately 220,000 light years across, and it is the largest galaxy of the Local Group, which also contains the Milky Way, the Triangulum Galaxy, and other smaller galaxies  
+- The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy
 
 
 # [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
@@ -2389,62 +2475,11 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - a ration higher than 1:1 (greater than 0dB) indicates more signal than noise
 
 
-# [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
+# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
-- is the boundless three-dimensional extent in which objects and events have relative position and direction  
-	- physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a bodiless four-dimensional continuum known as spacetime  
-- there disagreements over wither space is itself an entity, a relationship between entities or part of a conceptual framework
-
-
-## [black holes](https://my.mindnode.com/MRykcdETz9b44NS6rZkeUkiEhyiPkbqQTpH9w17h)
-
-- is a region of spacetime exhibiting such strong gravitational effects that nothing - not even particles and electromagnetic radiation such as light - can escape from inside  
-- the theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole  
-	- the boundary of the region from which no escape is possible is called the event horizon  
-- black holes of stellar mass are expected to form when very massive stars collapse at the end of their life cycle
-
-## [stars](https://my.mindnode.com/4KSp6CSqpQdRhJNzxQvjnFyUWzF3DHEym9CLdsw5)
-
-- is a luminous sphere of plasma held together by its own gravity  
-- the most prominent stars were grouped into constellations and asterisms  
-- most of the stars in the Universe, including all stars outside our galaxy, the Milky Way, are invisible to the naked eye from Earth  
-- for at least a portion of its life, a star shines due to thermonuclear fusion of hydrogen into helium in its core, releasing energy that traverses the star's interior and then radiates into outer space
-
-### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
-
-- is the star at the centre of the Solar System  
-- it is nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process  
-- it is by far the most important source of energy for life on Earth
-
-## [galaxies](https://my.mindnode.com/DpAsGBaYpqxysaMfzPXZsUxotRyYKQSPwtf2cXKh)
-
-- is gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter  
-- they range in size from dwarfs with just a few billion stars, to giants with one hundred trillion stars, each orbiting its galaxy's centre of mass  
-- are categorised according to their visual morphology as elliptical, spiral and irregular  
-- estimates of the number of galaxies in the observable universe range from 200 billion to 2 trillion or more, containing more stars than all the grains of sand on planet earth  
-- the space between galaxies is filled with a tenuous gas having an average density of less than one atom per cubic meter  
-- the majority of galaxies are gravitationally organised into groups, clusters, and superclusters  
-- at the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids  
-- the largest structure of galaxies yet recognised is a cluster of superclusters, that has been named Laniakea
-
-### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
-
-- is the galaxy that contains our Solar System  
-- it is a barred spiral galaxy with a diameter between 100,000 light-years and 180,000 light-years  
-	- it is estimated to contain 100–400 billion stars  
-- it is located within the disk, about 26,000 light-years from the Galactic Centre  
-- the very centre is marked by an intense radio source, named Sagittarius A*, which is likely to be a supermassive black hole
-
-- [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
-  - is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  
-  - it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud
-
-### [andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
-
-- is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  
-- It is the nearest major galaxy to the Milky Way  
-- it is approximately 220,000 light years across, and it is the largest galaxy of the Local Group, which also contains the Milky Way, the Triangulum Galaxy, and other smaller galaxies  
-- The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy
+- is all of the time and space and its contents  
+- it includes planets, moons, minor planets, stars, galaxies, the contents of intergalactic space and all matter and energy  
+- the size of the entire universe is unknown
 
 
 # astronomy
@@ -2708,23 +2743,6 @@ increase the likelihood that a person will seek repeated exposure to them)
 - biological or physical anthropology studies the biological development of humans
 
 
-# [life](https://my.mindnode.com/UWrvquq2nK4oqr7AotmfUXkBG3GzaTRNZbyqtep8)
-
-- is a characteristic distinguishing physical entities having biological processes, such as signalling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate  
-- various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria  
-- the criteria can at times be ambiguous and may or may not define viruses, viroids, or potential artificial life as "living"  
-- the current definition of life is that organisms maintain homeostasis, are composed of cells, undergo metabolism, can grow, adapt to their environment, respond to stimuli, and reproduce
-
-
-## [artificial](https://my.mindnode.com/VbHAoa4cd8iQXZUkTTqpkjK5xusfxy6N6pZDuBjY)
-
-- examines systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry
-
-## [abiogenesis](https://my.mindnode.com/ogtu6fjMRhtchZQjDbLtJ5fNHcQL92ZSWk3CY1SE)
-
-- is the natural process by which life arises from non-living matter, such as simple organic compounds
-
-
 # society
 
 - is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  
@@ -2735,6 +2753,10 @@ increase the likelihood that a person will seek repeated exposure to them)
 
 - consists of efforts to promote, impede, or direct social, political, economic, and/or environmental reform or stasis with the desire to make improvements in society  
 - forms of activism range from writing letters to newspapers or to politicians, political campaigning, economic activism such as boycotts or preferentially patronising businesses, rallies, street marches, strikes, sit-ins, and hunger strikes
+
+## social influence
+
+### persuasion
 
 
 # [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
@@ -2807,18 +2829,20 @@ increase the likelihood that a person will seek repeated exposure to them)
 	- and many steroids are signalling molecules which activate steroid hormone receptors
 
 
+# human anatomy
+
+
+## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
+
+### [limbic system](https://my.mindnode.com/cwqeAq9gpPxEsmvBQReBUN6FSCKztMVzbswXysFc)
+
+## [body](https://my.mindnode.com/Tp4Khq4gHNZAw91rXsopiJBGbaJkmR4s3TviqEpT)
+
+
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
 # [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
-
-
-# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
-
-
-## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
-
-## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
 
 
 # [biology](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
@@ -2844,6 +2868,21 @@ long chain molecules built from small units known as amino acids, they are joine
 
 ### [protein folding](https://my.mindnode.com/vgV3Achvsk8JXMmxxThW3J4LvXT8zhsxKysLBjsp)
 
+## [life](https://my.mindnode.com/wXqgZ7BTL6aBAPssDhMFEGRM4qZySK92ovhTnCMQ)
+
+- is a characteristic distinguishing physical entities having biological processes, such as signalling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate  
+- various forms of life exist, such as plants, animals, fungi, protists, archaea, and bacteria  
+- the criteria can at times be ambiguous and may or may not define viruses, viroids, or potential artificial life as "living"  
+- the current definition of life is that organisms maintain homeostasis, are composed of cells, undergo metabolism, can grow, adapt to their environment, respond to stimuli, and reproduce
+
+### [artificial](https://my.mindnode.com/DwenCoEcVPRn7k1JeWtMdV4DAkn4yo5DDRDyqyzq)
+
+- examines systems related to natural life, its processes, and its evolution, through the use of simulations with computer models, robotics, and biochemistry
+
+### [abiogenesis](https://my.mindnode.com/sd4fQ7CxJm1yhY2ixe4C1pdx593yx7mPxxumR7WS)
+
+- is the natural process by which life arises from non-living matter, such as simple organic compounds
+
 ## [death](https://my.mindnode.com/Cj66AzrSbndZy51Bwx7iDiBzs5sKDqPTNwLSh1XP)
 
 is death a natural and inevitable process or a disease that can be cured
@@ -2861,7 +2900,29 @@ study of large amounts of biological information, mostly it focuses on molecules
 studying nature to create modern technology
 
 
+# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
+
+
+## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
+
+## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
+
+
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
+
+
+# [animals](https://my.mindnode.com/7cAhD48JHPyYE52gpTJ3xpqHdEL9roVTJd7TNrTK)
+
+
+## [mammals](https://my.mindnode.com/YV5kQSx4tpPP6mPDCKNMZTuDyr4sC3bC3Ki1yq18)
+
+## [fish](https://my.mindnode.com/FyaTyTsuyPBDytFo9cSeQr1K3BQgxiHQeBDedxBy)
+
+## [amphibians](https://my.mindnode.com/vALpPNPS4Y6CuJrj1yhbGztiGvwwcc8S9x7j5qai)
+
+## [reptiles](https://my.mindnode.com/LRqKKMNJ5tMooG5JgDsoRhRyHjRqW3nMbqfsNSes)
+
+## [birds](https://my.mindnode.com/d3Jsm6KXowatG8o5mBSa7pSmAtAZbrdpwxYB5yxA)
 
 
 # [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
@@ -2882,6 +2943,40 @@ ability to choose between different possible courses of action
 what is the nature of knowledge, justification and the rationality of belief
 
 ## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
+
+
+# [feelings](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
+
+the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
+
+
+## depression
+
+mood disorder that causes a persistent feeling of sadness and loss of interest
+
+## [loneliness](https://my.mindnode.com/MK9RzSKQ1LzV7kMBgx5dnNcvZhHzS6JZCJzvt9vn)
+
+complex and usually unpleasant emotional response to isolation or lack of companionship
+
+## happiness
+
+mental or emotional state of well being defined by positive or pleasant emotions
+
+## love
+
+a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
+
+## [compassion](https://my.mindnode.com/P5GHEByw9zzfW3BDmQYGyppdQfdf2ziDsHtpj9or)
+
+## fear
+
+## anger
+
+## sadness
+
+## disgust
+
+## trust
 
 
 # [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
@@ -2915,38 +3010,10 @@ my solutions and working out of leetcode problems
 how can you effectively problem solve and find efficient solutions to problems
 
 
-# human anatomy
+# [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
 
 
-## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
-
-### [limbic system](https://my.mindnode.com/cwqeAq9gpPxEsmvBQReBUN6FSCKztMVzbswXysFc)
-
-## [body](https://my.mindnode.com/Tp4Khq4gHNZAw91rXsopiJBGbaJkmR4s3TviqEpT)
-
-
-# [feelings](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
-
-the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
-
-
-## depression
-
-mood disorder that causes a persistent feeling of sadness and loss of interest
-
-## [loneliness](https://my.mindnode.com/MK9RzSKQ1LzV7kMBgx5dnNcvZhHzS6JZCJzvt9vn)
-
-complex and usually unpleasant emotional response to isolation or lack of companionship
-
-## happiness
-
-mental or emotional state of well being defined by positive or pleasant emotions
-
-## love
-
-a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
-
-## [compassion](https://my.mindnode.com/P5GHEByw9zzfW3BDmQYGyppdQfdf2ziDsHtpj9or)
+# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
 # [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
@@ -2986,6 +3053,9 @@ questions you may get asked for an iOS interview
 ## cv
 
 
+# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
+
+
 # [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
 
 
@@ -3020,20 +3090,6 @@ my often misspelled words to learn
 study of language and its structure including study of grammar, syntax and phonetics
 
 
-# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
-
-
-## [schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
-
-## [alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
-
-## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
-
-## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
-
-## [influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
-
-
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
@@ -3062,26 +3118,15 @@ happen when someone makes a bad choice that they think is a good choice
 how to be aware of your actions and thoughts as you live through life
 
 
-# [animals](https://my.mindnode.com/7cAhD48JHPyYE52gpTJ3xpqHdEL9roVTJd7TNrTK)
-
-
-## [mammals](https://my.mindnode.com/YV5kQSx4tpPP6mPDCKNMZTuDyr4sC3bC3Ki1yq18)
-
-## [fish](https://my.mindnode.com/FyaTyTsuyPBDytFo9cSeQr1K3BQgxiHQeBDedxBy)
-
-## [amphibians](https://my.mindnode.com/vALpPNPS4Y6CuJrj1yhbGztiGvwwcc8S9x7j5qai)
-
-## [reptiles](https://my.mindnode.com/LRqKKMNJ5tMooG5JgDsoRhRyHjRqW3nMbqfsNSes)
-
-## [birds](https://my.mindnode.com/d3Jsm6KXowatG8o5mBSa7pSmAtAZbrdpwxYB5yxA)
-
-
 # [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 treating animals as equals and abstaining from eating and using animal products as commodity
 
 
 # [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
+
+
+# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
 
 
 # [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
@@ -3100,16 +3145,7 @@ treating animals as equals and abstaining from eating and using animal products 
 ## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
 
 
-# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
-
-
 # [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
-
-
-# [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
-
-
-# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
 # [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
@@ -3121,13 +3157,7 @@ treating animals as equals and abstaining from eating and using animal products 
 	- these are mine
 
 
-# [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
-
-
 # [academia](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
-
-
-# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
 
 
 # [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
@@ -3138,6 +3168,40 @@ advice I have found on life, programming and all that I thought was of value
 # [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
 
 newsletters I found interesting
+
+
+# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
+
+
+## [schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
+
+## [alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
+
+## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
+
+## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
+
+## [influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
+
+## HIV
+
+## coronary artery disease
+
+## stroke
+
+## chronic obstructive pulmonary disease
+
+## diarrhea
+
+## diabetes
+
+## malaria
+
+## measles
+
+## ADHD
+
+## heart disease
 
 
 # [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
@@ -3165,6 +3229,12 @@ how to manifest and grow interesting ideas
 ## fasting
 
 ## immune system
+
+
+# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
+
+
+## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
 
 
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
@@ -3204,12 +3274,6 @@ blogs I like or want to read
 # [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
 
 what will happen in the future
-
-
-# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
-
-
-## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
 
 
 # [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
@@ -3310,6 +3374,16 @@ all the books I am currently reading or have read
 
 - [08: introduction to programming in java: an interdisciplinary approach](https://my.mindnode.com/LpyPGghSGAW91Jv5D8KJz3VQXKajYKsaQSoSQnSW)
 
+### rust
+
+- [rust by example](https://my.mindnode.com/1sTp6CFsJTZf7n9e79qAGE6Mz5bhgxFFp3pWxfJ7)
+  - free:
+
+- [the rust programming language](https://my.mindnode.com/YwtYRkBEbC2zhKZgA98LSBwHjGzVZFVZdbpwD7Zr)
+  - free:
+
+- [the rustonomicon](https://my.mindnode.com/sTaqi3yV8spkKYWchxdBfpvmnFjceykX2aonL2En)
+
 ### scala
 
 - 14: functional programming in scala
@@ -3367,6 +3441,11 @@ all the books I am currently reading or have read
 - [exploring js](https://my.mindnode.com/CL3A8TQya3RDxTqsWji8aZoQyncusu35JVq5HqmT)
   free: series of books
 
+### typescript
+
+- [typescript deep dive](https://my.mindnode.com/vUVxjxUYiaMxU8poSqGYdj4sGdnxdMw5CQwqVETw)
+  - free:
+
 ### swift
 
 - [14: swift programming language ✨](https://my.mindnode.com/qxEPaW7xNpVvVEi14rHuqkzxppyayjKzxcMoC2SQ)
@@ -3397,6 +3476,16 @@ all the books I am currently reading or have read
 ### git
 
 - [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
+  - free:
+
+### unix
+
+- [14: an introduction to unix](https://my.mindnode.com/cMxh9Qqz5vfxsaS9q7wQ4jHx1mMhQVzivkdY4thv)
+  - free:
+
+### node.js
+
+- [12: node up and running](https://my.mindnode.com/6f7ptnc8UKSfE4LcWcpKLT9Ywpx8WNrfeeGrWryk)
   - free:
 
 ### language design
@@ -4024,6 +4113,8 @@ free:
 
 ### [14: engineering security](https://my.mindnode.com/mTjeixwMWxBLP6dKAS2L5oedvNyDc6N7hV51TdqE)
 
+### [16: a graduate corse in applied cryptography](https://my.mindnode.com/ADqCvPt66VAYMFSyLsJqVwyMEDEtktspceZwwnRE)
+
 ## alt history
 
 ### 1962: the man in the high castle
@@ -4216,6 +4307,12 @@ free:
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 live talks I have personally attended and have seen and made notes on
+
+
+# [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
+
+
+## vaccines
 
 
 # [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
@@ -4792,6 +4889,8 @@ how can you teach effectively, how does one learn
 
 - 1910: Mark Twain
 
+- 1910: Leo Tolstoy
+
 - 1930: Arthur Conan Doyle
 
 - 1950: Eric Arthur Blair
@@ -5006,6 +5105,8 @@ how can you teach effectively, how does one learn
 - 1964: Rachel Carson
 
 - 02: Stephen Gould
+
+- 05: Maurice Hilleman
 
 - James Watson
 
@@ -5228,6 +5329,8 @@ it is best to learn from mistakes of others so as to not repeat them
 
 ### 1942-1946: manhattan project
 
+### 1961-1989: berlin wall
+
 ### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
 
 ### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
@@ -5416,9 +5519,6 @@ the future of money as I see itn
 ## [jokes](https://my.mindnode.com/HHywbmyswP9PCbaBUCjpsYFXxcN8Wxq6qF6AgtW4)
 
 
-# [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
-
-
 # [literature](https://my.mindnode.com/SyydAVSrqVq8pnWVyCRJYmLrppcHGtQyjUrdAvYA)
 
 
@@ -5434,6 +5534,9 @@ the future of money as I see itn
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
 
 - lessons I have learned over the course of my life
+
+
+# [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
 
 
 # [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
@@ -5558,6 +5661,8 @@ is a set of computer software programs and data structures which use a virtual m
 
 ## behavioural
 
+## banks
+
 
 # [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
 
@@ -5619,16 +5724,6 @@ name for a group of computer programs, device drivers, kernel and other things t
 what it means to work with open source and how to best sustain an open source project
 
 
-# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
-
-movies I have seen or plan on watching
-
-
-# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
-
-series I have seen or plan on watching
-
-
 # [file system](https://my.mindnode.com/twpiix8ckRiWHrLqLBaAk2Pp8Avqcoskwgpgp37D)
 
 a way of storing all data on a data storage device, the data is usually organised in computer files in directories, below the file system, there is usually a physical device where the files are stored
@@ -5639,6 +5734,11 @@ a way of storing all data on a data storage device, the data is usually organise
 ## [BTRFS](https://my.mindnode.com/nPDMw4Madtqssm8QpqAqmhN26gHfBjpNPryV7GUv)
 
 ## [XFS](https://my.mindnode.com/fKkhCJpKpCb6hiD59zmAqnFWW8sB6J4KLzXLmjyw)
+
+
+# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
+
+movies I have seen or plan on watching
 
 
 # [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
@@ -5711,6 +5811,11 @@ personal websites that are really well made and inspiring
 ## [news](https://my.mindnode.com/zwaZFTzz8H9gLdVismwMF9sNp6xrpdr5GkSoQ2EK)
 
 ## [experiments](https://my.mindnode.com/QHwcHsg7zBcjzmFYyyk9C1MjeW2ih3ADXpM2Jxm9)
+
+
+# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
+
+series I have seen or plan on watching
 
 
 # [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
@@ -5804,6 +5909,16 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## ARP
 
 
+# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+
+travel tips and interesting places
+
+
+## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
+
+how to live without a home, travel and work
+
+
 # [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
 
 
@@ -5818,16 +5933,6 @@ test anything protocol s a protocol to allow communication between unit tests an
 # [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
 
 connecting physical objects to the internet and using them in a smart way
-
-
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
-
-travel tips and interesting places
-
-
-## [nomad ✨](https://my.mindnode.com/M4ishxyhmYszFqBeKrC5x38y14krtxSg5eqkiEoH)
-
-how to live without a home, travel and work
 
 
 # [full stack](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
@@ -5932,6 +6037,10 @@ courses I am doing or plan on doing
 ### [stanford convolutional neural networks for visual recognition](https://my.mindnode.com/98pQJGFR4Z7LD45EKaq2L5pqctW4VtY3WefxwbaW)
 
 ## computer vision
+
+### [12: programming computer vision with python](https://my.mindnode.com/hRodpSsuBvQdX5VjsvzqAFQymCXqAZMt8GsvnZLE)
+
+- free:
 
 ### [15: introduction to computer vision](https://my.mindnode.com/8oWGR8ydxzBBZtYS62SCxJmRaMC8x11WpP4KcZEm)
 
@@ -6049,11 +6158,19 @@ courses I am doing or plan on doing
 
 ## networking
 
+### [12: introduction to EECS II: digital communication systems](https://my.mindnode.com/6xZF5XranoSyMsufMMSdDZwqzCnCkcKFQpeaKJzv)
+
 ### [introduction to computer networking](https://my.mindnode.com/bBrxxVkYGTQ2ynYUPsMCDzNzRzTKG6TinzdWjbsp)
 
 ## operating systems
 
+### [15: how to make a computer operating system](https://my.mindnode.com/vWscXpqg4D2voWfgCPxycaUiD7s7Lvh6xxnf4MyX)
+
 ### [operating system engineering](https://my.mindnode.com/vCeyxGyUsPYMBoAfzAUTxQZSYbp8UwrtPwiNWxCf)
+
+### [computer science from the bottom up](https://my.mindnode.com/2GgiU4wV49XBMsqxjS6j8ZUkyDrU8PVq2dK2sqD8)
+
+- free:
 
 ## computer graphics
 
@@ -6106,114 +6223,6 @@ companies that I find interesting sorted by their domain
 ### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 
-# countries
-
-
-## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
-
-history of europe
-
-### 681: bulgaria
-
-### 872: norway
-
-### 895: hungary
-
-### ~900: france
-
-### ~1000: denmark
-
-### 1025: poland
-
-### 1291: switzerland
-
-### 1397: sweden
-
-### 1648: netherlands
-
-### 1707: uk
-
-### 1804: austria
-
-### 1830: belgium
-
-### 1830: greece
-
-### 1877: romania
-
-### 1917: finland
-
-### 1923: turkey
-
-### 1949: germany
-
-### 1960: cyprus
-
-### 1991: ukraine
-
-### 1993: czech republic
-
-### 06: serbia
-
-## asia
-
-### 2879 BC: vietnam
-
-### 660 BC: japan
-
-### 1238: thailand
-
-### 1819: singapore
-
-### 1920: syria
-
-### 1947: india
-
-### 1948: south korea
-
-### [1949: china](https://my.mindnode.com/guBAPkiXi7cKfAh1AN2pi6LyeYzqB5PqsBJMGzzv)
-
-is a cultural region, an ancient civilisation and a nation in east asia
-
-### 1991: russia
-
-largest country in the world by land area
-
-## africa
-
-### 1956: morocco
-
-### 1960: madagascar
-
-### 1961: south africa
-
-## north america
-
-### 1776: usa
-
-United States of America is made up of 50 states, a deferral district, and five territories
-
-### 1824: mexico
-
-### 1867: canada
-
-### 1868: cuba
-
-## south america
-
-### 1810: colombia
-
-### 1816: argentina
-
-### 1821: peru
-
-### 1822: brazil
-
-### 1845: venezuela
-
-## 1901: australia
-
-
 # data
 
 
@@ -6238,6 +6247,194 @@ United States of America is made up of 50 states, a deferral district, and five 
 ## [compression](https://my.mindnode.com/JsNUbws3YE544uccgsgLGdxwDFqGGJmSDSji8bPX)
 
 - 
+
+
+# countries
+
+
+## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
+
+history of europe
+
+### 681: bulgaria
+
+- sofia
+
+### 872: norway
+
+- oslo
+
+### 895: hungary
+
+- budapest
+
+### ~900: france
+
+- paris
+
+### ~1000: denmark
+
+- copenhagen
+
+### 1025: poland
+
+- warsaw
+
+### 1291: switzerland
+
+- 1191: bern
+
+### 1397: sweden
+
+- stockholm
+
+### 1648: netherlands
+
+- 1275: amsterdam
+
+### 1707: uk
+
+### 1804: austria
+
+- vienna
+
+### 1830: belgium
+
+- brussels
+
+### 1830: greece
+
+- athens
+
+### 1877: romania
+
+- bucharest
+
+### 1917: finland
+
+- helsinki
+
+### 1923: turkey
+
+- ankara
+
+### 1949: germany
+
+- berlin
+
+### 1960: cyprus
+
+- nicosia
+
+### 1991: ukraine
+
+- kiev
+
+### 1993: czech republic
+
+- prague
+
+### 06: serbia
+
+- belgrade
+
+## asia
+
+### 2879 BC: vietnam
+
+- hanoi
+
+### 660 BC: japan
+
+- tokyo
+
+### 1238: thailand
+
+- bangkok
+
+### 1819: singapore
+
+### 1920: syria
+
+- damascus
+
+### 1947: india
+
+- new delhi
+
+### 1948: south korea
+
+- seoul
+
+### [1949: china](https://my.mindnode.com/guBAPkiXi7cKfAh1AN2pi6LyeYzqB5PqsBJMGzzv)
+
+is a cultural region, an ancient civilisation and a nation in east asia
+
+- bejing
+
+### 1991: russia
+
+largest country in the world by land area
+
+- moscow
+
+## africa
+
+### 1956: morocco
+
+- rabat
+
+### 1960: madagascar
+
+- antananarivo
+
+### 1961: south africa
+
+## north america
+
+### 1776: usa
+
+United States of America is made up of 50 states, a deferral district, and five territories
+
+- washington, d.c
+
+### 1824: mexico
+
+- mexico city
+
+### 1867: canada
+
+- ottawa
+
+### 1868: cuba
+
+- havana
+
+## south america
+
+### 1810: colombia
+
+- bogota
+
+### 1816: argentina
+
+- buenos aires
+
+### 1821: peru
+
+- lima
+
+### 1822: brazil
+
+- brasilia
+
+### 1845: venezuela
+
+- caracas
+
+## 1901: australia
+
+### canberra
 
 
 # prototyping
@@ -6413,26 +6610,6 @@ is a systems engineering process for establishing and maintaining consistency of
 ## [ansible](https://my.mindnode.com/rWEgABaoDTqViLJ6Payck4p4S8sb8jx2F1H81CAa)
 
 ## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
-
-
-# [earth](https://my.mindnode.com/pUqCppJBddGY6CKrqsbxGHkUGPuV44TW4LWndout)
-
-our home planet in the Solar System
-
-
-## [oceans](https://my.mindnode.com/hz8rGjqJvVdevVv2JgtuWWU2s6iQybgy4TzepD4r)
-
-there are five oceans on this planet
-
-### pacific
-
-### atlantic
-
-### indian
-
-### arctic
-
-### antarctic
 
 
 # [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
