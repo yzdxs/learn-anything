@@ -47,7 +47,7 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 
 ## Contributing 🎉
 
-There are few ways in which you can contribute and make this mind map even more amazing.
+There are many ways in which you can contribute and make this mind map even more amazing.
 
 1. Nearly all nodes in the mind map have the best resources I could find on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not there, please [open an issue](https://github.com/nikitavoloboev/research/issues/new) and say where and what you wish was added like in example [here](https://github.com/nikitavoloboev/knowledge-map/issues/1).
 
