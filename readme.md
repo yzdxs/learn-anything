@@ -77,8 +77,7 @@ If you have some specific questions about this project or about myself, my inter
 # **Don't search. Explore.** 🎊
 
 # Index 🗄️
-- advised to open them in new tab as there is a bug with going back 
-	- need to go back a few times to come back to this page 😞 (will be fixed soon)
+- advised to open them in new tab
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
