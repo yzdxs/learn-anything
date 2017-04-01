@@ -6,12 +6,15 @@
 
 # Why? 🎈
 
-[I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I just want to share this knowledge. [I also use Anki to retain it all in memory](https://github.com/nikitavoloboev/research/tree/master/anki). [Contributions](https://github.com/nikitavoloboev/knowledge-map#contributing-) are most welcome. Let's do this together.
+[I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
-The end goal is to visualise all the different paths one can take in exploring this world and see how all these paths connect as well as to provide the best resources on how to go about acquiring the knowledge needed to follow any of the paths. 
+I am building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 1 minute) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can come to this page and search for the node you need. Perhaps you are looking for [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
 
-[Here](https://www.youtube.com/watch?v=a1zDuOPkMSw) is a talk I really love on what research really means and how you can conduct it efficiently. [Transcript of it](http://www.cs.virginia.edu/%7Erobins/YouAndYourResearch.html).
+So much time is wasted looking for resources and help. There is a lot of effort being done to [ease this process](https://github.com/sindresorhus/awesome) but still, you have to look for it. What if instead of searching, you could instead explore and get yourself 'up to speed' with what our world already collectively knows.
 
+As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consilidate my knowledge.
+
+I hope I got you interested and you will take some of your time to explore what I know or rather what I wish to know. Below are some instructions on how to best approach interacting with this mind map. If you wish to contribute to this project, this is great, there are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can.
 
 # Where to start? 🤔
 
@@ -21,22 +24,22 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 - it takes ~ 1 minute to load (sometimes more)
 - does not load on mobile 
-- preferred to open mind maps in a new tab
+- preferred to open mind maps in a new tab 
 - small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
-
-Scroll around, look at the notes and click on the nodes. Each node is a topic of its own and often has really great resources linked to it for further study. Just look into what you think is interesting and go from there. 
 
 Every mind map is structured to be read from left to right. [Here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is an example of one. All mind maps have a definition on the left, followed by my 'notes', followed by 'resources', then 'articles', 'videos' and 'talks' and then 'terms' to learn related to the topic. Thus it should always be easy to find the most important 'resources' node from any of the mind maps.
 
-The big branch of nodes you see on the right of the big mind map are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. There is also a courses branch which has all the free courses you can take organised by their topic. Ones I have taken, will have my notes. There are also research papers I am reading or planning to read, again organised by their topic.
+On the main mind map, the big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. There is also a courses branch which has all the free courses you can take organised by their topic. Ones I have taken, will have my notes. There are also research papers I am reading or planning to read, again organised by their topic. There are [many great courses](https://github.com/prakhar1989/awesome-courses) I missed adding. I am welcome to any suggestions or additions that you wish to make to this mind map.
 
-I do advise you to read the [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) as I try to cover any confusions one might have in navigating these mind maps there.
+One of the mind maps is called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) and I advise you to read it as I try to cover any confusions one might have in navigating these mind maps there.
 
-If you have expolored the interactive mind map a bit and are somewhat familiar with what is in it. There are two options you can take to quickly find the the appropriate mind map you may need. 
+If you have expolored the interactive mind map a bit and are somewhat familiar with what is in it. There are two options you can take to quickly find the appropriate mind map you may need. 
 
 1. You can come on this page and just search for what you want in the [index](https://github.com/nikitavoloboev/knowledge-map#mindmap-index-%EF%B8%8F) and open the mind map from there. 
 
-2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are.
+2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred.
+
+3. Or ideally you can use the web search engine similar to Google and DuckDuckGo. I am [still building it](https://github.com/nikitavoloboev/knowledge-map-search-engine) and if you wish to help, I would once again greatly appreciate it. Thank you. 
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
@@ -63,11 +66,10 @@ I really love programming, building and sharing the things I have built. Aside f
 
 # Future 🚀
 
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps and [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
+Aside from developing a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind map, I want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
 
-User experience of using the web version of mind maps will improve greatly in the coming months and the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under 3 seconds with scrolling through it being as smooth as scrolling through a web page.
+User experience of using the web version of mind maps will improve greatly in the coming months and the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under a minutes time with scrolling through it being as smooth as scrolling through a web page.
 
-If you find these ideas interesting to you, please [message me](mailto:nikita.voloboev@gmail.com) and I would love to hear your thoughts. I would love to work together to make this vision become a reality.
  
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
@@ -503,6 +505,100 @@ If you have some specific questions about this project or about myself, my inter
 - studying the rules and ideas of mathematics can help us understand the world better
 
 
+## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
+
+- is the systematic study of the form of arguments  
+- a valid argument is one where there is a specific relation of logical support between the assumptions of the argument and its conclusion   
+- the validity of an argument is determined by its logical form, not by its content
+
+### [combinatory](https://my.mindnode.com/L8qVAYGatTeXQDecPUr9y1E1Qy68GQ1pH4R8qp7L)
+
+- is a notation to eliminate the need for quantified variables in mathematical logic  
+- it is based on combinators   
+	- which is a higher order function that uses only function application and earlier defined combinators to define a result from its arguments  
+- in computer science, combinatory logic is used as simplified model of computation, used in computability theory and proof theory
+
+### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
+
+- Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  
+- the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  
+- the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  
+	- for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  
+- the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency 
+
+### [peano axioms](https://my.mindnode.com/sNyqn3X7QWLSPAtJYx2ppzsoKxVjjRvsXkxMpe5z)
+
+## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
+
+- are relations between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output  
+	- i. e. a function that relates each real number x to its square x²  
+- a function is defined by its set of inputs, called the domain; a set of outputs, and possible additional elements, as members, called its codomain; and the set of all input-output pairs, called its graph  
+- they are the ‘central objects of investigation’ in mathematics
+
+### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
+
+- are mathematical equations that relate some function with its derivatives  
+- in applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two
+
+### [taylor series ✨](https://my.mindnode.com/ELq3xbSpb8JNynMCMUgQzccGexDc5548pu1DRWdL)
+
+- is a representation of a function as an infinite sum of terms that are calculated from the values of the function’s derivatives at a single point  
+- a function can be approximated by using a finite number of terms of its Taylor series  
+- it is a real or complex-valued function f(x) that is infinitely differentiable at a real or complex number a in the power series
+
+### [exponential](https://my.mindnode.com/Bqs68aWxm1RcctiLn76AdEwS3wBQi2sAV6gmb3Ga)
+
+- is a function of the form   
+	- f(n) = bⁿ  
+	- where the input variable n occurs as an exponent
+
+## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
+
+- is the study of mathematical symbols and the rules for manipulating these symbols  
+- it is a unifying thread of almost all of mathematics  
+- it includes everything from elementary equation solving to the study of abstractions such as groups, rings, and fields  
+- it gives methods for solving equations and expressing formulas that are much easier (for those who know how to use them) than the older method of writing everything out in words
+
+### [commutative](https://my.mindnode.com/Ems9PPFdqrWUGswcstM4ZVcc922rb9vj1sD7RpR6)
+
+- studies commutative rings, their ideals and modules over such rings  
+- both algebraic geometry and algebraic number theory build on commutative algebra  
+- examples of commutative rings include polynomial rings, rings of algebraic integers, including the ordinary integers 𝛧, and p-adic integers  
+- it is the main technical tool in the local study of schemes  
+- study of rings that are not necessarily commutative is known as non commutative algebra  
+	- it includes ring theory, representation theory, and the theory of Banach algebras
+
+### [polynomials](https://my.mindnode.com/rz2pqqrzBLZ5zv4JV1Y55eM2A8pWtFkzwfagTiSg)
+
+- are expressions consisting of variables (or indeterminates) and coefficeints, that involve on the operations of addition, subtraction, multiplication, and non-negative integer exponents  
+- they are used to form polynomial equations, which encode a wide range of problems, from elementary word problems to complicated problems in the sciences  
+- they serve to approximate other functions, such as the use of splines
+
+### [abstract ✨](https://my.mindnode.com/iJoDvZpGKSpHg7rozqGzf39poVDULtchtxRwYtJ2)
+
+- is the study of algebraic structures  
+- it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  
+- algebraic structures, with their associated homomorphisms, form mathematical categories
+
+### [universal](https://my.mindnode.com/bWV1m6GCx3kbBcRVsEUAEDupWpTjj4SssRuJWFTA)
+
+- studies algebraic structures themselves, not examples (‘models’) of algebraic structures  
+	- for instance, rather than take particular groups as the object of study, in universal algebra on takes the ‘theory of groups’ as an object of study  
+- in universal algebra, an algebra (or algebraic structure) is a set A together with a collection of operations on A
+
+### [homomorphism ✨](https://my.mindnode.com/Ws5PJ3aSyH7BcyKfkJdsefcxHcQ91sVBe3Lse4pw)
+
+- is a structure-preserving map between two algebraic structures of the same type (such as two groups, two rings, or two vector spaces)  
+- homomorphisms of vector spaces are also called linear maps  
+- the concept of homomorphism has been generalised, under the name of morphism, to many other structures that either do not have an underlying set, or are not algebraic  
+	- this generalisation is the starting point in category theory  
+- being an isomorphism, an automorphism, or an endomorphism is a priority of some homomorphisms which may be defined in a way that may be generalised to any class of morphisms
+
+### elementary
+
+- considered to be essential for any study of mathematics, science, or engineering  
+- differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values
+
 ## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
 
 - came from trying to solve systems of linear equations  
@@ -517,6 +613,17 @@ If you have some specific questions about this project or about myself, my inter
 - we usually draw vectors as arrows  
 	- the length of the arrow is proportional to the vector’s magnitude  
 	- the direction in which the arrow points is the vector’s direction
+
+## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
+
+- is a contemplative and rational type of abstract or generalising thinking, or the results of such thinking  
+- they guide the enterprise of finding facts rather than of reaching goals, and are neutral concerning alternatives among values  
+- they are analytical tools for understanding, explaining and making predictions about a given subject matter
+
+## [notation](https://my.mindnode.com/zzJBWaA5nkYYgAYLLMrudq73ps5PkQnPKu8HpZfr)
+
+- is a system of graphics or symbols, characters and abbreviated expressions, used in artistic and scientific disciplines to represent technical facts and quantities by convention  
+- it is a collection of related symbols that are each given an arbitrary meaning, created to facilitate structured communication within a domain knowledge or field of study
 
 ## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-386.6,16.2,2)
 
@@ -592,53 +699,6 @@ If you have some specific questions about this project or about myself, my inter
 - are conclusions or provisions based on incomplete information, for which no proof has been found  
 - conjectures such as the Riemann hypothesis or Fermat’s Last Theorem have shaped much of mathematical history as new areas of math are developed in order to prove them
 
-## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
-
-- is the study of mathematical symbols and the rules for manipulating these symbols  
-- it is a unifying thread of almost all of mathematics  
-- it includes everything from elementary equation solving to the study of abstractions such as groups, rings, and fields  
-- it gives methods for solving equations and expressing formulas that are much easier (for those who know how to use them) than the older method of writing everything out in words
-
-### [commutative](https://my.mindnode.com/Ems9PPFdqrWUGswcstM4ZVcc922rb9vj1sD7RpR6)
-
-- studies commutative rings, their ideals and modules over such rings  
-- both algebraic geometry and algebraic number theory build on commutative algebra  
-- examples of commutative rings include polynomial rings, rings of algebraic integers, including the ordinary integers 𝛧, and p-adic integers  
-- it is the main technical tool in the local study of schemes  
-- study of rings that are not necessarily commutative is known as non commutative algebra  
-	- it includes ring theory, representation theory, and the theory of Banach algebras
-
-### [polynomials](https://my.mindnode.com/rz2pqqrzBLZ5zv4JV1Y55eM2A8pWtFkzwfagTiSg)
-
-- are expressions consisting of variables (or indeterminates) and coefficeints, that involve on the operations of addition, subtraction, multiplication, and non-negative integer exponents  
-- they are used to form polynomial equations, which encode a wide range of problems, from elementary word problems to complicated problems in the sciences  
-- they serve to approximate other functions, such as the use of splines
-
-### [abstract ✨](https://my.mindnode.com/iJoDvZpGKSpHg7rozqGzf39poVDULtchtxRwYtJ2)
-
-- is the study of algebraic structures  
-- it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  
-- algebraic structures, with their associated homomorphisms, form mathematical categories
-
-### [universal](https://my.mindnode.com/bWV1m6GCx3kbBcRVsEUAEDupWpTjj4SssRuJWFTA)
-
-- studies algebraic structures themselves, not examples (‘models’) of algebraic structures  
-	- for instance, rather than take particular groups as the object of study, in universal algebra on takes the ‘theory of groups’ as an object of study  
-- in universal algebra, an algebra (or algebraic structure) is a set A together with a collection of operations on A
-
-### [homomorphism ✨](https://my.mindnode.com/Ws5PJ3aSyH7BcyKfkJdsefcxHcQ91sVBe3Lse4pw)
-
-- is a structure-preserving map between two algebraic structures of the same type (such as two groups, two rings, or two vector spaces)  
-- homomorphisms of vector spaces are also called linear maps  
-- the concept of homomorphism has been generalised, under the name of morphism, to many other structures that either do not have an underlying set, or are not algebraic  
-	- this generalisation is the starting point in category theory  
-- being an isomorphism, an automorphism, or an endomorphism is a priority of some homomorphisms which may be defined in a way that may be generalised to any class of morphisms
-
-### elementary
-
-- considered to be essential for any study of mathematics, science, or engineering  
-- differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values
-
 ## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
 
 - study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalisations of arithmetic operations  
@@ -685,29 +745,6 @@ If you have some specific questions about this project or about myself, my inter
   - is a structure that abstracts and generalises the notion of linear independence in vector spaces  
   - there are many equivalent ways to define a matroid, the most significant being in terms of independent sets, bases, circuits, closed sets or flats, closure operators and rank functions  
   - matroids have found applications in geometry, topology, combinatorial optimisation, network theory and coding theory
-
-## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
-
-- is the systematic study of the form of arguments  
-- a valid argument is one where there is a specific relation of logical support between the assumptions of the argument and its conclusion   
-- the validity of an argument is determined by its logical form, not by its content
-
-### [combinatory](https://my.mindnode.com/L8qVAYGatTeXQDecPUr9y1E1Qy68GQ1pH4R8qp7L)
-
-- is a notation to eliminate the need for quantified variables in mathematical logic  
-- it is based on combinators   
-	- which is a higher order function that uses only function application and earlier defined combinators to define a result from its arguments  
-- in computer science, combinatory logic is used as simplified model of computation, used in computability theory and proof theory
-
-### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
-
-- Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  
-- the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  
-- the first implemented theorem states that no consistent system of axioms whose theorems ca be listed by an effective procedure (i.e. an algorithm) is capable of proving all truths about the arithmetic of the natural numbers  
-	- for any such formal system, there will always be statements about the natural numbers that are true, but that are unprovable within the system  
-- the second theorem, an extension of the first, shows that the system cannot demonstrate its own consistency 
-
-### [peano axioms](https://my.mindnode.com/sNyqn3X7QWLSPAtJYx2ppzsoKxVjjRvsXkxMpe5z)
 
 ## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
@@ -828,12 +865,6 @@ If you have some specific questions about this project or about myself, my inter
 
 - studies the possibility of taking real number powers, real number fractional powers or complex numbers powers of the differentiation operator and the integration operator
 
-## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
-
-- is a contemplative and rational type of abstract or generalising thinking, or the results of such thinking  
-- they guide the enterprise of finding facts rather than of reaching goals, and are neutral concerning alternatives among values  
-- they are analytical tools for understanding, explaining and making predictions about a given subject matter
-
 ## [fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
 
 - is a mathematical set that exhibits a repeating pattern displayed at every scale  
@@ -876,30 +907,6 @@ If you have some specific questions about this project or about myself, my inter
 
 - provide a mathematical framework for modelling decision making in situations where outcomes are partly random and partly under the control of a decision maker  
 - they are useful for studying a wide range of optimisation problems solved via dynamic programming and reinforcement learning
-
-## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
-
-- are relations between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output  
-	- i. e. a function that relates each real number x to its square x²  
-- a function is defined by its set of inputs, called the domain; a set of outputs, and possible additional elements, as members, called its codomain; and the set of all input-output pairs, called its graph  
-- they are the ‘central objects of investigation’ in mathematics
-
-### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
-
-- are mathematical equations that relate some function with its derivatives  
-- in applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two
-
-### [taylor series ✨](https://my.mindnode.com/ELq3xbSpb8JNynMCMUgQzccGexDc5548pu1DRWdL)
-
-- is a representation of a function as an infinite sum of terms that are calculated from the values of the function’s derivatives at a single point  
-- a function can be approximated by using a finite number of terms of its Taylor series  
-- it is a real or complex-valued function f(x) that is infinitely differentiable at a real or complex number a in the power series
-
-### [exponential](https://my.mindnode.com/Bqs68aWxm1RcctiLn76AdEwS3wBQi2sAV6gmb3Ga)
-
-- is a function of the form   
-	- f(n) = bⁿ  
-	- where the input variable n occurs as an exponent
 
 ## [modularity ✨](https://my.mindnode.com/kXvXxFpeskVny5UVsqjDbnpxdyH6UJbyzxYsAx4o)
 
@@ -1036,11 +1043,6 @@ If you have some specific questions about this project or about myself, my inter
 - is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  
 - lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  
 	- one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version
-
-## [notation](https://my.mindnode.com/zzJBWaA5nkYYgAYLLMrudq73ps5PkQnPKu8HpZfr)
-
-- is a system of graphics or symbols, characters and abbreviated expressions, used in artistic and scientific disciplines to represent technical facts and quantities by convention  
-- it is a collection of related symbols that are each given an arbitrary meaning, created to facilitate structured communication within a domain knowledge or field of study
 
 ## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
@@ -1424,13 +1426,25 @@ program that will analyse code for potential errors
 
 ### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
 
+### common lisp
+
+### scheme
+
+## 1964: apl
+
 ## [1969: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
 
 - imperative, procedural and compiled, low level access to memory
 
+## 1970: forth
+
 ## [1972: smalltalk](https://my.mindnode.com/iy2T7txpBPzocqqPkJTxuWcxUeDAX2b9bG9qKXM5)
 
 - object oriented, dynamically typed, reflective, created for educational use
+
+## 1972: prolog
+
+## 1982: maple
 
 ## [1983: c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
 
@@ -1440,6 +1454,8 @@ program that will analyse code for potential errors
 
 - general purpose, object oriented, implemented smalltalk-style messaging
 
+## 1984: matlab
+
 ## [1986: erlang](https://my.mindnode.com/KxNBKYQCSmre7v78zDGLq3CSNzqJeu1hctxUJ5Ps)
 
 - general purpose, concurrent, functional with a garbage collected runtime system
@@ -1448,6 +1464,8 @@ program that will analyse code for potential errors
 
 - general purpose, interpreted, dynamic powerful text processing
 
+## 1988: wolfram language
+
 ## [1989: coq](https://my.mindnode.com/PZbYS7znvtFr4qz2HeptpcyoPSv3RnkS9fZr8hVs)
 
 - interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs
@@ -1455,6 +1473,8 @@ program that will analyse code for potential errors
 ## [1990: haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
 
 - general purpose, purely functional with non strict semantics and strong static typing
+
+## 1990: j
 
 ## [1991: python ✨](https://my.mindnode.com/xdGgVg9P6HWwz9tpst7Q4WABRomKTfhXbzdsCWZf)
 
@@ -1471,6 +1491,10 @@ program that will analyse code for potential errors
 ## [1993: r](https://my.mindnode.com/sJvn1f1Sp3WbhvbpLz1vuzSjYJ6zqNmdfDVhL5Kp)
 
 - language and software environment for statistical computing and graphics
+
+## 1993: brainfuck
+
+## 1993: befunge
 
 ## [1993: applescript ✨](https://my.mindnode.com/iHG6Ntpup5XHmHzRxzUvo3sqRPMF5VUwBchpKpo1)
 
@@ -1507,6 +1531,8 @@ program that will analyse code for potential errors
 ## [1996: ocaml](https://my.mindnode.com/kDiqP5vxcxmMjkQLx3n6kC5kfVyNfv3aTydcxYTF)
 
 - extends caml language with object oriented programming constructs
+
+## [1999: agda](https://my.mindnode.com/9Pss7yCqVKmEGeqWzQBW2mqoAj1AEh5kdKZ9rqss)
 
 ## [00: c#](https://my.mindnode.com/6i1gPzi1Qp29sMuwz8iLp7scQ8rJNyYTc2xYasWx)
 
@@ -1555,6 +1581,8 @@ program that will analyse code for potential errors
 ## [11: elixir](https://my.mindnode.com/J6b3nTAzCC2ARbDsqhgH2iR4CeoaDYAriUx3VMni)
 
 - functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions
+
+## 11: frege
 
 ## [11: dart](https://my.mindnode.com/rqjteVJidb5moPEJWa3spqjVpiV4nxuGt51FcZU3)
 
@@ -1716,7 +1744,7 @@ program that will analyse code for potential errors
 
 ### 1999: quake III
 
-### 1999: heroes of might and magic III
+### 1999: heroes of might and magic III ✨
 
 ### 1999: age of empires II
 
@@ -1726,7 +1754,7 @@ program that will analyse code for potential errors
 
 ### 00: the sims
 
-### 00: diablo II
+### 00: diablo II ✨
 
 ### 01: max payne
 
@@ -1734,9 +1762,9 @@ program that will analyse code for potential errors
 
 ### 01: runescape
 
-### 02: warcraft III
+### 02: warcraft III ✨
 
-### 02: grand theft auto: vice city
+### 02: grand theft auto: vice city ✨
 
 ### 04: doom 3
 
@@ -1754,11 +1782,11 @@ program that will analyse code for potential errors
 
 ### 07: halo 3
 
-### 07: call of duty 4
+### 07: call of duty 4 ✨
 
 ### 08: dead space
 
-### 09: call of duty: modern warfare 2
+### 09: call of duty: modern warfare 2 ✨
 
 ### 09: stalker: call of pripyat
 
@@ -1770,7 +1798,7 @@ program that will analyse code for potential errors
 
 ### 10: red dead redemption
 
-### 10: civilisation V
+### 10: civilisation V ✨
 
 ### 10: fallout: new vegas
 
@@ -1780,7 +1808,7 @@ program that will analyse code for potential errors
 
 ### 11: the witcher 2: assassins of kings
 
-### [11: minecraft](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
+### [11: minecraft ✨](https://my.mindnode.com/ssbpwSs3xa6pNrbh5P9tcTuLZWGiPjynDXpEMrEt)
 
 ### 11: terraria
 
@@ -1788,7 +1816,7 @@ program that will analyse code for potential errors
 
 ### 11: kerbal space program
 
-### 11: portal 2
+### 11: portal 2 ✨
 
 ### 11: the binding of isaac
 
@@ -3322,6 +3350,8 @@ all the books I am currently reading or have read
 
 - [08: clean code ✨](https://my.mindnode.com/mQuqEuaQ3EzsCiw9A2QxiEnG2ptY88s3f4Snix4f)
 
+- 08: design concepts in programming
+
 - [10: apprenticeship patterns](https://my.mindnode.com/aKDoUJ6xZcLhqLxQPD2KhMQzLyaSQVuAQccycj71)
 
 - 11: the art of readable code: simple and practical techniques for writing better code
@@ -3365,6 +3395,9 @@ all the books I am currently reading or have read
 - [15: effective python](https://my.mindnode.com/8djuK3UtBhDhpwXGq9jeStHnaahzue8oD49vLSCX)
 
 - [15: fluent python](https://my.mindnode.com/ffjVRU6yNfGC2UrMzsaTnyFksyHzxzMxjoVrzFz4)
+
+- [automate the boring stuff with python](https://my.mindnode.com/m58Rc9uXfm9PqxRMH7cEMozYRNvas1LGnpYhzqJs)
+  - free:
 
 ### java
 
@@ -4143,6 +4176,12 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 1992: modern operating systems
 
+### [1992: an efficient implementation](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)  
+  [of fundamental](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)  
+  [operating system services](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)
+
+- free:
+
 ## neuroscience
 
 ### 1985: the man who mistook his wife for a hat
@@ -4490,6 +4529,8 @@ how can you teach effectively, how does one learn
 - 1918: Georg Cantor
 
 - 1920: Srinivasa Ramanujan
+
+- 1922: Andrey Markov
 
 - 1925: Gottlob Frege
   extended Boole’s logic to include objects and relations, creating the first-order logic that is used today
@@ -5436,8 +5477,6 @@ research papers I am reading and want to read
 
 ## [computer science ✨](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
 
-## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
-
 ## [deep learning ✨](https://my.mindnode.com/AyEiesv7g3aSaFuzg1hA4XCe95sRk8ASFfSzsHVe)
 
 ## [testing](https://my.mindnode.com/nzZkyrMfzDNq36e845izj8afyy1pr4aaoCSsrs2f)
@@ -5467,6 +5506,10 @@ research papers I am reading and want to read
 ## [ai](https://my.mindnode.com/eTyJUZTw6nhQSUKbvLzsyrPaqxMP9SF1Dsf6usyT)
 
 ## [computer vision](https://my.mindnode.com/1s3BTU77vpBFvXWr1UfG5MkusWUGenZbqpeAAmA9)
+
+## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
+
+## operating systems
 
 
 # communication
@@ -5704,7 +5747,12 @@ name for a group of computer programs, device drivers, kernel and other things t
 - [apps ✨](https://my.mindnode.com/pceUr2MgaHaQpVPPTDzdWJp5RpphZVyzQy6QhyQC)
 
 	- [my setup ✨](https://my.mindnode.com/H1ejGz58APafNWf3s9MiD9E3CSpkxPTKapJSiNkA)
-	  all the applications I use on macOS, how, why and what hotkeys I have rebinded for each of the apps
+	  - all the applications I use on macOS  
+	  	- how I use them  
+	  	- what hotkeys I use and what they do  
+	  	- what prefixes I use if I use any  
+	  	- organised by theme  
+	  	- used for my own personal documentation
 
 ### [windows](https://my.mindnode.com/PGg9qQz6zttzUMq4aPoEpzp7KBTnZDiyYg3bYs29)
 
@@ -5965,6 +6013,10 @@ connecting physical objects to the internet and using them in a smart way
 ## [network topology](https://my.mindnode.com/2d3GGMbyxT3SHCZvKkk98MT3sk6HVANuiSgpRskt)
 
 - 
+
+## load balancing
+
+## content delivery network
 
 
 # [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
@@ -6515,7 +6567,7 @@ browser developed by Google
 
 ### [WebGL](https://my.mindnode.com/foLyxx8sixJ1eLrC6s8xqmPmb76TU1B6Z1xE1yGA)
 
-## dns
+## ajax
 
 
 # task runners
@@ -7074,10 +7126,14 @@ IDE by Apple to program macOS/iOS applications
 
 ### karabiner
 
-an app that has changed the way I interact with my computer by allowing me to rebind every key on my keyboard into a new custom key
+- macOS keyboard customisation app  
+- it has changed the way I interact with my computer  
+	- by allowing me to rebind every key that I have on my computer to do something useful
 
 - [my layout ✨](https://my.mindnode.com/aGPrpzjuxth5dqytYpTzts9PZWKMFydgGt1Sjddz)
-  my bindings and keyboard layout I use
+  - my keyboard bindings and layout that I use for my keyboard  
+  	- read the ‘key’ well if you want to understand it well  
+  	- used for my own personal documentation
 
 ### [alfred](https://my.mindnode.com/Zqykr8ousaj7ZFRihhb48F1FynqX89wj9YK731mq)
 
@@ -7122,8 +7178,6 @@ an app that has changed the way I interact with my computer by allowing me to re
 - [decks](https://my.mindnode.com/9fBmxd6Sbi6FKkq6qpmqmz3t5GbsfZiPC3g2mXah)
 
 ## other
-
-### matlab
 
 ### mathematica
 
