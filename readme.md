@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
 
-![](https://i.imgur.com/WJHaUia.jpg)
+![](http://i.imgur.com/yukCH37.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -236,7 +236,7 @@ If you have some specific questions about this project or about myself, my inter
 - open source computer vision library for real time computer vision 
 
 
-# [algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
+# [1230: algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
 
 - is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
 - starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
@@ -401,6 +401,13 @@ If you have some specific questions about this project or about myself, my inter
 
 - allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
 
+### cryptanalysis
+
+- [frequency analysis](https://my.mindnode.com/a9ABAYmcAfZpAwszsXFzWdaSgPP5h2YGp5REAAZV)
+  - study of the frequency of letters or groups of letters in a ciphertext  
+  - it is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies  
+  	- there is a characteristic distribution of letters that is roughly the same for almost all samples of that language
+
 ## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
 
 - a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
@@ -420,7 +427,9 @@ If you have some specific questions about this project or about myself, my inter
 	- few use muscle power
 
 
-## rockets
+## 1100: rockets
+
+## 1903: planes
 
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
@@ -438,13 +447,13 @@ If you have some specific questions about this project or about myself, my inter
 
 ## vehicles
 
-### [bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
+### [1817: bikes](https://my.mindnode.com/WgxuEXbABgq3w1Us4vCzfybzrDXB8DCxCeN2GkDw)
 
 - small, human powered land vehicles
 
 - [cycling](https://my.mindnode.com/Ct9HmVoWVz7bXBzy5guKXisXdzPjGwCfi7zFqpcn)
 
-### [cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
+### [1885: cars](https://my.mindnode.com/bTn4aGQvqXDxQuWry532Vqwx4pUwnku7oK9kESRx)
 
 - road vehicle used to carry passengers
 
@@ -525,17 +534,27 @@ If you have some specific questions about this project or about myself, my inter
 
 ### [peano axioms](https://my.mindnode.com/sNyqn3X7QWLSPAtJYx2ppzsoKxVjjRvsXkxMpe5z)
 
+### [model theory](https://my.mindnode.com/9PeyxAjPgiwXCr1zvoiJB66QbwgRusneqCty9kZC)
+
+- is the study of classes of mathematical structures (e.g. groups, fields, graphs, universes of set theory) from the perspective of mathematical logic  
+- it is intimately concerned with duality  
+	- it examines semantical elements (meaning and truth) by means of syntactical elements (formulas and proofs) of a corresponding language  
+- universal algebra + logic = model theory
+
+### ~[1870: set theory](https://my.mindnode.com/MXEzZzQ4aXtJgEb4ZzFFGozqvew3CFrygjDfgmfv)
+
+- study of sets where sets are collections of objects  
+	- we refer to these objects as “elements” “members” of the set  
+- to write a set, one wraps the numbers in {curly brackets} and separates them with commas:   
+	- e.g. {1,2,3} holds 1, 2 and 3  
+- was invented in 1874
+
 ## [functions](https://my.mindnode.com/at5pzEzjNgCrumussLaeqP8vDqXxHreY6WY5XEqB)
 
 - are relations between a set of inputs and a set of permissible outputs with the property that each input is related to exactly one output  
 	- i. e. a function that relates each real number x to its square x²  
 - a function is defined by its set of inputs, called the domain; a set of outputs, and possible additional elements, as members, called its codomain; and the set of all input-output pairs, called its graph  
 - they are the ‘central objects of investigation’ in mathematics
-
-### [differential equations](https://my.mindnode.com/9xtcuzUfKMEA24cBd4S2FRqcqHXLntiu4HhiHAHs)
-
-- are mathematical equations that relate some function with its derivatives  
-- in applications, the functions usually represent physical quantities, the derivatives represent their rates of change, and the equation defines a relationship between the two
 
 ### [taylor series ✨](https://my.mindnode.com/ELq3xbSpb8JNynMCMUgQzccGexDc5548pu1DRWdL)
 
@@ -549,7 +568,7 @@ If you have some specific questions about this project or about myself, my inter
 	- f(n) = bⁿ  
 	- where the input variable n occurs as an exponent
 
-## [algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
+## ~[1600: algebra](https://my.mindnode.com/kCjsak2kvDA6fnyqPzWBrSKY83hMvqWSj2jSb6Fy)
 
 - is the study of mathematical symbols and the rules for manipulating these symbols  
 - it is a unifying thread of almost all of mathematics  
@@ -577,6 +596,28 @@ If you have some specific questions about this project or about myself, my inter
 - it includes study of groups, rings, fields, modules, vector spaces, lattices and algebras  
 - algebraic structures, with their associated homomorphisms, form mathematical categories
 
+- [ring theory](https://my.mindnode.com/H7uZZ1syPfDBHyKspWf7qjKM4z9KQ8UA8hSHwbom)
+  - is the study of rings - algebraic structures in which addition and multiplication are defined and have similar properties to those operations defined for integers  
+  - it studies the structure of rings, and their representations
+
+- [lie groups](https://my.mindnode.com/L9HGQrVat5LGtq3igzNqtfswz8ifqjyMbvxSF9qn)
+  - is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  
+  - lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  
+  	- one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version
+
+- [representation theory](https://my.mindnode.com/rtP2zyWvKfBt61nqLKxCjEuphAqp78PGum9TtGoS)
+  - studies abstract algebraic structures by representing their elements as linear transformations of vector spaces, and studies modules over these abstract algebraic structures  
+  - a representation makes an abstract algebraic object more concrete by describing its elements by matrices and the algebraic operations in terms of matrix addition and matrix multiplication  
+  - representation theory is a useful method because it reduces problems in abstract algebra to problems in linear algebra (which is more well understood)
+
+### [1693: linear ✨](https://my.mindnode.com/Dw4PbQMRqozAAzU3tJwPms2DRBiMSzXzmJzhkqBM)
+
+- came from trying to solve systems of linear equations  
+	- vectors and matrices are used to solve these systems  
+- main objects of study currently are vector spaces and linear mappings between vector spaces  
+- it describes ways to solve and manipulate (rearrange) systems of linear equations  
+- it uses a system of notation for describing system behaviour, called a matrix
+
 ### [universal](https://my.mindnode.com/bWV1m6GCx3kbBcRVsEUAEDupWpTjj4SssRuJWFTA)
 
 - studies algebraic structures themselves, not examples (‘models’) of algebraic structures  
@@ -596,21 +637,6 @@ If you have some specific questions about this project or about myself, my inter
 - considered to be essential for any study of mathematics, science, or engineering  
 - differed from arithmetic in the use of abstractions, such as using letters to stand for numbers that are either unknown or allowed to take on many values
 
-## [linear algebra ✨](https://my.mindnode.com/uSBytjXorayqpAZTRhLxAX1zbpxyMyYNhLYBx8Vy#-1297.7,-762.7,2)
-
-- came from trying to solve systems of linear equations  
-	- vectors and matrices are used to solve these systems  
-- main objects of study currently are vector spaces and linear mappings between vector spaces  
-- it describes ways to solve and manipulate (rearrange) systems of linear equations  
-- it uses a system of notation for describing system behaviour, called a matrix
-
-### [vectors](https://my.mindnode.com/BcLRxCpcZBuB6xsMin7BsEMvKtL4zUTt9PfmbJ2z)
-
-- is a mathematical object that has a size, called the magnitude, and a direction  
-- we usually draw vectors as arrows  
-	- the length of the arrow is proportional to the vector’s magnitude  
-	- the direction in which the arrow points is the vector’s direction
-
 ## [theories](https://my.mindnode.com/DxRPEnem49ZwUxyTnfijwE5Mi9gFjN4dBZ2xgy25)
 
 - is a contemplative and rational type of abstract or generalising thinking, or the results of such thinking  
@@ -629,22 +655,7 @@ If you have some specific questions about this project or about myself, my inter
 - it was created to avoid paradoxes in a variety of formal logics and rewrite systems  
 - two well known type theories that can serve as mathematical foundations are Alonzo Church’s typed λ-calculus and Per Martin-Lof’s intuitionistic type theory
 
-## [set theory](https://my.mindnode.com/MXEzZzQ4aXtJgEb4ZzFFGozqvew3CFrygjDfgmfv)
-
-- study of sets where sets are collections of objects  
-	- we refer to these objects as “elements” “members” of the set  
-- to write a set, one wraps the numbers in {curly brackets} and separates them with commas:   
-	- e.g. {1,2,3} holds 1, 2 and 3  
-- was invented in 1874
-
-## [graph theory](https://my.mindnode.com/4qBQ8eA8wvpz6xBdDh1aoW3o9zxWxs1qKQXMqNB3)
-
-- a graph is an abstract representation of a number of points that are connected by lines  
-- each point is usually called a vertex (more than one are called vertices), and the lines are called edges  
-- graphs are a tool for modelling relationships  
-	- they are used to find answers to a number of problems
-
-## [statistics](https://my.mindnode.com/qVTGVEnNrmXDqy2UQTdPs1xRahZDNJFo94jy92Fb)
+## [1786: statistics](https://my.mindnode.com/qVTGVEnNrmXDqy2UQTdPs1xRahZDNJFo94jy92Fb)
 
 - deals with the collection, analysis, interpretation, presentation and organisation of data  
 - it deals with all aspects of data including the planning of data collection in terms of the design of surveys and experiments  
@@ -696,35 +707,6 @@ If you have some specific questions about this project or about myself, my inter
 - are conclusions or provisions based on incomplete information, for which no proof has been found  
 - conjectures such as the Riemann hypothesis or Fermat’s Last Theorem have shaped much of mathematical history as new areas of math are developed in order to prove them
 
-## [calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
-
-- study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalisations of arithmetic operations  
-- differential and integral calculus are connected by the fundamental theorem of calculus, which states that differentiation is the reverse process to integration
-
-### [differential](https://my.mindnode.com/euvusRrywcxqy32QHBFDhARe17ZqadGnQLBNnDvK)
-
-- is concerned with the study of the rates at which quantities change  
-- the primary objects of study in it are the derivative of a function, related notions such as the differentia, and their applications  
-- the derivative of a function at a chosen input value describes the rate of change of the function near that input value  
-	- the process of finding a derivative is called differentiation  
-- geometrically, the derivative at a point is the slope of the tangent line to the graph of the function at that point, provided that the derivative exists and is defined at that point  
-- for a real-valued function of a single real variable, the derivative of a function at a point generally determines the best linear approximation to the function at that point  
-- differentiation has applications to nearly all quantitative disciplines  
-- derivates are frequently used to find the maxima and minima of a function  
-- equations involving derivatives are called differential equations and are fundamental in describing natural phenomena
-
-### [integral](https://my.mindnode.com/XzzdBycWpX9FoRZgNGxDSkzNBy4v66Y44RZL4v6m)
-
-- an integral assigns numbers to functions in a way that can describe displacement, are, volume and other concepts that arise by combining infinitesimal data
-
-### [multivariable](https://my.mindnode.com/yRg5BBtdfZm6hnwbvG74E6epJC1z5P7Kn4cvUUNx)
-
-- is the extension of calculus in one variable to calculus with functions of several variables  
-	- the differentiation and integration of functions involving multiple variables, rather than just one  
-- a study of limits and continuity yields many counter-intuitive results not demonstrated by single-variable functions  
-	- for example, there are scalar functions of two variables with points in their domain which give a particular limit when approached along any arbitrary line, yet give a different limit when approached along a parabola  
-- a partial derivative of a multivariable function is a derivative with respect to one variable with all other variables held constant
-
 ## [discrete](https://my.mindnode.com/qAia4zcscPtDYjpE6YSHdC5uCzayQGgA3qz87zqm)
 
 - is the study of mathematical structures that are fundamentally discrete rather than continuous  
@@ -743,7 +725,24 @@ If you have some specific questions about this project or about myself, my inter
   - there are many equivalent ways to define a matroid, the most significant being in terms of independent sets, bases, circuits, closed sets or flats, closure operators and rank functions  
   - matroids have found applications in geometry, topology, combinatorial optimisation, network theory and coding theory
 
-## [category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
+### [coding theory](https://my.mindnode.com/uxfLB6ozxTwBBRxMR551sysuLaHvdgqURhEnpejX)
+
+- is the study of the properties of codes and their respective fitness for specific applications   
+- codes are used for data compression, cryptography, error-correction and networking  
+- there are four types of coding  
+	1. data compression (or, source coding)  
+	2. error correction (or channel coding)  
+	3. cryptographic coding  
+	4. line coding
+
+### [graph theory](https://my.mindnode.com/4qBQ8eA8wvpz6xBdDh1aoW3o9zxWxs1qKQXMqNB3)
+
+- a graph is an abstract representation of a number of points that are connected by lines  
+- each point is usually called a vertex (more than one are called vertices), and the lines are called edges  
+- graphs are a tool for modelling relationships  
+	- they are used to find answers to a number of problems
+
+## [1940: category theory ✨](https://my.mindnode.com/1ZNruQzLV5bsrLYhY6VgsydH1r29YS1XgmeLKPaa)
 
 - formalises mathematical structure and its concepts in terms of a collection of objects and of arrows (also called morphisms)  
 - a category has two basic properties  
@@ -781,7 +780,7 @@ If you have some specific questions about this project or about myself, my inter
 	- important topological properties include connectedness and compactness  
 - it developed as a field of study out of geometry and set theory, through analysis of concepts such as space, dimension and transformation
 
-### [pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq)
+### [1706: pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq)
 
 - is a mathematical constant   
 - it is the ratio of a circle’s circumference to its diameter, commonly approximated as 3.14159  
@@ -828,12 +827,6 @@ If you have some specific questions about this project or about myself, my inter
 - deals with real numbers and real-valued functions of a real variable  
 - in particular, it deals with the analytic properties of real functions and sequences, including convergence and limits of sequences of real numbers, the calculus of the real numbers, and continuity, smoothness and related properties of real-valued functions
 
-### [frequency analysis](https://my.mindnode.com/dfih8v9qe7sqkpBqxpBEnV2xnAxUvW6nXR3fVzCo)
-
-- study of the frequency of letters or groups of letters in a ciphertext  
-- it is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies  
-	- there is a characteristic distribution of letters that is roughly the same for almost all samples of that language
-
 ### [functional analysis](https://my.mindnode.com/AH8GyeFxecym2PAH4qhdqfyyVenHcGcEjFQ5moir)
 
 - the core of this study is formed by the study of vector spaces endowed with some kind of limit-related structure (e.g. inner product, norm, topology, etc.) and the linear functions defined on these spaces and respecting these structures in a suitable sense
@@ -862,7 +855,33 @@ If you have some specific questions about this project or about myself, my inter
 
 - studies the possibility of taking real number powers, real number fractional powers or complex numbers powers of the differentiation operator and the integration operator
 
-## [fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
+### ~[1750: calculus ✨](https://my.mindnode.com/aRxaYgpsEdv7zBzcsqTPhZ8C4CJ8VzcPGHUGFCwF)
+
+- study of continuous change, in the same way that geometry is the study of shape and algebra is the study of generalisations of arithmetic operations  
+- differential and integral calculus are connected by the fundamental theorem of calculus, which states that differentiation is the reverse process to integration
+
+- [differential](https://my.mindnode.com/euvusRrywcxqy32QHBFDhARe17ZqadGnQLBNnDvK)
+  - is concerned with the study of the rates at which quantities change  
+  - the primary objects of study in it are the derivative of a function, related notions such as the differentia, and their applications  
+  - the derivative of a function at a chosen input value describes the rate of change of the function near that input value  
+  	- the process of finding a derivative is called differentiation  
+  - geometrically, the derivative at a point is the slope of the tangent line to the graph of the function at that point, provided that the derivative exists and is defined at that point  
+  - for a real-valued function of a single real variable, the derivative of a function at a point generally determines the best linear approximation to the function at that point  
+  - differentiation has applications to nearly all quantitative disciplines  
+  - derivates are frequently used to find the maxima and minima of a function  
+  - equations involving derivatives are called differential equations and are fundamental in describing natural phenomena
+
+- [integral](https://my.mindnode.com/XzzdBycWpX9FoRZgNGxDSkzNBy4v66Y44RZL4v6m)
+  - an integral assigns numbers to functions in a way that can describe displacement, are, volume and other concepts that arise by combining infinitesimal data
+
+- [multivariable](https://my.mindnode.com/yRg5BBtdfZm6hnwbvG74E6epJC1z5P7Kn4cvUUNx)
+  - is the extension of calculus in one variable to calculus with functions of several variables  
+  	- the differentiation and integration of functions involving multiple variables, rather than just one  
+  - a study of limits and continuity yields many counter-intuitive results not demonstrated by single-variable functions  
+  	- for example, there are scalar functions of two variables with points in their domain which give a particular limit when approached along any arbitrary line, yet give a different limit when approached along a parabola  
+  - a partial derivative of a multivariable function is a derivative with respect to one variable with all other variables held constant
+
+## [1975: fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
 
 - is a mathematical set that exhibits a repeating pattern displayed at every scale  
 - is also known as expanding symmetry or evolving symmetry  
@@ -881,7 +900,7 @@ If you have some specific questions about this project or about myself, my inter
 - allows one to understand and explore mathematical phenomena via visualisation   
 - usually done by using computers to make static two or three dimensional drawings, animations or interactive programs
 
-## [lambda calculus](https://my.mindnode.com/T3szxY2FvQRQEkxRdH5HPx66mzDgwfHfCdzMsSXJ)
+## ~[1930: lambda calculus](https://my.mindnode.com/T3szxY2FvQRQEkxRdH5HPx66mzDgwfHfCdzMsSXJ)
 
 - is a formal system in mathematical logic for expressing computation based on function abstraction and application using variable binding and substitution  
 - it is a universal model of computation that can be used to simulate any single-taped Turing machine   
@@ -933,16 +952,6 @@ If you have some specific questions about this project or about myself, my inter
 - is the science of quantitative characterisation and reduction of uncertainties in both computational and real world applications  
 - it tries to determine how like certain outcomes are if some aspects of the system are not exactly known
 
-## [coding theory](https://my.mindnode.com/uxfLB6ozxTwBBRxMR551sysuLaHvdgqURhEnpejX)
-
-- is the study of the properties of codes and their respective fitness for specific applications   
-- codes are used for data compression, cryptography, error-correction and networking  
-- there are four types of coding  
-	1. data compression (or, source coding)  
-	2. error correction (or channel coding)  
-	3. cryptographic coding  
-	4. line coding
-
 ## [computational math](https://my.mindnode.com/pXsZa7eZpNNmHPfV6yWxqRFyhMYE21zYZVz11fQ2)
 
 - involves research in areas of science where computing plays a central and essential role, emphasising algorithms, numerical methods and symbolic computations
@@ -950,13 +959,6 @@ If you have some specific questions about this project or about myself, my inter
 ### [symbolic computation](https://my.mindnode.com/Vzboiw3TsJsNWX27k6a9ukyuc2oTryr7MeG7smWu)
 
 - is the study and development of algorithms and software for manipulating mathematical expressions and other mathematical objects
-
-## [model theory](https://my.mindnode.com/9PeyxAjPgiwXCr1zvoiJB66QbwgRusneqCty9kZC)
-
-- is the study of classes of mathematical structures (e.g. groups, fields, graphs, universes of set theory) from the perspective of mathematical logic  
-- it is intimately concerned with duality  
-	- it examines semantical elements (meaning and truth) by means of syntactical elements (formulas and proofs) of a corresponding language  
-- universal algebra + logic = model theory
 
 ## [operator theory](https://my.mindnode.com/of3fxpbV9ceAHzsR8ksajrCmsQiiKGSGx7eTzUvX)
 
@@ -985,22 +987,11 @@ If you have some specific questions about this project or about myself, my inter
 	1. base case  
 	2. and inductive step
 
-## [ring theory](https://my.mindnode.com/H7uZZ1syPfDBHyKspWf7qjKM4z9KQ8UA8hSHwbom)
-
-- is the study of rings - algebraic structures in which addition and multiplication are defined and have similar properties to those operations defined for integers  
-- it studies the structure of rings, and their representations
-
 ## [algebraic geometry](https://my.mindnode.com/vqkZziXCNsAaKraPAXsuyCyUgwq2qcc6bw3GSVqj)
 
 - studies zeros of multivariable polynomials  
 - it is based on the use of abstract algebraic techniques, mainly from commutative algebra, for solving geometrical problems about these sets of zeros  
 - the fundamental objects of study are algebraic varieties, which are geometric manifestations of solutions of system of polynomial equations
-
-## [representation theory](https://my.mindnode.com/rtP2zyWvKfBt61nqLKxCjEuphAqp78PGum9TtGoS)
-
-- studies abstract algebraic structures by representing their elements as linear transformations of vector spaces, and studies modules over these abstract algebraic structures  
-- a representation makes an abstract algebraic object more concrete by describing its elements by matrices and the algebraic operations in terms of matrix addition and matrix multiplication  
-- representation theory is a useful method because it reduces problems in abstract algebra to problems in linear algebra (which is more well understood)
 
 ## [group theory](https://my.mindnode.com/xhgPpcJWf65VkjVGWdZzzCAgEjTsFEYzU2eGAB1h)
 
@@ -1009,12 +1000,6 @@ If you have some specific questions about this project or about myself, my inter
 	- other well known algebraic structures, such as rings, fields and vector spaces, can be seen as groups endowed with additional operations and axioms  
 - various physical systems, such as crystals and the hydrogen atom, may be modelled by symmetry groups  
 - the range of groups being considered has gradually expanded from finite permutation groups and special examples of matrix groups to abstract groups that may be specified through a presentation by generators and relations
-
-## [measure theory](https://my.mindnode.com/dADyE1Mt5rxYK6ZgsTJHu4HGhYsi8i1s8qreyqx6)
-
-- a measure on a set is a systematic way to assign a number to each suitable subset of that set, intuitively interpreted as its size  
-- a measure is a generalisation of the concepts of length, area and volume  
-- technically, a measure is a function that assigns a non-negative real number or +∞ to (certain) subsets of set X
 
 ## [relations](https://my.mindnode.com/xdZVy3XSy7ybUyTeYJUPBWaZ7Te5ym9oVSdSz93P)
 
@@ -1035,24 +1020,18 @@ If you have some specific questions about this project or about myself, my inter
 
 - studies homology in a general algebraic setting
 
-## [lie groups](https://my.mindnode.com/L9HGQrVat5LGtq3igzNqtfswz8ifqjyMbvxSF9qn)
-
-- is a group that is also a differentiable manifold, with the property that the group operations are compatible with the smooth structure  
-- lie groups are smooth differentiable manifolds and as such can be studied using differential calculus, in contrast with the case of more general topological groups  
-	- one of the key ideas in the theory of Lie groups is to replace the global object, the group, with its local or linearised version
-
-## [infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
+## [1657: infinity](https://my.mindnode.com/5D9BpqxBaNv6HCYCsVLfE84Qih9rwMqVLs52pqqt)
 
 - is an abstract concept describing something without any bound or larger than any number  
 - in math, ‘infinity’ is often treated as a number (i.e. it counts or measures things: ‘an infinite number of terms’) but it is not the same sort of number as natural or real numbers
 
-## [chaos theory](https://my.mindnode.com/Qmcp89sxqneWCMvKaqm7VV5qNNXWkscVmpaz3QqU)
+## [1961: chaos theory](https://my.mindnode.com/Qmcp89sxqneWCMvKaqm7VV5qNNXWkscVmpaz3QqU)
 
 - focuses on the behaviour of dynamical systems that are highly sensitive to initial conditions  
 - ‘chaos’ is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organisation and reliance on programming at the initial point known as sensitive dependence on initial conditions  
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
-## [trigonometry](https://my.mindnode.com/t9sbNyN6X6VmLWD8HLVQEsyhmgdQCqAmBp4xscWe)
+## [we](https://my.mindnode.com/t9sbNyN6X6VmLWD8HLVQEsyhmgdQCqAmBp4xscWe)
 
 - studies relationships involving lengths and angles of triangles 
 
@@ -1087,6 +1066,17 @@ If you have some specific questions about this project or about myself, my inter
 	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 
+# [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
+
+- is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation  
+- human specie’s use of technology began with the conversion of natural resources into simple tools
+
+
+# [09: raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
+
+- is a series of small single-board computers
+
+
 # [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
 
 - deals with design, construction, operation and use of robots, as well as computer systems for their control, sensory feedback, and information processing  
@@ -1094,15 +1084,18 @@ If you have some specific questions about this project or about myself, my inter
 - robots can be used in any situation and for any purpose
 
 
-# [raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
-
-- is a series of small single-board computers
+# computer
 
 
-# [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
+## 1975: video game console
 
-- is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation  
-- human specie’s use of technology began with the conversion of natural resources into simple tools
+## 1977: smartwatch
+
+## 1981: laptop
+
+## 1994: smartphone
+
+## 02: tablet
 
 
 # [hardware ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
@@ -1341,13 +1334,6 @@ program that will analyse code for potential errors
 - the competition generally involves a set of logical or mathematical problems and contestants are required to write computer programs capable of solving each problem
 
 
-# [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
-
-- are sequences of characters that define a search pattern  
-	- usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  
-- they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis
-
-
 # [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
 
 - is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constrains  
@@ -1359,6 +1345,13 @@ program that will analyse code for potential errors
 - are small computers on a single integrated circuit  
 	- it is a system on a chip  
 - it contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals
+
+
+# [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
+
+- are sequences of characters that define a search pattern  
+	- usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  
+- they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis
 
 
 # [reverse engineering ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
@@ -1616,7 +1609,7 @@ program that will analyse code for potential errors
 ## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 
-# [virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+# [1957: virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
 
 - refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
 - VR also simulates a user’s physical presence in this environment 
@@ -1910,7 +1903,7 @@ program that will analyse code for potential errors
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
-# [computer science ✨](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
 - is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
 - it is the study of automating algorithmic processes that scale
@@ -2021,7 +2014,7 @@ program that will analyse code for potential errors
 - it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
 
 
-# [compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
 - is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
 	- is often done to create an executable program
@@ -2094,7 +2087,7 @@ program that will analyse code for potential errors
 	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
 
 
-# [quantum physics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
+# [1913: quantum physics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
 
 - is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
 - classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
@@ -2189,9 +2182,9 @@ known (uncertainty principle)
   - is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  
   - it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud
 
-	- mercury
+	- 265 BC: mercury
 
-	- venus
+	- 1761: venus
 
 	- [earth](https://my.mindnode.com/UVu4yxXBk1mRV1yPWtd4vSyLDhdpzo5goXCsPj7z)
 	  our home planet in the Solar System
@@ -2213,13 +2206,13 @@ known (uncertainty principle)
 
 	- jupiter
 
-	- saturn
+	- 1610: saturn
 
-	- uranus
+	- 1781: uranus
 
-	- neptune
+	- 1846: neptune
 
-### [andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
+### [1612: andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
 
 - is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  
 - It is the nearest major galaxy to the Milky Way  
@@ -2262,7 +2255,7 @@ known (uncertainty principle)
   - is an electrical circuit consisting of a resistor (R), an inductor (L) and a capacitor (C), connected in series or in parallel  
   - the circuit forms a harmonic oscillator for current, and resonates in a similar way as an LC circuit
 
-## [theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
+## [1915: theory of relativity](https://my.mindnode.com/2ToydzdpwpKZ5MfzxQfY1Twty4JeaRUJs9Uzq1kW)
 
 - usually encompasses two interrelated theories (special relativity and general relativity)  
 - special relativity applies to elementary particles and their interactions, describing all their physical phenomena except gravity  
@@ -2325,7 +2318,7 @@ known (uncertainty principle)
 - it is small localised object to which can be ascribed several physical or chemical properties such as volumes or mass  
 - they vary in size or quantity, from subatomic particles like the electron, to microscopic particles like atoms and molecules, to macroscopic particles like powers and other granular materials
 
-### [higgs boson](https://my.mindnode.com/BqKXsxhPS3crZBo9XhzHpgyDvuhsAFVS68K4EDDm)
+### [12: higgs boson](https://my.mindnode.com/BqKXsxhPS3crZBo9XhzHpgyDvuhsAFVS68K4EDDm)
 
 - is an elementary particle  
 - it is the quantum excitation of the Higgs field  
@@ -2401,7 +2394,7 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - studies atoms as an isolated system of electrons and an atomic nucleus  
 - is concerned with the arrangement of electrons around the nucleus and the processes by which these arrangements change
 
-### [atom](https://my.mindnode.com/knLpnUaEjJNfEpAPe8w36ezEwGypKCCQv9VxArFz)
+### [1897: atom](https://my.mindnode.com/knLpnUaEjJNfEpAPe8w36ezEwGypKCCQv9VxArFz)
 
 - is the smallest constituent unit of ordinary matter that has the properties of a chemical element  
 - every said, liquid, gas and plasma is compromised of neutral or ionised atoms  
@@ -2672,7 +2665,7 @@ means that a physical quantity is assigned to every point in space (or, more gen
 	- these vocabularies, the syntax that structures them, and their sets of speech sound units differ, creating many thousands of different, and mutually unintelligible, human languages
 
 
-# [neuroscience ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
+# [1960: neuroscience ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
 
 - is the scientific study of the nervous system  
 - it studies the molecular, cellular, developmental, structural, functional, evolutionary, computational, psychosocial and medical aspects of the nervous system
@@ -2879,7 +2872,7 @@ science of life and living things and their evolution
 
 ## [genetics](https://my.mindnode.com/ApZijrSiRhjaS8mLMbPj9bCTqPQr7ELppdYtuxcY)
 
-### [dna ✨](https://my.mindnode.com/eHJR69Qvm1maxCdSvqv4ahhjJYETkJmdVasGaEyt)
+### [1953: dna ✨](https://my.mindnode.com/eHJR69Qvm1maxCdSvqv4ahhjJYETkJmdVasGaEyt)
 
 short for deoxyribonucleic acid, is the molecule that contains the genetic code of organisms, includes animals, plants, protists, archaea and bacteria, DNA is in each cell in the organism and tells cells what proteins to make
 
@@ -2912,7 +2905,7 @@ long chain molecules built from small units known as amino acids, they are joine
 
 is death a natural and inevitable process or a disease that can be cured
 
-## [stem cells](https://my.mindnode.com/uTp8eDZkLRH7k2avRjRp1bXwKxsZBJxWz1V1Kdha)
+## [1981: stem cells](https://my.mindnode.com/uTp8eDZkLRH7k2avRjRp1bXwKxsZBJxWz1V1Kdha)
 
 are cells of the body (somatic cells) which can divide and become differentiated
 
@@ -2931,6 +2924,8 @@ studying nature to create modern technology
 ## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
 
 ## [speech](https://my.mindnode.com/9DE4YrtaqQLR9sRqDAsSS4DydqUnRJyhHqzs5zVq)
+
+## [sentiment analysis](https://my.mindnode.com/6hYCWvssy34Rg7yCUcxjXCuEmskCSyKyqB18TRDP)
 
 
 # [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
@@ -3198,17 +3193,21 @@ newsletters I found interesting
 # [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
 
 
-## [schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
+## [1600 BC: cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
 
-## [alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
+## [1882: tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
 
-## [cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
+## [1887: schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
 
-## [tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
+## 1889: diabetes
 
-## [influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
+## 1902: ADHD
 
-## HIV
+## [1906: alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
+
+## [1918: influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
+
+## 1983: HIV
 
 ## coronary artery disease
 
@@ -3218,13 +3217,9 @@ newsletters I found interesting
 
 ## diarrhea
 
-## diabetes
-
 ## malaria
 
 ## measles
-
-## ADHD
 
 ## heart disease
 
@@ -3368,16 +3363,29 @@ all the books I am currently reading or have read
 
 - 1975: the c programming language
 
+### c++
+
+- 1989: c++ primer
+
+- [04: beginning c++ through game programming](https://my.mindnode.com/PypdpZ81GbxiDeSX6pYUvHyAZF5aGy3KRipwFyAi)
+  - free:
+
+- [17: c++ core guidelines](https://my.mindnode.com/g1RzAuDcDv67PyirDGPTcNyJjg5gUhpWzR5aaXKG)
+  - free:
+
 ### go
 
-- [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
-
-- [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
+- [12: network programming with go](https://my.mindnode.com/NEvgtzuB5Fuvkc45FXX42pXivxpnV6TCw46gGBrz)
   - free:
 
 - [15: go in action ✨](https://my.mindnode.com/QW6JBJKCPYpXgEXejtXtxEzoqhsD4qSyhm16FyHV)
 
 - [15: the go programming language ✨](https://my.mindnode.com/PM3x2hMXEqgJ7NY9bQmx5yWxTpkqxUQSxi8XHyz1)
+
+- [web app with go - anti text book](https://my.mindnode.com/s6q6geUMoYiv1f2EWgRZ5AUP4KEiUkZnnyvuofx3)
+
+- [build web application with golang ✨](https://my.mindnode.com/iJcDYgCwsJ46y2Z47YKQDmPToZpdaHA1Az8ucnx7)
+  - free:
 
 ### python
 
@@ -3508,6 +3516,9 @@ all the books I am currently reading or have read
 - [14: git in practice](https://my.mindnode.com/tMWgcuHPcUwJvpDCw8BzpTYdF6rKs3ku12wRy12q)
   - free:
 
+- [14: pro git](https://my.mindnode.com/fKgx3zxAyEW6RrrzPsqE2zGcPwj6mNyKfedNneQ1)
+  - free:
+
 ### unix
 
 - [14: an introduction to unix](https://my.mindnode.com/cMxh9Qqz5vfxsaS9q7wQ4jHx1mMhQVzivkdY4thv)
@@ -3516,6 +3527,11 @@ all the books I am currently reading or have read
 ### node.js
 
 - [12: node up and running](https://my.mindnode.com/6f7ptnc8UKSfE4LcWcpKLT9Ywpx8WNrfeeGrWryk)
+  - free:
+
+### assembly
+
+- [14: assembly language succinctly](https://my.mindnode.com/5fdqR7qms5hxEqoLxLydxNvKci5w1TCfeqMHi1Wm)
   - free:
 
 ### language design
@@ -3652,6 +3668,8 @@ all the books I am currently reading or have read
 ### [15: openssl cookbook](https://my.mindnode.com/aLHfSPhKPXCkbv6yZtDkR75zD1Mx6XSzPyB6msAx)
 
 - free:
+
+### 16: beej's guide to network programming
 
 ### [an introduction to computer networks](https://my.mindnode.com/H3BVCfagx5UvEfzVNjDqGjBRxTYMy11m8tMwBDTs)
 
@@ -5273,6 +5291,8 @@ how can you teach effectively, how does one learn
 
 ### leaders
 
+- 30: Jesus Christ
+
 - 1750 BC: Hammurabi
 
 - 1458 BC: Hatshepsut
@@ -5297,6 +5317,8 @@ how can you teach effectively, how does one learn
 
 - [1821: Napoleon Bonaparte](https://my.mindnode.com/U2DHxC5wshh579mfHeXBCyoFtoitdcdVcQS3cpSz)
 
+- 1826: Thomas Jefferson
+
 - [1865: Abraham Lincoln](https://my.mindnode.com/qzr2AYKqk1fMjveuyL7UMiFMZL7DXuKfcvQhgsVx)
 
 - 1924: Vladimir Lenin
@@ -5318,6 +5340,12 @@ how can you teach effectively, how does one learn
 - [1976: Mao Zedong](https://my.mindnode.com/m5xqnrMfqNWGzFMi3v3fJppK5xixARKDiau8yMot)
 
 - [13: Nelson Mandela](https://my.mindnode.com/nhXdqpMySjVFJKu3SfMykJ5Uwp45Smy62zb64ze7)
+
+- Mikhail Gorbachev
+
+- Vladimir Putin
+
+- Angela Merkel
 
 ## [github ✨](https://my.mindnode.com/oYuMQysVsD2qkk5HVNo7CdkrqNXKzYi3jQMv9B57)
 
@@ -5425,15 +5453,15 @@ United Kingdom leaving European Union
 # ideology
 
 
-## [fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
+## ~1700: liberalism
 
-## [communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+## 1840: anarchism
+
+## [1848: communism](https://my.mindnode.com/YjeAfPSq8EsyDumTNo6p5E1Y9ktu1xkxPcjyq2kX)
+
+## [1919: fascism](https://my.mindnode.com/FSgiywxXFE2aG156fvfKDhqqxLhA5y9WL4ZUK3xy)
 
 ## socialism
-
-## liberalism
-
-## anarchism
 
 ## conservatism
 
@@ -5525,13 +5553,13 @@ research papers I am reading and want to read
 the future of money as I see itn
 
 
+## [08: bitcoin ✨](https://my.mindnode.com/B7Sr6JyuyXsVriEE3HfxGopDNqB7ydRZs1SA1rEn)
+
 ## [dash](https://my.mindnode.com/S3vg9ZoqGUDbQS9gQUufJHCVaWm3sbtx9nKBxhpy)
 
 ## ripple
 
 ## [monero ✨](https://my.mindnode.com/P9doYsT2FMAxG2eVVTJ6sSd8zYuthpNJe58CssPD)
-
-## [bitcoin ✨](https://my.mindnode.com/B7Sr6JyuyXsVriEE3HfxGopDNqB7ydRZs1SA1rEn)
 
 
 # [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
@@ -5587,11 +5615,17 @@ central part of an operating system, it manages the tasks of the computer and th
 2. a monolithic kernel, which contains many drivers
 
 
-## [linux ✨](https://my.mindnode.com/L1yZKtwKzVawvuyuw3T1JtAeyhdi8CU3bUpPoBV4)
+## [1991: linux ✨](https://my.mindnode.com/L1yZKtwKzVawvuyuw3T1JtAeyhdi8CU3bUpPoBV4)
 
 free and open source unix like operating system for computers
 
 ### [distros](https://my.mindnode.com/x9f4LkzXqZaM3scdDyqQN7uGxJBgwqj81i9X9atu)
+
+- [02: Arch ✨](https://my.mindnode.com/JYjG13LixbkLWcKt1GcnYtFrUevya42RR4WRmg14)
+
+	- [Manjaro](https://my.mindnode.com/TMzXqkzH6yapyNxsqi9nFZZyJo7Upken6Rz4Wg6Q)
+
+	- [Antergos](https://my.mindnode.com/Eohomc8NpqCrzNfGDH4hNVBBiPyRy9RQMHKDgC8o)
 
 - [Debian](https://my.mindnode.com/p5fxJ6vqHUnPZdfbCoP42Z1kTRczen1qUCL6rz2V)
 
@@ -5604,12 +5638,6 @@ free and open source unix like operating system for computers
 - [nixOS](https://my.mindnode.com/v4sY1QRyvfayyayF9DdCbArqNmmDYaUcEz1SdYyi)
 
 - [GuixSD](https://my.mindnode.com/ptLQdxWXrK1713RYsAf6yWLXxy2zSwMsgTfP2EUU)
-
-- [Arch ✨](https://my.mindnode.com/JYjG13LixbkLWcKt1GcnYtFrUevya42RR4WRmg14)
-
-	- [Manjaro](https://my.mindnode.com/TMzXqkzH6yapyNxsqi9nFZZyJo7Upken6Rz4Wg6Q)
-
-	- [Antergos](https://my.mindnode.com/Eohomc8NpqCrzNfGDH4hNVBBiPyRy9RQMHKDgC8o)
 
 - [Fedora](https://my.mindnode.com/LykZqHCf2pNzBcvxktnL9pAmMRpe2iwR59GkDsUz)
 
@@ -5678,8 +5706,10 @@ is a set of computer software programs and data structures which use a virtual m
 ## russian
 
 
-# [economics ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
+# [1776: economics ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
 
+
+## 2000 BC: banks
 
 ## [microeconomics](https://my.mindnode.com/suN5zf8GDJ1xqkqXspyMwfssZCVzyNFVrjppayJ7)
 
@@ -5700,8 +5730,6 @@ is a set of computer software programs and data structures which use a virtual m
 ## [financial market](https://my.mindnode.com/3zSKzbpLZXxKMRKwqBmsRnnaerY6oUVrxfpPTnxx)
 
 ## behavioural
-
-## banks
 
 
 # [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
@@ -5725,7 +5753,7 @@ name for a group of computer programs, device drivers, kernel and other things t
 
 ## mobile
 
-### [ios](https://my.mindnode.com/PUhjuxgfwzbFkpxEPMmufpnrfwvyzqTkypLaE1eu)
+### [07: ios](https://my.mindnode.com/PUhjuxgfwzbFkpxEPMmufpnrfwvyzqTkypLaE1eu)
 
 - [apps ✨](https://my.mindnode.com/4y6hzfXSQFCrnW1Rbijz6kyJnearnnKT4zxTyjnp)
 
@@ -5733,11 +5761,11 @@ name for a group of computer programs, device drivers, kernel and other things t
 
 - [design patterns](https://my.mindnode.com/ipkyGspFK49CXso33csqbCuqDnJBhGJxQBsx8hjj)
 
-### [android](https://my.mindnode.com/qjTfSag2TXZ2eSTsHFadC5pJzy5xACDSpBkoGWVs)
+### [08: android](https://my.mindnode.com/qjTfSag2TXZ2eSTsHFadC5pJzy5xACDSpBkoGWVs)
 
 ## desktop
 
-### [macOS](https://my.mindnode.com/WxQizjzddmnqoCeUuZmGNrQfsrypPzpERCwosRzN)
+### [1984: macOS](https://my.mindnode.com/WxQizjzddmnqoCeUuZmGNrQfsrypPzpERCwosRzN)
 
 - jxa
 
@@ -5751,7 +5779,7 @@ name for a group of computer programs, device drivers, kernel and other things t
 	  	- organised by theme  
 	  	- used for my own personal documentation
 
-### [windows](https://my.mindnode.com/PGg9qQz6zttzUMq4aPoEpzp7KBTnZDiyYg3bYs29)
+### [1985: windows](https://my.mindnode.com/PGg9qQz6zttzUMq4aPoEpzp7KBTnZDiyYg3bYs29)
 
 - .[NET](https://my.mindnode.com/q5HaYbkCRovNyMHxBNWthsDspF1fVLmyhQkS6mut)
 
@@ -5759,7 +5787,7 @@ name for a group of computer programs, device drivers, kernel and other things t
 
 - [powershell](https://my.mindnode.com/NnxxC7MpuPf3SUQpDYJW9zbhPMoQiPArx9x1Wnsa)
 
-### [fuchsia](https://my.mindnode.com/iuwQYCqvRBmBJRsaWzHNwKsbhCZzsJcxTThDy7uu)
+### [16: fuchsia](https://my.mindnode.com/iuwQYCqvRBmBJRsaWzHNwKsbhCZzsJcxTThDy7uu)
 
 ## [development](https://my.mindnode.com/oNNwSdr4auaFLYHYyrPV5Zx3m5noowpnxfxc4w3V)
 
@@ -5792,6 +5820,38 @@ movies I have seen or plan on watching
 # [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
 
 what it means to be creative and where does creativity come from
+
+
+# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
+
+series I have seen or plan on watching
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+
+
+# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
+
+
+## database design
+
+## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
+
+## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
+
+## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
+
+## relational
+
+### PostgreSQL
+
+### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
+
+## noSQL
+
+### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
+
+## [sql](https://my.mindnode.com/pLxGS7nzpTo1VuCYeG7NKpx11B9VxKbrs3qfjpwp)
 
 
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
@@ -5857,37 +5917,7 @@ personal websites that are really well made and inspiring
 
 ## [experiments](https://my.mindnode.com/QHwcHsg7zBcjzmFYyyk9C1MjeW2ih3ADXpM2Jxm9)
 
-
-# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
-
-series I have seen or plan on watching
-
-
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
-
-
-# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
-
-
-## database design
-
-## [Neo4j](https://my.mindnode.com/xdmC9oAxduJobg8s83DjsRrwx226QEMnXXE7WJ1A)
-
-## [influxDB](https://my.mindnode.com/YrE76pVPDipgNrhszzArpPqpFxbYiaUQjsy9eszS)
-
-## [cassandra](https://my.mindnode.com/Ymc3et2faMV1TMAzy4q6V7oJxqXufyJ81JULgEFs)
-
-## relational
-
-### PostgreSQL
-
-### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
-
-## noSQL
-
-### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
-
-## [sql](https://my.mindnode.com/pLxGS7nzpTo1VuCYeG7NKpx11B9VxKbrs3qfjpwp)
+## stack
 
 
 # [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
@@ -5917,7 +5947,9 @@ type of server that is used to host websites, it can have one or many websites t
 # [protocols](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
 
 
-## [irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
+## [1988: irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
+
+## [1999: ssh](https://my.mindnode.com/xTCkhQpzYmetBUCLmYBzEBfVH3SN2SygdhFriNZz)
 
 ## [http](https://my.mindnode.com/yFUY6NypjRRpscXyqzvo66s8e5bVS3YCRz2kyytr)
 
@@ -5930,8 +5962,6 @@ type of server that is used to host websites, it can have one or many websites t
 ## [WebSocket](https://my.mindnode.com/CsPzaDsWBhXGaHbmUALGdpFb4PxcxGnbszyZKcf8)
 
 ## [LPWAN](https://my.mindnode.com/rSozpF7SdeyqcUZqjiBnkKKvSnWfXb1xBR7qENt1)
-
-## [ssh](https://my.mindnode.com/xTCkhQpzYmetBUCLmYBzEBfVH3SN2SygdhFriNZz)
 
 ## [MQTT](https://my.mindnode.com/dLkAMqypEBPC7uskR7onk3mXsE59NfywBwBUmzkB)
 
@@ -6029,7 +6059,7 @@ connecting physical objects to the internet and using them in a smart way
 # [ruby gems](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
 
 
-## [rails](https://my.mindnode.com/YGjZMgJtzjxHNjVyqvLNUmumHZ3oBmvb2UfxrYCq)
+## [03: rails](https://my.mindnode.com/YGjZMgJtzjxHNjVyqvLNUmumHZ3oBmvb2UfxrYCq)
 
 ## sinatra
 
@@ -6239,37 +6269,6 @@ courses I am doing or plan on doing
 
 
 # [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
-
-
-# companies
-
-
-## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
-
-companies that I find interesting sorted by their domain
-
-### tesla
-
-### apple
-
-- Mac
-
-- iPhone
-
-### spacex
-
-### alphabet
-
-- deepmind
-
-	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
-	  an algorithm that dominated all the best human players at a game of Go
-
-- google
-
-### [amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
-
-### [facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
 
 
 # data
@@ -6492,27 +6491,27 @@ United States of America is made up of 50 states, a deferral district, and five 
 ## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
 
 
-# [web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz)
+# [1980: web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz)
 
 
 ## [browsers](https://my.mindnode.com/4G3PhTqxAg6bEToGT613X38ppXTP5KsCi1sYuz6i)
 
-### [dom](https://my.mindnode.com/zYGz3TugXNU8qexToyw7BtsM4yG4tZxh2m7Bkfzm)
+### 02: firefox
 
-### safari
+browser developed by Mozilla
+
+### 03: safari
 
 browser developed by Apple
 
 - extensions
   safari extensions I found interesting and use
 
-### firefox
-
-browser developed by Mozilla
-
-### chrome
+### 08: chrome
 
 browser developed by Google
+
+### [dom](https://my.mindnode.com/zYGz3TugXNU8qexToyw7BtsM4yG4tZxh2m7Bkfzm)
 
 ### [automation](https://my.mindnode.com/ifcnqphmM7Tw3f6BK2zWZSzW3NjHjw3GJSmcykb5)
 
@@ -6621,7 +6620,7 @@ approach to software development for complex needs by connecting the implementat
 
 javascript engine developed by Google
 
-### [node.js](https://my.mindnode.com/Kppy13hmHaa6qGhLoPX2JVrwMExcA3v2B5ZhsdYF)
+### [09: node.js](https://my.mindnode.com/Kppy13hmHaa6qGhLoPX2JVrwMExcA3v2B5ZhsdYF)
 
 - [electron ✨](https://my.mindnode.com/GsyKuWEa6PEhQpvMxdAytpQHWsvUnA9Jiqp1Pisy)
 
@@ -6670,7 +6669,7 @@ is a systems engineering process for establishing and maintaining consistency of
 # [shells](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
 
 
-## [bash](https://my.mindnode.com/sr1GNY9G5LCyYsxSVeaoupdjZszd6FbUY1YGCXMh)
+## [1989: bash](https://my.mindnode.com/sr1GNY9G5LCyYsxSVeaoupdjZszd6FbUY1YGCXMh)
 
 ## [zsh](https://my.mindnode.com/x5pjkfzErXaqqYqyBofA9RvoSsqtLsqLywV1zGNT)
 
@@ -6707,11 +6706,11 @@ what aliases and cli programs I use on my system
 javascript libraries I found interesting that are not big enough to warrant itself a node of their own
 
 
+## [06: jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
+
+## 10: three.js
+
 ## whitestorm.js
-
-## three.js
-
-## [jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
 
 ## [immutable.js](https://my.mindnode.com/xR3A8YVBcPjUDSz6iomdqqsJLqsECMHv8oMFinzD)
 
@@ -6799,11 +6798,11 @@ packs many javascript modules into a few bundled assets
 # markup languages
 
 
-## [html](https://github.com/diegocard/awesome-html5)
+## [1990: html](https://github.com/diegocard/awesome-html5)
 
 ### [canvas](https://my.mindnode.com/LWAz7pgJ9gALAXNCxKzMo3V7GJJUWbhy1bguLLJr)
 
-## [markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
+## [04: markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
 
 
 # practice
@@ -6831,27 +6830,27 @@ write code and generate music, really is quite amazing
 
 ## instruments
 
-### [guitar](https://my.mindnode.com/xcTk6zZz9AK6dES5k4DiMLK3DYQfDxnvp54xHnzk)
+### 6000 BC: drums
+
+### ~[500: guitar](https://my.mindnode.com/xcTk6zZz9AK6dES5k4DiMLK3DYQfDxnvp54xHnzk)
 
 - [tabs](https://my.mindnode.com/dd96pRQfMwqUusQ9h9yXGiFKybyEaSsSoveYU2yQ)
 
-### piano
+### 1530: violin
 
-### drums
+### 1700: piano
 
-### saxophone
-
-### violin
+### 1840: saxophone
 
 
 # [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
 
 
+## [05: django](https://my.mindnode.com/GBFvBMrnkhxzwFyy53orBoPnC8zir18JVxKmZJqW)
+
+## 10: flask
+
 ## scikit-learn
-
-## [django](https://my.mindnode.com/GBFvBMrnkhxzwFyy53orBoPnC8zir18JVxKmZJqW)
-
-## flask
 
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
@@ -6917,6 +6916,173 @@ what it means to make a search engine and what is needed
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
 
 
+# companies
+
+
+## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
+
+companies that I find interesting sorted by their domain
+
+### 1865: nokia
+
+### 1889: nintendo
+
+### 1891: philips
+
+### 1892: coca-cola
+
+### 1892: general electric
+
+### 1903: ford
+
+### 1911: ibm
+
+### 1916: boeing
+
+### 1916: bmw
+
+### 1919: tesco
+
+### 1923: disney
+
+### 1923: warner bros
+
+### 1937: toyota
+
+### 1937: volkswagen
+
+### 1937: canon
+
+### 1938: samsung
+
+### 1939: hewlett packard
+
+### 1943: ikea
+
+### 1946: sony
+
+- 1994: playstation
+
+### 1955: mcdonald’s
+
+### 1958: visa
+
+### 1960: domino’s pizza
+
+### 1962: walmart
+
+### 1968: intel
+
+### 1971: starbucks
+
+### 1974: zara
+
+### 1975: microsoft
+
+- 01: xbox
+
+- 09: bing
+
+### 1976: apple
+
+- 1984: mac
+
+- 07: iPhone
+
+### 1977: oracle
+
+### 1981: bloomberg
+
+### 1982: adobe systems
+
+### 1983: at&t
+
+### 1991: blizzard
+
+### 1991: vodafone
+
+### 1993: nvidia
+
+### 1993: red hat
+
+### [1994: amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
+
+### 1995: yahoo
+
+### 1996: booking
+
+### 1997: netflix
+
+### 1998: mozilla
+
+### 1998: paypal
+
+### 1999: alibaba
+
+### 1999: salesforce
+
+### 00: baidu
+
+### 00: yandex
+
+### 02: spacex
+
+### 02: linkedin
+
+### 03: tesla
+
+- 17: model 3
+
+### [04: facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
+
+### 05: reddit
+
+### 06: spotify
+
+### 06: twitter
+
+### 06: riot games
+
+### 07: dropbox
+
+### 07: vkontakte
+
+### 08: github
+
+### 08: airbnb
+
+### 08: docker
+
+### 08: duckduckgo
+
+### 09: slack
+
+### 09: imgur
+
+### 09: uber
+
+### 09: quora
+
+### 10: stripe
+
+### 10: instagram
+
+### 11: snapchat
+
+### 12: oculus vr
+
+### 15: alphabet
+
+- 1998: google
+
+- 11: deepmind
+
+	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
+	  an algorithm that dominated all the best human players at a game of Go
+
+- 13: calico
+
+
 # style sheet languages
 
 
@@ -6939,40 +7105,6 @@ what it means to make a search engine and what is needed
 
 
 ## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
-
-
-# [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
-
-
-## snowboarding
-
-## longboarding
-
-## skateboarding
-
-## basketball
-
-## football
-
-## golf
-
-## hiking
-
-## rock climbing
-
-## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
-
-## volleyball
-
-## skiing
-
-## rowing
-
-## fencing
-
-## squash
-
-## surfing
 
 
 # [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
@@ -7002,7 +7134,7 @@ how to accelerate startup growth, acquire and keep new customers
 
 ## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
 
-## spring
+## [spring](https://my.mindnode.com/y6VpmcPB28kHbxqyfKuhdSMkvRVTGxM6c9ZSrdb8)
 
 ## [spark](https://my.mindnode.com/gke94NVJMFiSTnzjWXXsfaNK6hnE7TiV4QQ79ZoL)
 
@@ -7082,7 +7214,9 @@ how to find work and what to focus on
 
 ## text editors
 
-### [vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J)
+### [1985: emacs](https://my.mindnode.com/CMvPkvVN54ZninFxj8VKzYerHeJEKbGiwznCzz3y)
+
+### [1991: vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J)
 
 insane customisability with focus on keeping your hands on the home row of your keyboard
 
@@ -7095,29 +7229,27 @@ insane customisability with focus on keeping your hands on the home row of your 
 - [my vimrc ✨](https://my.mindnode.com/QKK41ixhzhCk64Bss2xsvAssL7j79HDKdY1TsNd5)
   my vim set up
 
-### [vs code ✨](https://my.mindnode.com/JRZKhcm7u9bPCEqbwHURfTFPcZCF1Bs1jF2JHpND)
+### 01: intellij
+
+- plugins
+
+### [03: xcode](https://my.mindnode.com/nxBpUd1WzRXtZiocvCSQSYeWttCVy49RyczaGNVG)
+
+IDE by Apple to program macOS/iOS applications
+
+- [extensions](https://my.mindnode.com/mtvvwgx6fdZFCNaoPzXUJyPWz5grjz88cqkdqzuf)
+
+### [13: sublime text](https://my.mindnode.com/GxFZMe3C1oqR6gYDwEsptUcxxRGpjG6DshdEsTGo)
+
+### [15: atom](https://my.mindnode.com/CgBasxG3f9ZxxD9pKWRq1yqXoLhFsNzTyoJs5C2C)
+
+### [15: vs code ✨](https://my.mindnode.com/JRZKhcm7u9bPCEqbwHURfTFPcZCF1Bs1jF2JHpND)
 
 code editor by Microsoft based on Electron, quite fast and extensible
 
 - [extensions](https://my.mindnode.com/QchCtML4m4vzgY9p3xe4tgzFUnvRzbA8BNyyzwH5)
   various extensions that I found were   
   useful or interesting
-
-### [xcode](https://my.mindnode.com/nxBpUd1WzRXtZiocvCSQSYeWttCVy49RyczaGNVG)
-
-IDE by Apple to program macOS/iOS applications
-
-- [extensions](https://my.mindnode.com/mtvvwgx6fdZFCNaoPzXUJyPWz5grjz88cqkdqzuf)
-
-### intellij
-
-- plugins
-
-### [atom](https://my.mindnode.com/CgBasxG3f9ZxxD9pKWRq1yqXoLhFsNzTyoJs5C2C)
-
-### [sublime text](https://my.mindnode.com/GxFZMe3C1oqR6gYDwEsptUcxxRGpjG6DshdEsTGo)
-
-### [emacs](https://my.mindnode.com/CMvPkvVN54ZninFxj8VKzYerHeJEKbGiwznCzz3y)
 
 ## productivity
 
@@ -7177,4 +7309,38 @@ IDE by Apple to program macOS/iOS applications
 ## other
 
 ### mathematica
+
+
+# [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
+
+
+## snowboarding
+
+## longboarding
+
+## skateboarding
+
+## basketball
+
+## football
+
+## golf
+
+## hiking
+
+## rock climbing
+
+## [parkour](https://my.mindnode.com/bg9ppYaa94V92NM6xbtKKBtqqZGw5p3xpspPJT4e)
+
+## volleyball
+
+## skiing
+
+## rowing
+
+## fencing
+
+## squash
+
+## surfing
 
