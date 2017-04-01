@@ -43,8 +43,6 @@ If you have expolored the interactive mind map a bit and are somewhat familiar w
 
 ## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
-![](http://i.imgur.com/C4Cum5u.jpg)
-
 ## Contributing 🎉
 
 There are many ways in which you can contribute and make this mind map even more amazing.
