@@ -8,7 +8,7 @@
 
 [I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
-I am building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 1 minute) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can come to this page and search for the node you need. Perhaps you are looking for [some interesting quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN) or [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or  some [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
+I am building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 1 minute) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can come to [this page](http://nikitavoloboev.xyz/knowledge-map/) and search for the node you need. Perhaps you are looking for [some interesting quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN) or [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or  some [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
 
 So much time is wasted looking for resources and help. There is a lot of effort being done to [ease this process](https://github.com/sindresorhus/awesome) but still, you have to look for it. What if instead of searching, you could instead explore and get yourself 'up to speed' with what our world already collectively knows.
 
@@ -624,14 +624,6 @@ If you have some specific questions about this project or about myself, my inter
 	- for instance, rather than take particular groups as the object of study, in universal algebra on takes the ‘theory of groups’ as an object of study  
 - in universal algebra, an algebra (or algebraic structure) is a set A together with a collection of operations on A
 
-### [homomorphism ✨](https://my.mindnode.com/Ws5PJ3aSyH7BcyKfkJdsefcxHcQ91sVBe3Lse4pw)
-
-- is a structure-preserving map between two algebraic structures of the same type (such as two groups, two rings, or two vector spaces)  
-- homomorphisms of vector spaces are also called linear maps  
-- the concept of homomorphism has been generalised, under the name of morphism, to many other structures that either do not have an underlying set, or are not algebraic  
-	- this generalisation is the starting point in category theory  
-- being an isomorphism, an automorphism, or an endomorphism is a priority of some homomorphisms which may be defined in a way that may be generalised to any class of morphisms
-
 ### elementary
 
 - considered to be essential for any study of mathematics, science, or engineering  
@@ -1031,7 +1023,7 @@ If you have some specific questions about this project or about myself, my inter
 - ‘chaos’ is an interdisciplinary theory stating that within the apparent randomness of chaotic complex systems, there are underlying patterns, constant feedback loops, repetition, self-similarity, fractals, self-organisation and reliance on programming at the initial point known as sensitive dependence on initial conditions  
 - the butterfly effect describes how a small change in one state  of a deterministic nonlinear system can result in large differences in a later state
 
-## [we](https://my.mindnode.com/t9sbNyN6X6VmLWD8HLVQEsyhmgdQCqAmBp4xscWe)
+## [trigonometry](https://my.mindnode.com/t9sbNyN6X6VmLWD8HLVQEsyhmgdQCqAmBp4xscWe)
 
 - studies relationships involving lengths and angles of triangles 
 
@@ -1572,7 +1564,7 @@ program that will analyse code for potential errors
 
 - functional, concurrent, general purpose, runs on erlang virtual machine, builds on top of erlang and shares same abstractions
 
-## 11: frege
+## [11: frege](https://my.mindnode.com/x8JeMdCZpMZQyvz4CdhJgsGkvns3k2km4n2Bsbdy)
 
 ## [11: dart](https://my.mindnode.com/rqjteVJidb5moPEJWa3spqjVpiV4nxuGt51FcZU3)
 
@@ -3064,6 +3056,8 @@ what questions can you get asked
 
 questions you may get asked for an iOS interview
 
+### [java](https://my.mindnode.com/x1GgEnzCgyjwJMUsWxAz8YKvSLNzo5xZSY4gZCUA)
+
 ## [interview tips](https://my.mindnode.com/hpsq3g5SNsmGWzAxsW9UzLNS11aVRvhbRSrPePxz)
 
 ## [behavioural questions](https://my.mindnode.com/qhp3LXKjsxDoUGN9v7wuMRw4zj9pNqsD9d6yCoyn)
@@ -3245,6 +3239,10 @@ how to manifest and grow interesting ideas
 ### [food ✨](https://my.mindnode.com/v6WsinUUoZ5zVxF1L26yV939KC8nzEPsVZ8qrShV)
 
 - [cooking](https://my.mindnode.com/xmzXAff16XQ6nPgzCqmMgbESa2yvQz2AasY6Y4g5)
+
+### diet
+
+- [keto](https://my.mindnode.com/FqshsFZVdjaiYs1URWsbe9P1hfG6qn8AhcKypgx2)
 
 ## fasting
 
@@ -4700,7 +4698,7 @@ how can you teach effectively, how does one learn
 
 - 1990: Alan Perlis
 
-- 02: Edsger Dijkstra
+- [02: Edsger Dijkstra](https://my.mindnode.com/rkykZvR3jbPC3Hszk3o1nzyjDqnaZDHsysCysvx2)
 
 - 03: Edgar Codd
 
@@ -6336,7 +6334,7 @@ history of europe
 
 - stockholm
 
-### 1648: netherlands
+### [1648: netherlands](https://my.mindnode.com/ctpxoAq2wwdYdyshbMDMmwNLsM7cHp2VYgdT4xaB)
 
 - 1275: amsterdam
 
