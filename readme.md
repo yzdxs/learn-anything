@@ -1,4 +1,4 @@
-# [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Web 🌐](http://nikitavoloboev.xyz/knowledge-map/) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F)
+# [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Index 🗄️](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) + [Web 🌐](http://nikitavoloboev.xyz/knowledge-map/)
 
 ![](http://i.imgur.com/yukCH37.jpg)
 
