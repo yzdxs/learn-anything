@@ -8,7 +8,7 @@
 
 [I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
-I am also building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 1 minute) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can bookmark [this page](http://nikitavoloboev.xyz/knowledge-map/) and search for the node you need there. Perhaps you are looking for [some interesting quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN) or [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or  some [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
+I am also building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 2 minutes) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can bookmark [this page](http://nikitavoloboev.xyz/knowledge-map/) and search for the node you need there. Perhaps you are looking for [some interesting quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN) or [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or  some [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
 
 So much time is wasted looking for resources and help. There is a lot of effort being done to [ease this process](https://github.com/sindresorhus/awesome) but still, you have to look for it. What if instead of searching, you could instead explore and get yourself 'up to speed' with what our world already collectively knows.
 
@@ -22,7 +22,7 @@ It depends on what you are looking for and what your goals are. I would suggest 
 
 ⚠️️ 
 
-- it takes ~ 1 minute to load (sometimes more)
+- it takes ~ 2 minutes to load (sometimes more)
 - does not load on mobile 
 - preferred to open mind maps in a new tab 
 - small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
@@ -356,6 +356,9 @@ If you have some specific questions about this project or about myself, my inter
 
 - is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
 - it is the right of people to conceal information about themselves that others might use to their advantage
+
+
+## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr)
 
 
 # [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
@@ -1324,6 +1327,8 @@ program that will analyse code for potential errors
 
 - is a mind sport usually held over internet or a local network which involves participants trying to program according to provided specifications  
 - the competition generally involves a set of logical or mathematical problems and contestants are required to write computer programs capable of solving each problem
+
+## debugging
 
 
 # [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
@@ -2753,7 +2758,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 - biological or physical anthropology studies the biological development of humans
 
 
-# society
+# [society](https://my.mindnode.com/ytMnsWYh2JNzCzT4ZpWzsfheupRKLEd5yqxQ6CxT)
 
 - is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  
 - they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions
@@ -2870,7 +2875,9 @@ short for deoxyribonucleic acid, is the molecule that contains the genetic code 
 
 ### [gmo](https://my.mindnode.com/64ovUsp7NCKZLKDpBuvscHyKXGbkvNnZUVgg91sH)
 
-## [longevity](https://my.mindnode.com/2pP1tdxXxtxhNyhGy551fVEb1JN8XbS4R6qbQhNf)
+## aging
+
+### [longevity](https://my.mindnode.com/2pP1tdxXxtxhNyhGy551fVEb1JN8XbS4R6qbQhNf)
 
 ## [protein](https://my.mindnode.com/rK5HqsvLPJ7qih8EVE6ysKeE66WqDepH95K7VCAR)
 
@@ -2955,6 +2962,8 @@ ability to choose between different possible courses of action
 what is the nature of knowledge, justification and the rationality of belief
 
 ## [buddhism](https://my.mindnode.com/PHeBsyHD839v5iix1qB36PwaQjkLhYW7w6ttvpx6)
+
+## [simulated reality](https://my.mindnode.com/9LssoqBJ4QBMCDuyRPx8aKjiaGRxmVgE5xE7uXYz)
 
 
 # [feelings](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
@@ -3162,6 +3171,14 @@ treating animals as equals and abstaining from eating and using animal products 
 # [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
+# weapons
+
+
+## guns
+
+### [1800: shotgun](https://my.mindnode.com/tZBpWKbRdfzcyDgCe3cNZ3gmRx5VTDU9fJXjqkxM)
+
+
 # [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
 
 
@@ -3223,32 +3240,6 @@ newsletters I found interesting
 how to manifest and grow interesting ideas
 
 
-# [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
-
-
-## [nutrition ✨](https://my.mindnode.com/KxGQpeGpwRvAYNWaKy7U7pvnxivHzfoU9x73txyL)
-
-### [drinks](https://my.mindnode.com/QnYKDwuFgWReEQ3uZDMNexpJDsYbi4pqNppiRCbD)
-
-- [smoothies](https://my.mindnode.com/qQ7VYL3ZGeRyom9e1rwfRbmHRqi7iDeQEuDFf6Yy)
-
-- [coffee](https://my.mindnode.com/c6wSpxBmLZ5rYqweqtxaBQ2twUGVmGKR1pL73sFn)
-
-- tea
-
-### [food ✨](https://my.mindnode.com/v6WsinUUoZ5zVxF1L26yV939KC8nzEPsVZ8qrShV)
-
-- [cooking](https://my.mindnode.com/xmzXAff16XQ6nPgzCqmMgbESa2yvQz2AasY6Y4g5)
-
-### diet
-
-- [keto](https://my.mindnode.com/FqshsFZVdjaiYs1URWsbe9P1hfG6qn8AhcKypgx2)
-
-## fasting
-
-## immune system
-
-
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
 
@@ -3287,6 +3278,34 @@ blogs I like or want to read
 ### [packages ✨](https://my.mindnode.com/paFDsFpR6vUoXKxzpgoD2pbiygDpfbuFjLaVAqC1)
 
 - [TikZ](https://my.mindnode.com/kxsDhHQNkgwxymTRsgzQ2XhQ8RZCyCFdkUjbUSao)
+
+
+# [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
+
+
+## [nutrition ✨](https://my.mindnode.com/KxGQpeGpwRvAYNWaKy7U7pvnxivHzfoU9x73txyL)
+
+### [drinks](https://my.mindnode.com/QnYKDwuFgWReEQ3uZDMNexpJDsYbi4pqNppiRCbD)
+
+- [smoothies](https://my.mindnode.com/qQ7VYL3ZGeRyom9e1rwfRbmHRqi7iDeQEuDFf6Yy)
+
+- [coffee](https://my.mindnode.com/c6wSpxBmLZ5rYqweqtxaBQ2twUGVmGKR1pL73sFn)
+
+- tea
+
+### [food ✨](https://my.mindnode.com/v6WsinUUoZ5zVxF1L26yV939KC8nzEPsVZ8qrShV)
+
+- [cooking](https://my.mindnode.com/xmzXAff16XQ6nPgzCqmMgbESa2yvQz2AasY6Y4g5)
+
+### diet
+
+- [keto](https://my.mindnode.com/FqshsFZVdjaiYs1URWsbe9P1hfG6qn8AhcKypgx2)
+
+## fasting
+
+## immune system
+
+## [skin care](https://my.mindnode.com/DK8XfQvbG86n8M5XsyH2pNMCMuNPz2s3tn6m9Bq2)
 
 
 # [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
@@ -3387,6 +3406,8 @@ all the books I am currently reading or have read
 
 ### python
 
+- 1999: python essential reference
+
 - [04: dive into python 3](https://my.mindnode.com/RudhkWsnsMZRgbSPnwKhZYym4Ap6m658VVyJj1ND)
 
 - [05: problem solving with algorithms and data structures using python](https://my.mindnode.com/3aUdQ7QqBFftBraNnXbyUw5izMYwFuEQhUptDQTT)
@@ -3398,6 +3419,9 @@ all the books I am currently reading or have read
 - [15: effective python](https://my.mindnode.com/8djuK3UtBhDhpwXGq9jeStHnaahzue8oD49vLSCX)
 
 - [15: fluent python](https://my.mindnode.com/ffjVRU6yNfGC2UrMzsaTnyFksyHzxzMxjoVrzFz4)
+
+- [17: inside the python virtual machine](https://my.mindnode.com/BKotJ9WGQsDa58wF8jy9smBKWChWjMCDdqM2Yzbx)
+  - free:
 
 - [automate the boring stuff with python](https://my.mindnode.com/m58Rc9uXfm9PqxRMH7cEMozYRNvas1LGnpYhzqJs)
   - free:
@@ -3519,8 +3543,16 @@ all the books I am currently reading or have read
 
 ### unix
 
+- 1992: advanced programming in the unix environment
+
+- 1993: unix power tools
+
 - [14: an introduction to unix](https://my.mindnode.com/cMxh9Qqz5vfxsaS9q7wQ4jHx1mMhQVzivkdY4thv)
   - free:
+
+### linux
+
+- 14: how linux works
 
 ### node.js
 
@@ -3655,6 +3687,8 @@ all the books I am currently reading or have read
 
 ### 1992: TCP/IP network administration
 
+### 1993: tcp/ip illustrated
+
 ### 1999: interconnections: bridges, routers, switches, and internetworking protocols
 
 ### 00: computer networking: a top-down approach
@@ -3662,6 +3696,11 @@ all the books I am currently reading or have read
 ### 03: unix network programming, volume 1: the sockets networking api
 
 ### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
+
+### [13: high performance](https://my.mindnode.com/iVYwiskARULBpc2BWAy5Jd9qvK8w1vutLp6NU87s)  
+  [browser networking](https://my.mindnode.com/iVYwiskARULBpc2BWAy5Jd9qvK8w1vutLp6NU87s)
+
+- free:
 
 ### [15: openssl cookbook](https://my.mindnode.com/aLHfSPhKPXCkbv6yZtDkR75zD1Mx6XSzPyB6msAx)
 
@@ -3835,6 +3874,10 @@ free:
 
 ### 12: foundations of analysis
 
+### [17: the napkin project](https://my.mindnode.com/G5abx2gB4ZxTqZ3TrQVFLDgriKeDuxxeoksa2ipY)
+
+- free:
+
 ### [17: mathematics for computer science](https://my.mindnode.com/MfRwcmjFzj9khs9N6kgqfQqQHCGpkN5uVPtoE1yU)
 
 ### [17: immersive linear algebra ✨](https://my.mindnode.com/kaHsscPCN8pBzpZyDSrryCoNTqHUiSw38pSHPjsb)
@@ -3903,6 +3946,8 @@ free:
 
 ### 03: a short history of nearly everything
 
+### 14: what if?
+
 ## data science
 
 ### [14: designing data intensive applications](https://my.mindnode.com/xgazkstoTxKmzb1SFsc1kUJsaPzy2gCpE8xERbCy)
@@ -3928,6 +3973,8 @@ free:
 ### 1854: walden
 
 ### 1942: the world of yesterday
+
+### 00: on writing
 
 ### 2014: a thousand tiny failures: memoirs of a pickup artist ✔
 
@@ -3955,15 +4002,21 @@ free:
 
 ### 1925: heart of a dog ✨✔
 
+### 1925: the great gatsby
+
 ### [1932: brave new world](https://my.mindnode.com/GWS9opvUosRWojTPxiajDbwRxjRH1SJfRHG2Hd5b)
 
 ### 1943: the glass bead game
 
 ### 1945: animal farm
 
+### 1948: no longer human
+
 ### 1949: nineteen eighty-four ✨
 
 ### 1951: the rebel: an essay on man in revolt
+
+### 1952: east of eden
 
 ### 1953: fahrenheit 451
 
@@ -3992,6 +4045,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 ### 1965: dune
 
 ### 1967: master and margarita ✨✔
+
+### 1967: one hundred years of solitude
 
 ### 1969: slaughterhouse five
 
@@ -4055,7 +4110,7 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 11: the martian
 
-### 14: red rising
+### 15: golden son
 
 ### the dispossessed
 
@@ -4067,7 +4122,11 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 - hyperion cantos
 
+- the dark tower
+
 - foundation
+
+- red rising
 
 - culture
 
@@ -4076,6 +4135,20 @@ details Aldous Huxley’s own experiences when taking mescaline
 - rama
 
 	- 1973: rendezvous with rama
+
+## fantasy
+
+### 01: american gods
+
+### 11: the night circus
+
+### series
+
+- a song of ice and fire
+
+- the stormlight archive
+
+- the wheel of time
 
 ## adventure
 
@@ -4107,6 +4180,8 @@ free:
 
 ## non fiction
 
+### 1938: homage to catalonia
+
 ### 1997: into thin air
 
 ### 09: coders at work: reflections on the craft of programming
@@ -4118,6 +4193,8 @@ free:
 ### 1962: the structure of scientific revolutions
 
 ### 1973: gravity’s rainbow
+
+### 1973: the gulag archipelago
 
 ### 1975: american slavery, american freedom
 
@@ -4167,9 +4244,11 @@ free:
 
 ## evolution
 
-### [the selfish gene](https://my.mindnode.com/APDG3wu3couR4ZV6StdxWPaRYCi1qHTiqb6pDpFm)
+### [1976: the selfish gene](https://my.mindnode.com/APDG3wu3couR4ZV6StdxWPaRYCi1qHTiqb6pDpFm)
 
-### darwin's dangerous idea
+### 1995: darwin's dangerous idea
+
+### 09: life ascending: the ten great inventions of evolution
 
 ## philosophy
 
@@ -4277,6 +4356,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 07: einstein: his life and universe
 
+### 09: the strangest man
+
 ### 11: steve jobs
 
 ### [15: elon musk: tesla, spacex, and the quest for a fantastic future](https://my.mindnode.com/oGry1D2y682DZSzo8yxxWuf1muezNEVR2BzK8uZN)
@@ -4355,16 +4436,44 @@ free:
 
 ### 1996: the data warehouse toolkit
 
+## security
+
+### 05: the database hacker’s handbook
+
+- most detailed book available for attacking databases  
+	- covers basic through advanced topics
+
+### 10: a guide to kernel exploitation
+
+- advanced exploitation of a range of operating systems
+
+### 11: the tangled web
+
+- detailed look at the foundations of web protocols followed by a thorough examination of their weakness
+
+### [14: the web application hackers handbook](https://my.mindnode.com/wqWsq6FGZPoQ1SetvzRbXaEiKCYjRsiPvXdTdqJr)
+
+- free:
+
+### 14: the browser hacker's handbook
+
+- a detailed look into many web security topics   
+	- covers basic through advanced topics
+
+## film making
+
+### 05: on film making: an introduction to the craft of the director
+
+## graphic design
+
+### 1992: the elements of typographic style
+
+### 15: logo design love
+
 
 # [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 live talks I have personally attended and have seen and made notes on
-
-
-# [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
-
-
-## vaccines
 
 
 # [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
@@ -4386,6 +4495,12 @@ laws concerning European Union
 
 
 # [public speaking](https://my.mindnode.com/sNrmgaBsj4cDn2eHwDhYwnTkMqsGLWrucesVaAsK)
+
+
+# [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
+
+
+## vaccines
 
 
 # [questions](https://my.mindnode.com/iyGwrtBKeFz27eTVNMemuqcu5z5pzA5nhPFXseRp)
@@ -6995,6 +7110,10 @@ companies that I find interesting sorted by their domain
 
 ### 1983: at&t
 
+### 1984: dell
+
+### 1984: lenovo
+
 ### 1991: blizzard
 
 ### 1991: vodafone
@@ -7020,6 +7139,8 @@ companies that I find interesting sorted by their domain
 ### 1999: salesforce
 
 ### 00: baidu
+
+### 00: blue origin
 
 ### 00: yandex
 
@@ -7195,6 +7316,8 @@ how to find work and what to focus on
 ## [financial independence](https://my.mindnode.com/vzsTNr8PKyqWCMYYbpgWqFQP97qeyEXYT5QZz39b)
 
 ## [creative](https://my.mindnode.com/55YPRCtghqP6zzT5edpEX6nS5wzKwgwTDkFxvgBD)
+
+## [freelancing](https://my.mindnode.com/uydk8HT64JffVZk2Nb2wtVBQLkVvSiaEqHuMocsv)
 
 
 # keyboard
