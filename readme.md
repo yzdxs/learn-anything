@@ -1330,6 +1330,8 @@ program that will analyse code for potential errors
 
 ## debugging
 
+## [language design](https://my.mindnode.com/SFyx1AMA4eKBbkwq59ymrQz3AEKQMiw8A8SV1WeX)
+
 
 # [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
 
@@ -1586,6 +1588,8 @@ program that will analyse code for potential errors
 ## [12: elm](https://my.mindnode.com/p3q2ypyBqdQ7rMejEr9xTuKQvWcMSss8xvkfpWUQ)
 
 - domain specific for declaratively creating web browser based GUI, purely functional with emphasis on usability, performance and robustness
+
+## 13: lean
 
 ## [14: swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
 
@@ -2127,6 +2131,8 @@ known (uncertainty principle)
 - quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space  
 	- the space of pure states of a quantum system is given by the one-dimensional subspaces of the corresponding Hilbert space (or the ‘points’ of the projective Hilbert space)  
 	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
+
+## uncertainty principle
 
 
 # [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
@@ -2852,6 +2858,8 @@ increase the likelihood that a person will seek repeated exposure to them)
 ### [limbic system](https://my.mindnode.com/cwqeAq9gpPxEsmvBQReBUN6FSCKztMVzbswXysFc)
 
 ## [body](https://my.mindnode.com/Tp4Khq4gHNZAw91rXsopiJBGbaJkmR4s3TviqEpT)
+
+### [nervous system](https://my.mindnode.com/Uy3zYUNLc9yZVSqvCzwv5rgzqMu9ndbcM3yyb8Gz)
 
 
 # [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
@@ -3676,6 +3684,8 @@ all the books I am currently reading or have read
 ### 1994: nonlinear dynamics and chaos
 
 ### 1994: pale blue dot
+
+### 1994: black holes and time warps
 
 ### [04: the fabric of the cosmos](https://my.mindnode.com/4UotGN8qos3eaiAdURjsaEQyefqqfpigkpbYymHH)
 
@@ -5145,7 +5155,7 @@ how can you teach effectively, how does one learn
 
 - 11: Steve Jobs
 
-- Larry Page
+- [Larry Page](https://my.mindnode.com/pCHebs6iGhyDPjmgLBcDruyKHpcmRRJi1Y1Lz2ez)
 
 - Elon Musk
 
@@ -5940,9 +5950,6 @@ what it means to be creative and where does creativity come from
 series I have seen or plan on watching
 
 
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
-
-
 # [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
 
@@ -5956,7 +5963,7 @@ series I have seen or plan on watching
 
 ## relational
 
-### PostgreSQL
+### [PostgreSQL](https://my.mindnode.com/nyj6Wrb2gNuzw3gQxzTf1WLvBBvMue9YFy1ghcrc)
 
 ### [mySQL](https://my.mindnode.com/yupFQhmNKYEX4uFdxAt3UVz94QZg7HPZTeWxEZ2j)
 
@@ -5965,6 +5972,9 @@ series I have seen or plan on watching
 ### [mongoDB](https://my.mindnode.com/4q2yVcCd9VZybPfP14zEnWGtA24XxsqdyNxNEZDH)
 
 ## [sql](https://my.mindnode.com/pLxGS7nzpTo1VuCYeG7NKpx11B9VxKbrs3qfjpwp)
+
+
+# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
 
 
 # [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
@@ -6223,6 +6233,8 @@ courses I am doing or plan on doing
 ### [17: deep learning](https://my.mindnode.com/zkHq5xpYjoqDAYDxUJvCEe6KEu5Ssq7Ay5gz2uhE)
 
 ### [17: berkeley deep reinforcement learning](https://my.mindnode.com/ypVmgii9xHwF5CqgN2kzqCisVFYBBL5ChBvpsW6P)
+
+### [17: stanford natural language processing with deep learning](https://my.mindnode.com/o4QnKCNotckY9N5GoUakaJap9zao8gxqXJuJzzES)
 
 ### [stanford deep learning for natural language processing](https://my.mindnode.com/gzaewsTnpznLtwdj4BxsR1MjfpXAwfKQyyyPgxyT)
 
