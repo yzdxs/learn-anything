@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Web 🌐](http://nikitavoloboev.xyz/knowledge-map/)
 
-![](http://i.imgur.com/yukCH37.jpg)
+![](http://i.imgur.com/Ni4I7Uy.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -1781,7 +1781,11 @@ program that will analyse code for potential errors
 
 ### 04: world of warcraft
 
+### 05: gunz: the duel
+
 ### 07: mass effect
+
+### 07: bioshock
 
 ### 07: portal
 
@@ -1829,6 +1833,8 @@ program that will analyse code for potential errors
 
 ### 12: borderlands 2
 
+### 12: far cry 3
+
 ### 12: diablo III
 
 ### 12: torchlight II
@@ -1870,6 +1876,8 @@ program that will analyse code for potential errors
 ### 14: lisa
 
 ### 14: destiny
+
+### 14: the talos principle
 
 ### 15: cities: skylines
 
@@ -1916,6 +1924,8 @@ program that will analyse code for potential errors
 ### 16: oxenfree
 
 ### 16: the witness
+
+### 17: nier: automata
 
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
@@ -6427,6 +6437,12 @@ courses I am doing or plan on doing
 ## web
 
 ### [15: cutting-edge web technologies](https://my.mindnode.com/izxAs92yV9UVTenbT6LYxzsaiQwpAD8YTe9Favzp)
+
+## crypto
+
+### [stanford cryptography I](https://my.mindnode.com/B6xF7bbd3TLt5RqNDfYQFwLHS7yVkCgfzyqyyNSA)
+
+### [17: stanford cryptography II](https://my.mindnode.com/dwMfaq2yWUuto8TXyXLpFmCyXZhU2zc7Xy5YbHxe)
 
 
 # [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
