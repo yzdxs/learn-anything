@@ -435,6 +435,33 @@ If you have some specific questions about this project or about myself, my inter
 ## 1903: planes
 
 
+# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
+
+- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
+
+
+## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
+
+- owned by Amazon  
+- offered a suite of cloud computing services that make up an on-demand computing platform
+
+## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
+
+- known as function as a service (FaaS)  
+	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
+
+## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
+
+- provides developer products to build a range of programs from simple websites to complex applications
+
+## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+- owned by Microsoft  
+- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
+
+## heroku
+
+
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
 - moving people or things from one place to another place  
@@ -461,31 +488,6 @@ If you have some specific questions about this project or about myself, my inter
 - road vehicle used to carry passengers
 
 - electric
-
-
-# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
-
-- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
-
-
-## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
-
-- owned by Amazon  
-- offered a suite of cloud computing services that make up an on-demand computing platform
-
-## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
-
-- known as function as a service (FaaS)  
-	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
-
-## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
-
-- provides developer products to build a range of programs from simple websites to complex applications
-
-## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
-
-- owned by Microsoft  
-- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
 
 
 # [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
@@ -810,6 +812,8 @@ If you have some specific questions about this project or about myself, my inter
 - the coordinates are taken to be real numbers in elementary mathematics, but may be complex numbers or elements of a more abstract system such as a commutative ring  
 - the use of a coordinate system allows problems in geometry to be translated into problems about numbers and vice verse (this is the basis of analytic geometry)
 
+### [tetrahedron](https://my.mindnode.com/M4au3SCsmsQXzkoRXVommhFvM4Rw1pJ9wybgZTA5)
+
 ## [analysis](https://my.mindnode.com/6sxbuYZbQANpyrhCVnrcw8APN9eZdGzBV5yvqtAq)
 
 - deals with limits and related theories, such as differentiation, integration, measure, infinite series and analytic functions  
@@ -1030,6 +1034,8 @@ If you have some specific questions about this project or about myself, my inter
 
 - studies relationships involving lengths and angles of triangles 
 
+## [dimensions](https://my.mindnode.com/EDcbekv2bRRkt5AsgR4KhtStTUBcy2Vb4jhw4cNX)
+
 
 # infrastructure
 
@@ -1177,7 +1183,7 @@ method of solving problems, using this method, a complex problem is split into s
 
 - is a style of building the structure and elements of computer programs that expresses the logic of a computation without describing the control flow
 
-- [functional ✨](https://my.mindnode.com/VBKbwLewsn3MhqzDHunGu2GzKrU5apxicASUbHri)
+- [functional ✨](https://my.mindnode.com/yLFW2vMCgshzaepsYcYDCpYnRBFktycVYmjtRwcF)
   - is a style of building the structure and elements of computer programs that treats computation as the evaluation of mathematical functions and avoids changing state and mutable data  
   - in functional code, the output value of a function depends only on the argument that are passed to the function, so calling a function f twice with the same value for an argument x will produce the same result f(x) each time  
   - eliminating side effects (changes in state that do not depend on the function inputs), can make it much easier to understand and predict the behaviour of a program  
@@ -2088,7 +2094,7 @@ program that will analyse code for potential errors
 	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
 
 
-# [1913: quantum physics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
+# [1913: quantum mechanics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
 
 - is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
 - classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
@@ -2133,6 +2139,8 @@ known (uncertainty principle)
 	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
 
 ## uncertainty principle
+
+## atomic orbital
 
 
 # [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
@@ -2345,6 +2353,8 @@ known (uncertainty principle)
 - the primary properties of visible light are intensity, propagation, direction, frequency and wavelength spectrum and polarisation while its speed in a vacuum is one of the fundamental constants of nature  
 - in physics, light refers to electromagnetic radiation of any wavelength, whether visible or not  
 	- in this sense, gamma rays, X-rays, microwaves and radio waves are also light
+
+### [holography](https://my.mindnode.com/ELiXTuHaiTdQSyozcXyoFpv2SshP7vqDVaukZEJs)
 
 ## [waves](https://my.mindnode.com/kHbyKQxtnpQugwU4bdVKoC8zqTyDFwygXZyT5bsy)
 
@@ -2883,7 +2893,7 @@ short for deoxyribonucleic acid, is the molecule that contains the genetic code 
 
 ### [gmo](https://my.mindnode.com/64ovUsp7NCKZLKDpBuvscHyKXGbkvNnZUVgg91sH)
 
-## aging
+## [aging](https://my.mindnode.com/QCNcuj8UwHow6aghE3sw8vzZYgazqPmqMNx9tr7s)
 
 ### [longevity](https://my.mindnode.com/2pP1tdxXxtxhNyhGy551fVEb1JN8XbS4R6qbQhNf)
 
@@ -2907,6 +2917,8 @@ long chain molecules built from small units known as amino acids, they are joine
 ### [abiogenesis](https://my.mindnode.com/sd4fQ7CxJm1yhY2ixe4C1pdx593yx7mPxxumR7WS)
 
 - is the natural process by which life arises from non-living matter, such as simple organic compounds
+
+### [evolution](https://my.mindnode.com/qs3qFmoJmkmpAwsMTvzsesiUQ69obUQ1TTqD5yyU)
 
 ## [death](https://my.mindnode.com/Cj66AzrSbndZy51Bwx7iDiBzs5sKDqPTNwLSh1XP)
 
@@ -2991,7 +3003,7 @@ complex and usually unpleasant emotional response to isolation or lack of compan
 
 mental or emotional state of well being defined by positive or pleasant emotions
 
-## love
+## [love](https://my.mindnode.com/mAby5ttzfeyvG5sdtGnLV5fqgfYZFRWXhtow3j69)
 
 a variety of of different feelings, states and attitudes ranging from interpersonal affection to pleasure
 
@@ -4372,6 +4384,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### [15: elon musk: tesla, spacex, and the quest for a fantastic future](https://my.mindnode.com/oGry1D2y682DZSzo8yxxWuf1muezNEVR2BzK8uZN)
 
+### 17: trump revealed: the definitive biography of the 45th president
+
 ## awareness 
 
 ### last chance to see
@@ -5485,12 +5499,12 @@ interesting ask me anything threads I found on the internet
 
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
-it is best to learn from mistakes of others so as to not repeat them
-
 
 ## events
 
 ### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### [330-1453: byzantine empire](https://my.mindnode.com/2sok6Uhdvjyx9puYB296xuzRwSmHCaqv15qpypdM)
 
 ### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
 
@@ -5658,6 +5672,8 @@ research papers I am reading and want to read
 ## [other](https://my.mindnode.com/pzqbpqnzFJUMNCp9aCGxAXziPDQHbGhKJmfcFa3s)
 
 ## operating systems
+
+## [physics](https://my.mindnode.com/hGhAeJeTjL98Po31yrGomNpdNJZJCXyzL2mt41pf)
 
 
 # communication
@@ -6166,7 +6182,9 @@ connecting physical objects to the internet and using them in a smart way
 
 ## load balancing
 
-## content delivery network
+## cdn
+
+### fastly
 
 
 # [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
@@ -6185,6 +6203,8 @@ connecting physical objects to the internet and using them in a smart way
 ## [03: rails](https://my.mindnode.com/YGjZMgJtzjxHNjVyqvLNUmumHZ3oBmvb2UfxrYCq)
 
 ## sinatra
+
+## grape
 
 ## testing
 
@@ -7041,179 +7061,6 @@ what it means to make a search engine and what is needed
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
 
 
-# companies
-
-
-## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
-
-companies that I find interesting sorted by their domain
-
-### 1865: nokia
-
-### 1889: nintendo
-
-### 1891: philips
-
-### 1892: coca-cola
-
-### 1892: general electric
-
-### 1903: ford
-
-### 1911: ibm
-
-### 1916: boeing
-
-### 1916: bmw
-
-### 1919: tesco
-
-### 1923: disney
-
-### 1923: warner bros
-
-### 1937: toyota
-
-### 1937: volkswagen
-
-### 1937: canon
-
-### 1938: samsung
-
-### 1939: hewlett packard
-
-### 1943: ikea
-
-### 1946: sony
-
-- 1994: playstation
-
-### 1955: mcdonald’s
-
-### 1958: visa
-
-### 1960: domino’s pizza
-
-### 1962: walmart
-
-### 1968: intel
-
-### 1971: starbucks
-
-### 1974: zara
-
-### 1975: microsoft
-
-- 01: xbox
-
-- 09: bing
-
-### 1976: apple
-
-- 1984: mac
-
-- 07: iPhone
-
-### 1977: oracle
-
-### 1981: bloomberg
-
-### 1982: adobe systems
-
-### 1983: at&t
-
-### 1984: dell
-
-### 1984: lenovo
-
-### 1991: blizzard
-
-### 1991: vodafone
-
-### 1993: nvidia
-
-### 1993: red hat
-
-### [1994: amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
-
-### 1995: yahoo
-
-### 1996: booking
-
-### 1997: netflix
-
-### 1998: mozilla
-
-### 1998: paypal
-
-### 1999: alibaba
-
-### 1999: salesforce
-
-### 00: baidu
-
-### 00: blue origin
-
-### 00: yandex
-
-### 02: spacex
-
-### 02: linkedin
-
-### 03: tesla
-
-- 17: model 3
-
-### [04: facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
-
-### 05: reddit
-
-### 06: spotify
-
-### 06: twitter
-
-### 06: riot games
-
-### 07: dropbox
-
-### 07: vkontakte
-
-### 08: github
-
-### 08: airbnb
-
-### 08: docker
-
-### 08: duckduckgo
-
-### 09: slack
-
-### 09: imgur
-
-### 09: uber
-
-### 09: quora
-
-### 10: stripe
-
-### 10: instagram
-
-### 11: snapchat
-
-### 12: oculus vr
-
-### 15: alphabet
-
-- 1998: google
-
-- 11: deepmind
-
-	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
-	  an algorithm that dominated all the best human players at a game of Go
-
-- 13: calico
-
-
 # style sheet languages
 
 
@@ -7287,6 +7134,277 @@ all the useful and interesting go packages I have found sorted by domain
 # [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
 
 how to find customers for your products and expose your product to the world in the most efficient way
+
+
+# companies
+
+
+## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
+
+### 1865: nokia
+
+### 1869: goldman sachs
+
+### 1889: nintendo
+
+- 1989: game boy
+
+- 06: wii
+
+### 1891: philips
+
+### 1892: coca-cola
+
+### 1892: general electric
+
+### 1903: ford
+
+### 1905: rolex
+
+### 1905: nestle
+
+### 1906: kellogg’s
+
+### 1909: l’oreal
+
+### 1911: ibm
+
+### 1916: boeing
+
+### 1916: bmw
+
+### 1917: nikon
+
+### 1919: tesco
+
+### 1922: bbc
+
+### 1923: disney
+
+### 1923: warner bros
+
+### 1932: lego
+
+### 1937: toyota
+
+### 1937: volkswagen
+
+### 1937: canon
+
+### 1938: samsung
+
+- 09: samsung galaxy
+
+### 1939: hewlett packard
+
+### 1943: ikea
+
+### 1946: sony
+
+- 1994: playstation
+
+### 1955: mcdonald’s
+
+### 1958: visa
+
+### 1960: domino’s pizza
+
+### 1962: walmart
+
+### 1964: nike
+
+### 1965: subway
+
+### 1968: intel
+
+### 1971: starbucks
+
+### 1971: fedex
+
+### 1974: zara
+
+### 1975: microsoft
+
+- 01: xbox
+
+- 03: skype
+
+- 09: bing
+
+### 1976: apple
+
+- 1984: mac
+
+- 07: iPhone
+
+### 1977: oracle
+
+### 1981: bloomberg
+
+### 1982: adobe systems
+
+### 1982: electronic arts
+
+### 1983: at&t
+
+### 1984: blackberry
+
+### 1984: cisco
+
+### 1984: ted
+
+### 1984: dell
+
+- 1998: vmware
+
+### 1984: lenovo
+
+### 1985: qualcomm
+
+### 1991: blizzard
+
+### 1991: vodafone
+
+### 1993: nvidia
+
+### 1993: red hat
+
+### [1994: amazon](https://my.mindnode.com/Pvby1yQssdRPxQDAJBm1ysxLwbto8KH7V5BRA3sy)
+
+### 1995: yahoo
+
+- 07: tumblr
+
+### 1995: ebay
+
+### 1996: booking
+
+### 1996: valve
+
+### 1997: netflix
+
+### 1998: mozilla
+
+### 1998: paypal
+
+### 1998: rockstar games
+
+### 1999: alibaba
+
+### 1999: shazam
+
+### 1999: salesforce
+
+### 00: baidu
+
+### 00: blue origin
+
+### 00: yandex
+
+### 00: tripadvisor
+
+### 01: skyscanner
+
+### 02: spacex
+
+### 02: linkedin
+
+### 02: gopro
+
+### 03: tesla
+
+- 17: model 3
+
+### 03: king
+
+### [04: facebook](https://my.mindnode.com/R4Rh1aFvaQpsco81sVr4GfD38KP6fwFqxxmDZNZx)
+
+- 10: instagram
+
+- 12: oculus vr
+
+### 04: yelp
+
+### 04: unity
+
+### 04: palantir
+
+### 05: reddit
+
+### 05: etsy
+
+### 06: spotify
+
+### 06: twitter
+
+### 06: riot games
+
+### 07: dropbox
+
+### 07: twilio
+
+### 07: soundcloud
+
+### 07: khan academy
+
+### 07: vkontakte
+
+### 07: glassdoor
+
+### 08: github
+
+### 08: airbnb
+
+### 08: docker
+
+### 08: duckduckgo
+
+### 09: slack
+
+### 09: mojang
+
+### 09: imgur
+
+### 09: uber
+
+### 09: quora
+
+### 10: stripe
+
+### 10: xiaomi
+
+### 10: supercell
+
+### 10: pinterest
+
+### 11: snapchat
+
+### 11: udacity
+
+### 12: medium
+
+### 12: coursera
+
+### 12: instacart
+
+### 15: alphabet
+
+- [1998: google](https://my.mindnode.com/bnXRLNB97TvU2Ywqp5UaB6sGsYEg599p7djex8Lp)
+
+	- 10: google nexus
+
+- 05: youtube
+
+- 11: deepmind
+
+	- [alpha go ✨](https://my.mindnode.com/NLQAk2KBeaeM8Xc5pNuxzn6yy7z1gRBTzeu4e7dC)
+	  an algorithm that dominated all the best human players at a game of Go
+
+- 13: calico
+
+### 15: openAI
+
+### 15: monzo
 
 
 # [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
