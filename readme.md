@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Web 🌐](http://nikitavoloboev.xyz/knowledge-map/)
 
-![](http://i.imgur.com/Ni4I7Uy.jpg)
+![](http://i.imgur.com/XAwsxo3.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
@@ -216,11 +216,87 @@ If you have some specific questions about this project or about myself, my inter
 - other important capabilities include the ability to sense (e.g. see) and the ability to act (e.g. move and manipulate objects) in the world where intelligent behaviour is to be observed 
 
 
+# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+
+- is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
+- it is the right of people to conceal information about themselves that others might use to their advantage
+
+
+## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr)
+
+
+# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
+
+- someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
+
+
 # [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
 
 - are software agents that act for a user or other programs in relationship of agency (an agreement to act on one’s behalf)  
 - they may be autonomous or work together with other agents or people  
 - agents interacting with people may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form
+
+
+# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
+
+- is the degree of resistance to, or protection from, harm  
+- it applies to any vulnerable and/or valuable asset
+
+
+## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
+
+- a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  
+- general attack sequence in steps is  
+	- find an exploitable vulnerability   
+	- design an attack around it  
+	- test the attack  
+	- seize a line in use  
+	- enter the attack  
+	- exploit the entry for information recovery
+
+## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
+
+- practice and study of hiding information, is used to try and keep information secret and safe  
+- when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
+- examples algorithms include   
+	- RSA  
+	- AES
+
+### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
+
+- allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
+
+### cryptanalysis
+
+- [frequency analysis](https://my.mindnode.com/a9ABAYmcAfZpAwszsXFzWdaSgPP5h2YGp5REAAZV)
+  - study of the frequency of letters or groups of letters in a ciphertext  
+  - it is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies  
+  	- there is a characteristic distribution of letters that is roughly the same for almost all samples of that language
+
+## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
+
+- a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
+
+## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
+
+- short for malicious software  
+- is a kind of software that can be installed on a computer without approval from the computer’s owner
+
+
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+
+- deals with how computers can be made for gaining high-level understanding from digital images or videos  
+- it seeks to automate tasks that the human visual system can do  
+- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## libraries
+
+### [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+- open source computer vision library for real time computer vision 
 
 
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
@@ -344,36 +420,6 @@ If you have some specific questions about this project or about myself, my inter
 - are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
 
 
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-- deals with how computers can be made for gaining high-level understanding from digital images or videos  
-- it seeks to automate tasks that the human visual system can do  
-- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## libraries
-
-### [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
-
-- open source computer vision library for real time computer vision 
-
-
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
-
-- is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
-- it is the right of people to conceal information about themselves that others might use to their advantage
-
-
-## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr)
-
-
-# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
-
-- someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
-
-
 # [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 - is a particular way of organising data in a computer so that it can be used efficiently  
@@ -381,52 +427,6 @@ If you have some specific questions about this project or about myself, my inter
 	- a data structure is a concrete implementation of the specification provided by an ADT  
 - are generally based on the ability of a computer to fetch and store data at any place ints its memory, specified by a pointer (a bit string, representing a memory address), that can be itself stored in memory and manipulated by the program  
 - implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
-
-
-# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
-
-- is the degree of resistance to, or protection from, harm  
-- it applies to any vulnerable and/or valuable asset
-
-
-## [penetration testing ✨](https://my.mindnode.com/fvq398jYzvAdQ4T1cmKnX7vDyyHkooRTyufF49w8)
-
-- a penetration test is an authorised simulated attack on a computer system that looks for security weaknesses, potentially gaining access to the system’s features and data  
-- general attack sequence in steps is  
-	- find an exploitable vulnerability   
-	- design an attack around it  
-	- test the attack  
-	- seize a line in use  
-	- enter the attack  
-	- exploit the entry for information recovery
-
-## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
-
-- practice and study of hiding information, is used to try and keep information secret and safe  
-- when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
-- examples algorithms include   
-	- RSA  
-	- AES
-
-### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
-
-- allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
-
-### cryptanalysis
-
-- [frequency analysis](https://my.mindnode.com/a9ABAYmcAfZpAwszsXFzWdaSgPP5h2YGp5REAAZV)
-  - study of the frequency of letters or groups of letters in a ciphertext  
-  - it is based on the fact that, in any given stretch of written language, certain letters and combinations of letters occur with varying frequencies  
-  	- there is a characteristic distribution of letters that is roughly the same for almost all samples of that language
-
-## [capture the flag](https://my.mindnode.com/aFDPnj4zhRzux2zsBqjsGzw5QeYxgTKkcgc7rFpe)
-
-- a computer security competition usually designed to serve as an educational exercise to give participants experience in securing a machine, as well as conduction and reacting to the sort of attacks found in the real world
-
-## [malware](https://my.mindnode.com/pVQngK2FS1cGhZEBhND7XkjGocB3NofrCeQ9LxJD)
-
-- short for malicious software  
-- is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
 # [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
@@ -441,33 +441,6 @@ If you have some specific questions about this project or about myself, my inter
 ## 1100: rockets
 
 ## 1903: planes
-
-
-# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
-
-- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
-
-
-## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
-
-- owned by Amazon  
-- offered a suite of cloud computing services that make up an on-demand computing platform
-
-## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
-
-- known as function as a service (FaaS)  
-	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
-
-## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
-
-- provides developer products to build a range of programs from simple websites to complex applications
-
-## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
-
-- owned by Microsoft  
-- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
-
-## heroku
 
 
 # [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
@@ -507,6 +480,23 @@ If you have some specific questions about this project or about myself, my inter
 	- GPS  
 	- odometry  
 	- and computer vision
+
+
+# [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
+
+- models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
+	1. its current state  
+	2. states of the neighbouring cells
+
+
+## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
+
+- the ‘game’ is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input  
+- rules of the game are : 	  
+	1. any live cell with fewer than two live neighbours dies, as if caused by underpopulation  
+	2. any live cell with two or three live neighbours lives on to the next generation  
+	3. any live cell with more than three live neighbours dies, as if by overpopulation  
+	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 
 # [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
@@ -1045,36 +1035,6 @@ If you have some specific questions about this project or about myself, my inter
 ## [dimensions](https://my.mindnode.com/EDcbekv2bRRkt5AsgR4KhtStTUBcy2Vb4jhw4cNX)
 
 
-# infrastructure
-
-- refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
-
-
-## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
-
-### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
-
-- enables you to safely and predictably create, change and improve production infrastructure   
-- is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
-
-
-# [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
-
-- models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
-	1. its current state  
-	2. states of the neighbouring cells
-
-
-## [game of life](https://my.mindnode.com/sBQxfKxmxqg1LqSCN5pBFkjqJvcQuFjyifqTNHtk)
-
-- the ‘game’ is a zero-player game, meaning that its evolution is determined by its initial state, requiring no further input  
-- rules of the game are : 	  
-	1. any live cell with fewer than two live neighbours dies, as if caused by underpopulation  
-	2. any live cell with two or three live neighbours lives on to the next generation  
-	3. any live cell with more than three live neighbours dies, as if by overpopulation  
-	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
-
-
 # [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
 
 - is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation  
@@ -1406,6 +1366,310 @@ program that will analyse code for potential errors
 - it is about making fundamental structural choices which are costly to change once implemented
 
 
+# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
+
+- is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
+
+
+## [aws ✨](https://my.mindnode.com/N57fVJdk7PtyxzFCDZRRmy9wz3hxysEegBkgCihV)
+
+- owned by Amazon  
+- offered a suite of cloud computing services that make up an on-demand computing platform
+
+## [serverless](https://my.mindnode.com/SMs1LjnPGC7tXE15znbNFWb4oxsXxrz4r7soFRnf)
+
+- known as function as a service (FaaS)  
+	- is a cloud computing code execution model in which the cloud provider fully manages starting and stopping of a function’s container platform as a service (PaaS) as necessary to serve requests, and requests are billed by an abstract measure of the resources required to satisfy the request, rather than per visual machine, per hour
+
+## [google cloud](https://my.mindnode.com/Yz7FgNV1KLEkKiukc3QdQXtmSUEqjiotYKPmiGVx)
+
+- provides developer products to build a range of programs from simple websites to complex applications
+
+## [azure](https://my.mindnode.com/possp6UxnKdADbWhSbcGxuAB8TWqF4qXa3kscsh4)
+
+- owned by Microsoft  
+- provides software as a service, platform as a service and infrastructure as a service and supports many different programming languages, tools and frameworks
+
+## heroku
+
+
+# [1957: virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+
+- refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
+- VR also simulates a user’s physical presence in this environment 
+
+
+## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
+
+- oculus rift is a virtual reality headset developed by Oculus VR
+
+## [WebVR](https://my.mindnode.com/mxBVNT2vEGjxgxizzHEq3yPmoodYtxZLGJxpZvXL)
+
+- is an experimental javascript API that provides support for virtual reality devices
+
+### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
+
+- a web framework for building VR experiences
+
+
+# infrastructure
+
+- refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
+
+
+## [cloud](https://my.mindnode.com/myxFsByHrFqvzdnxzp3qyqZBCXZDK1DEeVpqiHCC)
+
+### [terraform](https://my.mindnode.com/ixixA1Yhz7pSLY2ZGDHFhzqxdsjGcZxRoSVzYmRx)
+
+- enables you to safely and predictably create, change and improve production infrastructure   
+- is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
+
+
+# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+
+- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
+	- is often done to create an executable program
+
+
+## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
+
+- is compilation done during execution of a program (at run time), rather than prior to execution  
+- mist often this consists of translation to machine code, which is then executed directly, but can also refer to translation to another format  
+- a system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation would outweigh the overhead of compiled that code  
+- JIT compilation is a combination of two traditional approaches to translation to machine code  
+	1. ahead of time compilation (AOT)  
+	2. and interpretation
+
+## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
+
+- is a computer program that directly executes (performs) instructions written in a programming or scripting language, without previously compiling them into machine language program  
+- an interpreter generally uses one of the following strategies for program execution :   
+	1. parse the source code and perform its behaviour directly (lisp, BASIC)  
+	2. translate source code into some efficient intermediate representation and immediately execute this (perl, python, ruby)  
+	3. explicitly execute stored precompiled code made by a compiler which is part of the interpreter system (Pascal)  
+- source programs are compiled ahead of time and stored as machine independent code, which is then linked at run-time and executed by an interpreter and/or compiler (for JIT systems)
+
+## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
+
+- is a form of instruction set designed for efficient execution by a software interpreter  
+- unlike human-readable source code, byte codes are compact numeric codes, constants and references (normally numeric addresses) that encode the result of compiler parsing and semantic analysis of things like type and nesting depths of program objects  
+- they thus allow much better performance than interpreting source code directly  
+- authors of V8 and Dart have challenged the notion that intermediate byte code is needed for fast and efficient VM implementation, both of these languages do direct JIT compiling from source code to machine code with no byte code intermediary
+
+## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
+
+- is what compiler produces   
+- it is a sequence of statements or instructions in a computer language, usually machine code language (i.e. binary) or an intermediate language such as register transfer language (RTL)  
+- object files can in turn be linked to form an executable file or library file  
+	- in order to be used, object code must either be placed in an executable file, a library file, or an object file  
+- object code is a portion of machine code that has not yet been linked into a complete program
+
+## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
+
+- is a set of instructions executed directly by a computer’s central processing unit (CPU)  
+- each instruction performs a very specific task, such as a load, a jump or an ALU operation on a unit of data in a CPU register or memory  
+	- every program directly executed by a CPU is made up of a series of such instructions
+
+## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
+
+- how to create an efficient and optimised compiler
+
+## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
+
+- how to effectively optimise the process of compiling
+
+### [optimising compiler](https://my.mindnode.com/BgnCykCteFedakmQYGqqJnZS1SFufzAMUUrD6d5i)
+
+- is a compiler that tries to minimise or maximise some attributes of an executable computer program  
+- most common requirement is to minimise the time taken to execute a program, a less common one is to minimise the amount of memory required  
+- it has been shown that some code optimisation problems are NP-complete, or even undecidable
+
+## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
+
+- is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  
+- it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  
+- it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  
+	- this new IR can then be converted and linked into machine-dependent assembly language code for a target platform
+
+## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
+
+- is the process by which a compiler’s code generator converts some intermediate representation of source code into a form (e.g. machine code) that can be readily executed by a machine  
+- the input to the code generator typically consists of a parse tree or an abstract syntax tree  
+	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
+
+
+# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
+
+- are pictures and films created using computers  
+- refers to computer generated image data created with help from specialised graphical hardware and software  
+- it is responsible for splaying art and image data effectively and meaningfully to the user  
+	- it is also used for processing image data received from the physical word
+
+
+## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
+
+- is a cross-language, cross platform API for rendering 2D and 3D vector graphics  
+- it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering
+
+## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
+
+- is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  
+- it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage
+
+## metal
+
+- is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8  
+- it has better performance than OpenGL due to   
+	- precomputed shaders and up-front state validation  
+	- explicit synchronisation between GPU and CPU  
+	- shared memory space between GPU and CPU  
+	- lower driver overhead
+
+## [rendering ✨](https://my.mindnode.com/2xnYJxwFM34AbKqxFs7R8PVzLJtcpQtoTgJHtaU2)
+
+- is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  
+- the results of such a model can be called a rendering  
+- a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  
+- the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file
+
+### [vector graphics](https://my.mindnode.com/WMAbr5nznMzNmTiVrTV1qbbqCf1AcsPZ5bQNsjsh)
+
+- is the use of polygons to represent images  
+- are based on vectors, which lead through locations called control points or nodes  
+- each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   
+	- further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill
+
+- [svg](https://my.mindnode.com/7P2xkiDiypyoMTFPWqvs8AVQjbsbqFpPmCTaMpap)
+  - is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation  
+  - since they are defined in XML test files, they can be searched, indexed, scripted and compressed
+
+## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
+
+- is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   
+- the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  
+- this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
+- it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
+- it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
+
+
+# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+
+- is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
+- it is the study of automating algorithmic processes that scale
+
+
+## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+
+- is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm  
+- it can be seen as a purely physical phenomenon occurring inside a closed physical system called a computer  
+- examples include  
+	- digital computers  
+	- mechanical computers  
+	- quantum computers  
+	- DNA computers  
+	- molecular computers  
+	- microfluidics-based computers   
+	- analog computers  
+	- or wetware computers  
+- some argue that evolution of the universe itself is a computation (pancomputationalism)
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
+
+- branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
+
+### bandwidth
+
+- is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  
+- the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel
+
+### symbolic computation
+
+- computer algebra system
+
+### computational geometry
+
+### evolutionary computation
+
+## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+- a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
+- the values returned by a hash function are called hash values, hash codes, digests or simply hashes  
+- one use is a data structure called a hash table, widely used in computer software for rapid data lookup
+
+## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
+
+- focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  
+- a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  
+- one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do
+
+### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
+
+- a decision problem is NP-complete when it is both in NP and NP-hard  
+- the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’
+
+## [parallel computing](https://my.mindnode.com/3BixssPswKdqHt4pCqzqCqxkqLg722PgPK4TSUNR)
+
+- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
+- large problems can often be divided into smaller ones, which can then be solved at the same time  
+- there are several different forms of parallel computing  
+	- bit-level  
+	- instruction-level  
+	- data  
+	- and task parallelism
+
+## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
+
+- is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  
+	- this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  
+	- this allows for parallel execution of the concurrent units  
+- design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput
+
+## programming language theory
+
+### [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
+
+- is a set of strings of symbols together with a set of rules that are specific to it  
+- the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
+	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
+- a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
+
+## automated theorem proving
+
+## image processing
+
+## [high performance computing](https://my.mindnode.com/N4AR39eVjhc8vwKzAzraLhJm8DxH5XrY8pAtp1bK)
+
+
+# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
+
+
+## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
+
+
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+
+- is the process of creating a video game
+
+
+## game engines
+
+### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
+
+- framework in Lua to make 2D games
+
+### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
+
+- cross platform
+
+### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
+
+- provides a huge set of common tools to create multi-platform 2D and 3D games
+
+## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
+
+- is a virtual machine designed to mimic a ‘fantasy video game console’
+
+
 # [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
 
 - is a formal computer language designed to communicate instructions to a machine, particularly a computer  
@@ -1626,238 +1890,74 @@ program that will analyse code for potential errors
 ## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 
-# [1957: virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+# [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
-- refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
-- VR also simulates a user’s physical presence in this environment 
+- studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  
+- they are different from binary digital electronic computers based on transistors   
+	- whereas common digital computing requires that the data be encoded into binary digits (bits), each of which is always in one two definite states (0 or 1), quantum computation uses quantum bits, which can be in superpositions of states  
+- a quantum turing machine is a theoretical model of such computer, and is also known as the universal quantum computer   
+- a single quit can represent a one, a zero, or any quantum superposition of those two quit states
 
 
-## [oculus](https://my.mindnode.com/v8FqmynzKTyAvkzdvfpzbouMdUTVs4eXLiZs9vE4)
+## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
 
-- oculus rift is a virtual reality headset developed by Oculus VR
+- is information that is held in the state of a quantum system  
+- it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
 
-## [WebVR](https://my.mindnode.com/mxBVNT2vEGjxgxizzHEq3yPmoodYtxZLGJxpZvXL)
 
-- is an experimental javascript API that provides support for virtual reality devices
+# human computer interaction
 
-### [A-FRAME ✨](https://my.mindnode.com/jdu1ayfDscywsupyXeJectoqkvsPfcvp5oytEBs8)
 
-- a web framework for building VR experiences
+## computer accessibility
 
 
-# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+# [1913: quantum mechanics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
 
-- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
-	- is often done to create an executable program
+- is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
+- classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
+- quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be   
+known (uncertainty principle)
 
 
-## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
+## [string theory](https://my.mindnode.com/SR2Z6ndrhp1gZRayycWksJEBzPcujR3xr7kWLfT9)
 
-- is compilation done during execution of a program (at run time), rather than prior to execution  
-- mist often this consists of translation to machine code, which is then executed directly, but can also refer to translation to another format  
-- a system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation would outweigh the overhead of compiled that code  
-- JIT compilation is a combination of two traditional approaches to translation to machine code  
-	1. ahead of time compilation (AOT)  
-	2. and interpretation
+- is a theoretical framework in which the point-like particles or particle physics are replaced by one-dimensional objects called strings  
+	- it describes how these strings propagate through space and interact with each other  
+	- on distance scales large than the string scale, a string looks just like an ordinary particle, with its mass, charge and other properties determined by the vibrational state of the string  
+	- one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries gravitational force
 
-## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
+## [spin](https://my.mindnode.com/sDbRjiYXfC12qpF6efAn9sKpk2XyTdWFvwDeksph)
 
-- is a computer program that directly executes (performs) instructions written in a programming or scripting language, without previously compiling them into machine language program  
-- an interpreter generally uses one of the following strategies for program execution :   
-	1. parse the source code and perform its behaviour directly (lisp, BASIC)  
-	2. translate source code into some efficient intermediate representation and immediately execute this (perl, python, ruby)  
-	3. explicitly execute stored precompiled code made by a compiler which is part of the interpreter system (Pascal)  
-- source programs are compiled ahead of time and stored as machine independent code, which is then linked at run-time and executed by an interpreter and/or compiler (for JIT systems)
+- is an intrinsic form of angular momentum carried by elementary particles, composite particles (hadrons) and atomic nuclei  
+- spin is one of two types of angular momentum in quantum mechanics, the other being orbital angular momentum  
+- in some ways, spins is like a vector quantity; it has a definite magnitude, and it has a ‘direction’ (but quantisation makes this ‘direction’ different from the direction of an ordinary vector)
 
-## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
+## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
 
-- is a form of instruction set designed for efficient execution by a software interpreter  
-- unlike human-readable source code, byte codes are compact numeric codes, constants and references (normally numeric addresses) that encode the result of compiler parsing and semantic analysis of things like type and nesting depths of program objects  
-- they thus allow much better performance than interpreting source code directly  
-- authors of V8 and Dart have challenged the notion that intermediate byte code is needed for fast and efficient VM implementation, both of these languages do direct JIT compiling from source code to machine code with no byte code intermediary
+- is a theory that attempt to describe the quantum properties of the universe and gravity  
+- it is also a theory of quantum spacetime because according to general relativity, gravity is a manifestation of the geometry of spacetime  
+- it is an attempt to merge quantum mechanics and general relativity
 
-## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
+## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
 
-- is what compiler produces   
-- it is a sequence of statements or instructions in a computer language, usually machine code language (i.e. binary) or an intermediate language such as register transfer language (RTL)  
-- object files can in turn be linked to form an executable file or library file  
-	- in order to be used, object code must either be placed in an executable file, a library file, or an object file  
-- object code is a portion of machine code that has not yet been linked into a complete program
+- is a physical phenomenon that occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently of the others, even when the particles are separated by a large distance   
+	- instead, a quantum state must be described for the system as a whole
 
-## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
+## [quantum field theory ✨](https://my.mindnode.com/Y2ZrpZdcqTzUyzAfx2w3T6mr1VrDQbHhAaGxDUV3)
 
-- is a set of instructions executed directly by a computer’s central processing unit (CPU)  
-- each instruction performs a very specific task, such as a load, a jump or an ALU operation on a unit of data in a CPU register or memory  
-	- every program directly executed by a CPU is made up of a series of such instructions
+- is the theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics  
+- it treats particles as excited states of the underlying physical field, so these are called field quanta
 
-## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
+## [bloch sphere](https://my.mindnode.com/TYQv7runzBk67VHq7ChTBKNbuwoRNf6kvWGs4Tg5)
 
-- how to create an efficient and optimised compiler
+- is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit)  
+- quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space  
+	- the space of pure states of a quantum system is given by the one-dimensional subspaces of the corresponding Hilbert space (or the ‘points’ of the projective Hilbert space)  
+	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
 
-## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
+## uncertainty principle
 
-- how to effectively optimise the process of compiling
-
-### [optimising compiler](https://my.mindnode.com/BgnCykCteFedakmQYGqqJnZS1SFufzAMUUrD6d5i)
-
-- is a compiler that tries to minimise or maximise some attributes of an executable computer program  
-- most common requirement is to minimise the time taken to execute a program, a less common one is to minimise the amount of memory required  
-- it has been shown that some code optimisation problems are NP-complete, or even undecidable
-
-## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
-
-- is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  
-- it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  
-- it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  
-	- this new IR can then be converted and linked into machine-dependent assembly language code for a target platform
-
-## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
-
-- is the process by which a compiler’s code generator converts some intermediate representation of source code into a form (e.g. machine code) that can be readily executed by a machine  
-- the input to the code generator typically consists of a parse tree or an abstract syntax tree  
-	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
-
-
-# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
-
-- are pictures and films created using computers  
-- refers to computer generated image data created with help from specialised graphical hardware and software  
-- it is responsible for splaying art and image data effectively and meaningfully to the user  
-	- it is also used for processing image data received from the physical word
-
-
-## [opengl](https://my.mindnode.com/RRkpJ17xYLGxtPpSAHY6uJdr2V7NdjrSvjcxiS5T)
-
-- is a cross-language, cross platform API for rendering 2D and 3D vector graphics  
-- it is typically used to interact with a graphics processing unit (GPU), to achieve hardware-accelerated rendering
-
-## [vulkan](https://my.mindnode.com/QuKC4gLuTiahH8S6bpTx3KDReMBH3EpWBdcTToHC)
-
-- is a low-overhead, cross-platform 3D graphics and compute API first announced in 2015  
-- it targets high-performance realtime 3D graphics applications such as video games and interactive media across all platforms, and can offer higher performance and more balanced CPU/GPU usage
-
-## metal
-
-- is a low-level, low-overhead hardware-accelerated graphics and compute application interface that debuted in iOS 8  
-- it has better performance than OpenGL due to   
-	- precomputed shaders and up-front state validation  
-	- explicit synchronisation between GPU and CPU  
-	- shared memory space between GPU and CPU  
-	- lower driver overhead
-
-## [rendering ✨](https://my.mindnode.com/2xnYJxwFM34AbKqxFs7R8PVzLJtcpQtoTgJHtaU2)
-
-- is the process of generating an image from a 2D or 3D model (or models in what collectively could be called a scene file) by means of computer programs  
-- the results of such a model can be called a rendering  
-- a scene file contains objects in a strictly defined language or data structure (it would contain geometry, viewpoint, texture, lighting, and shading information as a description of the virtual scene)  
-- the data contained in the scene file is then passed to a rendering program to be processed and output to a digital image or raster graphics image file
-
-### [vector graphics](https://my.mindnode.com/WMAbr5nznMzNmTiVrTV1qbbqCf1AcsPZ5bQNsjsh)
-
-- is the use of polygons to represent images  
-- are based on vectors, which lead through locations called control points or nodes  
-- each of these points has a definite position on the x- and y- axes of the work place and determines the direction of the path   
-	- further, each path may be assigned various attributes, including such values as stroke colour, shape, curve, thickness and fill
-
-- [svg](https://my.mindnode.com/7P2xkiDiypyoMTFPWqvs8AVQjbsbqFpPmCTaMpap)
-  - is an XML-based vector image format for two-dimensional graphics with support for interactivity and animation  
-  - since they are defined in XML test files, they can be searched, indexed, scripted and compressed
-
-## [ray tracing ✨](https://my.mindnode.com/pQxkyFqpQ8dynpcFaR2Nbz5VvrfsvpBYo9puGTwa)
-
-- is a technique for generating an image by tracing the path of light through pixels in an image plane and simulating the effects of its encounters with virtual objects   
-- the technique is capable of producing a very high degree of visual realism, usually higher than that of typical scalene rendering methods, but at a greater computational cost  
-- this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
-- it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
-- it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
-
-
-# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
-
-- is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
-- it is the study of automating algorithmic processes that scale
-
-
-## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
-
-- is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm  
-- it can be seen as a purely physical phenomenon occurring inside a closed physical system called a computer  
-- examples include  
-	- digital computers  
-	- mechanical computers  
-	- quantum computers  
-	- DNA computers  
-	- molecular computers  
-	- microfluidics-based computers   
-	- analog computers  
-	- or wetware computers  
-- some argue that evolution of the universe itself is a computation (pancomputationalism)
-
-### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
-
-- branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
-
-### bandwidth
-
-- is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  
-- the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel
-
-### symbolic computation
-
-- computer algebra system
-
-### computational geometry
-
-### evolutionary computation
-
-## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-- a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
-- the values returned by a hash function are called hash values, hash codes, digests or simply hashes  
-- one use is a data structure called a hash table, widely used in computer software for rapid data lookup
-
-## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
-
-- focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  
-- a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  
-- one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do
-
-### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
-
-- a decision problem is NP-complete when it is both in NP and NP-hard  
-- the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’
-
-## [parallel computing](https://my.mindnode.com/3BixssPswKdqHt4pCqzqCqxkqLg722PgPK4TSUNR)
-
-- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
-- large problems can often be divided into smaller ones, which can then be solved at the same time  
-- there are several different forms of parallel computing  
-	- bit-level  
-	- instruction-level  
-	- data  
-	- and task parallelism
-
-## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
-
-- is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  
-	- this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  
-	- this allows for parallel execution of the concurrent units  
-- design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput
-
-## programming language theory
-
-### [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
-
-- is a set of strings of symbols together with a set of rules that are specific to it  
-- the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
-	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
-- a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
-
-## automated theorem proving
-
-## image processing
-
-## [high performance computing](https://my.mindnode.com/N4AR39eVjhc8vwKzAzraLhJm8DxH5XrY8pAtp1bK)
+## atomic orbital
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
@@ -2091,106 +2191,6 @@ program that will analyse code for potential errors
 ### 17: nier: automata
 
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
-
-
-# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
-
-
-## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
-
-
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
-
-- is the process of creating a video game
-
-
-## game engines
-
-### [love2d ✨](https://my.mindnode.com/cyzEhdSpzybGx2oM7cznsr5xy7xpuNmTpoE3Cu2n)
-
-- framework in Lua to make 2D games
-
-### [unity ✨](https://my.mindnode.com/Hn2RHGr2kZHxJ3yzZweVR9Mom23j8dDj7GqgAfe7)
-
-- cross platform
-
-### [godot](https://my.mindnode.com/VZreQCcYQ1faryqYAystc2Nz7DsbRpcV1mYfGLBM)
-
-- provides a huge set of common tools to create multi-platform 2D and 3D games
-
-## [PICO-8](https://my.mindnode.com/5YncAgpN1QYkLx1J72y9odrACsNUEQgC173av6Wg)
-
-- is a virtual machine designed to mimic a ‘fantasy video game console’
-
-
-# [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
-
-- studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  
-- they are different from binary digital electronic computers based on transistors   
-	- whereas common digital computing requires that the data be encoded into binary digits (bits), each of which is always in one two definite states (0 or 1), quantum computation uses quantum bits, which can be in superpositions of states  
-- a quantum turing machine is a theoretical model of such computer, and is also known as the universal quantum computer   
-- a single quit can represent a one, a zero, or any quantum superposition of those two quit states
-
-
-## [quantum information](https://my.mindnode.com/ix2qvkPMTfSeiaJJ2cyak353YMdcxR2DVdp4myyB)
-
-- is information that is held in the state of a quantum system  
-- it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
-
-
-# human computer interaction
-
-
-## computer accessibility
-
-
-# [1913: quantum mechanics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
-
-- is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
-- classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
-- quantum mechanics differs from classical physics in that energy, momentum and other quantities are often restricted to discrete values (quantisation), objects have characteristics of both particles and waves (wave-particle duality) and there are limits to the precision with which quantities can be   
-known (uncertainty principle)
-
-
-## [string theory](https://my.mindnode.com/SR2Z6ndrhp1gZRayycWksJEBzPcujR3xr7kWLfT9)
-
-- is a theoretical framework in which the point-like particles or particle physics are replaced by one-dimensional objects called strings  
-	- it describes how these strings propagate through space and interact with each other  
-	- on distance scales large than the string scale, a string looks just like an ordinary particle, with its mass, charge and other properties determined by the vibrational state of the string  
-	- one of the many vibrational states of the string corresponds to the graviton, a quantum mechanical particle that carries gravitational force
-
-## [spin](https://my.mindnode.com/sDbRjiYXfC12qpF6efAn9sKpk2XyTdWFvwDeksph)
-
-- is an intrinsic form of angular momentum carried by elementary particles, composite particles (hadrons) and atomic nuclei  
-- spin is one of two types of angular momentum in quantum mechanics, the other being orbital angular momentum  
-- in some ways, spins is like a vector quantity; it has a definite magnitude, and it has a ‘direction’ (but quantisation makes this ‘direction’ different from the direction of an ordinary vector)
-
-## [loop quantum gravity](https://my.mindnode.com/epQWaVyJaSPzY3CGp5zmzxyw4StBHtqDu1i5BT8o)
-
-- is a theory that attempt to describe the quantum properties of the universe and gravity  
-- it is also a theory of quantum spacetime because according to general relativity, gravity is a manifestation of the geometry of spacetime  
-- it is an attempt to merge quantum mechanics and general relativity
-
-## [quantum entanglement](https://my.mindnode.com/PziyFKPQ95zurH7VAnqKFxGLH96yCkZwcv2D2SwN)
-
-- is a physical phenomenon that occurs when pairs or groups of particles are generated or interact in ways such that the quantum state of each particle cannot be described independently of the others, even when the particles are separated by a large distance   
-	- instead, a quantum state must be described for the system as a whole
-
-## [quantum field theory ✨](https://my.mindnode.com/Y2ZrpZdcqTzUyzAfx2w3T6mr1VrDQbHhAaGxDUV3)
-
-- is the theoretical framework for constructing quantum mechanical models of subatomic particles in particle physics and quasiparticles in condensed matter physics  
-- it treats particles as excited states of the underlying physical field, so these are called field quanta
-
-## [bloch sphere](https://my.mindnode.com/TYQv7runzBk67VHq7ChTBKNbuwoRNf6kvWGs4Tg5)
-
-- is a geometrical representation of the pure state space of a two-level quantum mechanical system (qubit)  
-- quantum mechanics is mathematically formulated in Hilbert space or projective Hilbert space  
-	- the space of pure states of a quantum system is given by the one-dimensional subspaces of the corresponding Hilbert space (or the ‘points’ of the projective Hilbert space)  
-	- for a two-dimensional Hilbert space, this is simply the complex projective line CP which is the Bloch sphere
-
-## uncertainty principle
-
-## atomic orbital
 
 
 # [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
@@ -2554,6 +2554,14 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - is a measure that compares the level of a desired signal to the level of background noise  
 	- it is defined as the ration of signal power to the noise power, often expressed in decibels  
 - a ration higher than 1:1 (greater than 0dB) indicates more signal than noise
+
+
+# weapons
+
+
+## guns
+
+### [1800: shotgun](https://my.mindnode.com/tZBpWKbRdfzcyDgCe3cNZ3gmRx5VTDU9fJXjqkxM)
 
 
 # [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
@@ -3248,14 +3256,6 @@ study of language and its structure including study of grammar, syntax and phone
 # [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
-# weapons
-
-
-## guns
-
-### [1800: shotgun](https://my.mindnode.com/tZBpWKbRdfzcyDgCe3cNZ3gmRx5VTDU9fJXjqkxM)
-
-
 # [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
 
 
@@ -3323,6 +3323,250 @@ newsletters I found interesting
 # [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
 
 how to manifest and grow interesting ideas
+
+
+# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
+
+
+## events
+
+### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
+
+### [330-1453: byzantine empire](https://my.mindnode.com/2sok6Uhdvjyx9puYB296xuzRwSmHCaqv15qpypdM)
+
+### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
+
+### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
+
+15th to 19th century
+
+### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
+
+### [1765-1783: american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
+
+### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
+
+1917
+
+### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
+
+1930s
+
+### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
+
+1922-1991
+
+### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
+
+### 1942-1946: manhattan project
+
+### 1961-1989: berlin wall
+
+### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
+
+### 10-12: arab spring
+
+### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
+
+United Kingdom leaving European Union
+
+## wars
+
+### 1803-1815: napoleonic wars
+
+### [1839-1842: first opium war](https://my.mindnode.com/XgzxfY3n2JC9rmqm5EtZPXUU1kFM2qSBAWMB6Yss)
+
+### [1856-1860: second opium war](https://my.mindnode.com/YPL8fyxFNCN89C61B2HMz4YUesJfeoVmyHnxWapn)
+
+### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
+
+1914-1918
+
+### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
+
+1939-1945
+
+- holocaust
+
+### 1942-1943: battle of stalingrad
+
+### 1853-1856: crimean war
+
+### [1861-1865: american civil war](https://my.mindnode.com/u49JEnht2Qk7VmUpgiuYVt2y39gqGvazzbavW7G3)
+
+### 1955-1975: vietnam war
+
+## pandemics
+
+### [1346-1353: black death](https://my.mindnode.com/fcuvrZSHzxzeyMuPSQbtNYseVvtGeDk4sa2gAZMR)
+
+## interesting
+
+### 300BC-30BC: ancient library of alexandria
+
+### ancient cities
+
+## inventions
+
+### ~6000BC: beer
+
+### ~4000BC: wine
+
+### ~3500BC: wheel
+
+### ~3400BC: nail
+
+### 3000BC: candle
+
+### 1800BC: alphabet
+
+### ~300BC: gears
+
+### ~300BC: watermill
+
+### 206 BC: compass
+
+### 105: paper
+
+### 1040: movable type
+
+### ~1268: glasses
+
+### ~1300: buttons
+
+### 1440: printing press
+
+### 1590: microscope
+
+### 1596: flushing toilet
+
+### 1608: telescope
+
+### 1656: pendulum clock
+
+### 1698: steam engine
+
+### 1783: wheelchair
+
+### 1793: cotton gin
+
+### 1795: pencil
+
+### 1796: vaccines
+
+### 1800: battery
+
+### 1817: bicycle
+
+### 1820: electromagnetism
+
+### 1831: electric generator
+
+### 1832: electric motor
+
+### 1836: morse code
+
+### 1837: telegraph
+
+### 1839: rubber condom
+
+### 1852: gyroscope
+
+### 1854: wind mill
+
+### 1859: internal combustion engine
+
+### 1860: analytical engine
+
+### 1864: pasteurisation
+
+### 1867: typewriter
+
+### 1869: plastic
+
+### 1876: telephone
+
+### 1877: phonograph
+
+### 1879: light bulb
+
+### 1885: motor carriage
+
+### 1886: automobile
+
+### 1886: aluminimum
+
+### 1888: tire
+
+### 1888: box camera
+
+### 1892: motion picture camera
+
+### 1893: zipper
+
+### 1895: x ray imaging
+
+### 1897: aspirin
+
+### 1901: vacuum cleaner
+
+### 1902: air conditioning
+
+### 1903: aircraft
+
+### 1913: assembly line
+
+### 1927: television
+
+### 1928: penicillin
+
+### 1929: tampon
+
+### 1930: contraceptives
+
+### 1935: radar
+
+### 1942: nuclear reactor
+
+### 1945: nuclear bomb
+
+### 1946: microwave oven
+
+### 1947: transistor
+
+### 1950: credit card
+
+### 1950: remote control
+
+### 1956: video tape
+
+### 1958: headphones
+
+### 1958: ultrasound imaging
+
+### 1960: laser
+
+### 1962: compact cassette
+
+### 1962: light-emitting diode
+
+### 1968: post-it notes
+
+### 1972: email
+
+### 1973: mobile phone
+
+### 1974: barcode
+
+### 1975: digital camera
+
+### ~1980: flash drive
+
+### 1982: compact disk
+
+### 1990: internet
+
+### 1997: mp3 player
 
 
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
@@ -5577,84 +5821,6 @@ all the richest humans of this planet with overview of how they got their wealth
 interesting ask me anything threads I found on the internet
 
 
-# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
-
-
-## events
-
-### [27 BC - 395: roman empire](https://my.mindnode.com/z7rqdsYPwnxzEjwme1ssqsSGzMpy8bqPsv9K6z5i)
-
-### [330-1453: byzantine empire](https://my.mindnode.com/2sok6Uhdvjyx9puYB296xuzRwSmHCaqv15qpypdM)
-
-### ~[1300-1400: mongol empire](https://my.mindnode.com/QSz9gRspANohiSmSgYUSesLGAdu5vSDsV1ji5qou)
-
-### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
-
-15th to 19th century
-
-### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
-
-### [1765-1783: american revolution](https://my.mindnode.com/fY8sGExV6zps7nggqxJs9rpN4RnjdyBn6UDcxx8n)
-
-### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
-
-1917
-
-### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
-
-1930s
-
-### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
-
-1922-1991
-
-### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
-
-### 1942-1946: manhattan project
-
-### 1961-1989: berlin wall
-
-### [1969: apollo 11](https://my.mindnode.com/Hnh4ZEiCkqmyvzPrSnVJVEFRt7Jz3C6qBkMxdSEE)
-
-### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
-
-United Kingdom leaving European Union
-
-## wars
-
-### 1803-1815: napoleonic wars
-
-### [1839-1842: first opium war](https://my.mindnode.com/XgzxfY3n2JC9rmqm5EtZPXUU1kFM2qSBAWMB6Yss)
-
-### [1856-1860: second opium war](https://my.mindnode.com/YPL8fyxFNCN89C61B2HMz4YUesJfeoVmyHnxWapn)
-
-### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
-
-1914-1918
-
-### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
-
-1939-1945
-
-- holocaust
-
-### 1942-1943: battle of stalingrad
-
-### 1853-1856: crimean war
-
-### [1861-1865: american civil war](https://my.mindnode.com/u49JEnht2Qk7VmUpgiuYVt2y39gqGvazzbavW7G3)
-
-### 1955-1975: vietnam war
-
-## pandemics
-
-### [1346-1353: black death](https://my.mindnode.com/fcuvrZSHzxzeyMuPSQbtNYseVvtGeDk4sa2gAZMR)
-
-## interesting
-
-### ancient cities
-
-
 # [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
 
 
@@ -7066,6 +7232,8 @@ write code and generate music, really is quite amazing
 ### 1700: piano
 
 ### 1840: saxophone
+
+### 1876: synthesiser
 
 
 # [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
