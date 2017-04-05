@@ -1096,6 +1096,8 @@ If you have some specific questions about this project or about myself, my inter
 # computer
 
 
+## 1960: supercomputer
+
 ## 1975: video game console
 
 ## 1977: smartwatch
@@ -1643,6 +1645,79 @@ program that will analyse code for potential errors
 - a web framework for building VR experiences
 
 
+# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+
+- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
+	- is often done to create an executable program
+
+
+## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
+
+- is compilation done during execution of a program (at run time), rather than prior to execution  
+- mist often this consists of translation to machine code, which is then executed directly, but can also refer to translation to another format  
+- a system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation would outweigh the overhead of compiled that code  
+- JIT compilation is a combination of two traditional approaches to translation to machine code  
+	1. ahead of time compilation (AOT)  
+	2. and interpretation
+
+## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
+
+- is a computer program that directly executes (performs) instructions written in a programming or scripting language, without previously compiling them into machine language program  
+- an interpreter generally uses one of the following strategies for program execution :   
+	1. parse the source code and perform its behaviour directly (lisp, BASIC)  
+	2. translate source code into some efficient intermediate representation and immediately execute this (perl, python, ruby)  
+	3. explicitly execute stored precompiled code made by a compiler which is part of the interpreter system (Pascal)  
+- source programs are compiled ahead of time and stored as machine independent code, which is then linked at run-time and executed by an interpreter and/or compiler (for JIT systems)
+
+## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
+
+- is a form of instruction set designed for efficient execution by a software interpreter  
+- unlike human-readable source code, byte codes are compact numeric codes, constants and references (normally numeric addresses) that encode the result of compiler parsing and semantic analysis of things like type and nesting depths of program objects  
+- they thus allow much better performance than interpreting source code directly  
+- authors of V8 and Dart have challenged the notion that intermediate byte code is needed for fast and efficient VM implementation, both of these languages do direct JIT compiling from source code to machine code with no byte code intermediary
+
+## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
+
+- is what compiler produces   
+- it is a sequence of statements or instructions in a computer language, usually machine code language (i.e. binary) or an intermediate language such as register transfer language (RTL)  
+- object files can in turn be linked to form an executable file or library file  
+	- in order to be used, object code must either be placed in an executable file, a library file, or an object file  
+- object code is a portion of machine code that has not yet been linked into a complete program
+
+## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
+
+- is a set of instructions executed directly by a computer’s central processing unit (CPU)  
+- each instruction performs a very specific task, such as a load, a jump or an ALU operation on a unit of data in a CPU register or memory  
+	- every program directly executed by a CPU is made up of a series of such instructions
+
+## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
+
+- how to create an efficient and optimised compiler
+
+## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
+
+- how to effectively optimise the process of compiling
+
+### [optimising compiler](https://my.mindnode.com/BgnCykCteFedakmQYGqqJnZS1SFufzAMUUrD6d5i)
+
+- is a compiler that tries to minimise or maximise some attributes of an executable computer program  
+- most common requirement is to minimise the time taken to execute a program, a less common one is to minimise the amount of memory required  
+- it has been shown that some code optimisation problems are NP-complete, or even undecidable
+
+## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
+
+- is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  
+- it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  
+- it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  
+	- this new IR can then be converted and linked into machine-dependent assembly language code for a target platform
+
+## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
+
+- is the process by which a compiler’s code generator converts some intermediate representation of source code into a form (e.g. machine code) that can be readily executed by a machine  
+- the input to the code generator typically consists of a parse tree or an abstract syntax tree  
+	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
+
+
 # [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
 
 - are pictures and films created using computers  
@@ -1695,6 +1770,94 @@ program that will analyse code for potential errors
 - this makes it best suited for applications where the image can be rendered slowly ahead of time, such as still images and film and television visual effects, and more poorly suited for real-time applications like video games where speed is critical  
 - it is capable of simulating a wide variety of optical effects, such as reflection and refraction, scattering and dispersion phenomena (such as chromatic aberration)  
 - it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
+
+
+# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+
+- is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
+- it is the study of automating algorithmic processes that scale
+
+
+## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
+
+- is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm  
+- it can be seen as a purely physical phenomenon occurring inside a closed physical system called a computer  
+- examples include  
+	- digital computers  
+	- mechanical computers  
+	- quantum computers  
+	- DNA computers  
+	- molecular computers  
+	- microfluidics-based computers   
+	- analog computers  
+	- or wetware computers  
+- some argue that evolution of the universe itself is a computation (pancomputationalism)
+
+### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
+
+- branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
+
+### bandwidth
+
+- is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  
+- the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel
+
+### symbolic computation
+
+- computer algebra system
+
+### computational geometry
+
+### evolutionary computation
+
+## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
+
+- a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
+- the values returned by a hash function are called hash values, hash codes, digests or simply hashes  
+- one use is a data structure called a hash table, widely used in computer software for rapid data lookup
+
+## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
+
+- focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  
+- a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  
+- one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do
+
+### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
+
+- a decision problem is NP-complete when it is both in NP and NP-hard  
+- the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’
+
+## [parallel computing](https://my.mindnode.com/3BixssPswKdqHt4pCqzqCqxkqLg722PgPK4TSUNR)
+
+- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
+- large problems can often be divided into smaller ones, which can then be solved at the same time  
+- there are several different forms of parallel computing  
+	- bit-level  
+	- instruction-level  
+	- data  
+	- and task parallelism
+
+## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
+
+- is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  
+	- this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  
+	- this allows for parallel execution of the concurrent units  
+- design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput
+
+## programming language theory
+
+### [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
+
+- is a set of strings of symbols together with a set of rules that are specific to it  
+- the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
+	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
+- a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
+
+## automated theorem proving
+
+## image processing
+
+## [high performance computing](https://my.mindnode.com/N4AR39eVjhc8vwKzAzraLhJm8DxH5XrY8pAtp1bK)
 
 
 # [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
@@ -1930,76 +2093,10 @@ program that will analyse code for potential errors
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
-# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
-
-- is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
-- it is the study of automating algorithmic processes that scale
+# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
 
 
-## [computation](https://my.mindnode.com/2x2sRaXapnxDkMGhz8PSDNfyeCAUSpo5VHRsagkF)
-
-- is any type of calculation that follows a well-defined model understood and expressed as, for example, an algorithm  
-- it can be seen as a purely physical phenomenon occurring inside a closed physical system called a computer  
-- examples include  
-	- digital computers  
-	- mechanical computers  
-	- quantum computers  
-	- DNA computers  
-	- molecular computers  
-	- microfluidics-based computers   
-	- analog computers  
-	- or wetware computers  
-- some argue that evolution of the universe itself is a computation (pancomputationalism)
-
-### [dna computing ✨](https://my.mindnode.com/9xqFUVgF8A8PQoyyESXqaosao8TvbzDjGjp2wKiP)
-
-- branch of computing which uses DNA, biochemistry and molecular biology hardware instead of the traditional silicon based computer technologies
-
-### bandwidth
-
-- is the bit-rate of available or consumed information capacity expressed typically in metric multiples of bits per second  
-- the actual bit rate that can be achieved depends not only on the signal bandwidth, but also on the noise on the channel
-
-## [hashing ✨](https://my.mindnode.com/XqGqfpvNJ2WFQdjQG3aTMyoy3xV6zuq59LMy6rFa)
-
-- a hash function is any function that can be used to map data of arbitrary size to data of fixed size  
-- the values returned by a hash function are called hash values, hash codes, digests or simply hashes  
-- one use is a data structure called a hash table, widely used in computer software for rapid data lookup
-
-## [complexity theory ✨](https://my.mindnode.com/PAE3tqyC6qZNRsfj3nszwN4yVq1TePjyK1MzZfYy)
-
-- focuses on classifying computational problems according to their inherent difficulty, and relating those classes to each other  
-- a computational problem is understood to be a task that is in principle amenable to being solved by a computer, which is equivalent to stating that the problem may be solved mechanical application of mathematical steps, such as an algorithm  
-- one of the roles of computational complexity theory is to determine the practical limits on what computers can and cannot do
-
-### [np-completeness ✨](https://my.mindnode.com/rs4s3PpJJV7nnzuZfRsTLEMc5dw2E44SqLuipyEK)
-
-- a decision problem is NP-complete when it is both in NP and NP-hard  
-- the set of NP-complete problems is often denoted by NP-C or NPC where NP refers to ‘nondeterministic polynomial time’
-
-## [parallel computing](https://my.mindnode.com/3BixssPswKdqHt4pCqzqCqxkqLg722PgPK4TSUNR)
-
-- is a type of computation in which many calculations or the execution of processes are carried out simultaneously  
-- large problems can often be divided into smaller ones, which can then be solved at the same time  
-- there are several different forms of parallel computing  
-	- bit-level  
-	- instruction-level  
-	- data  
-	- and task parallelism
-
-## [concurrency](https://my.mindnode.com/1r5uAyLxneiV7NexzUvt5t46VhuUxvNuLH63ba5W)
-
-- is the decomposability property of a program, algorithm or problem into order-independent or partially-ordered components or units  
-	- this means that even if the concurrent units of the program, algorithm, or problem are executed out-of-order or in partial order, the final outcome will remain the same  
-	- this allows for parallel execution of the concurrent units  
-- design of concurrent systems often entails finding reliable techniques for coordinating their execution, data exchange, memory allocation and execution scheduling to minimise response time and maxima throughput
-
-## [formal language](https://my.mindnode.com/v1Uj7P1vgbHbTmzozuZoB2KHpazyNocazXkqdExQ)
-
-- is a set of strings of symbols together with a set of rules that are specific to it  
-- the alphabet of a formal language is the set of symbols, letters, or tokens from which the strings of the language may be formed  
-	- the strings formed from this alphabet are called words, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas  
-- a formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, also called it formation rule
+## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
 
 
 # [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
@@ -2041,77 +2138,10 @@ program that will analyse code for potential errors
 - it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
 
 
-# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
-
-- is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
-	- is often done to create an executable program
+# human computer interaction
 
 
-## [JIT](https://my.mindnode.com/LgpsEFf3gzioSzG7bFNbMRcRMxQgjB8EtJDAD7u4)
-
-- is compilation done during execution of a program (at run time), rather than prior to execution  
-- mist often this consists of translation to machine code, which is then executed directly, but can also refer to translation to another format  
-- a system implementing a JIT compiler typically continuously analyses the code being executed and identifies parts of the code where the speedup gained from compilation would outweigh the overhead of compiled that code  
-- JIT compilation is a combination of two traditional approaches to translation to machine code  
-	1. ahead of time compilation (AOT)  
-	2. and interpretation
-
-## [interpreter](https://my.mindnode.com/pezFduzLe1ot7ZKv5qckzijpwDQFDZrNs1cgjWhs)
-
-- is a computer program that directly executes (performs) instructions written in a programming or scripting language, without previously compiling them into machine language program  
-- an interpreter generally uses one of the following strategies for program execution :   
-	1. parse the source code and perform its behaviour directly (lisp, BASIC)  
-	2. translate source code into some efficient intermediate representation and immediately execute this (perl, python, ruby)  
-	3. explicitly execute stored precompiled code made by a compiler which is part of the interpreter system (Pascal)  
-- source programs are compiled ahead of time and stored as machine independent code, which is then linked at run-time and executed by an interpreter and/or compiler (for JIT systems)
-
-## [bytecode](https://my.mindnode.com/RPbjdQipHWeALK23FTASbKF7ohxd7tNECm3Ntwkt)
-
-- is a form of instruction set designed for efficient execution by a software interpreter  
-- unlike human-readable source code, byte codes are compact numeric codes, constants and references (normally numeric addresses) that encode the result of compiler parsing and semantic analysis of things like type and nesting depths of program objects  
-- they thus allow much better performance than interpreting source code directly  
-- authors of V8 and Dart have challenged the notion that intermediate byte code is needed for fast and efficient VM implementation, both of these languages do direct JIT compiling from source code to machine code with no byte code intermediary
-
-## [object code](https://my.mindnode.com/wNkD1fSF9u7EpYKpWDwSFzNSZfiLGSSuowQtsw7r)
-
-- is what compiler produces   
-- it is a sequence of statements or instructions in a computer language, usually machine code language (i.e. binary) or an intermediate language such as register transfer language (RTL)  
-- object files can in turn be linked to form an executable file or library file  
-	- in order to be used, object code must either be placed in an executable file, a library file, or an object file  
-- object code is a portion of machine code that has not yet been linked into a complete program
-
-## [machine code](https://my.mindnode.com/fixbcG2yGbd5D5Xqs6hXQeH9zGxZqHxaA7uHmfpq)
-
-- is a set of instructions executed directly by a computer’s central processing unit (CPU)  
-- each instruction performs a very specific task, such as a load, a jump or an ALU operation on a unit of data in a CPU register or memory  
-	- every program directly executed by a CPU is made up of a series of such instructions
-
-## [compiler design](https://my.mindnode.com/zi5qk8yjNq6u67xzqcCapN9QGqs8aeyTqLTqtJw9)
-
-- how to create an efficient and optimised compiler
-
-## [optimisation](https://my.mindnode.com/Gp7bBEjqcvn3RzzyUgRqPTwXwgTA6o9bx6yvXzpa)
-
-- how to effectively optimise the process of compiling
-
-### [optimising compiler](https://my.mindnode.com/BgnCykCteFedakmQYGqqJnZS1SFufzAMUUrD6d5i)
-
-- is a compiler that tries to minimise or maximise some attributes of an executable computer program  
-- most common requirement is to minimise the time taken to execute a program, a less common one is to minimise the amount of memory required  
-- it has been shown that some code optimisation problems are NP-complete, or even undecidable
-
-## [LLVM ✨](https://my.mindnode.com/CVQ31TmsUVECWFwFLTRafvy1RbjTzP5E3gjBvs77)
-
-- is compiler infrastructure project which is a ‘collection of modular and reusable compiler and toolchain technologies’ used to develop computer front ends and back ends  
-- it is written in C++ and is designed for compile-time, link-time, run-time and ‘idle-time’ optimisations of programs written in arbitrary programming languages  
-- it can provide the middle layers of a complete compiler system, taking intermediate representation (IR) code from a compiler and emitting an optimised IR  
-	- this new IR can then be converted and linked into machine-dependent assembly language code for a target platform
-
-## [code generation](https://my.mindnode.com/uyVn9qAxzQVsTRdF8cgrJ6ABbYnsJ3LzzTUYxGzG)
-
-- is the process by which a compiler’s code generator converts some intermediate representation of source code into a form (e.g. machine code) that can be readily executed by a machine  
-- the input to the code generator typically consists of a parse tree or an abstract syntax tree  
-	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
+## computer accessibility
 
 
 # [1913: quantum mechanics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
@@ -2637,6 +2667,8 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - polymers, both natural and synthetic, are created via polymerisation of many small molecules, known as monomers  
 	- their consequently large molecular mass relative to small molecule compounds produces unique physical properties, including toughness, viscoelasticity, and a tendency to form glasses and semicrystalline structures rather than crystals
 
+## computational chemistry
+
 
 # [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
 
@@ -2923,6 +2955,8 @@ long chain molecules built from small units known as amino acids, they are joine
 
 ### [protein folding](https://my.mindnode.com/vgV3Achvsk8JXMmxxThW3J4LvXT8zhsxKysLBjsp)
 
+## computational biology
+
 ## [life](https://my.mindnode.com/wXqgZ7BTL6aBAPssDhMFEGRM4qZySK92ovhTnCMQ)
 
 - is a characteristic distinguishing physical entities having biological processes, such as signalling and self-sustaining processes, from those that do not, either because such functions have ceased, or because they never had such functions and are classified as inanimate  
@@ -3148,11 +3182,6 @@ my often misspelled words to learn
 ## hindi
 
 
-# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
-
-study of language and its structure including study of grammar, syntax and phonetics
-
-
 # [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
@@ -3190,6 +3219,14 @@ treating animals as equals and abstaining from eating and using animal products 
 
 
 # [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
+
+
+# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+
+study of language and its structure including study of grammar, syntax and phonetics
+
+
+## computational linguistics
 
 
 # [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
@@ -3472,9 +3509,16 @@ all the books I am currently reading or have read
 
 - [01: effective java](https://my.mindnode.com/Rrbxmj3SYBgSpxkDqzSK9BTScftaCVFQeHdEdGzA)
 
+- [03: data structures and algorithms in java](https://my.mindnode.com/ZaPsWYcFxsExRsis4WN9vwYHx4uNto9pNCQv3Eev)
+  - free:
+
 - [06: java concurrency in practice](https://my.mindnode.com/ProEi9Gr3GsWvnntQqpneViamJB1c3q25LMQkV3r)
 
 - [08: introduction to programming in java: an interdisciplinary approach](https://my.mindnode.com/LpyPGghSGAW91Jv5D8KJz3VQXKajYKsaQSoSQnSW)
+
+- 14: java 8 in action
+
+- 15: test-driven java development
 
 ### rust
 
@@ -3832,11 +3876,19 @@ all the books I am currently reading or have read
 
 ### 1953: the worldly philosophers
 
+### 1997: principles of economics
+
+### [00: microeconomics and behaviour](https://my.mindnode.com/ZcZgtsx2VfSML3V524h27U1HyA4VrTHV1n62gMcJ)
+
+- free:
+
 ### 11: debt: first 5000 years
 
 ### 13: how asia works: success and failure in the world’s most dynamic region
 
 ### 13: capital in the twenty first century
+
+### 14: economics: the user's guide
 
 ## ai
 
@@ -4273,6 +4325,8 @@ free:
 ### 14: the sixth extinction: an unnatural history
 
 ### 15: conquerors: how portugal forged the first global empire
+
+### 15: homo deus: a brief history of tomorrow
 
 ## crypto
 
@@ -6875,6 +6929,12 @@ what aliases and cli programs I use on my system
 ## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
+# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
+
+
+## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
+
+
 # [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
@@ -6957,19 +7017,7 @@ packs many javascript modules into a few bundled assets
 # [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
 
 
-# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
-
-
-## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
-
-
 # [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
-
-
-# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
-
-
-## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
 
 
 # markup languages
