@@ -156,6 +156,12 @@ If you have some specific questions about this project or about myself, my inter
   	- speed  
   	- community
 
+- mlpack
+
+- theano
+
+- scikit-learn
+
 ### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
 
 - inspired by behaviourist psychology, concerned with how software agents ought to take actions in an environment so as to maximise some notion of cumulative reward  
@@ -220,20 +226,6 @@ If you have some specific questions about this project or about myself, my inter
 # [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
 
 - how to optimise processes (algorithms, systems and so on)
-
-
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
-
-- deals with how computers can be made for gaining high-level understanding from digital images or videos  
-- it seeks to automate tasks that the human visual system can do  
-- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
-
-
-## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
-
-## [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
-
-- open source computer vision library for real time computer vision 
 
 
 # [1230: algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
@@ -350,6 +342,22 @@ If you have some specific questions about this project or about myself, my inter
 
 - genetic algorithm is a metaheuristic inspired by the process of natural selection  
 - are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
+
+
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+
+- deals with how computers can be made for gaining high-level understanding from digital images or videos  
+- it seeks to automate tasks that the human visual system can do  
+- its tasks include methods for acquiring, processing, analysing and understanding digital images, and extraction of high dimensional data from the real world in order to produce numerical or symbolic information (in forms of decisions)
+
+
+## [image recognition](https://my.mindnode.com/sp47DnRgGXkcusyZvhvkKzELZtNGo4PB2ATvLAz2)
+
+## libraries
+
+### [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+
+- open source computer vision library for real time computer vision 
 
 
 # [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
@@ -1861,6 +1869,8 @@ program that will analyse code for potential errors
 
 ### 14: lisa
 
+### 14: destiny
+
 ### 15: cities: skylines
 
 ### 15: soma
@@ -3255,15 +3265,17 @@ newsletters I found interesting
 ## heart disease
 
 
-# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
-
-how to manifest and grow interesting ideas
-
-
 # [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
 
 ## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
+
+## apache
+
+
+# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
+
+how to manifest and grow interesting ideas
 
 
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
@@ -5247,7 +5259,11 @@ how can you teach effectively, how does one learn
 
 - 1827: Ludwig van Beethoven
 
+- 1908: Nikolai Rimsky-Korsakov
+
 - 1970: Jimi Hendrix
+
+- 1971: Igor Stravinsky
 
 - 1980: John Lennon
 
@@ -5760,43 +5776,43 @@ free and open source unix like operating system for computers
 
 ### [distros](https://my.mindnode.com/x9f4LkzXqZaM3scdDyqQN7uGxJBgwqj81i9X9atu)
 
-- [02: Arch ✨](https://my.mindnode.com/JYjG13LixbkLWcKt1GcnYtFrUevya42RR4WRmg14)
+- [1993: debian](https://my.mindnode.com/p5fxJ6vqHUnPZdfbCoP42Z1kTRczen1qUCL6rz2V)
 
-	- [Manjaro](https://my.mindnode.com/TMzXqkzH6yapyNxsqi9nFZZyJo7Upken6Rz4Wg6Q)
+	- [04: ubuntu](https://my.mindnode.com/H6Y7kdpfQxzzXWuYGVhRuU6sxq23JmhguG8vkHsc)
 
-	- [Antergos](https://my.mindnode.com/Eohomc8NpqCrzNfGDH4hNVBBiPyRy9RQMHKDgC8o)
+- [02: arch ✨](https://my.mindnode.com/JYjG13LixbkLWcKt1GcnYtFrUevya42RR4WRmg14)
 
-- [Debian](https://my.mindnode.com/p5fxJ6vqHUnPZdfbCoP42Z1kTRczen1qUCL6rz2V)
+	- [11: manjaro](https://my.mindnode.com/TMzXqkzH6yapyNxsqi9nFZZyJo7Upken6Rz4Wg6Q)
 
-	- [Ubuntu](https://my.mindnode.com/H6Y7kdpfQxzzXWuYGVhRuU6sxq23JmhguG8vkHsc)
+	- [12: antergos](https://my.mindnode.com/Eohomc8NpqCrzNfGDH4hNVBBiPyRy9RQMHKDgC8o)
 
-- [Gentoo ✨](https://my.mindnode.com/Pz4w5Ak49wjmqYpWqq8ytoUryK43oiLu6RzYxsHq)
+- [02: gentoo ✨](https://my.mindnode.com/Pz4w5Ak49wjmqYpWqq8ytoUryK43oiLu6RzYxsHq)
 
-	- [Funtoo](https://my.mindnode.com/SuVs1yJuyxL9f1zPx29jiidsqn6qbz8qkz3ipzqF)
+	- [funtoo](https://my.mindnode.com/SuVs1yJuyxL9f1zPx29jiidsqn6qbz8qkz3ipzqF)
 
-- [nixOS](https://my.mindnode.com/v4sY1QRyvfayyayF9DdCbArqNmmDYaUcEz1SdYyi)
+	- [exherbo](https://my.mindnode.com/LaMf6hijMKjDVnjJNNWWsqqUjPyzsTmRkhhApH5k)
 
-- [GuixSD](https://my.mindnode.com/ptLQdxWXrK1713RYsAf6yWLXxy2zSwMsgTfP2EUU)
+- [03: gobolinux](https://my.mindnode.com/pxgnRatnwxGyeokSCzkxSz94uiYDzwEFm3ED1XwP)
 
-- [Fedora](https://my.mindnode.com/LykZqHCf2pNzBcvxktnL9pAmMRpe2iwR59GkDsUz)
+- [03: nixOS](https://my.mindnode.com/v4sY1QRyvfayyayF9DdCbArqNmmDYaUcEz1SdYyi)
 
-- [Solus](https://my.mindnode.com/kHa96e5yrEqv4LsJCczsByTJqEgxpDqCpC6e7pev)
+- [03: fedora](https://my.mindnode.com/LykZqHCf2pNzBcvxktnL9pAmMRpe2iwR59GkDsUz)
 
-- [openSUSE](https://my.mindnode.com/zRP1GhemJDKw6FysBxfxp9Jiogy7scCs11pksQVq)
+- [05: openSUSE](https://my.mindnode.com/zRP1GhemJDKw6FysBxfxp9Jiogy7scCs11pksQVq)
 
-- [Elementary OS](https://my.mindnode.com/DxmjyRPxtxQDF5TqavymsMsFVuAHQ4nA3hDxzruK)
+- [06: mint](https://my.mindnode.com/sbZdussbKYeQUeuvoQKSJbuFpcA6anQqZpqsHz4c)
 
-- [CoreOS](https://my.mindnode.com/KqnE3QJ8XJSp68GE3m5BHhJ5Dty9QNxPz5FnTnHz)
+- [10: chakra](https://my.mindnode.com/2fae9ixXxVQbMqk7DXMDHihKj887QZWrLUYMphxB)
 
-- [Exherbo](https://my.mindnode.com/LaMf6hijMKjDVnjJNNWWsqqUjPyzsTmRkhhApH5k)
+- [11: elementary OS](https://my.mindnode.com/DxmjyRPxtxQDF5TqavymsMsFVuAHQ4nA3hDxzruK)
 
-- [GoboLinux](https://my.mindnode.com/pxgnRatnwxGyeokSCzkxSz94uiYDzwEFm3ED1XwP)
+- [12: solus](https://my.mindnode.com/kHa96e5yrEqv4LsJCczsByTJqEgxpDqCpC6e7pev)
 
-- [Stali](https://my.mindnode.com/GB7LUBqj2tMq8pUciRswzqXwcGK9qELbsW1JR8Lj)
+- [13: coreOS](https://my.mindnode.com/KqnE3QJ8XJSp68GE3m5BHhJ5Dty9QNxPz5FnTnHz)
 
-- [Chakra](https://my.mindnode.com/2fae9ixXxVQbMqk7DXMDHihKj887QZWrLUYMphxB)
+- [15: guixSD](https://my.mindnode.com/ptLQdxWXrK1713RYsAf6yWLXxy2zSwMsgTfP2EUU)
 
-- [Mint](https://my.mindnode.com/sbZdussbKYeQUeuvoQKSJbuFpcA6anQqZpqsHz4c)
+- [stali](https://my.mindnode.com/GB7LUBqj2tMq8pUciRswzqXwcGK9qELbsW1JR8Lj)
 
 ### [containers](https://my.mindnode.com/WnZ3gUPpMBM6QNzxLgaoPz2xLFgyedj2GmKiQZne)
 
@@ -6995,8 +7011,6 @@ write code and generate music, really is quite amazing
 
 ## 10: flask
 
-## scikit-learn
-
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
 
@@ -7217,6 +7231,8 @@ how to find customers for your products and expose your product to the world in 
 
 ### 1968: intel
 
+### 1969: amd
+
 ### 1971: starbucks
 
 ### 1971: fedex
@@ -7378,6 +7394,8 @@ how to find customers for your products and expose your product to the world in 
 ### 10: pinterest
 
 ### 11: snapchat
+
+### 11: digital ocean
 
 ### 11: udacity
 
