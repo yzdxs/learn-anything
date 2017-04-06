@@ -485,6 +485,29 @@ If you have some specific questions about this project or about myself, my inter
 	- and computer vision
 
 
+# electronics
+
+
+## circuits
+
+### integrated
+
+- [cpu](https://my.mindnode.com/pyCGxUdYXPJoXKp6N6wSoeUA4pC8HmMskuqvgspV)
+  - is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, loci, control and input/output (I/O) operations specified by the instructions   
+  - principal components of a CPU include   
+  	- the arithmetic logic unit (ALU) that performs arithmetic and logic operations  
+  	- processor registers that supply operands to the ALU and store the results of ALU operations  
+  	- and a control unit that orchestrates the fetching (from memory) and execution of instructions by directing the coordinated operations of the ALU, registers and other components
+
+- [tpu](https://my.mindnode.com/1bRFdkzXxcY9XYDxZnhMcDywAyqj7XtBS6rprzws)
+  - tensor processing units are application-specific integrated circuits developed specifically for machine learning  
+  - the chip has been specifically designed for Google’s TensorFlow framework
+
+- fpga
+  - a field-programmable gate array is an integrated circuit designed to be configured by a customer or a designer after manufacturing – hence "field-programmable"  
+  - its configuration is generally specified using a hardware description language (HDL), similar to that used for an application-specific integrated circuit (ASIC)
+
+
 # [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 - models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
@@ -581,6 +604,14 @@ If you have some specific questions about this project or about myself, my inter
 - it includes everything from elementary equation solving to the study of abstractions such as groups, rings, and fields  
 - it gives methods for solving equations and expressing formulas that are much easier (for those who know how to use them) than the older method of writing everything out in words
 
+### [1693: linear ✨](https://my.mindnode.com/Dw4PbQMRqozAAzU3tJwPms2DRBiMSzXzmJzhkqBM)
+
+- came from trying to solve systems of linear equations  
+	- vectors and matrices are used to solve these systems  
+- main objects of study currently are vector spaces and linear mappings between vector spaces  
+- it describes ways to solve and manipulate (rearrange) systems of linear equations  
+- it uses a system of notation for describing system behaviour, called a matrix
+
 ### [commutative](https://my.mindnode.com/Ems9PPFdqrWUGswcstM4ZVcc922rb9vj1sD7RpR6)
 
 - studies commutative rings, their ideals and modules over such rings  
@@ -615,14 +646,6 @@ If you have some specific questions about this project or about myself, my inter
   - studies abstract algebraic structures by representing their elements as linear transformations of vector spaces, and studies modules over these abstract algebraic structures  
   - a representation makes an abstract algebraic object more concrete by describing its elements by matrices and the algebraic operations in terms of matrix addition and matrix multiplication  
   - representation theory is a useful method because it reduces problems in abstract algebra to problems in linear algebra (which is more well understood)
-
-### [1693: linear ✨](https://my.mindnode.com/Dw4PbQMRqozAAzU3tJwPms2DRBiMSzXzmJzhkqBM)
-
-- came from trying to solve systems of linear equations  
-	- vectors and matrices are used to solve these systems  
-- main objects of study currently are vector spaces and linear mappings between vector spaces  
-- it describes ways to solve and manipulate (rearrange) systems of linear equations  
-- it uses a system of notation for describing system behaviour, called a matrix
 
 ### [universal](https://my.mindnode.com/bWV1m6GCx3kbBcRVsEUAEDupWpTjj4SssRuJWFTA)
 
@@ -1044,16 +1067,16 @@ If you have some specific questions about this project or about myself, my inter
 - human specie’s use of technology began with the conversion of natural resources into simple tools
 
 
-# [09: raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
-
-- is a series of small single-board computers
-
-
 # [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
 
 - deals with design, construction, operation and use of robots, as well as computer systems for their control, sensory feedback, and information processing  
 - these technologies are used to develop machines that can substitute for humans  
 - robots can be used in any situation and for any purpose
+
+
+# [09: raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
+
+- is a series of small single-board computers
 
 
 # computer
@@ -1078,14 +1101,6 @@ If you have some specific questions about this project or about myself, my inter
 - it is the physical parts or components of a computer, such as monitor, keyboard, computer data storage, graphic card, sound card, motherboard and so on, all of which are tangible objects  
 - hardware is directed by software to execute any command or instruction
 
-
-## [cpu](https://my.mindnode.com/YeT9uZop2oX3WBLqFQLoUktSnZnFVjbxasQVgsDq)
-
-- is the electronic circuitry within a computer that carries out the instructions of a computer program by performing the basic arithmetic, loci, control and input/output (I/O) operations specified by the instructions   
-- principal components of a CPU include   
-	- the arithmetic logic unit (ALU) that performs arithmetic and logic operations  
-	- processor registers that supply operands to the ALU and store the results of ALU operations  
-	- and a control unit that orchestrates the fetching (from memory) and execution of instructions by directing the coordinated operations of the ALU, registers and other components
 
 ## [gpu](https://my.mindnode.com/qrRQjspUTfSxUYRutiPtArZ5HWTNgVihVuepqGZc)
 
@@ -3408,6 +3423,8 @@ United Kingdom leaving European Union
 ### 1895: x ray imaging
 
 ### 1897: aspirin
+
+### 1899: flashlight
 
 ### 1901: vacuum cleaner
 
@@ -6989,13 +7006,13 @@ browser developed by Google
 ### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
 
 
+# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
+
+
 # [api ✨](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 ## [GraphQL](https://my.mindnode.com/FLzxt3X9eoBvimrDypq6VvyJ3NdxoG5NrrsumyjH)
-
-
-# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
 
 
 # [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
@@ -7032,6 +7049,9 @@ javascript engine developed by Google
 - [electron ✨](https://my.mindnode.com/GsyKuWEa6PEhQpvMxdAytpQHWsvUnA9Jiqp1Pisy)
 
 ## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
+
+
+# [animation](https://my.mindnode.com/47yBx17wjqMeapSnibSWqKypvhwLaGhN8zaPz7hf)
 
 
 # [system administration](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
