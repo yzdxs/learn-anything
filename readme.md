@@ -75,7 +75,7 @@ If you have some specific questions about this project or about myself, my inter
 # **Don't search. Explore.** 🎊
 
 # Index 🗄️
-- advised to open them in new tab
+- advised to open links in new tab
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 
@@ -90,6 +90,12 @@ If you have some specific questions about this project or about myself, my inter
 	- logic behind my structuring of nodes  
 - contains tips and tricks to navigate mind maps better  
 - includes ways with which one can approach learning topics
+
+
+## [plan 🗺️](https://my.mindnode.com/r4x5rD4RynNspDbCJ53oNvy3a8F3ioPh8HQy2rzs)
+
+- overview and plans on how to learn anything with step by step instructions of what to follow for most optimal results  
+	- submit requests to improve it 💙
 
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
@@ -1711,7 +1717,7 @@ program that will analyse code for potential errors
 
 - object oriented, dynamically typed, reflective, created for educational use
 
-## 1972: prolog
+## [1972: prolog](https://my.mindnode.com/6fckVAzSZW3fus3Jtr96KTNswywyAACzjKjfqDNd)
 
 ## 1982: maple
 
@@ -3223,108 +3229,6 @@ how to be aware of your actions and thoughts as you live through life
 treating animals as equals and abstaining from eating and using animal products as commodity
 
 
-# [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
-
-
-# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
-
-
-# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
-
-study of language and its structure including study of grammar, syntax and phonetics
-
-
-## computational linguistics
-
-
-# [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
-
-
-## [industrial](https://my.mindnode.com/Dm6JEt1ufjkXN8qGgn2UpV7bhazDVHsAbUCQPCa6)
-
-## [usability](https://my.mindnode.com/y8R1MPsRqmpgeWaztXudpyc9on3xqJqscHSvFzR6)
-
-## [material design](https://my.mindnode.com/j6ptpBbiTSXTrLfYYH5zQ2ePwiV2kUrqupd1r1xx)
-
-## [colours](https://my.mindnode.com/xNCrpgeXX6nX6FTsbuZu1FNrwkpQQQAGzMipCbdL)
-
-### [colour theory](https://my.mindnode.com/UrsZLTK1grPpQ9iWe8SY8qFDpFUzjK7TZFFy7dRx)
-
-## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
-
-
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
-
-
-# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
-
-
-## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
-
-- everyone should have some kind of set of principles that they follow to guide their thinking  
-	- these are mine
-
-
-# [academia](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
-
-
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
-
-advice I have found on life, programming and all that I thought was of value
-
-
-# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
-
-newsletters I found interesting
-
-
-# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
-
-
-## [1600 BC: cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
-
-## [1882: tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
-
-## [1887: schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
-
-## 1889: diabetes
-
-## 1902: ADHD
-
-## [1906: alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
-
-## [1918: influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
-
-## 1983: HIV
-
-## coronary artery disease
-
-## stroke
-
-## chronic obstructive pulmonary disease
-
-## diarrhea
-
-## malaria
-
-## measles
-
-## heart disease
-
-
-# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
-
-
-## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
-
-## apache
-
-
-# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
-
-how to manifest and grow interesting ideas
-
-
 # [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
 
@@ -3538,11 +3442,15 @@ United Kingdom leaving European Union
 
 ### 1950: remote control
 
+### 1953: dna
+
 ### 1956: video tape
 
 ### 1958: headphones
 
 ### 1958: ultrasound imaging
+
+### 1959: resistor
 
 ### 1960: laser
 
@@ -3567,6 +3475,108 @@ United Kingdom leaving European Union
 ### 1990: internet
 
 ### 1997: mp3 player
+
+
+# [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
+
+
+# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
+
+
+# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+
+study of language and its structure including study of grammar, syntax and phonetics
+
+
+## computational linguistics
+
+
+# [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
+
+
+## [industrial](https://my.mindnode.com/Dm6JEt1ufjkXN8qGgn2UpV7bhazDVHsAbUCQPCa6)
+
+## [usability](https://my.mindnode.com/y8R1MPsRqmpgeWaztXudpyc9on3xqJqscHSvFzR6)
+
+## [material design](https://my.mindnode.com/j6ptpBbiTSXTrLfYYH5zQ2ePwiV2kUrqupd1r1xx)
+
+## [colours](https://my.mindnode.com/xNCrpgeXX6nX6FTsbuZu1FNrwkpQQQAGzMipCbdL)
+
+### [colour theory](https://my.mindnode.com/UrsZLTK1grPpQ9iWe8SY8qFDpFUzjK7TZFFy7dRx)
+
+## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
+
+
+# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+
+
+# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
+
+
+## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
+
+- everyone should have some kind of set of principles that they follow to guide their thinking  
+	- these are mine
+
+
+# [academia](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
+
+
+# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+
+advice I have found on life, programming and all that I thought was of value
+
+
+# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
+
+newsletters I found interesting
+
+
+# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
+
+
+## [1600 BC: cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
+
+## [1882: tuberculosis](https://my.mindnode.com/qsZDyxCSry7psXQHiHCGogsxqfD8y4kEF2ES9sKF)
+
+## [1887: schizophrenia](https://my.mindnode.com/TvfjrpkpbSWuN7jk9xTEqEP7hFaHWrrBiaUpZSCx)
+
+## 1889: diabetes
+
+## 1902: ADHD
+
+## [1906: alzheimers](https://my.mindnode.com/4KtHRSC4Y3vuLViBiYoCZ2Jtvd5yNxuuzwWXgp7z)
+
+## [1918: influenza](https://my.mindnode.com/zYsdMSpxnZMzLApQsquiwbUYo2cQi1q2uBtrAX2f)
+
+## 1983: HIV
+
+## coronary artery disease
+
+## stroke
+
+## chronic obstructive pulmonary disease
+
+## diarrhea
+
+## malaria
+
+## measles
+
+## heart disease
+
+
+# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
+
+
+## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
+
+## apache
+
+
+# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
+
+how to manifest and grow interesting ideas
 
 
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
@@ -3667,6 +3677,9 @@ all the books I am currently reading or have read
   - free:
 
 - [1980: mindstorms: children, computers, and powerful ideas ✨](https://my.mindnode.com/yfE1ZsbauFCB2pBxurqxqUokQNsT5uqytxHQEhNx)
+
+- [1985: communicating sequential processes](https://my.mindnode.com/mguBnjNLjsrYuKvCVj9EpRf7vFKojpW8mgzx2PN5)
+  - free:
 
 - 1991: the art of the metaobject protocol
 
@@ -7513,6 +7526,8 @@ how to find customers for your products and expose your product to the world in 
 
 ### 1991: vodafone
 
+### 1991: broadcom
+
 ### 1993: nvidia
 
 ### 1993: red hat
@@ -7576,6 +7591,8 @@ how to find customers for your products and expose your product to the world in 
 ### 04: unity
 
 ### 04: palantir
+
+### 04: canonical
 
 ### 05: reddit
 
