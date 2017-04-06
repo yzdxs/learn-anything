@@ -1,5 +1,3 @@
-# [Mind Map of Knowledge 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) + [Alfred Workflow 🎩](https://github.com/nikitavoloboev/alfred-my-mindmaps) + [Web 🌐](http://nikitavoloboev.xyz/knowledge-map/)
-
 ![](http://i.imgur.com/XAwsxo3.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
@@ -8,40 +6,25 @@
 
 [I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
-I am also building a [web search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) to extend and bring this project to the web. As it stands, the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) takes too long to open (~ 2 minutes) but I think it is worth the wait. Each node you see on the graph is another mind map where everything is to be read from left to right. All the nodes of the graph can also be viewed [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). Thus if you wish, you can bookmark [this page](http://nikitavoloboev.xyz/knowledge-map/) and search for the node you need there. Perhaps you are looking for [some interesting quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN) or [machine learning resources](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) or  some [interesting blogs you can read](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp). Just come here and search for what you wish. If you think something is missing, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-) 💙. This is a collaborative project after all.
+## [Study plan 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
 
-So much time is wasted looking for resources and help. There is a lot of effort being done to [ease this process](https://github.com/sindresorhus/awesome) but still, you have to look for it. What if instead of searching, you could instead explore and get yourself 'up to speed' with what our world already collectively knows.
+I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what is the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list.
 
-As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consilidate my knowledge.
+## How to use the Mind Maps 🗺️
 
-I hope I got you interested and you will take some of your time to explore what I know or rather what I wish to know. Below are some instructions on how to best approach interacting with this mind map. If you wish to contribute to this project, this is great, there are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can.
+Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map takes too long to load so currently you can only explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
 
-# Where to start? 🤔
+It is advised to open the mind maps in a new tab. For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is a mind map for machine learning. Every mind map is structured in the same way where everything is to be read from left to right. Each mind map has a 'resources' node that will have the best resources I could find on learning the topic. There you can also find 'notes' which will contain things that I found to be relevant to the topic on the internet that I wanted to note down or something I thought of myself that I found interesting. There are also articles, videos, talks and various related terminology that I note down related to the topic. For more clear presentation, I also order these nodes in the same way for each of the mind maps where, all the way on the left I will have the definition, then 'notes', then 'resources', then 'articles', then 'videos and talks' and then 'related terminology'.
 
-It depends on what you are looking for and what your goals are. I would suggest to just wait until [the main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) loads and explore visually. 
+I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q). I advise you to take some time and read through it, there I try to cover any confusion on might have in trying to read these mind maps.
 
-⚠️️ 
+My goal with these mind maps is to present everything visually and then give the best resources one can find on learning any of the topics in this vast knowledge map. I wish for all humans to take leverage of the fact that we are standing on the shoulders of giants and 'get up to speed' with what our world already collectively knows. Knowledge is power and I want to share it. 
 
-- it takes ~ 2 minutes to load (sometimes more)
-- does not load on mobile 
-- preferred to open mind maps in a new tab 
-- small mind maps in [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) load instantly
+However I can't do this alone as the internet is a vast place and I will never be able to map nor understand the vast majority of what this world has to offer. There are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can help me make this vision and dream of mine of liberating and visualising all of world's knowledge in this way a reality. Let's do this together. 🌍
 
-Every mind map is structured to be read from left to right. [Here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is an example of one. All mind maps have a definition on the left, followed by my 'notes', followed by 'resources', then 'articles', 'videos' and 'talks' and then 'terms' to learn related to the topic. Thus it should always be easy to find the most important 'resources' node from any of the mind maps.
+I already have a lot of information mapped in this way. There are [many books](https://github.com/nikitavoloboev/knowledge-map#books) neatly sorted by their topic. Ones that are free, will have 'free: ' as a note added to them and the mind map will provide a link to the free book you can read. I have mapped [interesting blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp) sorted by their domain, [various educational resources](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos), [quora communities](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos) and [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), research papers and more. I have over 2500 mind maps of content, which I hope to fill with most useful resources and links. So [please help](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-On the main mind map, the big branch of nodes you see on the right are books, some are free, some are not. The ones that are free have 'free: ' as a note added to them and will have a link to the book. Ones I have read already will have my notes and observations. The other big branch on the left are different humans of this world whose work I found interesting. Each node has a small description of what achievements and inventions he or she contributed to our planet. There is also a courses branch which has all the free courses you can take organised by their topic. Ones I have taken, will have my notes. There are also research papers I am reading or planning to read, again organised by their topic. If you see something that is missing, I am welcome to [any suggestions or additions that you wish to make to this mind map](https://github.com/nikitavoloboev/knowledge-map/issues/new). Thank you.
-
-One of the mind maps is called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q) and I advise you to read it as I try to cover any confusions one might have in navigating these mind maps there.
-
-If you have expolored the interactive mind map a bit and are somewhat familiar with what is in it. There are two options you can take to quickly find the appropriate mind map you may need. 
-
-1. You can bookmark [this page](http://nikitavoloboev.xyz/knowledge-map/) and just search for what you want there.
-
-2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred but looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-).
-
-3. Ideally you would be able to use the web search engine similar to Google and DuckDuckGo. I am [still building it](https://github.com/nikitavoloboev/knowledge-map-search-engine) and if you wish to help, I would once again greatly appreciate it. Thank you. 
-
-## [MindMap Key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
+As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consilidate my knowledge. 
 
 ## Contributing 🎉
 
@@ -55,27 +38,37 @@ There are many ways in which you can contribute and make this mind map even more
 
 4. Found a mistake? Perhaps you think the way I have structured the nodes is wrong or it is better to move a node somewhere else? [Say it](https://github.com/nikitavoloboev/research/issues/new). I wish for this mind map to represent knowledge visually in the most accurate and sensible way and I can't do it alone. 
 
+## Fast searching 🔎
+
+I want to reduce the amount of time it takes to find the information you need, currently the two most optimal ways to open the mind map you are looking for are :
+
+1. Bookmarking [the web page of this github repo](http://nikitavoloboev.xyz/knowledge-map/) and just searching for what you want there.
+
+2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred but I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems.
+
+# Future 🚀
+
+I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links.
+
+I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisians and playing around are the keys to understanding and comprehension I think. 
+
+The end goal is to make the image above into an interactive mind map that users can actually explore.
+
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
 ## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
 
-I really love programming, building and sharing the things I have built. Aside from this I am currently working on a [macOS app](https://github.com/nikitavoloboev/last-time) to track events that I have done. 
-
-# Future 🚀
-
-Aside from developing a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind map, I want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics. 
-
-User experience of using the web version of mind maps will improve greatly in the coming months and the [main mind map](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J) will load in under a minutes time with scrolling through it being as smooth as scrolling through a web page.
+I really love programming, building and sharing the things I have built. 
 
  
 # Ask 💬
-If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered.  
+If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
 # **Don't search. Explore.** 🎊
 
 # Index 🗄️
-- advised to open links in new tab
+- advised to open links in a new tab
 
 # [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
 

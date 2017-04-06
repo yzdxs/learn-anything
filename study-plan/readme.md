@@ -1,6 +1,6 @@
 # [Study plan for learning anything](https://my.mindnode.com/r4x5rD4RynNspDbCJ53oNvy3a8F3ioPh8HQy2rzs)
 
-![](http://i.imgur.com/zrnM5o8.jpg)
+![](http://i.imgur.com/6DPBp5x.jpg)
 
 This is a mind map that will guide you in your process of learning any topic that you want. You can either explore [the mind map](https://my.mindnode.com/r4x5rD4RynNspDbCJ53oNvy3a8F3ioPh8HQy2rzs) or search in the index below for what you want to learn.
 
@@ -53,6 +53,8 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ## calculus
 
+### [1. single variable calculus course](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+
 
 # computer science
 
@@ -74,6 +76,12 @@ I want to cover every topic one may want to learn and provide the best resources
 - will take you from constructing elementary logic gates all the way through creating a fully functioning general purpose computer
 
 ## deeper
+
+### math
+
+- [1. mathematics for computer science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
+
+	- goes over the mathematical foundation that you need to do research in this field
 
 ### algorithms
 
@@ -116,6 +124,34 @@ I want to cover every topic one may want to learn and provide the best resources
 ## help
 
 ### [visual overview of what web development entails and what you can learn](https://github.com/kamranahmedse/developer-roadmap)
+
+
+# unix
+
+
+## basics
+
+### [1. read an introduction to unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+
+# programming language design
+
+
+## basics
+
+### [1. beautiful racket](http://beautifulracket.com/)
+
+- amazing book covering how to make your own programming language with racket 
+
+
+# design
+
+- design is not just what it looks like and feels like. design is how it works
+
+
+## basics
+
+### [1. read the design of everyday things book](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things)
 
 
 # internet
@@ -180,6 +216,30 @@ I want to cover every topic one may want to learn and provide the best resources
 
 - amazing article that puts procrastination in terms you can actually reason about
 
+### [2. read thinking, fast and slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
+
+- you are at the mercy of your biological programming, it is best to be aware of it and how it behaves
+
+
+# nutrition
+
+
+## basics
+
+### [1. read how not to die book](https://www.goodreads.com/book/show/25663961-how-not-to-die)
+
+- covers how and why the diet that you have, has such an effect on you and how you can maximise and improve it towards better and longer living
+
+
+# history
+
+- it is best we learn from the mistakes done already so to not repeat them again
+
+
+## basics
+
+### [1. read sapiens: a brief history of humankind](https://www.goodreads.com/book/show/23692271-sapiens)
+
 
 # operating systems
 
@@ -191,6 +251,50 @@ I want to cover every topic one may want to learn and provide the best resources
 - [1. operating systems: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 	- is centered around three conceptual pieces that are fundamental to operating systems: virtualisation, concurrency, and persistence
+
+
+# graphic design
+
+
+## basics
+
+### [1. read the elements of typographic style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
+
+
+# prepare for programming interview
+
+
+## basics
+
+### 1. choose a programming language
+
+- java, python are the two great choices
+
+### [2. coding interview university](https://github.com/jwasham/coding-interview-university)
+
+- is a complete study plan that covers algorithms, data structures and various cs topics
+
+### [3. read cracking the coding interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
+
+- covers a great range of questions you may get asked with solutions
+
+- is quite useful to attempt to do all the exercises yourself
+
+	- [and check your work with official answers for the book](https://github.com/careercup/ctci)
+
+### [3. leetcode](https://leetcode.com)
+
+- start from easy problems and go from there
+
+- do not get demotivated if you don’t manage to come up with solutions of your own
+
+- do not look at solutions straight away and try your best to first understand the problem and then give your best solution to the problem
+
+## help
+
+### [coding interview in java pdf](http://www.programcreek.com/wp-content/uploads/2012/11/coding-interview-6.pdf)
+
+- goes over various solutions for problems in Java
 
 
 # linux
@@ -263,6 +367,22 @@ I want to cover every topic one may want to learn and provide the best resources
 ### [1. read the swift programming language book](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 
 ### 2. build things!
+
+## rust
+
+### [1. the rust programming language book](https://doc.rust-lang.org/book/)
+
+### 2. build things!
+
+## typescript
+
+### [1. read you don’t know js series](https://github.com/getify/You-Dont-Know-JS)
+
+- as typescript is a typed superset of javascript
+
+### [2. read typescript deep dive](https://basarat.gitbooks.io/typescript/)
+
+### 3. build things!
 
 
 # cryptography
