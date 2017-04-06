@@ -6,7 +6,7 @@
 
 [I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). 
 
-In short, mind maps are an incredibly effective way to make the connections between different areas in whatever I am trying to research and learn. I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
+I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
 ## [Study plan 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
 
