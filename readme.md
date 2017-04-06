@@ -2,7 +2,7 @@
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
-# Why? 🎈
+# What is this? 🎈
 
 [I wrote an article on why I made this and what the future of this project is](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19#.lehca4z09). 
 
