@@ -38,7 +38,7 @@ There are many ways in which you can contribute and make this mind map even more
 
 4. Found a mistake? Perhaps you think the way I have structured the nodes is wrong or it is better to move a node somewhere else? [Say it here](https://github.com/nikitavoloboev/knowledge-map/issues/14). I wish for this mind map to represent knowledge visually in the most accurate and sensible way and I can't do it alone. 
 
-5. Do you think the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) can be improved? If so, please [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/16). 💙
+5. Do you think the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) can be improved? If yes, please [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/16). 💙
 
 ## Fast searching 🔎
 
