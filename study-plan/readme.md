@@ -216,16 +216,16 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # programming languages
 
+- programming languages should not only be learned but ultimately be used  
+- it is the same as learning to speak, it is very hard to learn to speak without actually speaking  
+- helpful to have knowledge of computer science and mathematics
+
 
 ## basics
 
-### programming languages should not only be learned but ultimately be used
+### [structure and interpretation of computer programs book](http://sarabander.github.io/sicp/html/index.xhtml)
 
-### it is the same as learning to speak, it is very hard to learn to speak without actually speaking
-
-### knowledge of computer science and mathematics is very helpful as it allows you to deal with abstractions that all programming is about
-
-### [structure and interpretation of computer programs is an amazing book that goes over programming language fundamentals](http://sarabander.github.io/sicp/html/index.xhtml)
+- amazing book that goes over programming language fundamentals
 
 ## java
 
@@ -434,14 +434,14 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # linux
 
+- helpful to have understanding of operating systems and programming
+
 
 ## basics
 
-### assumes good understanding of operating systems and programming
+### [1. linux insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
 
-- [1. linux insides](https://0xax.gitbooks.io/linux-insides/content/index.html)
-
-	- goes over the linux kernel and its insides
+- goes over the linux kernel and its insides
 
 
 # unix
