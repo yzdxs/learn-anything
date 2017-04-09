@@ -2,6 +2,10 @@
 
 ![](http://i.imgur.com/LKPw7lQ.jpg)
 
+[image download 🗺️](https://www.dropbox.com/s/zjsoedc5n2q84y7/learn%20anything.png?dl=1)
+
+
+
 This is a mind map that will guide you in your process of learning any topic that you want. You can either explore [the mind map](https://my.mindnode.com/r4x5rD4RynNspDbCJ53oNvy3a8F3ioPh8HQy2rzs) or search in the index below for what you want to learn.
 
 If you think there is an even more efficient way to learn the topic and want to change something, please [say it 💙](https://github.com/nikitavoloboev/knowledge-map#contributing-). 
