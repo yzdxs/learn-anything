@@ -6,7 +6,7 @@
 
 I want to make a collaborative mind map of links and resources and present it all visually. In contrast to the current model of forming a question, entering it in the search engine and getting a static number of links as answer. I wish to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
-## [Study plan 📚](http://nikitavoloboev.xyz/knowledge-map/study-plan/)
+# [Study plan 📚](http://nikitavoloboev.xyz/knowledge-map/study-plan/)
 
 I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what is the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list. Thank you. 💙
 
