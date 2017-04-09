@@ -12,7 +12,7 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 ## How to use these Mind Maps 🗺️
 
-Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable buy you can explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
+Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
 
 Some mind maps [have a numeric prefix attached to them](https://github.com/nikitavoloboev/knowledge-map#programming) which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
 
@@ -36,11 +36,11 @@ There are many ways in which you can contribute and make this mind map even more
 
 1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issues page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources) and add the resource to the appropriate issue. So if for exampe you found an amazing course on computer graphics, you would go [here](https://github.com/nikitavoloboev/knowledge-map/issues/) and [make a search for 'courses'](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20course) like so : 
 
-[](http://i.imgur.com/mnIQqTu.png)
+![](http://i.imgur.com/mnIQqTu.png)
 
 and then say what course you wish was added in the appropriate issue.
 
-[](http://i.imgur.com/VRGD844.png)
+![](http://i.imgur.com/VRGD844.png)
 
 
 Aside from educational and learning material, resources you can add also include relevant articles, talks and videos appropriate to the topic. The focus is on quality of information rather than amount.
