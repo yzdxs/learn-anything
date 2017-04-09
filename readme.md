@@ -12,17 +12,19 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 ## How to use these Mind Maps 🗺️
 
-Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map takes too long to load so currently you can only explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
+Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable buy you can explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
 
-Some mind maps [have a numeric prefix attached to them](https://github.com/nikitavoloboev/knowledge-map#programming) which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I also arrange them in order from past to now.
+Some mind maps [have a numeric prefix attached to them](https://github.com/nikitavoloboev/knowledge-map#programming) which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
 
 It is advised to open the mind maps in a new tab. For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is a mind map for machine learning. Every mind map is structured in the same way where everything is to be read from left to right. Each mind map has a 'resources' node that will have the best resources I could find on learning the topic. There you can also find 'notes' which will contain things that I found to be relevant to the topic. There are also articles, videos, talks and various related terminology that I note down related to the topic. For more clear presentation, I also order these nodes in the same way for each of the mind maps where, all the way on the left I will have the definition, then 'notes', then 'resources', then 'articles', then 'videos and talks' and then 'related terminology'.
 
-I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q). I advise you to take some time and read through it, there I try to cover any confusion one might have in trying to read these mind maps.
+I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q). I advise you to take some time and read through it, there I try to cover any confusion one might have in trying to read these mind maps there.
 
-My goal with these mind maps is to present everything visually and then give the best resources one can find on learning any of the topics in this vast knowledge map. I wish for all humans to take leverage of the fact that we are standing on the shoulders of giants and 'get up to speed' with what our world already collectively knows. Knowledge is power and I want to share it. 
+My goal with these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything).
 
-However I can't do this alone as internet is a vast place and I will never be able to map nor understand the vast majority of what this world has to offer. There are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can help me make this vision and dream of liberating and visualising all of world's knowledge in this way a reality. Let's do this together. 🌍
+I wish for all humans to take leverage of the fact that we are standing on the shoulders of giants and 'get up to speed' with what our world already collectively knows. Knowledge is power and I want to share it. 
+
+However I can't do this alone as internet is a vast place and I will never be able to map nor understand the vast majority of what this world has to offer. There are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can help make this vision and dream of liberating and visualising all of world's knowledge in this way a reality. Let's do this together. 🌍
 
 I already have a lot of information mapped in this way. There are [many books](https://github.com/nikitavoloboev/knowledge-map#books) neatly sorted by their topic. Ones that are free, will have 'free: ' as a note added to them and the mind map will provide a link to the free book you can read. I have mapped [interesting blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp) sorted by their domain, [various educational resources](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos), [quora communities](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos) and [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), research papers and more. I have over 2500 mind maps of content, which I hope to fill with most useful resources and links. So [please help](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
@@ -32,15 +34,24 @@ As I learn more and more topics, I also make [flash cards](https://github.com/ni
 
 There are many ways in which you can contribute and make this mind map even more amazing.
 
-1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issue page](https://github.com/nikitavoloboev/research/issues/) and add the resource to the appropriate issue. So if for exampe you found an amazing course on computer graphics, you would go [here](https://github.com/nikitavoloboev/knowledge-map/issues/) and [make a search for 'courses'](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20course) and then say what course you wish was added in the appropriate issue. Aside from educational and learning material, resources you can add also include relevant articles, talks and videos appropriate to the topic. The focus is on quality of information rather than amount.
+1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issues page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources) and add the resource to the appropriate issue. So if for exampe you found an amazing course on computer graphics, you would go [here](https://github.com/nikitavoloboev/knowledge-map/issues/) and [make a search for 'courses'](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20course) like so : 
 
-2. If you think there is something interesting that I have missed completely to add in the main mind map, [please say it here](https://github.com/nikitavoloboev/knowledge-map/issues/14). 
+[](http://i.imgur.com/mnIQqTu.png)
+
+and then say what course you wish was added in the appropriate issue.
+
+[](http://i.imgur.com/VRGD844.png)
+
+
+Aside from educational and learning material, resources you can add also include relevant articles, talks and videos appropriate to the topic. The focus is on quality of information rather than amount.
+
+2. If you think there is something interesting that I have missed completely to add to the main mind map, [please say it here](https://github.com/nikitavoloboev/knowledge-map/issues/14). 
 
 3. I am also providing descriptions to each of the nodes in the main mind map as can be seen [here](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F). If you think that something is wrong or perhaps it can be said better, please [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/15). The index is auto generated by the app thus pull requests are not possible.
 
 4. Found a mistake? Perhaps you think the way I have structured the nodes is wrong or it is better to move a node somewhere else? [Say it here](https://github.com/nikitavoloboev/knowledge-map/issues/14). I wish for this mind map to represent knowledge visually in the most accurate and sensible way and I can't do it alone. 
 
-5. Do you think the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) can be improved? If yes, please [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/16). 💙
+5. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything). Do you think it can be improved? If yes, please add your input. Each of the topics has a [dedicated issue](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan) for it where anyone can propose changes. The goal is to cover any topic one could possibly want to learn in the most efficient way possible.
 
 ## Fast searching 🔎
 
@@ -2028,11 +2039,15 @@ known (uncertainty principle)
 
 ### 1998: half-life
 
+### 1998: dune 2000
+
 ### 1999: quake III
 
 ### 1999: heroes of might and magic III ✨
 
 ### 1999: age of empires II
+
+### 1999: system shock 2
 
 ### [00: counter strike](https://my.mindnode.com/t17mZNVbgfHyPdT5UrokGrnZswvyjxzyizpfWnuC)
 
@@ -2043,6 +2058,8 @@ known (uncertainty principle)
 ### 00: diablo II ✨
 
 ### 01: max payne
+
+### 01: silent hill 2
 
 ### 01: stronghold
 
@@ -2065,6 +2082,8 @@ known (uncertainty principle)
 ### 05: gunz: the duel
 
 ### 07: mass effect
+
+### 07: team fortress 2
 
 ### 07: bioshock
 
@@ -2093,6 +2112,8 @@ known (uncertainty principle)
 ### 10: fallout: new vegas
 
 ### 10: amnesia: the dark descent
+
+### 10: metro 2033
 
 ### 11: the elder scrolls V: skyrim
 
@@ -2176,9 +2197,15 @@ known (uncertainty principle)
 
 ### 15: metal gear solid V
 
+### 15: hotline miami 2
+
 ### 15: the witcher 3
 
+### 15: bloodborne
+
 ### 15: fallout 4
+
+### 15: dying light
 
 ### 16: dark souls III
 
@@ -2197,6 +2224,8 @@ known (uncertainty principle)
 ### 16: dishonored 2
 
 ### 16: firewatch
+
+### 16: grim dawn
 
 ### 16: battlefield 1
 
@@ -3071,7 +3100,7 @@ what is the nature of knowledge, justification and the rationality of belief
 the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
 
 
-## depression
+## [depression](https://my.mindnode.com/pxGJbJMuY4wRRdjT3H2oTNDdU6BsfAzySuYWo7Ff)
 
 mood disorder that causes a persistent feeling of sadness and loss of interest
 
@@ -3593,6 +3622,14 @@ newsletters I found interesting
 how to manifest and grow interesting ideas
 
 
+# [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
+
+blogs I like or want to read
+
+
+## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
+
+
 # [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
 
 
@@ -3607,14 +3644,6 @@ how to manifest and grow interesting ideas
 ## [lean gains](https://my.mindnode.com/U41hp2p2bRGARzxSzAx7TggXBY55dDtjxSzqK3hp)
 
 ## flexibility
-
-
-# [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
-
-blogs I like or want to read
-
-
-## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
 
 
 # [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
@@ -4377,6 +4406,8 @@ free:
 
 ### 1945: animal farm
 
+### 1947: the plague
+
 ### 1948: no longer human
 
 ### 1949: nineteen eighty-four ✨
@@ -4411,6 +4442,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1965: dune
 
+### 1965: stoner
+
 ### 1967: master and margarita ✨✔
 
 ### 1967: one hundred years of solitude
@@ -4418,6 +4451,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 ### 1969: slaughterhouse five
 
 ### 1972: roadside picnic ✨✔
+
+### 1972: augustus
 
 ### 1974: the forever war
 
@@ -4427,7 +4462,13 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ### 1981: the soul of new machine
 
+### 1984: the wasp factory
+
 ### 1985: blood meridian
+
+### 1988: the silence of the lambs
+
+### 1989: geek love
 
 ### 1989: the remains of the day
 
@@ -4505,6 +4546,8 @@ details Aldous Huxley’s own experiences when taking mescaline
 
 ## fantasy
 
+### 1978: the stand
+
 ### 01: american gods
 
 ### 11: the night circus
@@ -4541,6 +4584,10 @@ free:
 
 free:
 
+## comedy
+
+### 1980: a confederacy of dunces
+
 ## thriller
 
 ### 1939: and then there were none 
@@ -4550,6 +4597,8 @@ free:
 ### 1938: homage to catalonia
 
 ### 1997: into thin air
+
+### 01: damned lies and statistics
 
 ### 09: coders at work: reflections on the craft of programming
 
@@ -4573,6 +4622,8 @@ free:
 
 ### 1995: why the allies won
 
+### 1995: lies my teacher told me
+
 ### 1997: guns, germs, and steel: the fates of human societies
 
 ### 02: two hundred years together
@@ -4591,9 +4642,13 @@ free:
 
 ### 11: sapiens: a brief history of humankind
 
+### 11: the origins of political order
+
 ### 12: the idea factory: bell labs and the great age of american innovation
 
 ### 14: the sixth extinction: an unnatural history
+
+### 14: political order and political decay
 
 ### 15: conquerors: how portugal forged the first global empire
 
@@ -5910,9 +5965,9 @@ research papers I am reading and want to read
 
 ### [neural networks ✨](https://my.mindnode.com/DQcxpqpBKhMizY6LfaysgAMufBsyaxoxTnEeTj9M)
 
-## [computer science ✨](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
+- [deep learning ✨](https://my.mindnode.com/AyEiesv7g3aSaFuzg1hA4XCe95sRk8ASFfSzsHVe)
 
-## [deep learning ✨](https://my.mindnode.com/AyEiesv7g3aSaFuzg1hA4XCe95sRk8ASFfSzsHVe)
+## [computer science ✨](https://my.mindnode.com/1zJ1MKc1gWksgrF7apzqxVBmZo3XszNepTo37PcZ)
 
 ## [testing](https://my.mindnode.com/nzZkyrMfzDNq36e845izj8afyy1pr4aaoCSsrs2f)
 
@@ -6417,7 +6472,7 @@ how to live without a home, travel and work
 # backend
 
 
-# [internet of things ✨](/Users/nikivi/Library/Mobile%20Documents/W6L39UYL6Z~com~mindnode~MindNode/Documents/research/research.mindnode)
+# [internet of things ✨](https://my.mindnode.com/ZhaDvt1gqsjNohYH41u1T62KRYyoQwr9cCGazctK)
 
 connecting physical objects to the internet and using them in a smart way
 
@@ -7108,7 +7163,7 @@ what aliases and cli programs I use on my system
 
 ## [shell commands](https://my.mindnode.com/gyU3hH5exSVYxsuiqbp4WMNWKxxkAc7Aebocz1S4)
 
-## dotfiles
+## [dotfiles](https://my.mindnode.com/UJ6NSpEPv9qSYAWf2xDa3atfayPsN5wUBhxuY8ZX)
 
 ### [mine ✨](https://my.mindnode.com/RtzZgV6UUoBuyJeHykxa5sEAqpJpuptfunbGG8u4)
 
@@ -7149,7 +7204,7 @@ javascript libraries I found interesting that are not big enough to warrant itse
 
 ## [redux ✨](https://my.mindnode.com/nW1WEJKaSXAMqvb5TWxvukEnQQYJhHhxZYTrCtUd)
 
-## [d3.js ✨](%E2%9C%A8)
+## [d3.js ✨](https://my.mindnode.com/fQ9yXCpmgDit46SJAxAVsAUpbdDjDzyZjiNkMSqt)
 
 ## [jsdom](https://my.mindnode.com/AhPThRG9Agzqq78yDqbY88Fqspxbmxpzsnxvzd1z)
 
