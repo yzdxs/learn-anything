@@ -243,14 +243,14 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # operating systems
 
+- assumes you have good knowledge of programming and computer science 
+
 
 ## basics
 
-### it assumes you have good knowledge of programming and computer science 
+### [1. operating systems: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
-- [1. operating systems: three easy pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
-
-	- is centered around three conceptual pieces that are fundamental to operating systems: virtualisation, concurrency, and persistence
+- is centered around three conceptual pieces that are fundamental to operating systems: virtualisation, concurrency, and persistence
 
 
 # graphic design
@@ -259,6 +259,40 @@ I want to cover every topic one may want to learn and provide the best resources
 ## basics
 
 ### [1. read the elements of typographic style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
+
+
+# javascript libraries
+
+- you need to have good understanding of javascript 
+
+
+## [react](https://github.com/facebook/react)
+
+### basics
+
+- [1. go through react fundamentals course](https://reacttraining.com/online/react-fundamentals)
+
+- [1. go through react documentation from beginning](https://facebook.github.io/react/)
+
+- build things!
+
+### help
+
+- [curated tutorial and resources links on React, Redux, ES6 and more](https://github.com/markerikson/react-redux-links)
+
+- [collecting of of awesome things regarding React ecosystem](https://github.com/enaqx/awesome-react)
+
+- [react patterns, techniques, tips and tricks](https://github.com/vasanthk/react-bits)
+
+## [vue.js](https://github.com/vuejs/vue)
+
+### basics
+
+- [1. read vue.js documentation](https://vuejs.org/v2/guide/)
+
+### help
+
+- [curated list of awesome things related to vue.js](https://github.com/vuejs/awesome-vue)
 
 
 # prepare for programming interview
