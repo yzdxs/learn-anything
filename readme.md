@@ -10,6 +10,8 @@ I want to make a collaborative mind map of links and resources and present it al
 
 I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what is the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list. Thank you. 💙
 
+#[Mind Maps 🗺️](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#research-)
+
 ## How to use these Mind Maps 🗺️
 
 Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
