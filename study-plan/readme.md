@@ -12,8 +12,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # physics
 
-- helpful to have understanding of  
-	- mathematics
+- helpful to have understanding of mathematics
 
 
 ## basics
@@ -173,9 +172,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # machine learning
 
-- requires understanding of   
-	- linear algebra  
-	- statistics
+- requires understanding of linear algebra and statistics
 
 
 ## basics
@@ -248,9 +245,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # operating systems
 
-- helpful to have understanding of   
-	- programming  
-	- computer science 
+- helpful to have understanding of programming and computer science 
 
 
 ## basics
@@ -270,8 +265,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # javascript libraries
 
-- requires understanding of :  
-	- javascript
+- requires understanding of javascript
 
 
 ## [react](https://github.com/facebook/react)
@@ -428,6 +422,8 @@ I want to cover every topic one may want to learn and provide the best resources
 
 
 # cryptography
+
+- helpful to have understanding of mathematics
 
 
 ## basics
