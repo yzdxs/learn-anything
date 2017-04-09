@@ -282,7 +282,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 - [curated tutorial and resources links on React, Redux, ES6 and more](https://github.com/markerikson/react-redux-links)
 
-- [collecting of of awesome things regarding React ecosystem](https://github.com/enaqx/awesome-react)
+- [awesome react](https://github.com/enaqx/awesome-react)
 
 - [react patterns, techniques, tips and tricks](https://github.com/vasanthk/react-bits)
 
@@ -294,7 +294,17 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### help
 
-- [curated list of awesome things related to vue.js](https://github.com/vuejs/awesome-vue)
+- [awesome vue.js](https://github.com/vuejs/awesome-vue)
+
+## [webpack](https://github.com/webpack/webpack)
+
+### basics
+
+- [1. read introduction to webpack](https://survivejs.com/webpack/introduction/)
+
+### help
+
+- [awesome webpack](https://github.com/webpack-contrib/awesome-webpack)
 
 
 # prepare for programming interview
