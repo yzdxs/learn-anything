@@ -12,6 +12,9 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # physics
 
+- helpful to have understanding of  
+	- mathematics
+
 
 ## basics
 
@@ -146,7 +149,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # design
 
-- design is not just what it looks like and feels like. design is how it works
+- Design is not just what it looks like and feels like. Design is how it works.
 
 
 ## basics
@@ -170,32 +173,34 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # machine learning
 
+- requires understanding of   
+	- linear algebra  
+	- statistics
+
 
 ## basics
 
-### 1. you need strong grounding in linear algebra and statistics
+### for linear algebra
 
-- for linear algebra
+- [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-	- [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+	- get an intuitive understanding of what linear algebra actually is before working with it
 
-		- get an intuitive understanding of what linear algebra actually is before working with it
+	- amazing set of videos, rewatch parts that you find confusing
 
-		- amazing set of videos, rewatch parts that you find confusing
+- [2. immersive linear math](http://immersivemath.com/ila/index.html)
 
-	- [2. immersive linear math](http://immersivemath.com/ila/index.html)
+	- amazing visual representation and interactive examples
 
-		- amazing visual representation and interactive examples
+- [3. khan academy linear algebra](https://www.khanacademy.org/math/linear-algebra)
 
-	- [3. khan academy linear algebra](https://www.khanacademy.org/math/linear-algebra)
+	- videos and exercises to supplement immersive linear math
 
-		- videos and exercises to supplement immersive linear math
+### for statistics
 
-- for statistics
+- [1. seeing theory](http://students.brown.edu/seeing-theory/)
 
-	- [1. seeing theory](http://students.brown.edu/seeing-theory/)
-
-		- visual introduction to probability and statistics
+	- visual introduction to probability and statistics
 
 ## machine learning
 
@@ -243,7 +248,9 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # operating systems
 
-- assumes you have good knowledge of programming and computer science 
+- helpful to have understanding of   
+	- programming  
+	- computer science 
 
 
 ## basics
@@ -263,7 +270,8 @@ I want to cover every topic one may want to learn and provide the best resources
 
 # javascript libraries
 
-- you need to have good understanding of javascript 
+- requires understanding of :  
+	- javascript
 
 
 ## [react](https://github.com/facebook/react)
