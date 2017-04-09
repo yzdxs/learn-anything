@@ -34,11 +34,13 @@ As I learn more and more topics, I also make [flash cards](https://github.com/ni
 
 There are many ways in which you can contribute and make this mind map even more amazing.
 
-1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issues page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources) and add the resource to the appropriate issue. So if for exampe you found an amazing course on computer graphics, you would go [here](https://github.com/nikitavoloboev/knowledge-map/issues/) and [make a search for 'courses'](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20course) like so : 
+1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issues page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources) and add the resource to the appropriate issue. 
+
+So if for exampe you found an amazing course on computer graphics, you would go [here](https://github.com/nikitavoloboev/knowledge-map/issues/) and [make a search for 'courses'](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=✓&q=is%3Aissue%20is%3Aopen%20course) like so : 
 
 ![](http://i.imgur.com/mnIQqTu.png)
 
-and then say what course you wish was added in the appropriate issue.
+and then say what course you wish was added in the appropriate issue :
 
 ![](http://i.imgur.com/VRGD844.png)
 
