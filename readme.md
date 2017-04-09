@@ -12,7 +12,7 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 # [Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
-Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can still explore [all of its contents](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#research-). It contains all the interactive mind maps from the image with links and descriptions of each one.
+Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can still explore [all of its contents](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). It contains all the interactive mind maps from the image with links and descriptions of each one.
 
 ## How to use these Mind Maps 🗺️
 
