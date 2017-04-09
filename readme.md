@@ -12,11 +12,11 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 # [Mind Maps 🗺️](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#research-)
 
+Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can still explore [all of its contents](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#research-). It contains all the interactive mind maps from the image with links and descriptions of each one.
+
 ## How to use these Mind Maps 🗺️
 
-Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can explore the [index](https://github.com/nikitavoloboev/knowledge-map#index-%EF%B8%8F) of this mind map which contains all the nodes from the image with links to the mind map and its description. 
-
-Some mind maps [have a numeric prefix attached to them](https://github.com/nikitavoloboev/knowledge-map#programming) which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
+Some mind maps have a numeric prefix attached to them in their name which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
 
 It is advised to open the mind maps in a new tab. For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze) is a mind map for machine learning. Every mind map is structured in the same way where everything is to be read from left to right. Each mind map has a 'resources' node that will have the best resources I could find on learning the topic. There you can also find 'notes' which will contain things that I found to be relevant to the topic. There are also articles, videos, talks and various related terminology that I note down related to the topic. For more clear presentation, I also order these nodes in the same way for each of the mind maps where, all the way on the left I will have the definition, then 'notes', then 'resources', then 'articles', then 'videos and talks' and then 'related terminology'.
 
@@ -61,7 +61,7 @@ Aside from educational and learning material, resources you can add also include
 
 I want to reduce the amount of time it takes to find the information you need, currently the two most optimal ways to open the mind map you are looking for are :
 
-1. Bookmarking [the web page of this github repo](http://nikitavoloboev.xyz/knowledge-map/) and just searching for what you want there.
+1. Bookmarking [the web page with list of all the mind maps](http://nikitavoloboev.xyz/knowledge-map/mindmaps/) and just searching for what you want there.
 
 2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred but I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems.
 
@@ -84,5 +84,5 @@ I really love programming, building and sharing the things I have built.
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
-# **Don't search. Explore.** 🎊
+# [**Don't search. Explore.** 🎊](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
