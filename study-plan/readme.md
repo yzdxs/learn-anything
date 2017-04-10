@@ -1,4 +1,4 @@
-# [Study plan for learning anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i)
+# [Study plan for learning anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2)
 
 ![](http://i.imgur.com/Tb2i4ts.jpg)
 
