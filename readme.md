@@ -25,11 +25,12 @@ It is advised to open the mind maps in a new tab. For example, [here is a mind m
 
 I document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2). I advise you to take some time to explore it, as I try to cover any confusion one might have in trying to read these mind maps there.
 
-My goal with these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2). 📚
 
 ## The Plan 🗺️
 
-I wish for all humans to take leverage of the fact that we are standing on the shoulders of giants and 'get up to speed' with what our world already collectively knows. Knowledge is power and I want to share it. 
+The goal of these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2). 📚
+
+All humans should take leverage of the fact that we are standing on the shoulders of giants and *'get up to speed'* with what our world already collectively knows. **Knowledge is power and I want to share it.**
 
 However I can't do this alone as internet is a vast place and I will never be able to map nor understand the vast majority of what this world has to offer. There are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can help make this vision and dream of liberating and visualising all of world's knowledge in this way a reality. Let's do this together. 🌍
 
