@@ -1,6 +1,6 @@
 # [Study plan for learning anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i)
 
-![](http://i.imgur.com/LKPw7lQ.jpg)
+![](http://i.imgur.com/Tb2i4ts.jpg)
 
 ### [image download 🗺️](https://www.dropbox.com/s/zjsoedc5n2q84y7/learn%20anything.png?dl=1)
 
@@ -31,6 +31,18 @@ I want to cover every topic one may want to learn and provide the best resources
 - you are at the mercy of your biological programming, it is best to be aware of it and how it behaves
 
 
+# cryptography
+
+- helpful to have understanding of mathematics
+
+
+## basics
+
+### [1. read the code book](https://www.goodreads.com/book/show/17994.The_Code_Book)
+
+- gives a very interesting historic overview of the evolution of cryptography, its uses throughout the years and where we are today
+
+
 # history
 
 - it is best we learn from the mistakes done already so to not repeat them again
@@ -44,16 +56,20 @@ I want to cover every topic one may want to learn and provide the best resources
 # mindfulness
 
 
-# cryptography
+# machine learning
 
-- helpful to have understanding of mathematics
+- requires good understanding of linear algebra and statistics
 
 
 ## basics
 
-### [1. read the code book](https://www.goodreads.com/book/show/17994.The_Code_Book)
+### [1. take coursera course on machine learning](https://www.coursera.org/learn/machine-learning)
 
-- gives a very interesting historic overview of the evolution of cryptography, its uses throughout the years and where we are today
+- [lecture slides and notes](https://github.com/1094401996/machine-learning-coursera)
+
+### [2. read deep learning book](http://www.deeplearningbook.org)
+
+- one of the best introductions to the field, assumes you have the mathematical background to follow it
 
 
 # nutrition
@@ -64,52 +80,6 @@ I want to cover every topic one may want to learn and provide the best resources
 ### [1. read how not to die book](https://www.goodreads.com/book/show/25663961-how-not-to-die)
 
 - covers how and why the diet that you have, has such an effect on you and how you can maximise and improve it towards better and longer living
-
-
-# machine learning
-
-- requires understanding of linear algebra and statistics
-
-
-## basics
-
-### for linear algebra
-
-- [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-	- get an intuitive understanding of what linear algebra actually is before working with it
-
-	- amazing set of videos, rewatch parts that you find confusing
-
-- [2. immersive linear math](http://immersivemath.com/ila/index.html)
-
-	- amazing visual representation and interactive examples
-
-- [3. khan academy linear algebra](https://www.khanacademy.org/math/linear-algebra)
-
-	- videos and exercises to supplement immersive linear math
-
-### for statistics
-
-- [1. seeing theory](http://students.brown.edu/seeing-theory/)
-
-	- visual introduction to probability and statistics
-
-## machine learning
-
-### [1. read deep learning book](http://www.deeplearningbook.org)
-
-- one of the best introductions to the field, assumes you have the mathematical background to follow it
-
-
-# programming language design
-
-
-## basics
-
-### [1. beautiful racket](http://beautifulracket.com/)
-
-- amazing book covering how to make your own programming language with racket 
 
 
 # mathematics
@@ -123,8 +93,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### [2. khan academy math](https://www.khanacademy.org/math)
 
-- cover everything, fast forward videos as that may save time, just make sure to not lose on comprehension and rewatch or google phrases and parts that you don’t understand
-
+- cover everything, fast forward videos as that may save time, just make sure to not lose on comprehension and rewatch or google phrases and parts that you don’t understand  
 - do the exercises, they are very important
 
 ## logic
@@ -134,6 +103,43 @@ I want to cover every topic one may want to learn and provide the best resources
 ## calculus
 
 ### [1. single variable calculus course](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+
+### [2. multivariable calculus course](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+
+## linear algebra
+
+### [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+- get an intuitive understanding of what linear algebra actually is before working with it  
+- amazing set of videos, rewatch parts that you find confusing
+
+### [2. immersive linear math](http://immersivemath.com/ila/index.html)
+
+- amazing visual representation and interactive examples
+
+### [3. khan academy linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+- videos and exercises to supplement immersive linear math
+
+## statistics
+
+### [1. seeing theory](http://students.brown.edu/seeing-theory/)
+
+- visual introduction to probability and statistics
+
+## discrete
+
+### [1. take mathematics for computer science course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+
+# programming language design
+
+
+## basics
+
+### [1. beautiful racket](http://beautifulracket.com/)
+
+- amazing book covering how to make your own programming language with racket 
 
 
 # internet
@@ -213,8 +219,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### [3. read university physics text book](https://www.goodreads.com/book/show/125139.University_Physics_with_Modern_Physics)
 
-- 44 chapters of everything physics
-
+- 44 chapters of everything physics  
 - as it is a text book, it has a lot of exercises which are very helpful to actually consolidate your understanding
 
 
@@ -309,8 +314,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### 3. build things!
 
-- nothing will teach you more effectively that trying to build projects of your own
-
+- nothing will teach you more effectively that trying to build projects of your own  
 - use google, read documentation, ask for help on the internet, try and fail and learn on the way
 
 ## help
@@ -325,13 +329,12 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### [1. read code: hidden language book](https://www.goodreads.com/book/show/44882.Code)
 
-- have to buy the book or search for pdf online
-
+- have to buy the book or search for pdf online  
 - goes over what a computer actually is and what it is made of, starting from the beginning
 
 ### [2. read structure and interpretation of computer programs](http://sarabander.github.io/sicp/html/index.xhtml)
 
-- amazing book going over all aspects of programming and interpreting programming languages
+- goes over what a computer actually is and what it is made of, starting from the beginning
 
 ### [3. build a computer from first principles course](https://www.coursera.org/learn/build-a-computer)
 
@@ -342,26 +345,20 @@ I want to cover every topic one may want to learn and provide the best resources
 ### math
 
 - [1. mathematics for computer science](https://courses.csail.mit.edu/6.042/spring17/mcs.pdf)
-
-	- goes over the mathematical foundation that you need to do research in this field
+  - goes over the mathematical foundation that you need to do research in this field
 
 ### algorithms
 
 - [1. algorithms: part I course](https://www.coursera.org/learn/algorithms-part1)
-
-	- a really great course by Stanford university that introduces you to different algorithms
-
-	- how to prove them and reason about their efficiency
+  - a really great course by Stanford university that introduces you to different algorithms  
+  - how to prove them and reason about their efficiency
 
 - [2. algorithms: part II course](https://www.coursera.org/learn/algorithms-part2)
-
-	- continuation of the above course
+  - continuation of the above course
 
 - [3. read introduction to algorithms book](http://ce.bonabu.ac.ir/uploads/30/CMS/user/file/115/EBook/Introduction.to.Algorithms.3rd.Edition.Sep.2010.pdf)
-
-	- can be read alongside the above courses
-
-	- is very thorough and details the specifics of all the algorithms you may find
+  - can be read alongside the above courses  
+  - is very thorough and details the specifics of all the algorithms you may find
 
 
 # prepare for programming interview
@@ -379,18 +376,15 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### [3. read cracking the coding interview](https://www.goodreads.com/book/show/12544648-cracking-the-coding-interview)
 
-- covers a great range of questions you may get asked with solutions
-
+- covers a great range of questions you may get asked with solutions  
 - is quite useful to attempt to do all the exercises yourself
 
-	- [and check your work with official answers for the book](https://github.com/careercup/ctci)
+- [check your work with official answers for the book](https://github.com/careercup/ctci)
 
 ### [3. leetcode](https://leetcode.com)
 
-- start from easy problems and go from there
-
-- do not get demotivated if you don’t manage to come up with solutions of your own
-
+- start from easy problems and go from there  
+- do not get demotivated if you don’t manage to come up with solutions of your own  
 - do not look at solutions straight away and try your best to first understand the problem and then give your best solution to the problem
 
 ## help
@@ -431,9 +425,8 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ### 2. use the editor to code!
 
-- just use the editor and if you find yourself thinking ‘wouldn’t it be nice ..’ then search on google
-
-	- most certainly you are not alone in thinking this
+- just use the editor and if you find yourself thinking ‘wouldn’t it be nice ..’ then search on google  
+	- most certainly you were not alone in thinking this
 
 
 # linux
@@ -461,7 +454,7 @@ I want to cover every topic one may want to learn and provide the best resources
 
 ## basics
 
-### 1. read the elements of typographic style (https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
+### [1. read the elements of typographic style](https://www.goodreads.com/book/show/44735.The_Elements_of_Typographic_Style)
 
 
 # design
