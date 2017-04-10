@@ -4,7 +4,7 @@
 
 # What is this? 🎈
 
-I want to make collaborative mind maps of links and resources and present it all visually. In contrast to the current model where you  form a question, enter it in the search engine and get a static number of links as answer. I want to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
+I want to make collaborative mind maps of links and resources and present them all visually. In contrast to the current model where you  form a question, enter it in the search engine and get a static number of links as answer. I want to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
 
 # [Study plan 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
 
