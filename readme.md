@@ -16,9 +16,9 @@ Each node you see on the image above is another mind map. Sadly the interactive 
 
 ## How to use these Mind Maps 🗺️
 
-Some mind maps have a numeric prefix attached to them in their name which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
-
 It is advised to open the mind maps in a new tab. For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning. Every mind map is structured in the same way where everything is to be read from left to right. Each mind map has a 'resources' node that will have the best resources I could find on learning the topic. There you can also find 'notes' which will contain things that I found to be relevant to the topic. There are also articles, videos, talks and various related terminology that I note down related to the topic. For more clear presentation, I also order these nodes in the same way for each of the mind maps where, all the way on the left I will have the definition, then 'notes', then 'resources', then 'articles', then 'videos and talks' and then 'related terminology'.
+
+Some mind maps have a numeric prefix attached to them in their name which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
 
 I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2). I advise you to take some time and read through it, there I try to cover any confusion one might have in trying to read these mind maps there.
 
