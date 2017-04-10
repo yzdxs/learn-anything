@@ -1,8 +1,6 @@
-# [research 🌍](https://my.mindnode.com/83qmKgoATj8TyKzprzsPfoirxa2g9WmFGx3xpr1J)
-
-- the high level visual overview of all the knowledge
-
 # [learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i)
+
+- most optimal step by step guides for learning any topic
 
 
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
@@ -7846,4 +7844,3 @@ code editor by Microsoft based on Electron, quite fast and extensible
 
 ## surfing
 
-q
