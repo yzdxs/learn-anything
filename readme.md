@@ -8,7 +8,7 @@ I want to make a collaborative mind map of links and resources and present it al
 
 # [Study plan 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
 
-I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what is the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list. Thank you. 💙
+I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list. Thank you. 💙
 
 # [Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
