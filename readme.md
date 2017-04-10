@@ -76,10 +76,10 @@ I also want to [create visualisations in code](https://github.com/nikitavoloboev
 
 The end goal is to make the image above into an interactive mind map that users can actually explore.
 
-## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
+## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#212.1,-493.5,0)
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#137.6,-889.4,0)
 
 I really love programming, building and sharing the things I have built. 
 
