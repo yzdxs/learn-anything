@@ -2,6 +2,9 @@
 
 - the high level visual overview of all the knowledge
 
+# [learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i)
+
+
 # [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q)
 
 - contains all the documentation for how I use and manage this mind map  
@@ -11,12 +14,6 @@
 	- logic behind my structuring of nodes  
 - contains tips and tricks to navigate mind maps better  
 - includes ways with which one can approach learning topics
-
-
-## [plan 🗺️](https://my.mindnode.com/r4x5rD4RynNspDbCJ53oNvy3a8F3ioPh8HQy2rzs)
-
-- overview and plans on how to learn anything with step by step instructions of what to follow for most optimal results  
-	- submit requests to improve it 💙
 
 
 # [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
@@ -827,6 +824,8 @@
   - a study of limits and continuity yields many counter-intuitive results not demonstrated by single-variable functions  
   	- for example, there are scalar functions of two variables with points in their domain which give a particular limit when approached along any arbitrary line, yet give a different limit when approached along a parabola  
   - a partial derivative of a multivariable function is a derivative with respect to one variable with all other variables held constant
+
+- vector calculus
 
 ## [1975: fractals ✨](https://my.mindnode.com/8suTHRqawXHqDPGAVYsxCAfbRQo6ZcGvCPvZ5vkp)
 
@@ -3064,6 +3063,8 @@ my solutions and working out of leetcode problems
 
 ### kaggle
 
+### codeforces
+
 ### codechef
 
 ### spoj
@@ -4518,8 +4519,6 @@ free:
 ## history
 
 ### 1903: the souls of black folk
-
-### 1962: the structure of scientific revolutions
 
 ### 1973: gravity’s rainbow
 
@@ -7847,3 +7846,4 @@ code editor by Microsoft based on Electron, quite fast and extensible
 
 ## surfing
 
+q
