@@ -12,7 +12,7 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 # [Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
-Each node you see in the image above is an interactive mind map. In future, this image will also be a big interactive mind map that all can explore.
+Each node you see in the image above is an interactive mind map. In future, this image too will be a big interactive mind map that all can explore.
 
 Until then, [here is the entire list of all 2500 mind maps from this image for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
 
