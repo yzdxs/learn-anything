@@ -12,19 +12,20 @@ I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tr
 
 # [Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
-Each node you see on the image above is another mind map. Sadly the interactive version of this big mind map is currently unavailable but you can still explore [all of its contents](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). It contains all the interactive mind maps from the image with links and descriptions of each one.
+Each node you see on the image above is another mind map. In the future the image you see above you will be an interactive mind map that all can explore.
+
+[For now here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
+
 
 ## How to use these Mind Maps 🗺️
 
 It is advised to open the mind maps in a new tab. For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning. Every mind map is structured in the same way where everything is to be read from left to right. Each mind map, when opened, will show a 'resources' node that will have the best resources I could find on learning the topic. To the left of it, you can find 'notes' which will contain things that I found to be relevant to the topic. There are also articles, videos, talks and various related terminology that I note down related to the topic. 
 
-[Here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
-
 Some mind maps have a numeric prefix attached to them in their name which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now.
 
-I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2). I advise you to take some time and read through it, there I try to cover any confusion one might have in trying to read these mind maps there.
+I also document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2). I advise you to take some time and read through it, there I try to cover any confusion one might have in trying to read these mind maps.
 
-My goal with these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything).
+My goal with these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2). 📚
 
 I wish for all humans to take leverage of the fact that we are standing on the shoulders of giants and 'get up to speed' with what our world already collectively knows. Knowledge is power and I want to share it. 
 
