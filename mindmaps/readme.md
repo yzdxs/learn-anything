@@ -14,7 +14,7 @@
 - includes ways with which one can approach learning topics
 
 
-# [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike)
+# [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike#-250.1,-457.5,0)
 
 - is intelligence exhibited by machines  
 - it is the study of ‘intelligent agents’ (any device that perceives its environment and takes actions that maximise its chance of success at some goal)  
@@ -32,7 +32,7 @@
 - ability of a computer program or a machine to think and learn, making computers ‘smart’
 
 
-## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze)
+## [machine learning ✨](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0)
 
 - gives computers the ability to learn without being explicitly programmed  
 - evolved from the study of pattern recognition and computational learning theory in ai  
@@ -44,7 +44,7 @@
 
 - various libraries used to ease implementation of machine learning algorithms
 
-- [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq)
+- [tensorflow ✨](https://my.mindnode.com/hzHvjYpcZVisuE2RKy6XNMXFUHvpBHt4viXpuUzq#514.8,-498.5,-1)
   - developed by Google  
   - provides Python API and less documented C++, Java and Go API's
 
@@ -84,7 +84,7 @@
 
 - scikit-learn
 
-### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8)
+### [reinforcement learning](https://my.mindnode.com/twQ6Ft6P3rVHo1UxHwcmnx2GJQG9U7d6EgUTcKn8#-689.5,51.6,0)
 
 - inspired by behaviourist psychology, concerned with how software agents ought to take actions in an environment so as to maximise some notion of cumulative reward  
 - in machine learning, the environment is typically formulated as Markov decision process (MDP), as many reinforcement learning algorithms for this context utilise dynamic programming techniques  
@@ -101,12 +101,12 @@
 
 - aims to enable the safe adoption of machine learning techniques in adversarial settings like spam filtering, malware detection and biometric recognition
 
-### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY)
+### [datasets](https://my.mindnode.com/MJpeXC24x7tNaRuLZKiAnBhxNnWYqyzHKpyZCdpY#547.5,4.0,2)
 
 - is a collection of data  
 - most common a data set corresponds to the contents of a single database table, or a single statical data matrix, where every column of the table represents a particular variable, and each row corresponds to a given member of the data set in question
 
-### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct)
+### [neural networks](https://my.mindnode.com/zLYtEZppgWfinP4p8S9LkxZsVB9kKfb38uhrXKct#-463.5,336.3,0)
 
 - are computational models based on a large collection of simple neural units (artificial neurons), loosely analogous to the observed behaviour of a biological brain’s axons  
 - each neural unit is connected with many others, and links can enhance or inhibit the activation state of adjoining neural units  
@@ -125,7 +125,7 @@
 	- are part of the broader machine learning field of learning representations of data  
 	- learn multiple levels of representations that correspond to different levels of abstraction (the levels form a hierarchy of concepts)
 
-## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98)
+## [general intelligence ✨](https://my.mindnode.com/zUq3psGBcMb3i5VoqxtqKL4KtNu5VyLqQYWGxW98#439.6,-352.1,0)
 
 - is the intelligence of a machine that could successfully perform any intellectual task that a human being can  
 - it is required to do the following  
@@ -138,28 +138,28 @@
 - other important capabilities include the ability to sense (e.g. see) and the ability to act (e.g. move and manipulate objects) in the world where intelligent behaviour is to be observed 
 
 
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v)
+# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v#967.7,-95.1,0)
 
 - is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
 - it is the right of people to conceal information about themselves that others might use to their advantage
 
 
-## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr)
+## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr#100.1,-43.8,0)
 
 
-# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu)
+# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu#1002.4,-314.2,2)
 
 - someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
-# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5)
+# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5#620.0,286.5,2)
 
 - are software agents that act for a user or other programs in relationship of agency (an agreement to act on one’s behalf)  
 - they may be autonomous or work together with other agents or people  
 - agents interacting with people may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form
 
 
-# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc)
+# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc#723.4,-252.7,1)
 
 - is the degree of resistance to, or protection from, harm  
 - it applies to any vulnerable and/or valuable asset
@@ -176,7 +176,7 @@
 	- enter the attack  
 	- exploit the entry for information recovery
 
-## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6)
+## [cryptography](https://my.mindnode.com/TqyWkSgqd4Cdwcxhp7yGRSxGzGP6bkpSUTkxnDg6#846.3,-144.1,1)
 
 - practice and study of hiding information, is used to try and keep information secret and safe  
 - when a message is sent using cryptography, it is changed (or encrypted) before it is sent  
@@ -184,7 +184,7 @@
 	- RSA  
 	- AES
 
-### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9)
+### [encryption](https://my.mindnode.com/ap1EMFUFCypspNBk8tywW2ckJ5kgMzLD4mcdJ6K9#350.0,-332.1,2)
 
 - allows information to be hidden so that it cannot be read without special knowledge (such as a password), this is done with a secret code or cypher, the hidden information is said to be encrypted
 
@@ -205,7 +205,7 @@
 - is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde)
+# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde#1349.3,-1338.7,0)
 
 - deals with how computers can be made for gaining high-level understanding from digital images or videos  
 - it seeks to automate tasks that the human visual system can do  
@@ -216,7 +216,7 @@
 
 ## libraries
 
-### [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz)
+### [opencv](https://my.mindnode.com/BhPfpnagYgX6KeM6kkmFYgdn5Ar7CF2bZcgsSPMz#342.5,-277.0,2)
 
 - open source computer vision library for real time computer vision 
 
@@ -226,7 +226,7 @@
 - how to optimise processes (algorithms, systems and so on)
 
 
-# [1230: algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU)
+# [1230: algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU#56.9,-1516.3,-1)
 
 - is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
 - starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
@@ -261,7 +261,7 @@
 - DSPACE or SPACE is the computational resources describing the resource of memory space for a deterministic Turing machine  
 - it represents the total amount of memory space that a ‘normal’ physical computer would need to solve a given computational problem with a given algorithm
 
-## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp)
+## [proving ✨](https://my.mindnode.com/PfpsnZRQ7eVLzFxe2PnQGuhu2xyXpxqRoLrpRLzp#1183.4,-759.1,2)
 
 - how to prove an algorithm works and does its job correctly
 
@@ -300,7 +300,7 @@
 
 - a graph is an abstract notion, used to represent the idea of some kind of connection between pairs of objects
 
-## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi)
+## [searching ✨](https://my.mindnode.com/87v7siq3h1pqwbPnW13ynTKWxAmwydrQ4HkdiAXi#-743.1,884.2,0)
 
 - search algorithm is an algorithm that retrieves information stored within some data structure  
 - appropriate search algorithm often depends on the data structure being searched  
@@ -313,7 +313,7 @@
 - an example of combinatorial search is, for instance, branch and bound  
 	- here, you may safely skip some subtrees since, depending on your particular optimisation problem, you know in advance that no node within a certain subtree can yield a better solution than the current one during the execution of your algorithm
 
-## [matrix multiplication ✨](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i)
+## [matrix multiplication ✨](https://my.mindnode.com/XpyZdpxo3SiDzeL9x7v2qdZoznghieqFTNpw9E4i#-161.4,33.7,0)
 
 - applications of matrix multiplication in computational problems are found in many fields including scientific computing and pattern recognition and in seemingly unrelated problems such as counting the paths through a graph  
 - many different algorithms have been designed for multiplying matrices on different types of hardware, including parallel and distributed systems, where the computational work is spread over multiple processors (perhaps over network)
@@ -322,7 +322,7 @@
 
 - ai algorithms
 
-## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc)
+## [big O ✨](https://my.mindnode.com/vXDjQixcGsWDxqrMnJDnsrkoxg3GYFNon4B8q3vc#1521.7,-619.8,0)
 
 - is a mathematical notation that describes the limiting behaviour of a function when the argument tends towards a particular value or infinity  
 - it is used to classify algorithms according to how their running time or space requirements grow as the input size grows  
@@ -444,7 +444,7 @@
 	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 
-# [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby)
+# [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby#-1903.9,4614.6,0)
 
 - study of numbers, shapes and patterns  
 - to a mathematician, the reason something is true is just as important as the fact that it is true  
@@ -459,7 +459,7 @@
 - studying the rules and ideas of mathematics can help us understand the world better
 
 
-## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E)
+## [logic](https://my.mindnode.com/mX9gF6Ud9LhaLfqLU6q4hWwtohuPvwEy2me9xF9E#-633.6,-763.4,0)
 
 - is the systematic study of the form of arguments  
 - a valid argument is one where there is a specific relation of logical support between the assumptions of the argument and its conclusion   
@@ -472,7 +472,7 @@
 	- which is a higher order function that uses only function application and earlier defined combinators to define a result from its arguments  
 - in computer science, combinatory logic is used as simplified model of computation, used in computability theory and proof theory
 
-### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v)
+### [incompleteness ✨](https://my.mindnode.com/BtnMKNwKjPpzdi7ryZwE4DhhbAoLqSpzcUuxfy4v#146.9,6.1,2)
 
 - Godel’s incompleteness theorems are two theories of mathematical logic that demonstrate the inherent limitations of every formal axiomatic system containing basic arithmetic  
 - the theorems are widely, but not universally, interpreted as showing that Hilbert’s program to find a complete and consistent set of axioms for all mathematics is impossible  
@@ -588,7 +588,7 @@
 - is a system of graphics or symbols, characters and abbreviated expressions, used in artistic and scientific disciplines to represent technical facts and quantities by convention  
 - it is a collection of related symbols that are each given an arbitrary meaning, created to facilitate structured communication within a domain knowledge or field of study
 
-## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-386.6,16.2,2)
+## [type theory](https://my.mindnode.com/DDpqyZuyarQap3y8YZVTvfpW97EvWzbEVpsa2ExJ#-341.6,-143.3,2)
 
 - is any class of formal systems, some which can serve as alternatives to set theory as a foundation for all mathematics   
 - in type theory, every “term” has a “type” and operations are restricted to terms of a certain type  
@@ -720,7 +720,7 @@
 	- important topological properties include connectedness and compactness  
 - it developed as a field of study out of geometry and set theory, through analysis of concepts such as space, dimension and transformation
 
-### [1706: pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq)
+### [1706: pi ✨](https://my.mindnode.com/Zgz1zspR7f7ZzcMaK2ggg47wx2xqTQPzivxjkqRq#3482.0,-260.3,0)
 
 - is a mathematical constant   
 - it is the ratio of a circle’s circumference to its diameter, commonly approximated as 3.14159  
@@ -1043,7 +1043,7 @@
 - the function of cache memory is to speed up the MM data access and to reduce the system bus and MM traffic in multiprocessor systems (which is one of the major bottlenecks of these systems)
 
 
-# [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ)
+# [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ#-1120.9,46.4,-1)
 
 - is a process that leads from an original formulation of a computing problem to an executable computer programs
 
@@ -1059,7 +1059,7 @@
 	- XOR (Exclusive Or)  
 	- NAND (Not And)
 
-## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12)
+## [design patterns](https://my.mindnode.com/FPsEgZQpPDCmzQSspyY2AKqGNTsLGrAKpg6sXk12#1041.1,-95.8,0)
 
 - are general reusable solutions to a commonly occurring problem within a given context in software design  
 - it is not a finished design that can be transformed directly into source or machine code  
@@ -1437,7 +1437,7 @@ program that will analyse code for potential errors
 	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
 
 
-# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT)
+# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT#-5141.3,1943.8,0)
 
 - are pictures and films created using computers  
 - refers to computer generated image data created with help from specialised graphical hardware and software  
@@ -1585,7 +1585,7 @@ program that will analyse code for potential errors
 ## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
 
 
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC)
+# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC#105.5,-532.8,2)
 
 - is the process of creating a video game
 
@@ -1609,7 +1609,7 @@ program that will analyse code for potential errors
 - is a virtual machine designed to mimic a ‘fantasy video game console’
 
 
-# [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi)
+# [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi#754.6,-440.6,0)
 
 - is a formal computer language designed to communicate instructions to a machine, particularly a computer  
 - they can be used to create programs to control the behaviour of a machine or to express algorithms   
@@ -1618,7 +1618,7 @@ program that will analyse code for potential errors
 	- some languages have both
 
 
-## [1949: assembly](https://my.mindnode.com/aBpRSvC7cLjDLsPXUzyJT6VFoisq5C4fxs1xc6HL)
+## [1949: assembly](https://my.mindnode.com/aBpRSvC7cLjDLsPXUzyJT6VFoisq5C4fxs1xc6HL#-315.6,-474.7,2)
 
 - low level, very strong correspondence between the language and architecture’s machine code instructions
 
@@ -1628,11 +1628,11 @@ program that will analyse code for potential errors
 
 - general purpose, imperative, suited for numeric computation and scientific computing
 
-## [1958: lisp](https://my.mindnode.com/owvaiMW5PspBP7cEU9qNxsorNo4nyV7zWyPzoNae)
+## [1958: lisp](https://my.mindnode.com/owvaiMW5PspBP7cEU9qNxsorNo4nyV7zWyPzoNae#-148.8,115.2,0)
 
 - originally created as mathematical notation for computer programs, was used in AI research, linked lists are one of lisp’s major data structures and lisp source code is made of lists thus allowing to manipulate source code as a data structure
 
-### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD)
+### [racket](https://my.mindnode.com/jsuTxzgByQmFuqg4DBcrgiUTSp2p8n3hJxmi74SD#599.5,-43.9,2)
 
 ### common lisp
 
@@ -1640,7 +1640,7 @@ program that will analyse code for potential errors
 
 ## 1964: apl
 
-## [1969: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq)
+## [1969: c](https://my.mindnode.com/83qUPxVDd3qDGsELcxQMso1puBK2qLJYxtCRGAxq#852.2,-473.4,0)
 
 - imperative, procedural and compiled, low level access to memory
 
@@ -1654,7 +1654,7 @@ program that will analyse code for potential errors
 
 ## 1982: maple
 
-## [1983: c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq)
+## [1983: c++](https://my.mindnode.com/9oZtfTuQRRDK7pbfzUB2Y4Hnzs4KntasHsPGwWMq#760.0,176.6,0)
 
 - imperative, object oriented and generic with low level memory manipulation
 
@@ -1678,13 +1678,13 @@ program that will analyse code for potential errors
 
 - interactive theorem prover, allows expression of mathematical assertions, mechanically checks proofs of these assertions and helps find formal proofs
 
-## [1990: haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42)
+## [1990: haskell ✨](https://my.mindnode.com/tecLyqHsjQf416hxx1LzXnNY6Hhx6gpUx9qRtv42#373.5,33.9,0)
 
 - general purpose, purely functional with non strict semantics and strong static typing
 
 ## 1990: j
 
-## [1991: python ✨](https://my.mindnode.com/xdGgVg9P6HWwz9tpst7Q4WABRomKTfhXbzdsCWZf)
+## [1991: python ✨](https://my.mindnode.com/xdGgVg9P6HWwz9tpst7Q4WABRomKTfhXbzdsCWZf#1813.0,-1843.7,-1)
 
 - high level, general purpose, interpreted emphasising code readability 
 
@@ -1708,7 +1708,7 @@ program that will analyse code for potential errors
 
 - scripting language created by Apple to do inter-application communication using AppleEvents
 
-## [1995: ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7)
+## [1995: ruby ✨](https://my.mindnode.com/Z5mTWuMpmn37qCq7GqdKohV33r485NF63mtq9DE7#1449.1,-597.0,0)
 
 - dynamic, reflective, object oriented, general purpose
 
@@ -1716,15 +1716,15 @@ program that will analyse code for potential errors
 
 - server side scripting designed primarily for webdev, can be embedded into HTML
 
-## [1995: java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo)
+## [1995: java](https://my.mindnode.com/oEhKyDVdnga1P9UVoeSE4q4AqLqV6EfcoYZp8yRo#2415.9,-837.0,0)
 
 - concurrent, class based, object oriented, compiles to byte code to be ran on JVM
 
 ### [jml](https://my.mindnode.com/TuiM1QdBfFJfpE1YGzVq476B9g9kJHH2mkyagmn2)
 
-### [maven](https://my.mindnode.com/Y1XyipvfrxzscpGhyBBzfcpidK27VACCpT2VzhKj)
+### [maven](https://my.mindnode.com/Y1XyipvfrxzscpGhyBBzfcpidK27VACCpT2VzhKj#465.3,-197.4,2)
 
-## [1995: javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a)
+## [1995: javascript](https://my.mindnode.com/pWiYWDay3zPyLqeHsd7AZMzrkqFjKmVxN5UGAj2a#1350.6,-1632.7,0)
 
 - high level, dynamic, untyped and interpreted, prototype based with first class functions, making it a multi paradigm language
 
@@ -1758,7 +1758,7 @@ program that will analyse code for potential errors
 
 - general purpose, functional with strong static type system, compiles to Java bytecode
 
-## [07: clojure](https://my.mindnode.com/usZy8bc3U2oybNtLEpsgU5JimeCpGwmztGBnThVs)
+## [07: clojure](https://my.mindnode.com/usZy8bc3U2oybNtLEpsgU5JimeCpGwmztGBnThVs#543.4,-837.8,2)
 
 - general purpose with emphasis on functional programming, runs on jam ,clr and js engine, treats code as data and has a macro system
 
@@ -1768,7 +1768,7 @@ program that will analyse code for potential errors
 
 - object oriented, imperative, multi paradigm system programming language
 
-## [09: go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U)
+## [09: go ✨](https://my.mindnode.com/gEuiz5ncm3pdAsFYHcSe3pzbYkDxNeya7qmik71U#984.7,-353.2,-1)
 
 - compiled, statically typed with garbage collection, limited structural typing and memory safety features with focus great concurrency features
 
@@ -1778,7 +1778,7 @@ program that will analyse code for potential errors
 
 ### effective go
 
-## [10: rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL)
+## [10: rust](https://my.mindnode.com/zc4RJXqSpVpf4Gp6PT2VCbMyD3fPqwpgBtvcJPzL#586.0,166.1,2)
 
 - general purpose, designed to be safe, concurrent and practical, supporting functional and imperative-procedural paradigms
 
@@ -1810,7 +1810,7 @@ program that will analyse code for potential errors
 
 ## 13: lean
 
-## [14: swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw)
+## [14: swift ✨](https://my.mindnode.com/ytMugWzTWi9FU2ysEdmKetyucqbdXrTzhUFyecdw#1309.6,-2135.5,0)
 
 - general purpose, multi paradigm and compiled
 
@@ -1944,6 +1944,10 @@ known (uncertainty principle)
 ### [1925: contract bridge](https://my.mindnode.com/oibQMfyhhBVNg9qPLFD3swXmRsFf1FZysjXzScSx)
 
 ## computer
+
+### 1972: pong
+
+### 1976: snake
 
 ### 1984: tetris
 
@@ -2238,7 +2242,7 @@ known (uncertainty principle)
 - The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy
 
 
-# [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93)
+# [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93#924.7,-1253.3,-1)
 
 - is involved with the study of matter and its motion and behaviour through space and time, lagoon with related concepts such as energy and force  
 - its fundamental goal is to understand how the universe behaves
@@ -3149,7 +3153,7 @@ my often misspelled words to learn
 ## hindi
 
 
-# [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK)
+# [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK#1497.9,-718.6,1)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
 
@@ -3468,7 +3472,7 @@ study of language and its structure including study of grammar, syntax and phone
 # [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
 
 
-## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm)
+## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm#-1059.4,-274.9,1)
 
 - everyone should have some kind of set of principles that they follow to guide their thinking  
 	- these are mine
@@ -3596,7 +3600,7 @@ blogs I like or want to read
 ## [skin care](https://my.mindnode.com/DK8XfQvbG86n8M5XsyH2pNMCMuNPz2s3tn6m9Bq2)
 
 
-# [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve)
+# [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve#-1071.9,-598.4,2)
 
 what will happen in the future
 
@@ -3606,12 +3610,12 @@ what will happen in the future
 documentaries I have seen and want to watch
 
 
-# [education ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos)
+# [education ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos#752.5,-668.8,0)
 
 amazing resources curated by other people
 
 
-# [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC)
+# [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
 
 all the books I am currently reading or have read
 
@@ -5976,7 +5980,7 @@ the future of money as I see itn
 # lessons
 
 
-## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv)
+## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv#37.3,-323.4,-2)
 
 - lessons I have learned over the course of my life
 
@@ -6077,7 +6081,7 @@ is a set of computer software programs and data structures which use a virtual m
 ## [social](https://my.mindnode.com/TtLpQxuscftfbToszq8x5spgHMxmDA1h3GqJ7Ww4)
 
 
-# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN)
+# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5805.9,-1081.2,-1)
 
 
 ## russian
@@ -6120,7 +6124,7 @@ is a set of computer software programs and data structures which use a virtual m
 
 ## [mercurial](https://my.mindnode.com/NxcTDxweypHJ5dkqR7bWpryPxjbmzpCAxcKV9tG4)
 
-## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS)
+## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS#1008.9,-448.6,0)
 
 
 # [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
@@ -6231,58 +6235,58 @@ series I have seen or plan on watching
 # [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
 
 
-# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs)
+# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1180.2,-1421.3,-1)
 
 
-## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ)
+## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ#376.4,-1851.4,2)
 
-### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG)
+### [repos](https://my.mindnode.com/sqcjpU1hCsD9RCrNRjHk9E6L26f4spbiDszhyVqG#-899.9,-836.4,2)
 
-- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8)
+- [mine ✨](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#161.2,-933.6,0)
   - my open source github repositories organised by their topics
 
-### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr)
+### [gists](https://my.mindnode.com/kJTxRfg4C8e9pBvsLaWZ9ZdgYFjXpDfyRZ2j3Qxr#41.0,-192.1,1)
 
 gists that I found interesting and useful 
 
-- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw)
+- [mine ✨](https://my.mindnode.com/EfnC3n1wjVKUzZzQxxyNUCNBuDTpPzbxDWgzWdiw#575.8,-1034.8,0)
   - gists that I shared sorted by categories
 
-## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8)
+## [reddit ✨](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#-638.8,-430.1,2)
 
 reddit subreddits organised by topics
 
-### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c)
+### [res](https://my.mindnode.com/gG346Du6Q9qjRiWpidkrCy2nWnSXLGQGR7PQqk2c#-194.7,-696.1,1)
 
 a browser extension to improve reddit experience
 
-## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu)
+## [quora ✨](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#924.1,483.3,0)
 
 quora communities organised and connected
 
-## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh)
+## [codepen ✨](https://my.mindnode.com/TXeC4eEEhQj3DkvEGhVyz3oY7QFyBJyv3So2Jrbh#3.3,-360.2,2)
 
 codeine code that I found interesting organised
 
-## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs)
+## [youtube ✨](https://my.mindnode.com/piRNM8PKy63o8mfspx8pXa2n2PEaBgF7BfhguJqs#269.3,-1236.5,0)
 
 youtube channels I like organised and connected
 
-## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S)
+## [inspiration](https://my.mindnode.com/Jqqn15kcJ8z125x5fHwjSF7VtXxMVG5BAxyJh52S#553.0,-938.9,0)
 
 websites whose design I really like
 
-### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw)
+### [personal sites ✨](https://my.mindnode.com/nJJwV9USRfEs5NQWgVN4ENMx1M9G1popa8ejAUUw#-1988.4,-2011.9,0)
 
 personal websites that are really well made and inspiring
 
 ## twitter
 
-## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc)
+## [forums](https://my.mindnode.com/YxNywdaBmJewwbHM4vEp8FVKaypoPFBsb4DptdPc#211.7,-162.7,2)
 
-## [education ✨](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C)
+## [education ✨](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C#-67.8,-886.7,-1)
 
-## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5)
+## [music](https://my.mindnode.com/9cSpT9eUFPHbqdSJzyydaqMyTFNwvyq5BpUzoyT5#-535.8,-192.1,2)
 
 ## [pinboard](https://my.mindnode.com/Errwf3QQTxovbgzsxpkxqZqYukzysTt7xcFi6yyT)
 
@@ -6382,7 +6386,7 @@ how to live without a home, travel and work
 # backend
 
 
-# [internet of things ✨](https://my.mindnode.com/ZhaDvt1gqsjNohYH41u1T62KRYyoQwr9cCGazctK)
+# [internet of things ✨](https://my.mindnode.com/ZhaDvt1gqsjNohYH41u1T62KRYyoQwr9cCGazctK#118.2,280.4,0)
 
 connecting physical objects to the internet and using them in a smart way
 
@@ -6880,7 +6884,7 @@ United States of America is made up of 50 states, a deferral district, and five 
 ## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
 
 
-# [1980: web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz)
+# [1980: web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz#1426.0,-301.0,0)
 
 
 ## [browsers](https://my.mindnode.com/4G3PhTqxAg6bEToGT613X38ppXTP5KsCi1sYuz6i)
@@ -7136,11 +7140,11 @@ javascript libraries I found interesting that are not big enough to warrant itse
 
 ## ui
 
-### [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp)
+### [vue.js ✨](https://my.mindnode.com/KSTxXHxrtNBcxobdtDnRKUJuN3G7k4Q8CcujPxrp#1249.4,-258.1,1)
 
 ### [preact](https://my.mindnode.com/WAPnPzGkGX1GswCnFApEQKEqRg8t2R1iTx7ysoVm)
 
-### [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz)
+### [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz#2033.5,673.9,-1)
 
 library for building user interfaces including one way data flow, virtual dom, jsx features
 
@@ -7716,7 +7720,7 @@ how to find work and what to focus on
 
 ### [1985: emacs](https://my.mindnode.com/CMvPkvVN54ZninFxj8VKzYerHeJEKbGiwznCzz3y)
 
-### [1991: vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J)
+### [1991: vim ✨](https://my.mindnode.com/yjDM8SpEqm96Vn6gJ8kzUXUef2G2Gh1MHbYFdG4J#668.5,1281.4,-1)
 
 insane customisability with focus on keeping your hands on the home row of your keyboard
 
