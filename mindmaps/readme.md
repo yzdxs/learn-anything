@@ -3617,7 +3617,7 @@ amazing resources curated by other people
 
 # [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
 
-all the books I am currently reading or have read
+- all the books I am currently reading, planning to read or have read already
 
 
 ## programming 
@@ -5868,7 +5868,7 @@ interesting podcasts I have found and liked or want to listen to
 
 # [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
 
-research papers I am reading and want to read
+- research papers I am currently reading, planning to read and have already read
 
 
 ## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
