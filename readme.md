@@ -8,7 +8,7 @@ The image above is an interactive mind map that can be [viewed and explored here
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-# [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
+# [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
 Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://github.com/nikitavoloboev/knowledge-map/tree/master/images#images-), everything. 
 
