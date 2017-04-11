@@ -10,13 +10,13 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-1595.7,-1760.0,-2), everything. 
+Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#bookss) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-1595.7,-1760.0,-2), everything. 
 
 Eventually I want to make a visual mind map that all can explore.  
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
 
-Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as I [believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
+Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
 
 To ease the process of trying to explore this big list of mind maps, I created [an interactive introduction](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2) that you can take. 
 
@@ -49,7 +49,7 @@ If you found something interesting related to any of the topics that you think i
 
 As above, most mind maps have a dedicated issue for them. So if for example you wanted to add a book, you would [add it here](https://github.com/nikitavoloboev/knowledge-map/issues/24). If you want to add a topic that is not covered in any of the mind maps, you [can do it here](https://github.com/nikitavoloboev/knowledge-map/issues/359). If you want to add a course, you can [do it here](https://github.com/nikitavoloboev/knowledge-map/issues/10).
 
-If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added to [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
+If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added in [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
 
 I also curate [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN), [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG),[interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs) and more.
 
