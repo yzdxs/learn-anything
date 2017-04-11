@@ -87,7 +87,7 @@ If you have some specific questions about this project or about myself, my inter
 
 # Thank you 💙
 
-- [MindNode](https://mindnode.com/) who created the application that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
+- to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project
 
 
