@@ -1,5 +1,4 @@
-# [Learn History 📚
-](https://my.mindnode.com/viRDhbpcrjLW2MSyzGJyhzgSqryics23wcLfJTxR#1661.9,-1544.9,4)
+# [Learn History 📚](https://my.mindnode.com/viRDhbpcrjLW2MSyzGJyhzgSqryics23wcLfJTxR#1661.9,-1544.9,4)
 
 
 # [history](http://www.wikiwand.com/en/History)
