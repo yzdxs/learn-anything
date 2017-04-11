@@ -8,39 +8,28 @@ The image above is an interactive mind map that can be [viewed and explored here
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-# [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
+# [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-smindmaps/)
 
 Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://github.com/nikitavoloboev/knowledge-map/tree/master/images#images-), everything. 
 
-Eventually I want to make a visual mind map that all can exlore.  
+Eventually I want to make a visual mind map that all can explore.  
 
-Until then, [here is the entire list of all 2500 mind maps from this image for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
+Until then, [here is the entire list of all 2500 mind maps from this big mind map for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
 
+Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension as I [believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
 
-## How to use these Mind Maps 🗺️
+To ease the process of trying to explore this big list of mind maps, I created [an interactive introduction](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2) that you can take. 
 
-It is advised to open the mind maps in a new tab. For example, [here is a mind map for machine learning](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0). Every mind map is structured in the same way where everything is to be read from left to right. Each mind map, when opened, will show a 'resources' node that will have the best resources available on learning the topic. To the left of it, you can find 'notes' which will contain things that I found to be relevant to the topic. There are also articles, videos, talks, various related terminology, images and gifs that help one learn the subject well. 
+If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-[Some mind maps](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#programming) have a numeric prefix attached to them in their name which stands for a year. If it is a book, it means the year in which it was written. If it is a person, it stands for the year in which he or she died. If it is some other topic or node, it often stands for the year this field was invented or discovered. I abbreviate this century's years to two digits, so '17: ' prefix stands for year 2017. Finally I arrange them in order from past to now for gaining prespective.
-
-I document all of this and more in another mind map called [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2). I advise you to take some time to explore it, as I try to cover any confusion one might have in trying to read these mind maps there.
-
-
-## The Plan 🗺️
-
-The goal of these mind maps is to present everything visually and then give the best resources one can find on [learning any of the topics in this vast knowledge map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2). 📚
-
-All humans should take leverage of the fact that we are standing on the shoulders of giants and *'get up to speed'* with what our world already collectively knows. **Knowledge is power and I want to share it.**
-
-However I can't do this alone as internet is a vast place and I will never be able to map nor understand the vast majority of what this world has to offer. There are [many many](https://github.com/nikitavoloboev/knowledge-map#contributing-) ways in which you can help make this vision and dream of liberating and visualising all of world's knowledge in this way a reality. Let's do this together. 🌍
-
-I already have a lot of information mapped in this way. There are [many books](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#books) neatly sorted by their topic. Ones that are free, will have 'free: ' as a note added to them and the mind map will provide a link to the free book you can read. I have mapped [interesting blogs sorted by their domain](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp#-1159.6,-2258.0,-3), [various educational resources](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos#781.5,-705.4,0), [educational websites](https://my.mindnode.com/r33MD8Y2FtBV9HigBYdnyUoKmAzLg5tU9KBaQq9C#-105.8,-924.0,-1), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#924.1,483.3,0), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#-634.8,-478.1,2), [research papers](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#research-papers-) and [more](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). I have over 2500 mind maps of content, which I hope to fill with most useful resources and links. So [please help](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
-
-As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge. 
+As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
 
 ## Contributing 🎉
 
 There are many ways in which you can contribute and make this mind map even more amazing.
+
+1. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything). Do you think it can be improved? If yes, please add your input. Each of the topics has a [dedicated issue](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan) for it where anyone can propose changes. The goal is to cover any topic one could possibly want to learn in the most efficient way possible.
+
 
 1. All the nodes of this mind map should have the best resources one can get on learning the topic. The internet is a big place though, if you found something interesting and valuable that is not found in the mind maps, please [take a look at the issues page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources) and add the resource to the appropriate issue. 
 
@@ -61,7 +50,6 @@ Aside from educational and learning material, resources you can add also include
 
 4. Found a mistake? Perhaps you think the way I have structured the nodes is wrong or it is better to move a node somewhere else? [Say it here](https://github.com/nikitavoloboev/knowledge-map/issues/14). This mind map should represent knowledge visually in the most accurate and sensible way and I can't do it alone. 
 
-5. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything). Do you think it can be improved? If yes, please add your input. Each of the topics has a [dedicated issue](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan) for it where anyone can propose changes. The goal is to cover any topic one could possibly want to learn in the most efficient way possible.
 
 ## Fast searching 🔎
 
