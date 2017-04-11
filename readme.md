@@ -39,7 +39,9 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#562.0,-83.9,2) mind map should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/386). 
 
-I use GitHub issues in a unique way where I just have an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. Or [you can make a search](https://github.com/nikitavoloboev/knowledge-map/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20mathematics%20) for what topic you want to contribute to.
+I use GitHub issues in a unique way where there is an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
+
+You can also [make a search](http://i.imgur.com/P1tceNE.png) for what topic you want to contribute to.
 
 ### Help with visualising and sorting all of world's knowledge 🗺️
 
