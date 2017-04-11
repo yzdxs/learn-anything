@@ -85,6 +85,10 @@ I really love programming, building and sharing the things I have built.
 
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
+# Thank you 💙
+
+- [MindNode](https://mindnode.com/) who created the application that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
+- to all the people who contributed to this project
 
 
 
