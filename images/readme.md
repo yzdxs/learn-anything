@@ -1,4 +1,4 @@
-# [Images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+# [Images 🎨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-1595.7,-1760.0,-2)
 
 ![](http://i.imgur.com/ld0smgm.jpg)
 
