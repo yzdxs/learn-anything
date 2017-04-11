@@ -1,7 +1,5 @@
 # [Learn Physics 🌍](https://my.mindnode.com/RfCpjqozA6Aq3j38RvzUnZrhFGMnpCsbRrpAsUWj#56.0,116.9,2)
 
-# Mind Map Index 🗺️
-
 # [physics](https://www.wikiwand.com/en/Physics)
 
 
