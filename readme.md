@@ -35,7 +35,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
 - Or the order with how material should be tackled should be different?
-- Or you wish some other topic was covered that is not included?
+- Or you wish some other topic was covered that is not currently included?
 
 Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#562.0,-83.9,2) mind map should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/386). 
 
@@ -47,9 +47,9 @@ I use GitHub issues in a unique way where I just have an issue for all the sugge
 
 If you found something interesting related to any of the topics that you think is missing or perhaps you think there is an amazing book that all should read that is not already there or some person you admire or some topic of research that you think is not covered, please add it.
 
-As above, most mind maps have a dedicated issue for them. So if for example you wanted to add a book, you would [add it here](https://github.com/nikitavoloboev/knowledge-map/issues/24). If you want to add an topic that is not covered in any of the mind maps, you [can do it here](https://github.com/nikitavoloboev/knowledge-map/issues/359). If you want to add a course, you can [do it here](https://github.com/nikitavoloboev/knowledge-map/issues/10).
+As above, most mind maps have a dedicated issue for them. So if for example you wanted to add a book, you would [add it here](https://github.com/nikitavoloboev/knowledge-map/issues/24). If you want to add a topic that is not covered in any of the mind maps, you [can do it here](https://github.com/nikitavoloboev/knowledge-map/issues/359). If you want to add a course, you can [do it here](https://github.com/nikitavoloboev/knowledge-map/issues/10).
 
-If you want to add any resources like learning material or articles or images, just search for what mind map do you think they should be added to [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
+If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added to [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
 
 I also curate [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8), [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN), [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG),[interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs) and more.
 
@@ -60,7 +60,7 @@ Just add what you think is interesting and valuable and is appropriate to the to
 
 I want to reduce the amount of time it takes to find the information you need, currently the two most optimal ways to open the mind map you are looking for are :
 
-1. Bookmarking [the web page with list of all the mind maps](http://nikitavoloboev.xyz/knowledge-map/mindmaps/) and just searching for what you want there.
+1. Bookmarking [the web page with list of all the mind maps](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and just searching for what you want there.
 
 2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred but I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems.
 
