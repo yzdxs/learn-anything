@@ -2,7 +2,7 @@
 
 ![](http://i.imgur.com/u5Sz9J9.png)
 
-# [Study Plans 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything-mindmaps)
+# [You can learn anything 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything-mindmaps)
 
 The image above is an interactive mind map that can be [viewed and explored here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
 
