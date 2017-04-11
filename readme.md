@@ -68,7 +68,7 @@ I want to reduce the amount of time it takes to find the information you need, c
 
 I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for [these mind maps](http://nikitavoloboev.xyz/knowledge-map/all-smindmaps/) where users can search and be presented with an interactive mind map of links and resources instead of a static set of links.
 
-I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisians and playing around are the keys to understanding and comprehension. 
+I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can exlpore.
 
