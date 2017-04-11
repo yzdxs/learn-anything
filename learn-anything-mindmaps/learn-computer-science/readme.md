@@ -1,6 +1,5 @@
 # [Learn Computer Science 📚](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#776.4,-206.5,2)
 
-# Mind Map Index 🗺️
 # [computer science](http://www.wikiwand.com/en/Computer_science)
 
 

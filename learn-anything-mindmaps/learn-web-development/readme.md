@@ -1,6 +1,5 @@
-# Learn Web Development 🕸️ 
+# [Learn Web Development 🕸️](https://my.mindnode.com/85uh2iN4GPhBJpuyyuWks5a6niyypQA5TPBCGnAN#826.7,-290.4,2) 
 
-# Mind Map Index 🗺️
 
 # [web development](https://www.wikiwand.com/en/Web_development)
 

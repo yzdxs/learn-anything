@@ -1,6 +1,5 @@
 # [Learn Nutrition 🍏](https://my.mindnode.com/2afNwunht3e7ft6ypefG45Xns7AFzELpDy3EB5xk#164.6,42.1,2)
 
-# Mind Map Index 🗺️
 
 # [nutrition](https://www.wikiwand.com/en/Nutrition)
 

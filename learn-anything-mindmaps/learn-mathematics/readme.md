@@ -1,7 +1,5 @@
 # [Learn Mathematics 📚](https://my.mindnode.com/JD2DJUeZSAwQzyb5KceAZ6bfuYaLGqsDkpfZg1R2#275.3,166.4,0)
 
-# Mind Map Index 🗺️
-
 # [mathematics](https://www.wikiwand.com/en/Mathematics)
 
 

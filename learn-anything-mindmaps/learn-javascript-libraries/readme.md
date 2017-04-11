@@ -1,6 +1,5 @@
 # [Learn Javascript Libraries](https://my.mindnode.com/5PazdXmKxEq1mDpksAfWUZFdJTpvAHpti6Cir1S2#50.6,-34.4,2)
 
-# Mind Map Index 🗺️
 
 # react
 

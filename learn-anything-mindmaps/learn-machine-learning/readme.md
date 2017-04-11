@@ -1,6 +1,5 @@
 # [Learn Machine Learning 📚](https://my.mindnode.com/k954FWFNztnkphWmNqqHz2dqQW41LeP1SLqkqqjs#547.9,198.0,2)
 
-# Mind Map Index 🗺️
 
 # [machine learning](https://www.wikiwand.com/en/Machine_learning)
 

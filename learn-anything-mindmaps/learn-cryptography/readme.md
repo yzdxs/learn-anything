@@ -1,7 +1,5 @@
-# [Learn Cryptography 📚](https://my.mindnode.com/cHUd9sSPJHjKf81sczwqxPgS7KyJJqzXz1kp3shm#267.1,237.2,3)
+# [Learn Cryptography 📚](c)
 
-
-# Mind Map Index 🗺️
 
 # [cryptography](https://www.wikiwand.com/en/Cryptography)
 
