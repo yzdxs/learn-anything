@@ -30,7 +30,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ### Help with Curated Study Guides 📚
 
-1. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything#study-plan-for-learning-anything-). 
+1. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps). 
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
