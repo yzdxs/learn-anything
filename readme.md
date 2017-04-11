@@ -8,6 +8,11 @@ The image above is an interactive mind map that can be [viewed and explored here
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
+
+
+
+
+
 # [All the Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
 Each node you see in the image above is an interactive mind map. In future, the above image will too be a big interactive mind map that all can explore.
