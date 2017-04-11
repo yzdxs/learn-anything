@@ -2,20 +2,17 @@
 
 ![](http://i.imgur.com/u5Sz9J9.png)
 
-# [Study Plans 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
+# [Study Plans 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything-mindmaps)
 
 The image above is an interactive mind map that can be [viewed and explored here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
+# [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
+Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://github.com/nikitavoloboev/knowledge-map/tree/master/images#images-), everything. 
 
-
-
-
-# [All the Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
-
-Each node you see in the image above is an interactive mind map. In future, the above image will too be a big interactive mind map that all can explore.
+Eventually I want to make a visual mind map that all can exlore.  
 
 Until then, [here is the entire list of all 2500 mind maps from this image for your viewing](http://nikitavoloboev.xyz/knowledge-map/mindmaps/). 📚
 
@@ -99,8 +96,5 @@ I want to make collaborative mind maps of links and resources and present them a
 
 # [**Don't search. Explore.** 🎊](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
-![](http://i.imgur.com/XAwsxo3.jpg)
-
-### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
 
