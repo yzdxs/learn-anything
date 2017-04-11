@@ -1,16 +1,14 @@
-![](http://i.imgur.com/XAwsxo3.jpg)
+# [Mind Map of Knowledge 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1)
 
-### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
+![](http://i.imgur.com/u5Sz9J9.png)
 
-# What is this? 🎈
+# [Study Plans 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
 
-I want to make collaborative mind maps of links and resources and present them all visually. In contrast to the current model where you  form a question, enter it in the search engine and get a static number of links as answer. I want to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
+The image above is an interactive mind map that can be [viewed and explored here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
 
-# [Study plan 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything)
+When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-I have created a [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plan#study-plan-for-learning-anything) where I give step by step instructions on what the most optimal way of learning any topic is. Please [add your own suggestions](https://github.com/nikitavoloboev/knowledge-map#contributing-) on how I can improve this list. Thank you. 💙
-
-# [Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
+# [All the Mind Maps 🗺️](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
 
 Each node you see in the image above is an interactive mind map. In future, the above image will too be a big interactive mind map that all can explore.
 
@@ -90,5 +88,14 @@ I really love programming, building and sharing the things I have built.
 # Ask 💬
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
+# What is this? 🎈
+
+I want to make collaborative mind maps of links and resources and present them all visually. In contrast to the current model where you  form a question, enter it in the search engine and get a static number of links as answer. I want to present everything visually and provide the best resources one can use to learn the topic in depth. I want people to spend their time exploring what this world has to offer instead of wandering around, searching for questions to ask and problems to solve.
+
 # [**Don't search. Explore.** 🎊](http://nikitavoloboev.xyz/knowledge-map/mindmaps/)
+
+![](http://i.imgur.com/XAwsxo3.jpg)
+
+### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
+
 
