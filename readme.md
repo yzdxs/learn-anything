@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1)
 
-![](http://i.imgur.com/EjCo2PB.png)
+![](http://i.imgur.com/2GkGVCu.png)
 
 # [You can learn anything 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything-mindmaps)
 
@@ -39,7 +39,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#562.0,-83.9,2) mind map should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/386). 
 
-I use GitHub issues in a unique way where there is an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
+I use GitHub issues in a unique way where there isg an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
 
 You can also [make a search](http://i.imgur.com/P1tceNE.png) for what topic you want to contribute to.
 
