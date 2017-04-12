@@ -1,6 +1,6 @@
 # [Mind Map of Knowledge 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#492.6,-580.3,0)
 
-![](http://i.imgur.com/2qtFYhZ.png)
+![](http://i.imgur.com/u8VLOlC.png)
 
 # [You can learn anything 📚](https://github.com/nikitavoloboev/knowledge-map/tree/master/learn-anything-mindmaps)
 
