@@ -76,7 +76,7 @@ The end goal is to make an interactive mind map of all of world's knowledge that
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#340.6,-987.3,0)
+## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#330.6,-988.1,3)
 
 I really love programming, building and sharing the things I have built. 
 
