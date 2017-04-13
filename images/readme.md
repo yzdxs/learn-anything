@@ -4,7 +4,7 @@
 
 Each image in the mind map is an Imgur album. 
 
-You can either explore through [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) or just search through the index below.
+You can either explore [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) or just search through the index below.
 
 # Mind Map Index 🗺️
 
