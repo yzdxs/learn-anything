@@ -2,7 +2,7 @@
 
 ![](http://i.imgur.com/u8VLOlC.png)
 
-The image above is an interactive mind map that can be [viewed and explored here](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, please [say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
