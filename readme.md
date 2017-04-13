@@ -8,7 +8,7 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the interesting humans who ever lived, inventions, historical events, [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-1595.7,-1760.0,-2), everything. 
+Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. It contains [all the interesting books you can read](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#books) where if a book is free, a link will be provided. All the topics one can research, all the [interesting humans who ever lived](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#humans-), [inventions](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#inventions), [historical events](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#history-), [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-1595.7,-1760.0,-2), and more. 
 
 Eventually I want to make a visual mind map that all can explore.  
 
@@ -37,7 +37,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#562.0,-83.9,2) mind map should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/386). 
 
-I use GitHub issues in a unique way where there isg an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
+I use GitHub issues in a unique way where there is an issue for all the suggestions one can possibly provide to improve this project. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
 
 You can also [make a search](http://i.imgur.com/P1tceNE.png) for what topic you want to contribute to.
 
