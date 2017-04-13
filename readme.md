@@ -1,4 +1,4 @@
-# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#492.6,-580.3,0)
+# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#84.2,-523.0,3)
 
 ![](http://i.imgur.com/u8VLOlC.png)
 
