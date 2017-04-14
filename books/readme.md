@@ -1,7 +1,7 @@
 # [**books**](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
 
 - all the books I am currently reading, planning to read or have read already
-- + resources to find more books
+- resources to find more books
 
 
 ## programming 
