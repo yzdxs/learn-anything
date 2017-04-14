@@ -1,4 +1,4 @@
-![](http://i.imgur.com/XAwsxo3.jpg)
+![](http://i.imgur.com/gXarW62.jpg)
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
