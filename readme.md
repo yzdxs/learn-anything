@@ -49,7 +49,7 @@ You can also [make a search](http://i.imgur.com/vLk6PaZ.png) for what topic you 
 
 ### Help with visualising and sorting all of world's knowledge 🗺️
 
-1. Take a look at [this page](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. There are also [books](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#books), [courses](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#courses-), [influential humans](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#humans-), [inventions](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#inventions) and more that you can help to expand. 
+1. Take a look at [this page](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. There are also [books](http://nikitavoloboev.xyz/knowledge-map/books/), [courses](http://nikitavoloboev.xyz/knowledge-map/courses/), [influential humans](http://nikitavoloboev.xyz/knowledge-map/humans/), [inventions](http://nikitavoloboev.xyz/knowledge-map/history/), [research papers](http://nikitavoloboev.xyz/knowledge-map/research-papers/) and more that you can help to expand. 
 
 If you found something interesting related to any of the topics that you think is missing or perhaps you think there is an amazing book that all should read that is not already there or some person you admire or some topic of research that you think is not covered, please add it.
 
