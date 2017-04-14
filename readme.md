@@ -10,9 +10,7 @@ The contents of the mind map can also be [viewed in text if you prefer that](htt
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth which I encourage you to [explore](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#84.2,-523.0,3) and [help improve](https://github.com/nikitavoloboev/knowledge-map#contributing-). 
-
-I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
+Aside from these well curated mind maps on learning any topic on Earth, I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
 It contains [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) where if a book is free, a link will be provided. All the [courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/), [research papers](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#research-papers-), [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/humans/), [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/), [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/), and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 
 
