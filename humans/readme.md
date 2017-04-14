@@ -1,4 +1,4 @@
-# [**humans**](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
+# [**humans**](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc#-659.3,-440.9,-1)
 
 
 ## interesting
