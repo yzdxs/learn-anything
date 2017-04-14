@@ -22,6 +22,8 @@ It contains :
 - [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/)
 - [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/)
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
+- [mathematics](http://nikitavoloboev.xyz/knowledge-map/math/)
+- [programming](http://nikitavoloboev.xyz/knowledge-map/programming/)
 - [programming languages](http://nikitavoloboev.xyz/knowledge-map/programming-languages/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
