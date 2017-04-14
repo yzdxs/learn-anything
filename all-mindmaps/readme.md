@@ -2,55 +2,12 @@
 
 ### [Full Resolution Image Download 🗺️](https://dl.dropbox.com/s/73fk6tccn37ko9i/research.png?dl=1)
 
-# [learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2)
+# [**learn anything** 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-178.7,-705.4,2)
 
 - most optimal step by step guides for learning any topic
 
 
-## [machine learning](https://my.mindnode.com/k954FWFNztnkphWmNqqHz2dqQW41LeP1SLqkqqjs)
-
-## [mathematics](https://my.mindnode.com/JD2DJUeZSAwQzyb5KceAZ6bfuYaLGqsDkpfZg1R2)
-
-## [history](https://my.mindnode.com/viRDhbpcrjLW2MSyzGJyhzgSqryics23wcLfJTxR)
-
-## [physics](https://my.mindnode.com/RfCpjqozA6Aq3j38RvzUnZrhFGMnpCsbRrpAsUWj)
-
-## [cryptography](https://my.mindnode.com/cHUd9sSPJHjKf81sczwqxPgS7KyJJqzXz1kp3shm)
-
-## [computer science](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU)
-
-## [nutrition](https://my.mindnode.com/2afNwunht3e7ft6ypefG45Xns7AFzELpDy3EB5xk)
-
-## [web development](https://my.mindnode.com/85uh2iN4GPhBJpuyyuWks5a6niyypQA5TPBCGnAN)
-
-### javascript libraries
-
-## [operating systems](https://my.mindnode.com/KAxvkPhxHhf6v2xxJ58HXhduppxpTz8xznmcuvBZ)
-
-### [linux](https://my.mindnode.com/jm89qy7HU6d8WuxRKdxrAicNnEgSPaeSJ7poN6VC)
-
-## programming
-
-### [programming languages](https://my.mindnode.com/deC8Q7qpC5GxM41ysqHhMHzN832JMUAL1Fc351Td)
-
-- [programming language design](https://my.mindnode.com/6MjqpFhNWbUm2twhrXgpy4xktJZYsnMQzxb11MFz)
-
-### [programming interview](https://my.mindnode.com/YxrhXqxboXkMfEvn1S4kTtP8kEg7cZ1pzhfh19DS)
-
-## [design](https://my.mindnode.com/UfyzJtYHJtarpQg5YVXVz7vwYjQvn5FQt4g3pq4C)
-
-### [graphic design](https://my.mindnode.com/3LqqYjEYQWQsrSk3Ypvy193fTspqZuiCy4emM7Bz)
-
-## mindfulness
-
-### [discipline](https://my.mindnode.com/f8pTkYqMzpVX2oMQQMmTUvyAeaPy9vET2MMp8tZx)
-
-## text editors
-
-### vim
-
-
-# [key 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2)
+# [**key** 🔑](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2)
 
 - contains all the documentation for how I use and manage this mind map  
 	- abbreviations  
@@ -61,7 +18,7 @@
 - includes ways with which one can approach learning topics
 
 
-# [artificial intelligence ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike#-250.1,-457.5,0)
+# [**artificial intelligence** ✨](https://my.mindnode.com/Zf9GpxWxJQsySjHW1ygC5DDP3aE5PowqnpegAike#-250.1,-457.5,0)
 
 - is intelligence exhibited by machines  
 - it is the study of ‘intelligent agents’ (any device that perceives its environment and takes actions that maximise its chance of success at some goal)  
@@ -185,7 +142,7 @@
 - other important capabilities include the ability to sense (e.g. see) and the ability to act (e.g. move and manipulate objects) in the world where intelligent behaviour is to be observed 
 
 
-# [privacy](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v#967.7,-95.1,0)
+# [**privacy**](https://my.mindnode.com/WfU199kJZjWxNjs5pSqXDB1hgdhRYDnGstVLpP5v#967.7,-95.1,0)
 
 - is the ability of an individual or group to seclude themselves, or information about themselves and thereby express themselves selectively  
 - it is the right of people to conceal information about themselves that others might use to their advantage
@@ -194,19 +151,19 @@
 ## [vpn](https://my.mindnode.com/JESSDtG8hVS4QkyHHpFdYM2abSyN2iD9S2q82Qzr#100.1,-43.8,0)
 
 
-# [hacking](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu#1002.4,-314.2,2)
+# [**hacking**](https://my.mindnode.com/aC1CYSVvWsSdPHaFxRaPz69Qsr8Q98SvRcxxXttu#1002.4,-314.2,2)
 
 - someone who tries to get into another person’s computer using computer software such trojan horse programs, computer viruses and worms that can hurt other people’s computers
 
 
-# [bots ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5#620.0,286.5,2)
+# [**bots** ✨](https://my.mindnode.com/QLEQ7cNkHc3jxyEpcLoF38jrz88twxRfrxQDc5Q5#620.0,286.5,2)
 
 - are software agents that act for a user or other programs in relationship of agency (an agreement to act on one’s behalf)  
 - they may be autonomous or work together with other agents or people  
 - agents interacting with people may possess human-like qualities such as natural language understanding and speech, personality or embody humanoid form
 
 
-# [security ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc#723.4,-252.7,1)
+# [**security** ✨](https://my.mindnode.com/3jFXER7sziCXC5N1dQTg81jhkMdgZGypTXicggQc#723.4,-252.7,1)
 
 - is the degree of resistance to, or protection from, harm  
 - it applies to any vulnerable and/or valuable asset
@@ -252,7 +209,7 @@
 - is a kind of software that can be installed on a computer without approval from the computer’s owner
 
 
-# [computer vision ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde#1349.3,-1338.7,0)
+# [**computer vision** ✨](https://my.mindnode.com/NceyXvRqbywBKnUH4szwwhbiGGySSZxewpNepmde#1349.3,-1338.7,0)
 
 - deals with how computers can be made for gaining high-level understanding from digital images or videos  
 - it seeks to automate tasks that the human visual system can do  
@@ -268,12 +225,12 @@
 - open source computer vision library for real time computer vision 
 
 
-# [optimisation ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
+# [**optimisation** ✨](https://my.mindnode.com/aqCYNVg8zpTyucszsAz9s9Czc8mByzDXiCnTjthY)
 
 - how to optimise processes (algorithms, systems and so on)
 
 
-# [1230: algorithms ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU#56.9,-1516.3,-1)
+# [**1230: algorithms** ✨](https://my.mindnode.com/RBs72wqMR9xyntANrBz629xLqVZwoHHrmwPsG3AU#56.9,-1516.3,-1)
 
 - is an effective method that can be expressed within a finite amount of space and time and in a well defined formal language for calculating a function  
 - starting from an initial state and initial input (perhaps empty), the instructions describe a computation that, when executed, proceeds through a finite number of well defined successive steps, eventually producing ‘output’ and terminating at a final ending state  
@@ -389,7 +346,7 @@
 - are commonly used to generate high quality solutions to optimisation and search problems by relying on bio-inspired operators such as mutation, crossover and selection
 
 
-# [data structures ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
+# [**data structures** ✨](https://my.mindnode.com/wFP5M2WyuNoFEtCaV8osgMJiYDydghpVJQCn9SUb)
 
 - is a particular way of organising data in a computer so that it can be used efficiently  
 - can implement one or more particular abstract data types (ADT), which specify the operations that can be performed on a data structure and the computational complexity of those operations  
@@ -398,7 +355,7 @@
 - implementation of a data structure usually requires writing a set of procedures that create and manipulate instances of that structure
 
 
-# [aircraft](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
+# [**aircraft**](https://my.mindnode.com/jnxfVTCF3TJa23jd7CEv7DmMR7PJ6uZwYW58ygMu)
 
 - is a flying machine  
 	- there are many different kinds of aircraft  
@@ -412,7 +369,7 @@
 ## 1903: planes
 
 
-# [transportation](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
+# [**transportation**](https://my.mindnode.com/vYCszxxJpEBRJADSQ7bbq5jzvDBB37B3Ttx71RBQ)
 
 - moving people or things from one place to another place  
 - can be divided into  
@@ -440,7 +397,7 @@
 - electric
 
 
-# [autonomous driving](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
+# [**autonomous driving**](https://my.mindnode.com/ZgBM6kHzEvwvHyLBcvTdn9HWsGGTVXyFskppkZNn)
 
 - autonomous cars are vehicles that are capable of sensing its environment and navigating without human input  
 - they use a variety of techniques to detect their surroundings, such as   
@@ -451,7 +408,7 @@
 	- and computer vision
 
 
-# electronics
+# **electronics**
 
 
 ## circuits
@@ -474,7 +431,7 @@
   - its configuration is generally specified using a hardware description language (HDL), similar to that used for an application-specific integrated circuit (ASIC)
 
 
-# [cellular automata](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
+# [**cellular automata**](https://my.mindnode.com/7WxM6UNViGoDE4qpgePBpQyyWURAuSzVLa7zQzEL)
 
 - models a dynamic system by using a number of cells where each cell has one of several possible states, with each “turn” or iteration the state of the current cell is determined by two things   
 	1. its current state  
@@ -491,7 +448,7 @@
 	4. any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction
 
 
-# [math ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby#-1903.9,4614.6,0)
+# [**math** ✨](https://my.mindnode.com/JjwuFxXNpusrHpkmfSy9BEqcnbLCFmrqWux5vpby#-1903.9,4614.6,0)
 
 - study of numbers, shapes and patterns  
 - to a mathematician, the reason something is true is just as important as the fact that it is true  
@@ -1029,25 +986,25 @@
 ## [dimensions](https://my.mindnode.com/EDcbekv2bRRkt5AsgR4KhtStTUBcy2Vb4jhw4cNX)
 
 
-# [technology](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
+# [**technology**](https://my.mindnode.com/aEEzqyr6AexX3KCiaz1q23wTpwzrr9nXqpBs1dky)
 
 - is the collection of techniques, skills, methods and processes used in the production of goods or services or in the accomplishment of objectives, such as scientific investigation  
 - human specie’s use of technology began with the conversion of natural resources into simple tools
 
 
-# [robotics](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
+# [**robotics**](https://my.mindnode.com/aGwNAy62qd6FVsXxWG4utF95QSRsmypNtuKFzpdq)
 
 - deals with design, construction, operation and use of robots, as well as computer systems for their control, sensory feedback, and information processing  
 - these technologies are used to develop machines that can substitute for humans  
 - robots can be used in any situation and for any purpose
 
 
-# [09: raspberry pi](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
+# [**09: raspberry pi**](https://my.mindnode.com/jVPUvSKExr9FG5PHgxqzecXUrcuac7QMFjFSmr7n)
 
 - is a series of small single-board computers
 
 
-# computer
+# **computer**
 
 
 ## 1960: supercomputer
@@ -1063,7 +1020,7 @@
 ## 02: tablet
 
 
-# [hardware ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
+# [**hardware** ✨](https://my.mindnode.com/rnXcxGZ1LQGdHupqvXTsZpgVh4fpgxia5Ke3y6bM)
 
 - computer hardware is the collection of physical components that constitute a computer system  
 - it is the physical parts or components of a computer, such as monitor, keyboard, computer data storage, graphic card, sound card, motherboard and so on, all of which are tangible objects  
@@ -1090,7 +1047,7 @@
 - the function of cache memory is to speed up the MM data access and to reduce the system bus and MM traffic in multiprocessor systems (which is one of the major bottlenecks of these systems)
 
 
-# [programming ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ#-1120.9,46.4,-1)
+# [**programming** ✨](https://my.mindnode.com/nyxpNazrso6eyV3M4RNGS9sUyXfNzTXq6pGhRYLZ#-1120.9,46.4,-1)
 
 - is a process that leads from an original formulation of a computing problem to an executable computer programs
 
@@ -1295,7 +1252,7 @@ program that will analyse code for potential errors
 ## [language design](https://my.mindnode.com/SFyx1AMA4eKBbkwq59ymrQz3AEKQMiw8A8SV1WeX)
 
 
-# [embedded systems](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
+# [**embedded systems**](https://my.mindnode.com/4gmb9Dk6QN2NFmuHpzmRDbGj8ypj2Xv9zEqqZg42)
 
 - is a computer system with a dedicated function within a larger mechanical or electrical system, often with real-time computing constrains  
 - it is embedded as part of a complete device often including hardware and mechanical parts
@@ -1308,20 +1265,20 @@ program that will analyse code for potential errors
 - it contains one or more CPUs (processor cores) along with memory and programmable input/output peripherals
 
 
-# [regular expressions](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
+# [**regular expressions**](https://my.mindnode.com/zVrHysMLguuXix8vG2Zqi1bhAY9ypnYLzhV3aChv)
 
 - are sequences of characters that define a search pattern  
 	- usually this pattern is then used by string searching algorithms for ‘find’ or ‘find and replace’ operations on strings  
 - they are used in search engines, search and replace dialogs of word processors and text editors and in text processing utilities like sed and AWK and in lexical analysis
 
 
-# [reverse engineering ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
+# [**reverse engineering** ✨](https://my.mindnode.com/GUQJxf6FxsBnPbuTpYxrpgnAj4pQhTG9SJxpGssG)
 
 - is the process of extracting knowledge or design information from anything man-made and re-producing it or re-producing anything based on the extracted information  
 	- the process often involves disassembling something (a mechanical device, electronic component, computer program, or biological, chemical, or organic matter) and analysing its components and workings in details
 
 
-# [engineering ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
+# [**engineering** ✨](https://my.mindnode.com/gpVgfxR2kjRSspMrJNMKnfy1P24q4rs9LqDxPRJs)
 
 - is the application of mathematics and scientific, economic, social and practical knowledge in order to invent, innovate, design, build, maintain and improve structures, machines, tools, systems, components, materials, processes, solutions and organisations
 
@@ -1341,7 +1298,7 @@ program that will analyse code for potential errors
 - it aims at building, testing, and releasing software faster and more frequently
 
 
-# system design
+# **system design**
 
 - is the process of defining the architecture, components, modules, interfaces and data for a system to satisfy specified requirements
 
@@ -1352,7 +1309,7 @@ program that will analyse code for potential errors
 - it is about making fundamental structural choices which are costly to change once implemented
 
 
-# [cloud computing](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
+# [**cloud computing**](https://my.mindnode.com/5yVxTpiYVM4CVBMsyv2jhSpUUPs6PBamY1PDAP61)
 
 - is a type of internet based computing that provides shared computer processing resources and data to computers and other devices on demand
 
@@ -1379,7 +1336,7 @@ program that will analyse code for potential errors
 ## heroku
 
 
-# [1957: virtual reality](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
+# [**1957: virtual reality**](https://my.mindnode.com/b9LbNpewXbYhQnXr2aMHgKpi81C1DSqyEDvgCNd4)
 
 - refers to computer technologies that use virtual reality headsets to generate the realistic images, sounds and other sensations that replicate a real environment or create an imaginary setting  
 - VR also simulates a user’s physical presence in this environment 
@@ -1398,7 +1355,7 @@ program that will analyse code for potential errors
 - a web framework for building VR experiences
 
 
-# infrastructure
+# **infrastructure**
 
 - refers to the fundamental facilities and systems serving a country, city, or area, including the services and facilities necessary for its economy to function
 
@@ -1411,7 +1368,7 @@ program that will analyse code for potential errors
 - is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed and versioned
 
 
-# [1952: compilers ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
+# [**1952: compilers** ✨](https://my.mindnode.com/JxLJTw9UYqexCqyaqdKPxGGioWsDsWDmASWxpfsp)
 
 - is a computer program (or a set of programs) that transforms source code written in a programming language (the source language) into another computer language (the target language), with the latter often having a binary form known as object code  
 	- is often done to create an executable program
@@ -1484,7 +1441,7 @@ program that will analyse code for potential errors
 	- the tree is converted into a linear sequence of instructions, usually in an intermediate language such as three-address code
 
 
-# [computer graphics ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT#-5141.3,1943.8,0)
+# [**computer graphics** ✨](https://my.mindnode.com/1fSGMDtCkqBxFFh3JCSkLx1T2shhkJgEfesnTtmT#-5141.3,1943.8,0)
 
 - are pictures and films created using computers  
 - refers to computer generated image data created with help from specialised graphical hardware and software  
@@ -1538,7 +1495,7 @@ program that will analyse code for potential errors
 - it works by tracing a path from an imaginary eye through each pixel in a virtual screen, and calculating the colour of the object visible through it
 
 
-# [1641: computer science](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
+# [**1641: computer science**](https://my.mindnode.com/LRaxUSscM1rqezzRkuQ3bFayE5bxfUFt22zgK1K2)
 
 - is the study of the theory, experimentation and engineering that form the basis for the design and use of computers  
 - it is the study of automating algorithmic processes that scale
@@ -1626,13 +1583,13 @@ program that will analyse code for potential errors
 ## [high performance computing](https://my.mindnode.com/N4AR39eVjhc8vwKzAzraLhJm8DxH5XrY8pAtp1bK)
 
 
-# [automation](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
+# [**automation**](https://my.mindnode.com/Bfq2QFjUmvbfB1P5kh8JiTawugNaSfuohrqS9Uzo)
 
 
 ## [home](https://my.mindnode.com/hEDSq1yz6ynonuWV8m2V2ptseAcTh9kyW6aTcoRz)
 
 
-# [gamedev ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC#105.5,-532.8,2)
+# [**gamedev** ✨](https://my.mindnode.com/4WK2HzQ2xQpJhVqrN6x3yQ7W5qNAxjHpsophZZHC#105.5,-532.8,2)
 
 - is the process of creating a video game
 
@@ -1656,7 +1613,7 @@ program that will analyse code for potential errors
 - is a virtual machine designed to mimic a ‘fantasy video game console’
 
 
-# [programming languages](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi#754.6,-440.6,0)
+# [**programming languages**](https://my.mindnode.com/HTnD1sSqT7Ky43szTDTrstq7FqEFyU45VLj1j5zi#754.6,-440.6,0)
 
 - is a formal computer language designed to communicate instructions to a machine, particularly a computer  
 - they can be used to create programs to control the behaviour of a machine or to express algorithms   
@@ -1876,7 +1833,7 @@ program that will analyse code for potential errors
 ## [purescript](https://my.mindnode.com/LpCnNxx98RnuBtm8bmzJxsxzrZqniJEhvUZrffdT)
 
 
-# [quantum computing](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
+# [**quantum computing**](https://my.mindnode.com/MLQopPH5DasNfaHqszs2PMSk9Kp2qxxP3sLCiR29)
 
 - studies theoretical computation systems (quantum computers) that make direct use of quantum-mechanical phenomena, such as superposition and entanglement, to perform operations on data  
 - they are different from binary digital electronic computers based on transistors   
@@ -1891,13 +1848,13 @@ program that will analyse code for potential errors
 - it differs strongly from classical information, epitomised by the bit, in many striking and unfamiliar ways
 
 
-# human computer interaction
+# **human computer interaction**
 
 
 ## computer accessibility
 
 
-# [1913: quantum mechanics](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
+# [**1913: quantum mechanics**](https://my.mindnode.com/ERpHGrFNVdbKLZWAh1wi6etQxDY3QRrcrgs3oz7e)
 
 - is the fundamental theory of nature at small scales and low energies of atoms and subatomic particles  
 - classical physics derives from quantum mechanics as an approximation valid only at large (macroscopic) scales  
@@ -1946,7 +1903,7 @@ known (uncertainty principle)
 ## atomic orbital
 
 
-# [games ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
+# [**games** ✨](https://my.mindnode.com/p2uXbTppku2BpKpqVg7ssA3Dgshyy2zGNhUUDW71)
 
 - a game is a structured form of play  
 - key components of games are goals, rules, challenges and interaction  
@@ -2201,95 +2158,28 @@ known (uncertainty principle)
 ## [web](https://my.mindnode.com/iXWWRKCNXnopymKNvg38ovn35QW1VqUPzrd2fiQt)
 
 
-# [space](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
+# [**signal processing**](https://my.mindnode.com/KKUQedYXPGxn3qtyAHq6xDyxiG3yKWAwnBNqeWg7)
 
-- is the boundless three-dimensional extent in which objects and events have relative position and direction  
-	- physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a bodiless four-dimensional continuum known as spacetime  
-- there disagreements over wither space is itself an entity, a relationship between entities or part of a conceptual framework
+- is an enabling technology that encompasses the fundamental theory, applications, algorithms and implementations of processing or transferring information contained in many different physical, symbolic or abstract formats broadly designated as signals
 
 
-## [black holes](https://my.mindnode.com/MRykcdETz9b44NS6rZkeUkiEhyiPkbqQTpH9w17h)
+## [discrete time signal](https://my.mindnode.com/7hxVXYG2zNzcZBTiEzCxqDRsqnpzpt1pdpmNpRu7)
 
-- is a region of spacetime exhibiting such strong gravitational effects that nothing - not even particles and electromagnetic radiation such as light - can escape from inside  
-- the theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole  
-	- the boundary of the region from which no escape is possible is called the event horizon  
-- black holes of stellar mass are expected to form when very massive stars collapse at the end of their life cycle
+- is a time series consisting of a sequence of quantities  
+	- it is a time series that is a function over a domain of integers  
+- unlike a continuous-time signal, a discrete-time signal is not a function of a continuous argument  
+- they may have several origins, but can usually be classified into one of two groups  
+	- by acquiring values of an analog signal at constant or variable rate (this process is called Sampling)  
+	- by observing an inherently discrete-time process, such as the weekly peak value of a particular economic indicator
 
-## [stars](https://my.mindnode.com/4KSp6CSqpQdRhJNzxQvjnFyUWzF3DHEym9CLdsw5)
+## signal to noise ratio
 
-- is a luminous sphere of plasma held together by its own gravity  
-- the most prominent stars were grouped into constellations and asterisms  
-- most of the stars in the Universe, including all stars outside our galaxy, the Milky Way, are invisible to the naked eye from Earth  
-- for at least a portion of its life, a star shines due to thermonuclear fusion of hydrogen into helium in its core, releasing energy that traverses the star's interior and then radiates into outer space
-
-### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
-
-- is the star at the centre of the Solar System  
-- it is nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process  
-- it is by far the most important source of energy for life on Earth
-
-## [galaxies](https://my.mindnode.com/DpAsGBaYpqxysaMfzPXZsUxotRyYKQSPwtf2cXKh)
-
-- is gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter  
-- they range in size from dwarfs with just a few billion stars, to giants with one hundred trillion stars, each orbiting its galaxy's centre of mass  
-- are categorised according to their visual morphology as elliptical, spiral and irregular  
-- estimates of the number of galaxies in the observable universe range from 200 billion to 2 trillion or more, containing more stars than all the grains of sand on planet earth  
-- the space between galaxies is filled with a tenuous gas having an average density of less than one atom per cubic meter  
-- the majority of galaxies are gravitationally organised into groups, clusters, and superclusters  
-- at the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids  
-- the largest structure of galaxies yet recognised is a cluster of superclusters, that has been named Laniakea
-
-### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
-
-- is the galaxy that contains our Solar System  
-- it is a barred spiral galaxy with a diameter between 100,000 light-years and 180,000 light-years  
-	- it is estimated to contain 100–400 billion stars  
-- it is located within the disk, about 26,000 light-years from the Galactic Centre  
-- the very centre is marked by an intense radio source, named Sagittarius A*, which is likely to be a supermassive black hole
-
-- [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
-  - is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  
-  - it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud
-
-	- 265 BC: mercury
-
-	- 1761: venus
-
-	- [earth](https://my.mindnode.com/UVu4yxXBk1mRV1yPWtd4vSyLDhdpzo5goXCsPj7z)
-	  our home planet in the Solar System
-
-		- [oceans](https://my.mindnode.com/xZty4yPYNpB5dbk5Fn8P2fzSACEgEjFu98tMQ1jH)
-		  there are five oceans on this planet
-
-			- pacific
-
-			- atlantic
-
-			- indian
-
-			- arctic
-
-			- antarctic
-
-	- mars
-
-	- jupiter
-
-	- 1610: saturn
-
-	- 1781: uranus
-
-	- 1846: neptune
-
-### [1612: andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
-
-- is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  
-- It is the nearest major galaxy to the Milky Way  
-- it is approximately 220,000 light years across, and it is the largest galaxy of the Local Group, which also contains the Milky Way, the Triangulum Galaxy, and other smaller galaxies  
-- The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy
+- is a measure that compares the level of a desired signal to the level of background noise  
+	- it is defined as the ration of signal power to the noise power, often expressed in decibels  
+- a ration higher than 1:1 (greater than 0dB) indicates more signal than noise
 
 
-# [physics ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93#924.7,-1253.3,-1)
+# [**physics** ✨](https://my.mindnode.com/ZZyhmxBzdPQeqcZjsp7RasytP4SEBWWpXRg6hT93#924.7,-1253.3,-1)
 
 - is involved with the study of matter and its motion and behaviour through space and time, lagoon with related concepts such as energy and force  
 - its fundamental goal is to understand how the universe behaves
@@ -2543,28 +2433,95 @@ means that a physical quantity is assigned to every point in space (or, more gen
   - it deals with physical properties of solids and fluids which are independent of any particular coordinate system in which they are observed
 
 
-# [signal processing](https://my.mindnode.com/KKUQedYXPGxn3qtyAHq6xDyxiG3yKWAwnBNqeWg7)
+# [**space**](https://my.mindnode.com/qbiHDgcMKRdwW1sfxLUzqRQ3YKab7ZrMsbLRe5qV)
 
-- is an enabling technology that encompasses the fundamental theory, applications, algorithms and implementations of processing or transferring information contained in many different physical, symbolic or abstract formats broadly designated as signals
-
-
-## [discrete time signal](https://my.mindnode.com/7hxVXYG2zNzcZBTiEzCxqDRsqnpzpt1pdpmNpRu7)
-
-- is a time series consisting of a sequence of quantities  
-	- it is a time series that is a function over a domain of integers  
-- unlike a continuous-time signal, a discrete-time signal is not a function of a continuous argument  
-- they may have several origins, but can usually be classified into one of two groups  
-	- by acquiring values of an analog signal at constant or variable rate (this process is called Sampling)  
-	- by observing an inherently discrete-time process, such as the weekly peak value of a particular economic indicator
-
-## signal to noise ratio
-
-- is a measure that compares the level of a desired signal to the level of background noise  
-	- it is defined as the ration of signal power to the noise power, often expressed in decibels  
-- a ration higher than 1:1 (greater than 0dB) indicates more signal than noise
+- is the boundless three-dimensional extent in which objects and events have relative position and direction  
+	- physical space is often conceived in three linear dimensions, although modern physicists usually consider it, with time, to be part of a bodiless four-dimensional continuum known as spacetime  
+- there disagreements over wither space is itself an entity, a relationship between entities or part of a conceptual framework
 
 
-# weapons
+## [black holes](https://my.mindnode.com/MRykcdETz9b44NS6rZkeUkiEhyiPkbqQTpH9w17h)
+
+- is a region of spacetime exhibiting such strong gravitational effects that nothing - not even particles and electromagnetic radiation such as light - can escape from inside  
+- the theory of general relativity predicts that a sufficiently compact mass can deform spacetime to form a black hole  
+	- the boundary of the region from which no escape is possible is called the event horizon  
+- black holes of stellar mass are expected to form when very massive stars collapse at the end of their life cycle
+
+## [stars](https://my.mindnode.com/4KSp6CSqpQdRhJNzxQvjnFyUWzF3DHEym9CLdsw5)
+
+- is a luminous sphere of plasma held together by its own gravity  
+- the most prominent stars were grouped into constellations and asterisms  
+- most of the stars in the Universe, including all stars outside our galaxy, the Milky Way, are invisible to the naked eye from Earth  
+- for at least a portion of its life, a star shines due to thermonuclear fusion of hydrogen into helium in its core, releasing energy that traverses the star's interior and then radiates into outer space
+
+### [sun](https://my.mindnode.com/7f7y7Hx9f3wGydM9DGJ4nyRR6piSttTp2xjEcZzm)
+
+- is the star at the centre of the Solar System  
+- it is nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process  
+- it is by far the most important source of energy for life on Earth
+
+## [galaxies](https://my.mindnode.com/DpAsGBaYpqxysaMfzPXZsUxotRyYKQSPwtf2cXKh)
+
+- is gravitationally bound system of stars, stellar remnants, interstellar gas, dust, and dark matter  
+- they range in size from dwarfs with just a few billion stars, to giants with one hundred trillion stars, each orbiting its galaxy's centre of mass  
+- are categorised according to their visual morphology as elliptical, spiral and irregular  
+- estimates of the number of galaxies in the observable universe range from 200 billion to 2 trillion or more, containing more stars than all the grains of sand on planet earth  
+- the space between galaxies is filled with a tenuous gas having an average density of less than one atom per cubic meter  
+- the majority of galaxies are gravitationally organised into groups, clusters, and superclusters  
+- at the largest scale, these associations are generally arranged into sheets and filaments surrounded by immense voids  
+- the largest structure of galaxies yet recognised is a cluster of superclusters, that has been named Laniakea
+
+### [milky way](https://my.mindnode.com/CVP1RtB9Wsfuo7a9pqqyqQ8tAsFzDxZwRjLZfHsC)
+
+- is the galaxy that contains our Solar System  
+- it is a barred spiral galaxy with a diameter between 100,000 light-years and 180,000 light-years  
+	- it is estimated to contain 100–400 billion stars  
+- it is located within the disk, about 26,000 light-years from the Galactic Centre  
+- the very centre is marked by an intense radio source, named Sagittarius A*, which is likely to be a supermassive black hole
+
+- [solar system](https://my.mindnode.com/Hs5RfJ4eAxxybYFNYX3JyDUE9Tqjga9WwUy9sEsp)
+  - is the gravitationally bound system comprising the Sun and the objects that orbit it, either directly or indirectly  
+  - it formed 4.6 billion years ago from the gravitational collapse of a giant interstellar molecular cloud
+
+	- 265 BC: mercury
+
+	- 1761: venus
+
+	- [earth](https://my.mindnode.com/UVu4yxXBk1mRV1yPWtd4vSyLDhdpzo5goXCsPj7z)
+	  our home planet in the Solar System
+
+		- [oceans](https://my.mindnode.com/xZty4yPYNpB5dbk5Fn8P2fzSACEgEjFu98tMQ1jH)
+		  there are five oceans on this planet
+
+			- pacific
+
+			- atlantic
+
+			- indian
+
+			- arctic
+
+			- antarctic
+
+	- mars
+
+	- jupiter
+
+	- 1610: saturn
+
+	- 1781: uranus
+
+	- 1846: neptune
+
+### [1612: andromeda](https://my.mindnode.com/Q4nQ3yB411RDshqNFoqXMxRGz9syVHHL954QHhCg)
+
+- is a spiral galaxy approximately 780 kiloparsecs (2.5 million light-years) from Earth  
+- It is the nearest major galaxy to the Milky Way  
+- it is approximately 220,000 light years across, and it is the largest galaxy of the Local Group, which also contains the Milky Way, the Triangulum Galaxy, and other smaller galaxies  
+- The Milky Way and Andromeda galaxies are expected to collide in 4.5 billion years, eventually merging to form a giant elliptical galaxy or perhaps a large disc galaxy
+
+
+# **weapons**
 
 
 ## guns
@@ -2572,14 +2529,14 @@ means that a physical quantity is assigned to every point in space (or, more gen
 ### [1800: shotgun](https://my.mindnode.com/tZBpWKbRdfzcyDgCe3cNZ3gmRx5VTDU9fJXjqkxM)
 
 
-# [universe](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
+# [**universe**](https://my.mindnode.com/W2fPJssX4R4APsFNJaLRk6xVk5eysLHrCwtfjsQy)
 
 - is all of the time and space and its contents  
 - it includes planets, moons, minor planets, stars, galaxies, the contents of intergalactic space and all matter and energy  
 - the size of the entire universe is unknown
 
 
-# astronomy
+# **astronomy**
 
 - studies celestial objects and phenomena   
 - applies mathematics, physics and chemistry, in effort to explain the origin of those objects and phenomena and their evolution  
@@ -2587,7 +2544,14 @@ means that a physical quantity is assigned to every point in space (or, more gen
 	- while the phenomena include supernovae explosions, gamma ray bursts and cosmic microwave background radiation
 
 
-# [renewable energy](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
+# [**psychology**](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
+
+- is the science of behaviour and mind, embracing all aspects of conscious and unconscious experience as well as thought  
+- it seeks to understand individuals and groups by establishing general principles and researching specific cases  
+- psychologists explore behaviour and mental processes, including perception, cognition, attention, emotion (affect), intelligence, phenomenology, motivation, brain functioning and personality
+
+
+# [**renewable energy**](https://my.mindnode.com/bnV1LsezBt2TqoQJjyzSAtyXzBbss6Uxkg5QKsz2)
 
 - is energy that is collected from renewable resources, which are naturally replenished on a human timescale, such as sing light, wind, rain, tides, waves and geothermal heat  
 - renewable energy systems are rapidly becoming more efficient and cheaper
@@ -2610,14 +2574,7 @@ means that a physical quantity is assigned to every point in space (or, more gen
 - it includes nuclear fission, nuclear decay and nuclear fusion
 
 
-# [psychology](https://my.mindnode.com/wUgQ9eTCyksJgNBez6nWVuVQCShpgaUuqnroZWYE)
-
-- is the science of behaviour and mind, embracing all aspects of conscious and unconscious experience as well as thought  
-- it seeks to understand individuals and groups by establishing general principles and researching specific cases  
-- psychologists explore behaviour and mental processes, including perception, cognition, attention, emotion (affect), intelligence, phenomenology, motivation, brain functioning and personality
-
-
-# [chemistry](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
+# [**chemistry**](https://my.mindnode.com/wYDhE6MqsqRDVpw5CEEJULsjxHkqNFZad3DvDhYr#392.6,-220.4,2)
 
 - studies the composition, structure, properties and change of matter  
 - it includes topics such as the properties of individual atoms, how atoms form chemical bonds to create chemical compounds, the interactions of substances through intermolecular forces that give matter its general properties, and the interactions between substances through chemical reactions to form different substances
@@ -2686,9 +2643,9 @@ means that a physical quantity is assigned to every point in space (or, more gen
 ## computational chemistry
 
 
-# [tools](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
+# [**tools**](https://my.mindnode.com/agWep989YzpydKXephpaBs89BfXdckKxAmb8zCac)
 
-- is an item that can be used to achieve a goal
+- are items that can be used to achieve a goal
 
 
 ## [software](https://my.mindnode.com/WfFJZUgyVu6WEQsu3RNkYPMZpaBVjsgNd3roCz7n)
@@ -2726,7 +2683,7 @@ means that a physical quantity is assigned to every point in space (or, more gen
 	- written in ruby and is open source
 
 
-# [sound](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
+# [**sound**](https://my.mindnode.com/r8gxANGN86fjQUWXqs7H6z4G2mw1mbnHCzvdY1xz)
 
 - is a vibration that propagates as a typically audible mechanical wave of pressure and displacement, through a transmission medium such as air or water  
 - sound above 20 kHz is ultrasound and below 20 Hz is infrasound  
@@ -2746,7 +2703,7 @@ means that a physical quantity is assigned to every point in space (or, more gen
 	- these vocabularies, the syntax that structures them, and their sets of speech sound units differ, creating many thousands of different, and mutually unintelligible, human languages
 
 
-# [1960: neuroscience ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
+# [**1960: neuroscience** ✨](https://my.mindnode.com/tpKRHB3qKyyKHrgCT8bWYuyz4gqjprLbgenBfQDN#-1068.2,-988.4,2)
 
 - is the scientific study of the nervous system  
 - it studies the molecular, cellular, developmental, structural, functional, evolutionary, computational, psychosocial and medical aspects of the nervous system
@@ -2824,7 +2781,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 - is a derangement or abnormality of function; a morbid physical or mental state
 
 
-# [science](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
+# [**science**](https://my.mindnode.com/4VAw95ujvHybzSQpCny8Miff8Nbaw4VzgmnKAd5z)
 
 - is a systematic enterprise that builds and organises knowledge in the form of testable explanations and predictions about the universe  
 - it is typically subdivided into  
@@ -2834,7 +2791,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 - formal sciences are often excluded as they do not depend on empirical observations
 
 
-# [anthropology](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
+# [**anthropology**](https://my.mindnode.com/CaaurWHZJ1Dii1hsx81N6wNY7VZT5xVhjeUqMxq5#-39.3,-23.0,2)
 
 - is the study of various aspects of humans within past and present societies  
 - social anthropology and cultural anthropology  
@@ -2842,7 +2799,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 - biological or physical anthropology studies the biological development of humans
 
 
-# [society](https://my.mindnode.com/ytMnsWYh2JNzCzT4ZpWzsfheupRKLEd5yqxQ6CxT)
+# [**society**](https://my.mindnode.com/ytMnsWYh2JNzCzT4ZpWzsfheupRKLEd5yqxQ6CxT)
 
 - is a group of people involved in persistent social interaction, or a large social grouping sharing the same geographical or social territory, typically subject to the same political authority and dominant cultural expectations  
 - they are characterised by patterns of relationships (social relations) between individuals who share a distinctive culture and institutions
@@ -2858,7 +2815,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 ### persuasion
 
 
-# [drugs](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
+# [**drugs**](https://my.mindnode.com/cySRz6ygp55zqaDBC3nXWZCszQqAqG7qbKJB2jbD)
 
 - is any substance (other than food that provides nutritional support) that, when inhaled, injected, smoked, consumed, absorbed via a patch on the skin, or dissolved under the tongue, causes a physiological change in the body  
 - psychoactive drugs are chemical substances that affect the function of the central nervous system, altering perception, mood or consciousness
@@ -2928,7 +2885,7 @@ increase the likelihood that a person will seek repeated exposure to them)
 	- and many steroids are signalling molecules which activate steroid hormone receptors
 
 
-# human anatomy
+# **human anatomy**
 
 
 ## [brain](https://my.mindnode.com/YP8Gcxehvsod63hrUX7SKmrmJKJsqTsymJf3ECo8)
@@ -2940,13 +2897,13 @@ increase the likelihood that a person will seek repeated exposure to them)
 ### [nervous system](https://my.mindnode.com/Uy3zYUNLc9yZVSqvCzwv5rgzqMu9ndbcM3yyb8Gz)
 
 
-# [culture](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
+# [**culture**](https://my.mindnode.com/ncYJo4GsB4Xq2yjoQw8qcmxPmQjejPDDQHij2xQx)
 
 
-# [pattern recognition](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
+# [**pattern recognition**](https://my.mindnode.com/AQhUaxYKS9xtrzFJGKHxcZU1iA46ZxUnJmcqjs1X)
 
 
-# [biology](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
+# [**biology**](https://my.mindnode.com/gyNBu92xC6JqqBbQ67UdUkGKaVmEPaTLukrzrBJZ)
 
 science of life and living things and their evolution
 
@@ -3007,7 +2964,7 @@ study of large amounts of biological information, mostly it focuses on molecules
 studying nature to create modern technology
 
 
-# [natural language processing ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
+# [**natural language processing** ✨](https://my.mindnode.com/K53zdzApN4p4PDxyG3tgUxkWFHQ7B2XmuxKavZi5)
 
 
 ## [categorial grammar](https://my.mindnode.com/Mnq1NijWjG3AP9kqrK4PxUztg4sVsbc1u2aHRtoH)
@@ -3017,10 +2974,10 @@ studying nature to create modern technology
 ## [sentiment analysis](https://my.mindnode.com/6hYCWvssy34Rg7yCUcxjXCuEmskCSyKyqB18TRDP)
 
 
-# [3d printing](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
+# [**3d printing**](https://my.mindnode.com/tpYqKutydsGG3MFVRVYVtyMGQEGyzhDczEyEJRDh)
 
 
-# [animals](https://my.mindnode.com/7cAhD48JHPyYE52gpTJ3xpqHdEL9roVTJd7TNrTK)
+# [**animals**](https://my.mindnode.com/7cAhD48JHPyYE52gpTJ3xpqHdEL9roVTJd7TNrTK)
 
 
 ## [mammals](https://my.mindnode.com/YV5kQSx4tpPP6mPDCKNMZTuDyr4sC3bC3Ki1yq18)
@@ -3034,7 +2991,7 @@ studying nature to create modern technology
 ## [birds](https://my.mindnode.com/d3Jsm6KXowatG8o5mBSa7pSmAtAZbrdpwxYB5yxA)
 
 
-# [philosophy](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
+# [**philosophy**](https://my.mindnode.com/RfvYVhKpGqgRaxUx13vcLZayAfxtiZdG5DqUiqTQ)
 
 study of fundamental problems in life concerning existence, knowledge, values, reason, mind and language
 
@@ -3056,7 +3013,7 @@ what is the nature of knowledge, justification and the rationality of belief
 ## [simulated reality](https://my.mindnode.com/9LssoqBJ4QBMCDuyRPx8aKjiaGRxmVgE5xE7uXYz)
 
 
-# [feelings](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
+# [**feelings**](https://my.mindnode.com/rSdL8x9BHs3qBkyhNQx1fsdYRavmct2k27m9ijam)
 
 the different feelings humans and other living organisms can feel and how can we objectively quantify them, are feelings just chemical processes or something greater
 
@@ -3090,10 +3047,10 @@ a variety of of different feelings, states and attitudes ranging from interperso
 ## trust
 
 
-# [interviewing](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
+# [**interviewing**](https://my.mindnode.com/cvx3iszUb8NtwHXEqSsHguK2QiUoHPcsY7hfGMxq)
 
 
-# [problems ✨](https://my.mindnode.com/C2QV5HZCgfa3AeAVTJ3SrCPnWYeZPpkvzZzGUquU)
+# [**problems** ✨](https://my.mindnode.com/C2QV5HZCgfa3AeAVTJ3SrCPnWYeZPpkvzZzGUquU)
 
 what problems do exist out there that I find
 
@@ -3123,13 +3080,13 @@ my solutions and working out of leetcode problems
 how can you effectively problem solve and find efficient solutions to problems
 
 
-# [plants](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
+# [**plants**](https://my.mindnode.com/2m4MHa9i9s4ragpfypiTP4eLFvpM8qYyRaBSp5Xc)
 
 
-# [gardening](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
+# [**gardening**](https://my.mindnode.com/egqqzA2L3d6utrvFpsKzKCPeNJkJxGK7bz29Th2m)
 
 
-# [ethics](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
+# [**ethics**](https://my.mindnode.com/1opv7ZJsJcvtczoMqJA4bLpsHdjV1SY6C3CQwC1X)
 
 what actions are objectively write or wrong and how to measure them
 
@@ -3139,10 +3096,10 @@ what actions are objectively write or wrong and how to measure them
 which intentions, decisions and actions can be considered ‘right’ and which should be considered ‘wrong’
 
 
-# [architecture](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
+# [**architecture**](https://my.mindnode.com/GABYWbwmBnysjJUpR5n3cbgKy7C4UKqhCHESA749)
 
 
-# [interview prep ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
+# [**interview prep** ✨](https://my.mindnode.com/a6eWJRXyNEMoYSqBDx6Cxt3L96UBsCbH7UgGcmNH)
 
 how to effectively prepare for a technical interview and pass it
 
@@ -3168,13 +3125,13 @@ questions you may get asked for an iOS interview
 ## cv
 
 
-# [fungus](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
+# [**fungus**](https://my.mindnode.com/m8uQGjiscrBuHZPV6zVJJLPxAfLavHQ6VMekxMik)
 
 
-# [decision making](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
+# [**decision making**](https://my.mindnode.com/HAYtyZp55maTQwsJNhGDSzy3jmZBXVKk6Jzf7qfN)
 
 
-# [languages](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
+# [**languages**](https://my.mindnode.com/hHMVvfyuf56jfNjoXxGsabu9HBxiAyyevXMYoZX2)
 
 
 ## russian
@@ -3200,7 +3157,7 @@ my often misspelled words to learn
 ## hindi
 
 
-# [consciousness ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK#1497.9,-718.6,1)
+# [**consciousness** ✨](https://my.mindnode.com/RqzxwchS3WPpsPwXdxkRwJTw2xh2R2QquQNMqpGK#1497.9,-718.6,1)
 
 the greatest mystery of all, what makes us and other living organisms conscious and are there different way to experience this reality
 
@@ -3228,12 +3185,12 @@ happen when someone makes a bad choice that they think is a good choice
 how to be aware of your actions and thoughts as you live through life
 
 
-# [veganism](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
+# [**veganism**](https://my.mindnode.com/8YQ8ysKmyxaSovNLyPSjx9Wm1VtqnsFikYYRNHUE)
 
 treating animals as equals and abstaining from eating and using animal products as commodity
 
 
-# [history ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
+# [**history** ✨](https://my.mindnode.com/2BEPC4MYKoah5UzSoRzSVsoNYqxW5mYFmi2Aay4s)
 
 
 ## events
@@ -3483,13 +3440,13 @@ United Kingdom leaving European Union
 ### 1997: mp3 player
 
 
-# [fonts](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
+# [**fonts**](https://my.mindnode.com/yUP8QJxFaxmMdZmQpCBkbQqqkvWdJUD9SVSzFTTT)
 
 
-# [discipline ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
+# [**discipline** ✨](https://my.mindnode.com/5UzEJxdb8PVxzrYzyP4bj2aGGiMxby65spggHGwM)
 
 
-# [linguistics](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
+# [**linguistics**](https://my.mindnode.com/Se2RGWFBG5duQMAmqs1Huv6mZ2QPsB4MFxmfozfq)
 
 study of language and its structure including study of grammar, syntax and phonetics
 
@@ -3497,7 +3454,7 @@ study of language and its structure including study of grammar, syntax and phone
 ## computational linguistics
 
 
-# [design](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
+# [**design**](https://my.mindnode.com/sSktu25uWmqShXFjzdfWgs8LHXoW8yuuzsgDZfbV)
 
 
 ## [industrial](https://my.mindnode.com/Dm6JEt1ufjkXN8qGgn2UpV7bhazDVHsAbUCQPCa6)
@@ -3513,10 +3470,10 @@ study of language and its structure including study of grammar, syntax and phone
 ## [typography](https://my.mindnode.com/CMyVcb4Fz7CayVxGMEoCx5UdA9NCZ9Ma8Wid5jus)
 
 
-# [observations](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
+# [**observations**](https://my.mindnode.com/S1xd6joc1nT4hfrrNWpfZz5j3GED7MrpvLwwTqND)
 
 
-# [principles ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
+# [**principles** ✨](https://my.mindnode.com/UACG4U93Yt969DzsZJTQ15xSvtRn3x2zT2yrXH2k)
 
 
 ## [personal ✨](https://my.mindnode.com/UCo38a1xrVivo9yUdwiAsna4uxyP4PL3aFqh2Bpm#-1059.4,-274.9,1)
@@ -3525,20 +3482,20 @@ study of language and its structure including study of grammar, syntax and phone
 	- these are mine
 
 
-# [academia](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
+# [**academia**](https://my.mindnode.com/QsrviWwei4sgCwxpqCmCe3983iffMp3pEkZM7eeL)
 
 
-# [advice ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
+# [**advice** ✨](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG)
 
 advice I have found on life, programming and all that I thought was of value
 
 
-# [newsletters ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
+# [**newsletters** ✨](https://my.mindnode.com/SkDXNhQeqqzYgykAMbuxc59MYvbh42TzDFYaphRk)
 
 newsletters I found interesting
 
 
-# [diseases](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
+# [**diseases**](https://my.mindnode.com/U6Kgpy5rmgXYzVjpZGE5tWBGuWshpuxzEF4kvnXx)
 
 
 ## [1600 BC: cancer](https://my.mindnode.com/wQ5n7nYWKv7op5pqsKAhVbNtcFfzRwYFPzw7nvqD)
@@ -3572,7 +3529,7 @@ newsletters I found interesting
 ## heart disease
 
 
-# [licensing](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
+# [**licensing**](https://my.mindnode.com/zbUN6dpdWmbq6B9XgysJEZQ814T88wvpfqiLxfo8)
 
 
 ## [mit](https://my.mindnode.com/KvDkdmwnT3gxpsPABobszkxfUYennhQvNfkyzs2h)
@@ -3580,12 +3537,12 @@ newsletters I found interesting
 ## apache
 
 
-# [ideas](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
+# [**ideas**](https://my.mindnode.com/K8Tqj3p3zqyB5D1TqxUCwfaMyzHz8abVvTrHoszZ)
 
 how to manifest and grow interesting ideas
 
 
-# [blogs ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
+# [**blogs** ✨](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp)
 
 blogs I like or want to read
 
@@ -3593,7 +3550,7 @@ blogs I like or want to read
 ## [personal stories](https://my.mindnode.com/zMXsHxBwX7RsnwRMdXtPktRCV2dHuZr48pgevhPG)
 
 
-# [fitness](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
+# [**fitness**](https://my.mindnode.com/EYXy1UX5acAmqzy4upZ3Pmf7sCrASZYLQJkEHwjC)
 
 
 ## cardio
@@ -3609,7 +3566,7 @@ blogs I like or want to read
 ## flexibility
 
 
-# [typesetting](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
+# [**typesetting**](https://my.mindnode.com/Q5HFApf2KXABghNAzpkyyto79jqyVqbunWzBxpxH)
 
 
 ## [latex ✨](https://my.mindnode.com/sppXszRUCzViXJA4jMHykEtMPGZey74zRm2HRU5x)
@@ -3619,7 +3576,7 @@ blogs I like or want to read
 - [TikZ](https://my.mindnode.com/kxsDhHQNkgwxymTRsgzQ2XhQ8RZCyCFdkUjbUSao)
 
 
-# [health](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
+# [**health**](https://my.mindnode.com/qEhyRseqgzLSpyxSXMSRFTFAcnmx5R54qC34V81X)
 
 
 ## [nutrition ✨](https://my.mindnode.com/KxGQpeGpwRvAYNWaKy7U7pvnxivHzfoU9x73txyL)
@@ -3647,22 +3604,22 @@ blogs I like or want to read
 ## [skin care](https://my.mindnode.com/DK8XfQvbG86n8M5XsyH2pNMCMuNPz2s3tn6m9Bq2)
 
 
-# [predictions ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve#-1071.9,-598.4,2)
+# [**predictions** ✨](https://my.mindnode.com/bsrMzYE8x5Fja6RcQsd2GNfazFwPoSw4ymsyoyve#-1071.9,-598.4,2)
 
 what will happen in the future
 
 
-# [documentaries ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
+# [**documentaries** ✨](https://my.mindnode.com/7onWs2tu8VrKq14pEzgModqp7q25yWhfjQgW9nPP)
 
 documentaries I have seen and want to watch
 
 
-# [education ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos#752.5,-668.8,0)
+# [**education** ✨](https://my.mindnode.com/grxeQCnT6VCEMqQRTLes5zRcpaBax6Ejr51Dbsos#752.5,-668.8,0)
 
 amazing resources curated by other people
 
 
-# [books](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
+# [**books**](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
 
 - all the books I am currently reading, planning to read or have read already
 
@@ -4232,6 +4189,10 @@ free:
 ### 09: essentials of discrete mathematics
 
 ### 12: foundations of analysis
+
+### [13: homotopy type theory](https://my.mindnode.com/sTwqZGRYsVx2sxby3scUwEUVLRUGUaxyyFLFw9pn)
+
+- free:
 
 ### [17: the napkin project](https://my.mindnode.com/G5abx2gB4ZxTqZ3TrQVFLDgriKeDuxxeoksa2ipY)
 
@@ -4858,12 +4819,12 @@ free:
 ### 15: logo design love
 
 
-# [live talks ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
+# [**live talks** ✨](https://my.mindnode.com/znwExkuKqke9AbcpU64fzndbqVx8MwXPhGsSJttx)
 
 live talks I have personally attended and have seen and made notes on
 
 
-# [law](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
+# [**law**](https://my.mindnode.com/fhHdBxHkJwyKyttdQ4jRssRMfsvzvTUKUrSeKCUU)
 
 set of rules that people are made to follow by the state, the courts and police enforce this system of rules and punish people who break the laws
 
@@ -4881,40 +4842,40 @@ laws concerning United States
 laws concerning European Union
 
 
-# [public speaking](https://my.mindnode.com/sNrmgaBsj4cDn2eHwDhYwnTkMqsGLWrucesVaAsK)
+# [**public speaking**](https://my.mindnode.com/sNrmgaBsj4cDn2eHwDhYwnTkMqsGLWrucesVaAsK)
 
 
-# [medicine](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
+# [**medicine**](https://my.mindnode.com/je57XNNGqxU761WPBT275yJuyxUiiNMN24tWs99m)
 
 
 ## vaccines
 
 
-# [questions](https://my.mindnode.com/iyGwrtBKeFz27eTVNMemuqcu5z5pzA5nhPFXseRp)
+# [**questions**](https://my.mindnode.com/iyGwrtBKeFz27eTVNMemuqcu5z5pzA5nhPFXseRp)
 
 questions asked by me or some one else that I could not find an answer to
 
 
-# [talks ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
+# [**talks** ✨](https://my.mindnode.com/KyMr6nnsQ66GpKjgfBWEzqqVpEvHLHkaj1Ujp7Yd)
 
 various talks I have found interesting that don’t fall into any category
 
 
-# [conferences](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
+# [**conferences**](https://my.mindnode.com/xW4muGdw7R6wMowEUMMtZng9AQdTtqmQxzHx1GVw)
 
 
-# [management](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
+# [**management**](https://my.mindnode.com/15XKqnYJZ1edeVxpyCEhuVW1q5pWxy2Szw8MyyJ6)
 
 
-# [politics](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
+# [**politics**](https://my.mindnode.com/L4cBbSHfKrrMdLjE9MTyPHuw8qxuwdqeQeq7h1oy)
 
 
-# [teaching](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
+# [**teaching**](https://my.mindnode.com/yzGxajM9AhDbjbcizYcBrxYyPpURz2srnvsjTXZx)
 
 how can you teach effectively, how does one learn
 
 
-# [humans ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
+# [**humans** ✨](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc)
 
 
 ## interesting
@@ -5864,7 +5825,7 @@ all the richest humans of this planet with overview of how they got their wealth
 interesting ask me anything threads I found on the internet
 
 
-# [software deployment ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
+# [**software deployment** ✨](https://my.mindnode.com/JHNueMJWFJbZJiHzQdzuY5G8TWBZW4xzEKU19xTx)
 
 
 ## travis CI
@@ -5876,7 +5837,7 @@ interesting ask me anything threads I found on the internet
 ## [docker ✨](https://my.mindnode.com/3tDDSeJdpXeWHxU2L4mLyzpeAGLmCxepmMLWyu1R)
 
 
-# ideology
+# **ideology**
 
 
 ## ~1700: liberalism
@@ -5892,7 +5853,7 @@ interesting ask me anything threads I found on the internet
 ## conservatism
 
 
-# [piracy](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
+# [**piracy**](https://my.mindnode.com/vsLkgzHxXtmhCC821SR9LXaxLxYz5CXbCqe3ZXWq)
 
 
 ## [dmca](https://my.mindnode.com/n7Px3zaaXoaRR1qXfEAJHNxNyg288UWTyBAGCrfa)
@@ -5900,7 +5861,7 @@ interesting ask me anything threads I found on the internet
 united states copyright law criminalising production and sharing of digital copyrighted material
 
 
-# [articles ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
+# [**articles** ✨](https://my.mindnode.com/au8LsqELoJpSq432hCtfzA9H2yUDSJzphpoGYzFL)
 
 
 ## [mine ✨](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd)
@@ -5908,12 +5869,12 @@ united states copyright law criminalising production and sharing of digital copy
 - articles I have written
 
 
-# [podcasts ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
+# [**podcasts** ✨](https://my.mindnode.com/vJRsKgW5SEdBt685W7xuVtzT1H7JQTKTNyjvPBYn)
 
 interesting podcasts I have found and liked or want to listen to
 
 
-# [research papers ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
+# [**research papers** ✨](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
 
 - research papers I am currently reading, planning to read and have already read
 
@@ -5965,7 +5926,7 @@ interesting podcasts I have found and liked or want to listen to
 ## [physics](https://my.mindnode.com/hGhAeJeTjL98Po31yrGomNpdNJZJCXyzL2mt41pf)
 
 
-# communication
+# **communication**
 
 
 ## [email](https://my.mindnode.com/VbmcfYqVyH7J6WYjSvt52iC9kxqysGfPB7eo4myx)
@@ -5973,10 +5934,10 @@ interesting podcasts I have found and liked or want to listen to
 ## [negotiation](https://my.mindnode.com/osTgobMozqVSHHoVh9XNXJSitUadfz7yrpoUkMFQ)
 
 
-# [videos ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
+# [**videos** ✨](https://my.mindnode.com/j4pxmdo514Lw74iftpWjeyHXttYqUnrvPdpQFqTE)
 
 
-# [cryptocurrency](https://my.mindnode.com/Z4B2pqHmRYVzQetyii7pJwdJwAf5h4qwAGqopMKp)
+# [**cryptocurrency**](https://my.mindnode.com/Z4B2pqHmRYVzQetyii7pJwdJwAf5h4qwAGqopMKp)
 
 the future of money as I see itn
 
@@ -5990,7 +5951,7 @@ the future of money as I see itn
 ## [monero ✨](https://my.mindnode.com/P9doYsT2FMAxG2eVVTJ6sSd8zYuthpNJe58CssPD)
 
 
-# [learning ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
+# [**learning** ✨](https://my.mindnode.com/bMgHiMESySRULMG1JWFgKpaoUk1Sw1V21p2ER5pz)
 
 
 ## [techniques](https://my.mindnode.com/Q6fpfzt9RnQmdKAy8bKsuPzWJqLrNNDsnxCokpv9)
@@ -5998,16 +5959,16 @@ the future of money as I see itn
 ## metalearning
 
 
-# build systems
+# **build systems**
 
 
 ## [cmake ✨](https://my.mindnode.com/nrk4ex9w31toZU8dvztZq76ipyfs7ymsDXDzJFwg)
 
 
-# [hackathons ✨](https://my.mindnode.com/zu37vDh1vzNhfSeyQwp5Rx9xbctcCWWpXixqEfxA)
+# [**hackathons** ✨](https://my.mindnode.com/zu37vDh1vzNhfSeyQwp5Rx9xbctcCWWpXixqEfxA)
 
 
-# comedy
+# **comedy**
 
 
 ## [standups](https://my.mindnode.com/GATJhq1GfNpiHMMRsqphq6nfe5uBaE8oeN4bGS7D)
@@ -6015,16 +5976,16 @@ the future of money as I see itn
 ## [jokes](https://my.mindnode.com/HHywbmyswP9PCbaBUCjpsYFXxcN8Wxq6qF6AgtW4)
 
 
-# [literature](https://my.mindnode.com/SyydAVSrqVq8pnWVyCRJYmLrppcHGtQyjUrdAvYA)
+# [**literature**](https://my.mindnode.com/SyydAVSrqVq8pnWVyCRJYmLrppcHGtQyjUrdAvYA)
 
 
-# [talent](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
+# [**talent**](https://my.mindnode.com/NT4mxiC7qucTDqy6Rm5CFsJoxxUvZqM12Pw4uyJy)
 
 
-# [emulation](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx#477.8,-480.0,2)
+# [**emulation**](https://my.mindnode.com/wKPccGXqDxbUMndMp1nPVs1NbzhzcmsqKzBDyXWx#477.8,-480.0,2)
 
 
-# lessons
+# **lessons**
 
 
 ## [personal ✨](https://my.mindnode.com/Jv6jsM6kGM9SjANr2XLj6hgnxhkzEUeazJyoVRmv#37.3,-323.4,-2)
@@ -6032,10 +5993,7 @@ the future of money as I see itn
 - lessons I have learned over the course of my life
 
 
-# [globalisation](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
-
-
-# [kernel ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
+# [**kernel** ✨](https://my.mindnode.com/AHxRjbJxZMr2ZQPeXFc2JPND2XsJ4SoSajx1xevy)
 
 central part of an operating system, it manages the tasks of the computer and the hardware, most notable memory and CPU time, there are two types of kernels   
   
@@ -6092,7 +6050,7 @@ free and open source unix like operating system for computers
 ## [magenta](https://my.mindnode.com/xzutDRUrAzoQt7yZwqAT3VxWKgxs82oX7yh5dQsq)
 
 
-# [writing ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
+# [**writing** ✨](https://my.mindnode.com/f3ZYPTxJGgYsLpZrxHt3mqKJSNw8fut2yviamU2J)
 
 articles and tips on how to write better and express myself in words
 
@@ -6106,7 +6064,10 @@ poems I found and enjoyed reading
 ## [calligraphy](https://my.mindnode.com/Uh3tar5bydHKtER6uHdyTg6ymSzy2y8oteApDrTC)
 
 
-# [virtual machines](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
+# [**globalisation**](https://my.mindnode.com/9Zy2PU4hmiubHpxJ1pFWh9S2Aepxax535QjCT1BL)
+
+
+# [**virtual machines**](https://my.mindnode.com/yYb2h4qJrcC6xq553ubAqbW1hg7dTXV7Xxpz13vn)
 
 a program on a computer that works like it is a separate computer inside the main computer, the program that controls visual machines is called a hypervisor and the computer that is running the virtual machine is called the host
 
@@ -6122,19 +6083,19 @@ is a set of computer software programs and data structures which use a virtual m
 ## [hypervisor](https://my.mindnode.com/iEH6suLAhq52zp4GjLNFLbAgm9YQ5BKkaUY3Cx8T)
 
 
-# [media](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
+# [**media**](https://my.mindnode.com/9ZLsvNp8zAMpvHDKTTJ6Vxc1zuitHo5M3zDAavLg)
 
 
 ## [social](https://my.mindnode.com/TtLpQxuscftfbToszq8x5spgHMxmDA1h3GqJ7Ww4)
 
 
-# [quotes ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5805.9,-1081.2,-1)
+# [**quotes** ✨](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5805.9,-1081.2,-1)
 
 
 ## russian
 
 
-# [1776: economics ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
+# [**1776: economics** ✨](https://my.mindnode.com/pMCvXPLwUPgcFpxtysoXmuihTkkGDbx1agKwzYm6)
 
 
 ## 2000 BC: banks
@@ -6160,13 +6121,13 @@ is a set of computer software programs and data structures which use a virtual m
 ## behavioural
 
 
-# [operations research](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
+# [**operations research**](https://my.mindnode.com/qafJeMWU9xnnSyCgd88ytA8misfiogjii4BDWpzb)
 
 
-# [shower thoughts ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
+# [**shower thoughts** ✨](https://my.mindnode.com/PEvsddHKXz8sETiqPHxZBsEnPZtAUHMhKmQp2SF1)
 
 
-# version control
+# **version control**
 
 
 ## [mercurial](https://my.mindnode.com/NxcTDxweypHJ5dkqR7bWpryPxjbmzpCAxcKV9tG4)
@@ -6174,7 +6135,7 @@ is a set of computer software programs and data structures which use a virtual m
 ## [git ✨](https://my.mindnode.com/TN2aYRpMdhpZfcqqCeaK4tbSjaVYFDJupN9UYZBS#1008.9,-448.6,0)
 
 
-# [operating systems](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
+# [**operating systems**](https://my.mindnode.com/jzpMbRePxmDJJaUH6pbVxjJqd1zwXpexYjAsWD79)
 
 name for a group of computer programs, device drivers, kernel and other things that let a user work with a computer
 
@@ -6220,12 +6181,12 @@ name for a group of computer programs, device drivers, kernel and other things t
 ## [development](https://my.mindnode.com/oNNwSdr4auaFLYHYyrPV5Zx3m5noowpnxfxc4w3V)
 
 
-# [open source ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
+# [**open source** ✨](https://my.mindnode.com/fUS8UzoVqq438SCBhimjPJxwKs1YEw2Te2mPhDdi)
 
 what it means to work with open source and how to best sustain an open source project
 
 
-# [file system](https://my.mindnode.com/twpiix8ckRiWHrLqLBaAk2Pp8Avqcoskwgpgp37D)
+# [**file system**](https://my.mindnode.com/twpiix8ckRiWHrLqLBaAk2Pp8Avqcoskwgpgp37D)
 
 a way of storing all data on a data storage device, the data is usually organised in computer files in directories, below the file system, there is usually a physical device where the files are stored
 
@@ -6237,25 +6198,25 @@ a way of storing all data on a data storage device, the data is usually organise
 ## [XFS](https://my.mindnode.com/fKkhCJpKpCb6hiD59zmAqnFWW8sB6J4KLzXLmjyw)
 
 
-# [movies ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
+# [**movies** ✨](https://my.mindnode.com/KeAsedvAsg8WBbsciwrNNDXsByF4A89bgnKb1feX)
 
 movies I have seen or plan on watching
 
 
-# [photography](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
+# [**photography**](https://my.mindnode.com/QyJuSg4jrc6JnDzoHsG1RsXjxFyg274Hwusp2Zbb)
 
 
-# [creativity](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
+# [**creativity**](https://my.mindnode.com/idaxELN1Hj9yemciZiaU3XQNvqchX1FnpnKKcFj9)
 
 what it means to be creative and where does creativity come from
 
 
-# [series ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
+# [**series** ✨](https://my.mindnode.com/zeBtqY2akRErWnZgkKt1NM7MxqY7xyEE8YxuP3hd)
 
 series I have seen or plan on watching
 
 
-# [databases](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
+# [**databases**](https://my.mindnode.com/Ph6tV2dyFKkmVG5XZr1tzsCoBkPFN2YM32tijBWt)
 
 
 ## database design
@@ -6279,10 +6240,10 @@ series I have seen or plan on watching
 ## [sql](https://my.mindnode.com/pLxGS7nzpTo1VuCYeG7NKpx11B9VxKbrs3qfjpwp)
 
 
-# [dance](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
+# [**dance**](https://my.mindnode.com/dV6fGEiwrduunpsG3HCYuj8bCckramTm9Qpa6gzT)
 
 
-# [websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1180.2,-1421.3,-1)
+# [**websites**](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1180.2,-1421.3,-1)
 
 
 ## [github](https://my.mindnode.com/aMtiyGxzr2wMjntks2SHapFx2UiTsn5KS26ouFDZ#376.4,-1851.4,2)
@@ -6348,7 +6309,7 @@ personal websites that are really well made and inspiring
 ## stack
 
 
-# [art ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
+# [**art** ✨](https://my.mindnode.com/ZzygNSzUr9ZzYA4We7WHywxnFRS6GYAbhhpfqZsp)
 
 
 ## [digital](https://my.mindnode.com/prt1hJquZMr9SoKhXnTijy9ozHWxk7heXbkSHAmi)
@@ -6358,7 +6319,7 @@ personal websites that are really well made and inspiring
 ## drawing
 
 
-# [server ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
+# [**server** ✨](https://my.mindnode.com/ANjtm1EAaFJX68Zykpth8K8yu91FJWGcQToZrLUy)
 
 is a computer that serves many things to user, or client machines, every type of thing a server does is called a service, services are used by other computers are called clients
 
@@ -6372,7 +6333,7 @@ type of server that is used to host websites, it can have one or many websites t
 ### apache
 
 
-# [protocols](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
+# [**protocols**](https://my.mindnode.com/oSJsqA7gWKcfXUaer7uj8pby3PApsdA9VkjZeohV)
 
 
 ## [1988: irc](https://my.mindnode.com/w6XXqXqjcZzXPDGJkDu9sjjrqnjc4GsknC7ppUWq)
@@ -6412,7 +6373,7 @@ test anything protocol s a protocol to allow communication between unit tests an
 ## ARP
 
 
-# [travel ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
+# [**travel** ✨](https://my.mindnode.com/y3JkXrNizHEXEd9yWhxdyGAFPMjSiusFpES7z6UB)
 
 travel tips and interesting places
 
@@ -6422,7 +6383,7 @@ travel tips and interesting places
 how to live without a home, travel and work
 
 
-# [caching layers](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
+# [**caching layers**](https://my.mindnode.com/S68BxyypRRAzffrpAaiX9kWsTNhpVy34XGfkzb3F)
 
 
 ## [redis ✨](https://my.mindnode.com/3fYxqeHfbKSHMmGqG2uqzhzihR7qyqaQwAZ9C3Xt)
@@ -6430,27 +6391,27 @@ how to live without a home, travel and work
 ## varnish
 
 
-# backend
+# **backend**
 
 
-# [internet of things ✨](https://my.mindnode.com/ZhaDvt1gqsjNohYH41u1T62KRYyoQwr9cCGazctK#118.2,280.4,0)
+# [**internet of things** ✨](https://my.mindnode.com/ZhaDvt1gqsjNohYH41u1T62KRYyoQwr9cCGazctK#118.2,280.4,0)
 
 connecting physical objects to the internet and using them in a smart way
 
 
-# [full stack](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
+# [**full stack**](https://my.mindnode.com/ypeg1U3PytNzuMqWFzQUqKrTNztXp7xpTGj9DkJH)
 
 
-# [serverless architecture ✨](https://my.mindnode.com/hqjmqW2xMYTekHSzwDpApeqqfsyX2M1SAakkHKSN)
-
-
-# [front end  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
+# [**front end**  ✨](https://my.mindnode.com/GmpAxt9xAYKbFuqj1rrY3NGxiCQxxVp1teNvfVZc)
 
 
 ## [BEM](https://my.mindnode.com/Q47PkPagG6TzzB1XeD7h2usWSzUuxUjNizacijd8)
 
 
-# [networking](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
+# [**serverless architecture** ✨](https://my.mindnode.com/hqjmqW2xMYTekHSzwDpApeqqfsyX2M1SAakkHKSN)
+
+
+# [**networking**](https://my.mindnode.com/K1D5isP4eFvFbGs8Xx7uVknF6Lmsui3fcqZBEQPw)
 
 
 ## [rest](https://my.mindnode.com/Vs3ZspLvisyn3wckGsjgPY3cUVjY8fQPGBvFe3q5)
@@ -6476,7 +6437,7 @@ connecting physical objects to the internet and using them in a smart way
 ### fastly
 
 
-# [distributed computing](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
+# [**distributed computing**](https://my.mindnode.com/sEKHQbwqA8NCpJWSSttobDKJrLvoppdBtafUH17X)
 
 
 ## [petri nets](https://my.mindnode.com/szji6NR1NPFanHbqpopkPqgTiPc3gAzehqpNX5NL)
@@ -6486,7 +6447,7 @@ connecting physical objects to the internet and using them in a smart way
 ## [apache spark](https://my.mindnode.com/VNVjTVxwpDqC2rdvLwPk8HS5GBqf2rEQMxW1Bi3q)
 
 
-# [ruby gems](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
+# [**ruby gems**](https://my.mindnode.com/zdaC53NdLphBmb8y6pJX3dc3s2FbskFmeynFQHqc)
 
 
 ## [03: rails](https://my.mindnode.com/YGjZMgJtzjxHNjVyqvLNUmumHZ3oBmvb2UfxrYCq)
@@ -6500,7 +6461,7 @@ connecting physical objects to the internet and using them in a smart way
 ### rspec
 
 
-# data
+# **data**
 
 
 ## [serialisation](https://my.mindnode.com/m2aFuEgxbXgm6K4bUzdqXN7SaKKozdVFmohiGrHD)
@@ -6526,7 +6487,7 @@ connecting physical objects to the internet and using them in a smart way
 - 
 
 
-# countries
+# **countries**
 
 
 ## [europe](https://my.mindnode.com/DKLb6nhZTMA35hHqbJA4UDc3yQbvAsYWak6dYViq)
@@ -6714,9 +6675,9 @@ United States of America is made up of 50 states, a deferral district, and five 
 ### canberra
 
 
-# [courses ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ)
+# [**courses** ✨](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ#-457.3,-125.5,2)
 
-courses I am doing or plan on doing
+- courses I am doing or plan on doing
 
 
 ## ai
@@ -6924,16 +6885,16 @@ courses I am doing or plan on doing
 ### [17: stanford cryptography II](https://my.mindnode.com/dwMfaq2yWUuto8TXyXLpFmCyXZhU2zc7Xy5YbHxe)
 
 
-# prototyping
+# **prototyping**
 
 
 ## [framer](https://my.mindnode.com/vs6cBtt1fMHsk96Wrjjhv3Fq8DXeVMyVMYebiYiq)
 
 
-# [lecture notes](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
+# [**lecture notes**](https://my.mindnode.com/ySaUyDJphPUxtuZwaBvsfzc8AwXJT3Xr5t7Kpozq)
 
 
-# [1980: web ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz#1426.0,-301.0,0)
+# [**1980: web** ✨](https://my.mindnode.com/Tdgce3HNWG4CmVfh6jQ4fbZ8xnVB6runmc2ruKDz#1426.0,-301.0,0)
 
 
 ## [browsers](https://my.mindnode.com/4G3PhTqxAg6bEToGT613X38ppXTP5KsCi1sYuz6i)
@@ -7008,7 +6969,7 @@ browser developed by Google
 ## ajax
 
 
-# task runners
+# **task runners**
 
 
 ## [gulp](https://my.mindnode.com/btgJru7wziUq7q2jYLaTe3cpe9CSsXLZpAPJ2MF8)
@@ -7016,7 +6977,7 @@ browser developed by Google
 ## grunt
 
 
-# encoding
+# **encoding**
 
 
 ## text
@@ -7024,16 +6985,16 @@ browser developed by Google
 ### [unicode](https://my.mindnode.com/tqtev6xnyY5GxE38UsQpNj8jpETmuj9HhDTTYmYQ)
 
 
-# [video editing](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
+# [**video editing**](https://my.mindnode.com/JZD3fw6eW77zLFEVqKYzVFpJxJ9irgPrQsziMA4Y)
 
 
-# [api ✨](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
+# [**api** ✨](https://my.mindnode.com/6BQkDHrjEx9KjaiB4VPAwowZyUYMbdjdCfinmaF8)
 
 
 ## [GraphQL](https://my.mindnode.com/FLzxt3X9eoBvimrDypq6VvyJ3NdxoG5NrrsumyjH)
 
 
-# [software development](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
+# [**software development**](https://my.mindnode.com/WgXAsAKvd4MsMLqxwqvbHuMVz4YYXqVkvZVtSwXB)
 
 
 ## [agile](https://my.mindnode.com/4hPUYtVtfLEL17EEecXhszyRpiM1pmjYec3i9ytr)
@@ -7055,7 +7016,7 @@ approach to software development for complex needs by connecting the implementat
 3. initiating a creative collaboration between technical and domain experts to iteratively refine a conceptual model that addresses particular domain problems
 
 
-# javascript engines
+# **javascript engines**
 
 
 ## [v8](https://my.mindnode.com/e6Js8GHK1evfRF38mGLBMfxE8dLJVXtm2z4LA7jb)
@@ -7069,13 +7030,13 @@ javascript engine developed by Google
 ## [webkit](https://my.mindnode.com/Gxq2bMzMdQ6sCoMGb2K8DbC67KSy3CZAyNfppJoU)
 
 
-# [animation](https://my.mindnode.com/47yBx17wjqMeapSnibSWqKypvhwLaGhN8zaPz7hf)
+# [**animation**](https://my.mindnode.com/47yBx17wjqMeapSnibSWqKypvhwLaGhN8zaPz7hf)
 
 
-# [system administration](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
+# [**system administration**](https://my.mindnode.com/YtbeRt3uZR2o3b8R3fx58i6YomayqJEKwP5z8JE5)
 
 
-# [Cocoa](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
+# [**Cocoa**](https://my.mindnode.com/pH6CF8NFDAAu6wbFDpZQqKrrszga6P5jYKqenUmD)
 
 
 ## Foundation
@@ -7093,7 +7054,7 @@ javascript engine developed by Google
 ## WWDC
 
 
-# [configuration management](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
+# [**configuration management**](https://my.mindnode.com/gUX5gmQUmdzo9MWcyggzYBzRF75PpE16ob1xjyMs)
 
 is a systems engineering process for establishing and maintaining consistency of a product’s performance, functional and physical attributes with its requirements, design and operational information through its life
 
@@ -7105,13 +7066,13 @@ is a systems engineering process for establishing and maintaining consistency of
 ## [chef](https://my.mindnode.com/AqwnbN1j14mSn27aqwz3EDnpmFdX5essxpJKpU7H)
 
 
-# [unix](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
+# [**unix**](https://my.mindnode.com/AsFDY1F6zzq4K8hu7yxkwKdxD76Vcm8fsPrsUq37)
 
 
 ## [posix ✨](https://my.mindnode.com/zNsVJZhxAWsRy9xoC2ZqNzAqcWNxVyTeu9NsVDpx)
 
 
-# [shells](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
+# [**shells**](https://my.mindnode.com/5Kt54RvZzf62aSzNbQkQiaHzipKEDBTixxRqozuv)
 
 
 ## [1989: bash](https://my.mindnode.com/sr1GNY9G5LCyYsxSVeaoupdjZszd6FbUY1YGCXMh)
@@ -7137,24 +7098,24 @@ what aliases and cli programs I use on my system
 ## scripting
 
 
-# [projects ✨](https://my.mindnode.com/yRxyF9EqG5YMhecUVA2agcPrUMUsR7fhhSPUxUyx)
+# [**projects** ✨](https://my.mindnode.com/yRxyF9EqG5YMhecUVA2agcPrUMUsR7fhhSPUxUyx)
 
 
 ## [ideas](https://my.mindnode.com/yiHBMzCtPbrtzQYwJVk9SMyqR8y5Z6WcLn4p6Tqx)
 
 
-# [productivity](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
+# [**productivity**](https://my.mindnode.com/RxVpUpg4ZNPrkMMyb2nxnXZ7X2N3XXhLx1fu7EHB)
 
 
 ## [time management ✨](https://my.mindnode.com/CvinqUR7yZ3oddp6H765ZMbytS9dWJcaPcz2q4Hz)
 
 
-# [config](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
+# [**config**](https://my.mindnode.com/3ioEsx8TAoXL6q1GssBscswypFSfAYofzF4c1yhN)
 
 
-# [js libraries ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
+# [**js libraries** ✨](https://my.mindnode.com/SyWWUsHsMRVwqSkezch3pwTpxADkspy5TCJFjjw4)
 
-javascript libraries I found interesting that are not big enough to warrant itself a node of their own
+- javascript libraries I found interesting that are not big enough to warrant itself a node of their own
 
 
 ## [06: jQuery](https://my.mindnode.com/dZX7Xtp1ytpBPG1BUWh9T9kw5s6xyEdD6xhM2sux)
@@ -7195,7 +7156,7 @@ javascript libraries I found interesting that are not big enough to warrant itse
 
 ### [react ✨](https://my.mindnode.com/aviJdBYsTMzN8CwUjrjUzymVYhxqQ97eQm6HtzJz#2033.5,673.9,-1)
 
-library for building user interfaces including one way data flow, virtual dom, jsx features
+- library for building user interfaces including one way data flow, virtual dom, jsx features
 
 - [fiber](https://my.mindnode.com/vnAiDczJN4mAbL5uuYeiTxYfvUV8QvQ29AfWjc3X)
 
@@ -7213,7 +7174,7 @@ library for building user interfaces including one way data flow, virtual dom, j
 
 ### [webpack](https://my.mindnode.com/gEQJxf2x4rpszqiJ11MfHuAi6wZpgHqCsgpFFQSW)
 
-packs many javascript modules into a few bundled assets
+- packs many javascript modules into a few bundled assets
 
 ### require js
 
@@ -7228,13 +7189,13 @@ packs many javascript modules into a few bundled assets
 ### [ESLint](https://my.mindnode.com/dCEm2XXGq9ZFfwjb1KuB2puWZgrNrSzKorfVXCjm)
 
 
-# [quantified self](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
+# [**quantified self**](https://my.mindnode.com/KxSpy3hSBspL39XQfzba8agisBRjapqpKqsb6jCK)
 
 
-# [free](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
+# [**free**](https://my.mindnode.com/s9JFcBx3A4LkacasMkbexf8AHvdNk2DstPGZA7co)
 
 
-# markup languages
+# **markup languages**
 
 
 ## [1990: html](https://github.com/diegocard/awesome-html5)
@@ -7244,7 +7205,7 @@ packs many javascript modules into a few bundled assets
 ## [04: markdown](https://my.mindnode.com/1sbBvt5XKtosUfRvd8TLqRsbyZUazx7CP58Ck8nq)
 
 
-# practice
+# **practice**
 
 
 ## [programming](https://my.mindnode.com/XVKPw7bLpLTzXUnqPf8QYU7mNVxwxdq8Zc316wJQ)
@@ -7252,7 +7213,7 @@ packs many javascript modules into a few bundled assets
 ### [katas](https://my.mindnode.com/duoYeBBx9GzeasYxzASYjzgzvqfqQNsw37ZzaJ5V)
 
 
-# [music creation](https://my.mindnode.com/aMeLZTuwJGwsHy6qsYx2MxThPqCHeNdPHrbyotkp)
+# [**music creation**](https://my.mindnode.com/aMeLZTuwJGwsHy6qsYx2MxThPqCHeNdPHrbyotkp)
 
 
 ## [theory ✨](https://my.mindnode.com/DePpAGeZp7GXqgStkHS8MjFLJ2XZTzSSpVwP1u3z)
@@ -7284,7 +7245,7 @@ write code and generate music, really is quite amazing
 ### 1876: synthesiser
 
 
-# [python libraries ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
+# [**python libraries** ✨](https://my.mindnode.com/6xnyCho9UfV11sqEKxAyQwzRaQraMdSmkFqs3Ysu)
 
 
 ## [05: django](https://my.mindnode.com/GBFvBMrnkhxzwFyy53orBoPnC8zir18JVxKmZJqW)
@@ -7294,7 +7255,7 @@ write code and generate music, really is quite amazing
 ## [SQLAlchemy](https://my.mindnode.com/3TzwKxbAKq7PWDPzj8BZ92xyzzLKubRKAyq7jqq1)
 
 
-# package managers
+# **package managers**
 
 
 ## [npm ✨](https://my.mindnode.com/yqLbHf4z3hAuVpq3t5xbTmAqcQWyXGDkznm2br8Q)
@@ -7308,7 +7269,7 @@ write code and generate music, really is quite amazing
 ## [brew ✨](https://my.mindnode.com/HupczCvRxy6bPrsextNpdkRmez2xxm2a3VyDEpmA)
 
 
-# [swift libraries ✨](https://my.mindnode.com/JbqzJycnfpFsi3iAXHNDzSuJEEpgcYxK9nnW8Smo)
+# [**swift libraries** ✨](https://my.mindnode.com/JbqzJycnfpFsi3iAXHNDzSuJEEpgcYxK9nnW8Smo)
 
 
 ## [vapor](https://my.mindnode.com/RH3tMUHDtfjdCpj9aEJWPRM5GaH7ymroqGGwKtn3)
@@ -7318,7 +7279,7 @@ write code and generate music, really is quite amazing
 ## [RxSwift](https://my.mindnode.com/ER5sfkWpxL978asyXL32LqiZMaYyGphRgypMmzeq)
 
 
-# [music](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
+# [**music**](https://my.mindnode.com/s1yqBsysNDnQBwAxR9RxyNVWekCa6B9TxjaDFpf2)
 
 
 ## [interesting artists ✨](https://my.mindnode.com/hFXXqZLJitAvi3eRPEMyxZpRMaxuXs5BaiYzynMG)
@@ -7332,7 +7293,7 @@ all the music artists whose work I find interesting and enjoy
 playlists that I have made and shared
 
 
-# [images ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
+# [**images** ✨](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC)
 
 my curated gallery of all images I have personally collected organised by albums
 
@@ -7340,10 +7301,10 @@ my curated gallery of all images I have personally collected organised by albums
 ## [not mine ✨](https://my.mindnode.com/DzrFkXF3VVxgHh9GjXqyJwK1GRq3p95RAs4aKy29)
 
 
-# [singing](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
+# [**singing**](https://my.mindnode.com/o2K5Tszvca6VELypQhqhxeg2EQSfTUseu36qN2De)
 
 
-# [search engines](https://my.mindnode.com/QNV9yaf39CaLZyCvfFsCgs2AMcZdJbNvCpqkopNK)
+# [**search engines**](https://my.mindnode.com/QNV9yaf39CaLZyCvfFsCgs2AMcZdJbNvCpqkopNK)
 
 what it means to make a search engine and what is needed
 
@@ -7355,7 +7316,7 @@ what it means to make a search engine and what is needed
 ## [elastic search ✨](https://my.mindnode.com/GoqFsporq2JFusGfqApP3JjKz83G1CCBxLq3gyZs)
 
 
-# style sheet languages
+# **style sheet languages**
 
 
 ## [css](https://my.mindnode.com/Vh8yQ3ysjVkqLsrrihV6ZqNUMqyyufe6hV75bak6)
@@ -7373,18 +7334,18 @@ what it means to make a search engine and what is needed
 ### foundation
 
 
-# [gifs](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
+# [**gifs**](https://my.mindnode.com/BQ8rXrpypj7nqsvndhZ7yAxjsqqxgwZsewH8sDjC)
 
 
 ## [mine](https://my.mindnode.com/7kYZzzigvHTiZ2gnotqPEZs8Y7Fi8S8FjnKvdiFr)
 
 
-# [growth hacking ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
+# [**growth hacking** ✨](https://my.mindnode.com/Cf4epe1mnFppbarAfsix5myGmKyHXM8bzf5fFYmz)
 
 how to accelerate startup growth, acquire and keep new customers
 
 
-# [data mining](https://my.mindnode.com/pyCmh6Gx51UuVc5pX1BfqKATXcxsTPEQTWdoWFBX)
+# [**data mining**](https://my.mindnode.com/pyCmh6Gx51UuVc5pX1BfqKATXcxsTPEQTWdoWFBX)
 
 
 ## [data modelling](https://my.mindnode.com/UbczBhGPRtsywRXLERa9jjVmgpopCydcqHvQpT6c)
@@ -7392,16 +7353,16 @@ how to accelerate startup growth, acquire and keep new customers
 ## [information retrieval](https://my.mindnode.com/t3MQ6qbrPacc3BW72znCYPtab2bVTPADCSJSszwb)
 
 
-# [data science](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
+# [**data science**](https://my.mindnode.com/hZxYy5JcsBx5xqyiGcde4vNmWSStHzn72tayCcrC)
 
 
-# design languages
+# **design languages**
 
 
 ## [ant design ✨](https://my.mindnode.com/X1o2YpSWgsbkvWpBdV5quai9YQKPKVQAsamdMMg2)
 
 
-# [java libraries](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
+# [**java libraries**](https://my.mindnode.com/GuUQLsBqRgry9KynyWUWpQERc1CpBQJHFhDWkkkg)
 
 
 ## [dropwizard](https://my.mindnode.com/P9pH89M9ZBtPfdcxpzCxXU6skyqhtxcV1QgmeNYh)
@@ -7411,26 +7372,26 @@ how to accelerate startup growth, acquire and keep new customers
 ## [spark](https://my.mindnode.com/gke94NVJMFiSTnzjWXXsfaNK6hnE7TiV4QQ79ZoL)
 
 
-# [discounts](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
+# [**discounts**](https://my.mindnode.com/yXSzG7qYqUwNbdsstZtb1MeHzQy2wTzxFEs58YuZ)
 
 
-# [go packages](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
+# [**go packages**](https://my.mindnode.com/Qmi4PvTyjvnguuqwWoY3XJpeEy38jrZyv7kx9rgw)
 
 all the useful and interesting go packages I have found sorted by domain
 
 
-# [interactive computing](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
+# [**interactive computing**](https://my.mindnode.com/gjYfbXP9TBy15gGRHZ6c9pyEBRQyc6fcpMMzecpR)
 
 
 ## [jupyter](https://my.mindnode.com/N8Ym4F5kq3sJxy9zx5FVr687my2gb3tjq2TUcWoJ)
 
 
-# [marketing](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
+# [**marketing**](https://my.mindnode.com/geemtWzRmo599xqQwifEti48KefrCqyzcn8cznnx)
 
 how to find customers for your products and expose your product to the world in the most efficient way
 
 
-# companies
+# **companies**
 
 
 ## [interesting ✨](https://my.mindnode.com/ntqN4vyxqas9bjqqHsyxwseene1VhRUUSrum4x7z)
@@ -7709,10 +7670,10 @@ how to find customers for your products and expose your product to the world in 
 ### 15: monzo
 
 
-# [user interface](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
+# [**user interface**](https://my.mindnode.com/fayzUQbYE79EqeJegA1LSmq5w9QVyezA7g3UWaQF)
 
 
-# [business](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
+# [**business**](https://my.mindnode.com/HAS6yso6qvzZwTgqVb6hq8MgYhThby2dxwKsPsBW)
 
 organisational entity involved in providing goods or services to customers
 
@@ -7730,13 +7691,13 @@ property consisting of land and the buildings on it, along with all its natural 
 sequence of processes involved in the production and distribution of products
 
 
-# [services](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
+# [**services**](https://my.mindnode.com/9qmzqvyQsTmy5pzfzdzyF5yu2skLy17XWmsMpKAr)
 
 
-# [user experience](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
+# [**user experience**](https://my.mindnode.com/JDu7XhjBpjTLiWooLLYBuZW3qfzo3pscDEUXjDyG)
 
 
-# [work](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
+# [**work**](https://my.mindnode.com/VfzgzqowJNSpCQYQNzJ4Ag2gm39QWqjXJXyvWq1M)
 
 how to find work and what to focus on
 
@@ -7752,7 +7713,7 @@ how to find work and what to focus on
 ## [freelancing](https://my.mindnode.com/uydk8HT64JffVZk2Nb2wtVBQLkVvSiaEqHuMocsv)
 
 
-# keyboard
+# **keyboard**
 
 
 ## [layouts](https://my.mindnode.com/FFHzCy8318KBaKsjFpVAUZFLdLeGqMNqpGRDZWVz)
@@ -7762,7 +7723,7 @@ how to find work and what to focus on
 ### [switches](https://my.mindnode.com/2p1NpYQyFagoriTMDKKwY3c2qVzACWSex9pwZRsy)
 
 
-# [programs](https://my.mindnode.com/jNWAmZH1pR24zb4NSMijvTCuHiDoHT7xXLjkXAwP)
+# [**programs**](https://my.mindnode.com/jNWAmZH1pR24zb4NSMijvTCuHiDoHT7xXLjkXAwP)
 
 
 ## text editors
@@ -7864,7 +7825,7 @@ code editor by Microsoft based on Electron, quite fast and extensible
 ### mathematica
 
 
-# [sports](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
+# [**sports**](https://my.mindnode.com/q8apmnGAcKyysdxh3FXmtRz3zkyQzxnJ6Y85vDeL)
 
 
 ## snowboarding
