@@ -16,12 +16,13 @@ It contains :
 
 - [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) 
 	- where if a book is free, a link will be provided
-- [courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/)
+- [interesting courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/)
 - [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research-papers/)
 - [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/humans/)
 - [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/)
 - [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/)
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
+- [programming languages](http://nikitavoloboev.xyz/knowledge-map/programming-languages/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
 - and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
