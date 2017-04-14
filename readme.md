@@ -6,11 +6,13 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-The contents of the mind map can also be [viewed in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps) if you prefer that.
+The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps).
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
+Aside from these well curated mind maps on learning any topic on Earth which I encourage you to explore and [help improve](https://github.com/nikitavoloboev/knowledge-map#contributing-). 
+
+I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
 It contains [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) where if a book is free, a link will be provided. All the [courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/), [research papers](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#research-papers-), [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/humans/), [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/), [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/), and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 
 
