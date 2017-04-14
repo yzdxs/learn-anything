@@ -23,6 +23,7 @@ It contains :
 - [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/)
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
 - [mathematics](http://nikitavoloboev.xyz/knowledge-map/math/)
+- [computer science](http://nikitavoloboev.xyz/knowledge-map/computer-science/)
 - [programming](http://nikitavoloboev.xyz/knowledge-map/programming/)
 - [programming languages](http://nikitavoloboev.xyz/knowledge-map/programming-languages/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
