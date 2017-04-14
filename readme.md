@@ -10,7 +10,7 @@ The contents of the mind map can also be [viewed in text if you prefer that](htt
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth which I encourage you to explore and [help improve](https://github.com/nikitavoloboev/knowledge-map#contributing-). 
+Aside from these well curated mind maps on learning any topic on Earth which I encourage you to [explore](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#84.2,-523.0,3) and [help improve](https://github.com/nikitavoloboev/knowledge-map#contributing-). 
 
 I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
