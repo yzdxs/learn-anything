@@ -11,7 +11,6 @@
 
 ### ~[1500-1900: transatlantic slave trade](https://my.mindnode.com/Vz5aSiP8siKj1evR2pqNhTHsL1bFQYjktrgTwHKH)
 
-15th to 19th century
 
 ### ~ [1760-1840: industrial revolution](https://my.mindnode.com/fbqYosBd645ijNdgYba9yWkXTTQAA9Ry3BL3Wssf)
 
@@ -19,15 +18,11 @@
 
 ### [1917: russian revolution](https://my.mindnode.com/duXpTk94xd4Ns6xbFGrNguC1eGUcDrah487ktgEk)
 
-1917
-
 ### [1929-1939: great depression](https://my.mindnode.com/D2qdnorBkBe7g7TSSzxv9JQcoQNzdNXoQLvtxF2B)
 
-1930s
 
 ### [1922-1991: ussr](https://my.mindnode.com/L49YZSHHyQKnuKoNPHydzDeiJPRpFLLZWFBTyZVs)
 
-1922-1991
 
 ### [1947-1991: cold war](https://my.mindnode.com/wzcrtQu2kWNXzNsnZT11Xx8Ew2stPzDpxs82rUEK)
 
@@ -41,7 +36,6 @@
 
 ### [17: brexit](https://my.mindnode.com/qWetr2q6TbxASeUwdKWyhATxQoG8vP428n5swLoT)
 
-United Kingdom leaving European Union
 
 ## wars
 
@@ -53,11 +47,8 @@ United Kingdom leaving European Union
 
 ### [1914-1918: ww1](https://my.mindnode.com/LpqcpSY2BvctXaXRqH2RepCDMfHbqKwgfxgKgrpJ)
 
-1914-1918
 
 ### [1939-1945: ww2](https://my.mindnode.com/sRxsYToM7pWVqjTwUdPzA1Szb9JABxDjRMbWpPyw)
-
-1939-1945
 
 - holocaust
 
