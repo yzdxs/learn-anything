@@ -23,12 +23,16 @@ It contains :
 - [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/)
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
 - [mathematics](http://nikitavoloboev.xyz/knowledge-map/math/)
+- [physics](http://nikitavoloboev.xyz/knowledge-map/physics/)
 - [artificial intelligence](http://nikitavoloboev.xyz/knowledge-map/ai/)
+- [biology](http://nikitavoloboev.xyz/knowledge-map/biology/)
 - [computer science](http://nikitavoloboev.xyz/knowledge-map/computer-science/)
 - [programming](http://nikitavoloboev.xyz/knowledge-map/programming/)
 - [programming languages](http://nikitavoloboev.xyz/knowledge-map/programming-languages/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
+- [resources on the web platform](http://nikitavoloboev.xyz/knowledge-map/web/)
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
+- [useful tools](http://nikitavoloboev.xyz/knowledge-map/tools/)
 - and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
 Eventually I want to make a visual mind map and [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map#future-).  
