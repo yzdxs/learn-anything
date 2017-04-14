@@ -24,7 +24,7 @@ It contains :
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
-- and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
+- [and more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
 Eventually I want to make a visual mind map that all can explore.  
 
