@@ -1,8 +1,8 @@
-# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#84.2,-523.0,3)
+# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0)
 
 ![](http://i.imgur.com/u8VLOlC.png)
 
-The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1). 
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0). 
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
@@ -30,7 +30,7 @@ It contains :
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
 - and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
-Eventually I want to make a visual mind map and [search engine for all the these mind maps](https://github.com/nikitavoloboev/knowledge-map#future-).  
+Eventually I want to make a visual mind map and [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map#future-).  
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
 
