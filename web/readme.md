@@ -5,18 +5,18 @@
 
 ### 02: firefox
 
-browser developed by Mozilla
+- developed by Mozilla
 
 ### 03: safari
 
-browser developed by Apple
+- developed by Apple
 
 - extensions
   safari extensions I found interesting and use
 
 ### 08: chrome
 
-browser developed by Google
+- developed by Google
 
 ### [dom](https://my.mindnode.com/zYGz3TugXNU8qexToyw7BtsM4yG4tZxh2m7Bkfzm)
 
