@@ -10,13 +10,11 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 Aside from these well curated mind maps on learning any topic on Earth. I also [try to visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
-It contains [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) where if a book is free, a link will be provided. All the [courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/), [research papers](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#research-papers-), [interesting humans who ever lived](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#humans-), [inventions](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#inventions), [historical events](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#history-), [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#-173.2,-1836.7,-2), and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 
+It contains [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) where if a book is free, a link will be provided. All the [courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/), [research papers](https://github.com/nikitavoloboev/knowledge-map/tree/master/all-mindmaps#research-papers-), [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/humans/), [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/), [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/), and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 
 
 Eventually I want to make a visual mind map that all can explore.  
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
-
-I do however encourage you to explore the [study map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#84.2,-523.0,3)
 
 Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
 
