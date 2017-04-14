@@ -24,9 +24,9 @@ It contains :
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
 - [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
 - [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
-- [and more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
+- and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
-Eventually I want to make a visual mind map that all can explore.  
+Eventually I want to make a visual mind map and [search engine for all the these mind maps](https://github.com/nikitavoloboev/knowledge-map#future-).  
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
 
