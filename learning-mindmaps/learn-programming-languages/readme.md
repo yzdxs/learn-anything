@@ -1,4 +1,4 @@
-# [Learn Programming Languages 📚](https://my.mindnode.com/deC8Q7qpC5GxM41ysqHhMHzN832JMUAL1Fc351Td#330.3,-241.2,1)
+# [Learn Programming Languages 📚](https://my.mindnode.com/DtAgD378asgBtA1xnMamXpXeyTMyS9spwmFynzv1#275.5,-321.7,2)
 
 # [programming languages](http://www.wikiwand.com/en/Programming_language)
 
