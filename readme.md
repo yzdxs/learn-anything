@@ -1,6 +1,6 @@
 # [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0)
 
-![](http://i.imgur.com/zTLTzzF.jpg)
+![](http://i.imgur.com/vQirdhR.jpg)
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0). 
 
