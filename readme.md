@@ -77,11 +77,11 @@ You can also [make a search](http://i.imgur.com/vLk6PaZ.png) for what topic you 
 
 Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. Here are some mind maps that I wish would be improved further : 
 
-- [books](http://nikitavoloboev.xyz/knowledge-map/books/)
-- [courses](http://nikitavoloboev.xyz/knowledge-map/courses/)
-- [influential humans](http://nikitavoloboev.xyz/knowledge-map/humans/)
-- [inventions](http://nikitavoloboev.xyz/knowledge-map/history/)
-- [research papers](http://nikitavoloboev.xyz/knowledge-map/research-papers/) 
+- [books](http://nikitavoloboev.xyz/knowledge-map/research/books/)
+- [courses](http://nikitavoloboev.xyz/knowledge-map/research/courses/)
+- [influential humans](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
+- [inventions](http://nikitavoloboev.xyz/knowledge-map/research/history/)
+- [research papers](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/) 
 - and more 
 
 If you found something interesting related to any of the topics that you think is missing or perhaps you think there is an amazing book that all should read that is not already there or some person you admire or some topic of research that you think is not covered, please add it.
