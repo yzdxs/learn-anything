@@ -14,7 +14,9 @@ The contents of the mind map can also be [viewed in text if you prefer that](htt
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
-Aside from these well curated mind maps on learning any topic on Earth, I also try to [visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
+In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-73.3,-355.0,2) named 'more' which can be a gateway to all the research I do.
+
+I try to [visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
 It contains :
 
@@ -44,11 +46,7 @@ It contains :
 - [useful tools](http://nikitavoloboev.xyz/knowledge-map/research/tools/)
 - and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
-Eventually I want to make a visual mind map and [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map-search-engine).  
-
-Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
-
-Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp#806.4,-2183.5,2) is a mind map with various blogs that you can read. There are many like it in there, covering each subject.
+I also plan on creating a [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map-search-engine).  
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
