@@ -48,7 +48,7 @@ Eventually I want to make a visual mind map and [search engine for all these min
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
 
-Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
+Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp#806.4,-2183.5,2) is a mind map with various blogs that you can read. There are many like it in there, covering each subject.
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
@@ -83,7 +83,7 @@ As above, most mind maps have a dedicated issue for them. So if for example you 
 
 If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added in [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
 
-I also curate [blogs](https://my.mindnode.com/Lr33AxQg1yTrPzYJrAbFD7E6Wr7cM6YyoUfXaEzp), [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#1629.3,547.0,2), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#61.2,-463.6,2), [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5579.7,-1170.2,4), [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG#-938.8,-3010.0,3), [interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1370.4,-1428.7,2) and more.
+I also curate [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#1629.3,547.0,2), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#61.2,-463.6,2), [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5579.7,-1170.2,4), [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG#-938.8,-3010.0,3), [interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1370.4,-1428.7,2) and more.
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
 
