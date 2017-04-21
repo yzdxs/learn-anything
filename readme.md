@@ -14,7 +14,7 @@ The contents of the mind map can also be [viewed in text if you prefer that](htt
 
 # [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-73.3,-355.0,2)
 
-In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-73.3,-355.0,2) named 'more' which can be a gateway to all the research I do.
+In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-73.3,-355.0,2) named 'more' which acts as a gateway to all the research I do.
 
 I try to [visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
 
