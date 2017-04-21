@@ -58,7 +58,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ### Help with Curated Study Guides 📚
 
-1. Take some time to explore [the mind map](http://bit.ly/learning-mindmap) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps).
+1. Take some time to explore [the mind map](http://bit.ly/learning-mindmap) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
