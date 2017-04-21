@@ -1,4 +1,4 @@
-# [Learn Cryptography 📚](c)
+# [Learn Cryptography 📚](https://my.mindnode.com/cHUd9sSPJHjKf81sczwqxPgS7KyJJqzXz1kp3shm#267.1,237.2,3)
 
 
 # [cryptography](https://www.wikiwand.com/en/Cryptography)

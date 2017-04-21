@@ -21,8 +21,6 @@
 
 ## [dive into machine learning](https://github.com/hangtwenty/dive-into-machine-learning)
 
-## [machine learning for software engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
-
 ## [machine learning resources](http://www.ritchieng.com/machine-learning-resources/)
 
 ## [how to learn machine learning](https://elitedatascience.com/learn-machine-learning)
@@ -66,8 +64,14 @@
 ## [1. recurrent neural networks lecture](http://videolectures.net/deeplearning2016_bengio_neural_networks/)
 
 
+# [machine learning libraries 🗺️](https://my.mindnode.com/PVcz8iqUfa941KTpBqXgpiP7Asst1yGcqVa8Kmit)
+
+
 # reinforcement learning
 
 
 ## [1. deep reinforcement learning course](http://rll.berkeley.edu/deeprlcourse/)
+
+
+# [deep learning 🗺️](https://my.mindnode.com/wqhKt6rDSZrJR5pVV2TpCv4xnHUsYJf3vZ9SbX7D)
 

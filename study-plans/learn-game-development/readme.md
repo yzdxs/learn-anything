@@ -15,9 +15,8 @@
 
 # basics
 
-- never did gamedev before so not sure  
-	- if you think there is a better resources  
-		- please say
+- if you think this can be improved in any way  
+	- please say 💙
 
 
 - [1. build a game in go](https://engo.io/tutorials/01-hello-world)

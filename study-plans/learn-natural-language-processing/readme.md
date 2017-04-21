@@ -3,8 +3,16 @@
 # [natural language processing](http://www.wikiwand.com/en/Natural_language_processing)
 
 
+# help
+
+
+## [practical natural language processing done in ruby](https://github.com/arbox/nlp-with-ruby)
+
+
 # basics
 
 
-- [1. take natural language processing with deep learning course by stanford](http://web.stanford.edu/class/cs224n/)
+## [1. natural language processing with deep learning course by stanford](http://web.stanford.edu/class/cs224n/)
+
+- [course notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
 

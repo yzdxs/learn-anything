@@ -6,7 +6,7 @@
 # basics
 
 
-- [1. watch map of mathematics](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+- [1. map of mathematics video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
   - this will give you an overview of how vast the field is and will spark your interest
 
 - [2. khan academy math](https://www.khanacademy.org/math)
@@ -14,21 +14,7 @@
   - do the exercises, they are very important
 
 
-# logic
-
-
-- [1. read logic matters](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)
-
-
-# calculus
-
-
-- [1. single variable calculus course](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-
-- [2. multivariable calculus course](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
-
-
-# linear algebra
+# [linear algebra](http://www.wikiwand.com/en/Linear_algebra)
 
 
 - [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
@@ -42,15 +28,46 @@
   - videos and exercises to supplement immersive linear math
 
 
-# statistics
+# [statistics](http://www.wikiwand.com/en/Statistics)
 
 
 - [1. seeing theory](http://students.brown.edu/seeing-theory/)
   - visual introduction to probability and statistics
 
 
-# discrete
+# [calculus](http://www.wikiwand.com/en/Calculus)
 
 
-- [1. take mathematics for computer science course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+- [1. single variable calculus course](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
+
+- [2. multivariable calculus course](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+
+
+# [logic](http://www.wikiwand.com/en/Logic)
+
+
+- [1. logic matters](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)
+
+
+# [number theory](http://www.wikiwand.com/en/Number_theory)
+
+
+# [set theory](http://www.wikiwand.com/en/Set_theory)
+
+
+# [lambda calculus](http://www.wikiwand.com/en/Lambda_calculus)
+
+
+# [discrete](http://www.wikiwand.com/en/Discrete_mathematics)
+
+
+- [1. mathematics for computer science course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+
+
+# [combinatorics](http://www.wikiwand.com/en/Combinatorics)
+
+- mathematics of counting without actually counting
+
+
+# [category theory](http://www.wikiwand.com/en/Category_theory)
 

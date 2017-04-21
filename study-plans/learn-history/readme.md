@@ -3,8 +3,6 @@
 
 # [history](http://www.wikiwand.com/en/History)
 
-- it is best we learn from the mistakes done already so to not repeat them again
-
 
 # basics
 

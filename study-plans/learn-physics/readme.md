@@ -12,11 +12,19 @@
 - [2. khan academy physics](https://www.khanacademy.org/science/physics)
   - watch the videos and work through the exercises, they are very important
 
-
-# deeper
-
-
 - [3. read university physics text book](https://www.goodreads.com/book/show/125139.University_Physics_with_Modern_Physics)
   - 44 chapters of everything physics  
   - as it is a text book, it has a lot of exercises which are very helpful to actually consolidate your understanding
+
+
+# [quantum mechanics 🗺️](https://my.mindnode.com/qJ23VQZs8r5YToae7Ch6Tein6h7U5yhAiw8enxsH)
+
+
+# [electronics](http://www.wikiwand.com/en/Electronics)
+
+
+# [astrophysics](http://www.wikiwand.com/en/Astrophysics)
+
+
+# [signal processing](http://www.wikiwand.com/en/Signal_processing)
 
