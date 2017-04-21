@@ -120,11 +120,11 @@ I also want to [create visualisations in code](https://github.com/nikitavoloboev
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can exlpore.
 
-## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#212.1,-493.5,4)
+## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#330.6,-988.1,3)
+## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
 
 I really love programming, building and sharing the things I have built. 
 
