@@ -14,39 +14,37 @@ Aside from these well curated mind maps on learning any topic on Earth, I also t
 
 It contains :
 
-- [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/books/) 
+- [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/research/books/) 
 	- where if a book is free, a link will be provided
-- [interesting courses one can take](http://nikitavoloboev.xyz/knowledge-map/courses/)
-- [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research-papers/)
-- [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/humans/)
-- [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/history/)
-- [interesting images](http://nikitavoloboev.xyz/knowledge-map/images/)
-- [interesting websites](http://nikitavoloboev.xyz/knowledge-map/websites/)
-- [mathematics](http://nikitavoloboev.xyz/knowledge-map/math/)
-- [physics](http://nikitavoloboev.xyz/knowledge-map/physics/)
-- [artificial intelligence](http://nikitavoloboev.xyz/knowledge-map/ai/)
-- [biology](http://nikitavoloboev.xyz/knowledge-map/biology/)
-- [chemistry](http://nikitavoloboev.xyz/knowledge-map/chemistry/)
-- [computer science](http://nikitavoloboev.xyz/knowledge-map/computer-science/)
-- [algorithms](http://nikitavoloboev.xyz/knowledge-map/algorithms/)
-- [operating systems](http://nikitavoloboev.xyz/knowledge-map/operating-systems/)
-- [compilers](http://nikitavoloboev.xyz/knowledge-map/compilers/)
-- [programming](http://nikitavoloboev.xyz/knowledge-map/programming/)
-- [programming languages](http://nikitavoloboev.xyz/knowledge-map/programming-languages/)
-- [security](http://nikitavoloboev.xyz/knowledge-map/security/)
-- [interesting software](http://nikitavoloboev.xyz/knowledge-map/programs/)
-- [resources on the web platform](http://nikitavoloboev.xyz/knowledge-map/web/)
-- [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/js-libraries/)
-- [useful tools](http://nikitavoloboev.xyz/knowledge-map/tools/)
+- [interesting courses one can take](http://nikitavoloboev.xyz/knowledge-map/research/courses/)
+- [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/)
+- [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
+- [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/research/history/)
+- [interesting images](http://nikitavoloboev.xyz/knowledge-map/research/images/)
+- [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
+- [mathematics](http://nikitavoloboev.xyz/knowledge-map/research/math/)
+- [physics](http://nikitavoloboev.xyz/knowledge-map/research/physics/)
+- [artificial intelligence](http://nikitavoloboev.xyz/knowledge-map/research/ai/)
+- [biology](http://nikitavoloboev.xyz/knowledge-map/research/biology/)
+- [chemistry](http://nikitavoloboev.xyz/knowledge-map/research/chemistry/)
+- [computer science](http://nikitavoloboev.xyz/knowledge-map/research/computer-science/)
+- [algorithms](http://nikitavoloboev.xyz/knowledge-map/research/algorithms/)
+- [operating systems](http://nikitavoloboev.xyz/knowledge-map/research/operating-systems/)
+- [compilers](http://nikitavoloboev.xyz/knowledge-map/research/compilers/)
+- [programming](http://nikitavoloboev.xyz/research/knowledge-map/programming/)
+- [programming languages](http://nikitavoloboev.xyz/knowledge-map/research/programming-languages/)
+- [security](http://nikitavoloboev.xyz/knowledge-map/research/security/)
+- [interesting software](http://nikitavoloboev.xyz/knowledge-map/research/programs/)
+- [resources on the web platform](http://nikitavoloboev.xyz/knowledge-map/research/web/)
+- [interesting javascript libraries](http://nikitavoloboev.xyz/knowledge-map/research/js-libraries/)
+- [useful tools](http://nikitavoloboev.xyz/knowledge-map/research/tools/)
 - and [more](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) 
 
-Eventually I want to make a visual mind map and [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map#future-).  
+Eventually I want to make a visual mind map and [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map-search-engine).  
 
 Until then, [here is the entire list of all 2500 mind maps for your viewing](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). 📚
 
 Unlike the [guided learning mind maps](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#378.0,-582.0,1), these ones follow a certain structure as I use them myself for my own research and comprehension. I share them as [I believe all knowledge should be free for all](https://medium.com/@NikitaVoloboev/knowledge-bootstrapping-36c97e0dee19). For example, [here](https://my.mindnode.com/zB6jcZpgGYqpGBfys7LXzBaej8qgUBwAo7kJssze#645.0,-1695.8,0) is a mind map for machine learning from this list. There are many like it in there, covering each subject.
-
-To ease the process of trying to explore this big list of mind maps, I created [an interactive introduction](https://my.mindnode.com/Bd58ktc865sQoUvu6VyFYzYun87VmKseGhKNxp4q#-3839.8,-932.1,2) that you can take. 
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
