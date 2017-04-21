@@ -110,7 +110,7 @@ I want to reduce the amount of time it takes to find the information you need. B
 
 1. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
 
-3. You can also download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. It is currently the fastest way to get to the mind map you need but it requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred. However I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems, if you want to add your own solution, [you can](https://github.com/nikitavoloboev/alfred-knowledge-map#future-). 💙
+3. You can also download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. It is currently the fastest way to get to the mind map you need but it requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred. However I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems, if you want to add your own solution, [you can](https://github.com/nikitavoloboev/alfred-knowledge-map#help-improve-and-extend-it-). 💙
 
 # Future 🚀
 
