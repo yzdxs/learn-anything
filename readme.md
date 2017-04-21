@@ -1,4 +1,4 @@
-# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0)
+# [You can learn anything 📚](http://bit.ly/learning-mindmaps)
 
 ![](http://i.imgur.com/fDJWY0u.png)
 
@@ -58,7 +58,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ### Help with Curated Study Guides 📚
 
-1. Take some time to explore [the mind map](http://bit.ly/learning-mindmap) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
+1. Take some time to explore [the mind map](http://bit.ly/learning-mindmaps) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
@@ -106,7 +106,7 @@ Just add what you think is interesting and valuable and is appropriate to the to
 
 I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want are
 
-1. Bookmarking [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmap). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
+1. Bookmarking [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmaps). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
 
 1. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
 
