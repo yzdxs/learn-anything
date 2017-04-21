@@ -58,14 +58,14 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ### Help with Curated Study Guides 📚
 
-1. Take a look at the [study plan](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps). 
+1. Take some time to explore [the mind map](http://bit.ly/learning-mindmap) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps).
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
 - Or the order with how material should be tackled should be different?
 - Or you wish some other topic was covered that is not currently included?
 
-Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science mind map](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps/learn-computer-science#learn-computer-science-) should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/424). 
+Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science mind map](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#803.3,-239.9,2) should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/424). 
 
 I use GitHub issues in a unique way where there is an issue for all the topics one can possibly help improve on. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
 
@@ -73,7 +73,16 @@ You can also [make a search](http://i.imgur.com/vLk6PaZ.png) for what topic you 
 
 ### Help with visualising and sorting all of world's knowledge 🗺️
 
-1. Take a look at [this page](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/). Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. There are also [books](http://nikitavoloboev.xyz/knowledge-map/books/), [courses](http://nikitavoloboev.xyz/knowledge-map/courses/), [influential humans](http://nikitavoloboev.xyz/knowledge-map/humans/), [inventions](http://nikitavoloboev.xyz/knowledge-map/history/), [research papers](http://nikitavoloboev.xyz/knowledge-map/research-papers/) and more that you can help to expand. 
+1. Take a look at [this mind map](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w) or scroll though the mind maps in [here](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/).
+
+Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. Here are some mind maps that I wish would be improved further : 
+
+- [books](http://nikitavoloboev.xyz/knowledge-map/books/)
+- [courses](http://nikitavoloboev.xyz/knowledge-map/courses/)
+- [influential humans](http://nikitavoloboev.xyz/knowledge-map/humans/)
+- [inventions](http://nikitavoloboev.xyz/knowledge-map/history/)
+- [research papers](http://nikitavoloboev.xyz/knowledge-map/research-papers/) 
+- and more 
 
 If you found something interesting related to any of the topics that you think is missing or perhaps you think there is an amazing book that all should read that is not already there or some person you admire or some topic of research that you think is not covered, please add it.
 
@@ -81,22 +90,31 @@ As above, most mind maps have a dedicated issue for them. So if for example you 
 
 If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added in [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
 
-I also curate [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#1629.3,547.0,2), [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#61.2,-463.6,2), [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5579.7,-1170.2,4), [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG#-938.8,-3010.0,3), [interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1370.4,-1428.7,2) and more.
+I also curate 
+
+- [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#1629.3,547.0,2)
+- [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#61.2,-463.6,2)
+- [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5579.7,-1170.2,4)
+- [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG#-938.8,-3010.0,3)
+- [interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1370.4,-1428.7,2)
+- and more
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
 
 
 ## Fast searching 🔎
 
-I want to reduce the amount of time it takes to find the information you need, currently the two most optimal ways to open the mind map you are looking for are :
+I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want are
 
-1. Bookmarking [the web page with list of all the mind maps](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and just searching for what you want there.
+1. Bookmarking [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmap). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
 
-2. Or you can download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. Requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred but I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems.
+1. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
+
+3. You can also download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. It is currently the fastest way to get to the mind map you need but it requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred. However I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#contribute-) so it works on all operating systems, if you want to add your own solution, [you can](https://github.com/nikitavoloboev/alfred-knowledge-map#future-). 💙
 
 # Future 🚀
 
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for [these mind maps](http://nikitavoloboev.xyz/knowledge-map/all-smindmaps/) where users can search and be presented with an interactive mind map of links and resources instead of a static set of links.
+I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. 
 
 I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
 
