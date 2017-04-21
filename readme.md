@@ -4,9 +4,13 @@
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#424.5,-511.2,0). 
 
-When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. 
 
-The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps) or be downloaded as [an image](https://www.dropbox.com/s/zjsoedc5n2q84y7/learn%20anything.png?dl=1).
+There are many layers to this mind map. 🗺 at the end of nodes signify that this node is another mind map.
+
+If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+
+The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/learning-mindmaps).
 
 # [Part of a bigger picture 🗺️](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/)
 
