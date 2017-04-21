@@ -6,7 +6,7 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. 
 
-There are many layers to this mind map. 🗺 at the end of nodes signify that this node is another mind map.
+There are many layers to this mind map. Underlied nodes are hyperlinks and 🗺 at the end of nodes signify that this node is another mind map.
 
 If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
