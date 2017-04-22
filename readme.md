@@ -10,7 +10,8 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 
 - 🗺 = it is another mind map
 - 📝 = it is a course
-- 📚 = it is a book
+- 📖 = it is a free book
+- 📕 = it is not a free book (and you either have to search online or buy it)
 
 
 If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
