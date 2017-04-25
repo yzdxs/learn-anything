@@ -46,11 +46,11 @@ If you want to help make this dream of visualising all of world's knowledge in t
 
 As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
 
-## Contributing 🎉
+# Contributing 👬
 
 There are many ways in which you can contribute and make these mind maps even more amazing.
 
-### Help with Curated Study Guides 📚
+## Help with Curated Study Guides 📚
 
 1. Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
@@ -59,46 +59,47 @@ There are many ways in which you can contribute and make these mind maps even mo
 - Or the order with how material should be tackled should be different?
 - Or you wish some other topic was covered that is not currently included?
 
-There are 43 nodes in the [main mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0), each representing a topic of research. 
+There are 44 nodes in the [main mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0), each representing a topic of research. 
 
 Each topic has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22main+study+plan%22) which you can help improve. 
 
 If for example, you think that [computer science mind map](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#680.4,-273.5,2) should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/430). 
 
-Please take a look and see how and where you can help. 💙
+Take a look and see how and where you can help. 💙
 
-You can also [make a search](http://i.imgur.com/vLk6PaZ.png) for what topic you want to contribute to.
+## Help with Curated Study Guides on any other topic 📚
 
-### Help with visualising and sorting all of world's knowledge 🗺️
+Inside these 43 main mind maps, there are multiple more 
+mind maps for each topic that can be improved. 
 
-1. Take a look at [this mind map](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w) or scroll though the mind maps in [here](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/).
+Similar to above, there is an issue for every topic that can be improved. It will have a ['study plan' label](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22study+plan%22) attached to it as well as a label of where in the mind map this topic lies.
 
-Each mind map on the list should provide the best resources, articles, videos, talks, images and gifs that should help learn the topic well. Here are some mind maps that I wish would be improved further : 
+For example, there is a mind map for [front end development](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2), that is located in [web development](https://my.mindnode.com/85uh2iN4GPhBJpuyyuWks5a6niyypQA5TPBCGnAN#457.7,-285.4,2). If you want to propose a change to it and think that something should be added or removed, you can do so [here](https://github.com/nikitavoloboev/knowledge-map/issues/431). Since this mind map is in ['web development' branch](http://i.imgur.com/ZdS8xwZ.png), a label of 'web development' is attached to it.
 
-- [books](http://nikitavoloboev.xyz/knowledge-map/research/books/)
-- [courses](http://nikitavoloboev.xyz/knowledge-map/research/courses/)
+[Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of all labels available. You can also make a search for the topic you are looking for [here](http://i.imgur.com/yC4N14B.png). If it is not found, just [open a new issue](https://github.com/nikitavoloboev/knowledge-map/issues/new) and say what you wish was added or changed and where.
+
+
+## Help with visualising and sorting all of world's knowledge 🗺️
+
+1. Take a look at [this mind map](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-27.9,-478.0,2). 
+
+There are a few interesting mind maps in there that can be improved further. Most notably, [books](http://nikitavoloboev.xyz/knowledge-map/research/books/), [courses](http://nikitavoloboev.xyz/knowledge-map/research/courses/) and [research papers](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/).
+
+Take a look at either the web pages of all the books, courses or research papers or the mind maps of them. I want to visualise and organise all the interesting books one can read, courses one can take and influential research papers one can read. 
+
+There is a lot included already but there's always something that will be missing. 
+
+If you have a favourite book or a course or research paper that you don't see included in these lists, please say what it is. 💙
+
+Aside from books, courses and research papers, you can help improve many other mind maps. Here are some of them : 
+
 - [influential humans](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
 - [inventions](http://nikitavoloboev.xyz/knowledge-map/research/history/)
-- [research papers](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/) 
-- and more 
-
-If you found something interesting related to any of the topics that you think is missing or perhaps you think there is an amazing book that all should read that is not already there or some person you admire or some topic of research that you think is not covered, please add it.
-
-As above, most mind maps have a dedicated issue for them. So if for example you wanted to add a book, you would [add it here](https://github.com/nikitavoloboev/knowledge-map/issues/24). If you want to add a topic that is not covered in any of the mind maps, you [can do it here](https://github.com/nikitavoloboev/knowledge-map/issues/359). If you want to add a course, you can [do it here](https://github.com/nikitavoloboev/knowledge-map/issues/10).
-
-If you want to add any resources like learning material or articles or images, just search for what mind map you think they should be added in [here](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Aresources).
-
-I also curate 
-
-- [quora communities](https://my.mindnode.com/podGZSe7quPx5sFTPiEYugDpLBKVpVJsP9gPucdu#1629.3,547.0,2)
-- [reddit subreddits](https://my.mindnode.com/7GcutaqJUbnUuyjRsopqkPhyaaNa1BMmhao6pbf8#61.2,-463.6,2)
-- [quotes](https://my.mindnode.com/xenLnUXMQeADRoGCU9uCj5HgesBkbxvMzrLfU2pN#-5579.7,-1170.2,4)
-- [advice](https://my.mindnode.com/mUBqDGqqUnz2up9oz3Q55NzAQfcc3tDER3vyH7XG#-938.8,-3010.0,3)
-- [interesting websites](https://my.mindnode.com/y4oVGAm2vzypkm3sxqzxVySu5VzN8bRhzRzPQeLs#1370.4,-1428.7,2)
-- and more
+- [interesting websites](https://my.mindnode.com/BxoJyqgsfvB2J9rrpm1zwzjuKxPGUrYn6YDpSGbH#160.9,199.1,2)
+- [images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#108.8,-1795.2,-2)
+- and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-23.7,-489.6,2) 
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
-
 
 ## Fast searching 🔎
 
