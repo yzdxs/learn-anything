@@ -28,8 +28,6 @@ The contents of the mind map can also be [viewed in text if you prefer that](htt
 
 In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) named 'more' which acts as a gateway to all the research I do.
 
-I try to [visualise all of world's knowledge](http://nikitavoloboev.xyz/knowledge-map/all-mindmaps/) and provide links to resources and articles relevant to each topic. 
-
 It contains :
 
 - [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/research/books/) 
@@ -38,7 +36,7 @@ It contains :
 - [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/)
 - [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
 - [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/research/history/)
-- [interesting images](http://nikitavoloboev.xyz/knowledge-map/research/images/)
+- [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#108.8,-1795.2,-2)
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
 
@@ -61,9 +59,13 @@ There are many ways in which you can contribute and make these mind maps even mo
 - Or the order with how material should be tackled should be different?
 - Or you wish some other topic was covered that is not currently included?
 
-Each topic from these mind maps has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Astudy-plan). So if for example, you think that [computer science mind map](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#803.3,-239.9,2) should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/424). 
+There are 43 nodes in the [main mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0), each representing a topic of research. 
 
-I use GitHub issues in a unique way where there is an issue for all the topics one can possibly help improve on. [Here](https://github.com/nikitavoloboev/knowledge-map/labels) is a list of labels that are available. I mark issues that are in real need of contribution [as 'valuable'](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3Avaluable). Please take a look and see how and where you can help. 💙
+Each topic has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22main+study+plan%22) which you can help improve. 
+
+If for example, you think that [computer science mind map](https://my.mindnode.com/QKWtVCHyuwbZnuxdtzZhXxs4wp8St7GeiLbKMzQU#680.4,-273.5,2) should use a different resource for learning the subject, you can [say it here](https://github.com/nikitavoloboev/knowledge-map/issues/430). 
+
+Please take a look and see how and where you can help. 💙
 
 You can also [make a search](http://i.imgur.com/vLk6PaZ.png) for what topic you want to contribute to.
 
