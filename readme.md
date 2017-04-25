@@ -101,7 +101,7 @@ Aside from books, courses and research papers, you can help improve many other m
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
 
-## Fast searching 🔎
+# Fast searching 🔎
 
 I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want are
 
