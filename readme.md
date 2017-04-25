@@ -1,8 +1,8 @@
-# [You can learn anything 📚](http://bit.ly/learning-mind)
+# [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0)
 
 ![](http://i.imgur.com/5zjUnyH.png)
 
-The image above is an [interactive mind map that can be viewed and explored](http://bit.ly/learning-mind). 
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. 
 
@@ -52,7 +52,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ### Help with Curated Study Guides 📚
 
-1. Take some time to explore [the mind map](http://bit.ly/learning-mind) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
+1. Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
