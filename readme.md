@@ -14,6 +14,7 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 📕 = it is not a free book (and you either have to search online or buy it)
 - 👀 = it is a video or a talk
 - 🖋️ = it is an article
+- 🌐 = it is a wiki article
 
 
 If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
