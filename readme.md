@@ -12,6 +12,7 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 📝 = it is a course
 - 📖 = it is a free book
 - 📕 = it is not a free book (and you either have to search online or buy it)
+- 📄 = it is a research paper
 - 👀 = it is a video or a talk
 - 🖋️ = it is an article
 - 🌐 = it is a wiki article
