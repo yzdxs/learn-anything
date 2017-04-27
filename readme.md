@@ -6,6 +6,8 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
+If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+
 ## Documentation 📘
  
 There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean : 
@@ -19,9 +21,6 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 🖋️ = it is an article
 - 🌐 = it is a wiki article
 - 🐙 = it is a github page
-
-
-If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
 The arrows often represent relations. So if 'physics' has an arrow pointing to 'mathematics', it means that physics is related to it. Other times, arrows show direction and are used as a guide as can be seen [here](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2).
 
