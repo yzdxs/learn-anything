@@ -4,10 +4,10 @@
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
 
+When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
+
 ## Documentation 📘
-
-When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth. 
-
+ 
 There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean : 
 
 - 🗺 = it is another mind map
