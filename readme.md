@@ -69,7 +69,7 @@ Take a look and see how and where you can help. 💙
 
 ## Help with Curated Study Guides on any other topic 📚
 
-Inside these 43 main mind maps, there are multiple more 
+Inside these 44 main mind maps, there are multiple more 
 mind maps for each topic that can be improved. 
 
 Similar to above, there is an issue for every topic that can be improved. It will have a ['study plan' label](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22study+plan%22) attached to it as well as a label of where in the mind map this topic lies.
