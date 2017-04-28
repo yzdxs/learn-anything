@@ -28,9 +28,9 @@ Certain nodes may have a numeric prefix like '17: ' which stands for the year in
 
 The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date.
 
-# [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#34.7,-627.0,2)
+# [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
 
-In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) named 'more' which acts as a gateway to all the research I do.
+In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to all the research I do.
 
 It contains :
 
