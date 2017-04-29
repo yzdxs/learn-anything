@@ -24,6 +24,8 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 
 The arrows often represent relations. So if 'physics' has an arrow pointing to 'mathematics', it means that physics is related to it. Other times, arrows show direction and are used as a guide as can be seen [here](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2).
 
+Certain nodes have a number attached to them which represent the order in which the material should ideally be covered. If nodes have the same number, then choose any as all may be good for learning at this level.
+
 Certain nodes may have a numeric prefix like '17: ' which stands for the year in which the article/research paper was written or published in. '17: ' means that it was written in 2017. I abbreviate it for visual clarity.
 
 The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date.
@@ -140,6 +142,3 @@ If you have some specific questions about this project or about myself, my inter
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project
-
-
-
