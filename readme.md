@@ -58,7 +58,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 
 ## Help with Curated Study Guides 📚
 
-1. Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
+Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
 - Do you think some topic from it can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
@@ -87,7 +87,7 @@ For example, there is a mind map for [front end development](https://my.mindnode
 
 ## Help with visualising and sorting all of world's knowledge 🗺️
 
-1. Take a look at [this mind map](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-27.9,-478.0,2). 
+Take a look at [this mind map](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-27.9,-478.0,2). 
 
 There are a few interesting mind maps in there that can be improved further. Most notably, [books](http://nikitavoloboev.xyz/knowledge-map/research/books/), [courses](http://nikitavoloboev.xyz/knowledge-map/research/courses/) and [research papers](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/).
 
