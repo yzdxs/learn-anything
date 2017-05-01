@@ -48,7 +48,7 @@ It contains :
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
 
-I also plan on creating a [search engine for all these mind maps](https://github.com/nikitavoloboev/knowledge-map-search-engine).  
+All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). For easier discovery I plan to create a [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine).  
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
