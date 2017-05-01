@@ -21,9 +21,11 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 🖋️ = it is an article
 - 🌐 = it is a wiki article
 - 🐙 = it is a github page
-- 🎧 = it is a podcast
+- 👾 = it is interactive (can be a tutorial or some presentation)
+- 🎙️ = it is a podcast
 - 🎥 = it is a youtube channel
-
+- 🤖 = it is a reddit thread or comment
+ 
 The arrows often represent relations. So if 'physics' has an arrow pointing to 'mathematics', it means that physics is related to it. Other times, arrows show direction and are used as a guide as can be seen [here](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2).
 
 Certain nodes have a number attached to them which represent the order in which the material should ideally be covered. If nodes have the same number, then choose any as all may be good for learning at this level.
