@@ -3,27 +3,11 @@
 - software tooling
 
 
-- [text editors](http://www.wikiwand.com/en/Text_editor)
+- [IDE 🗺️](https://my.mindnode.com/dFbovsN4ruFVyzE1BxapxpjZsAz5x7no9FVJD9JF)
 
 
-- [IDE](http://www.wikiwand.com/en/Integrated_development_environment)
+- [text editors 🗺️](https://my.mindnode.com/ha4YuYgp6HcpogCup28Nx4v8YbJdepvRB7ys8wv8)
 
 
-- [IntelliJ](https://www.jetbrains.com/idea/)
-
-
-- [sublime text](https://www.sublimetext.com/)
-
-
-- [vs code](https://github.com/Microsoft/vscode)
-
-
-- [vim 🗺️](https://my.mindnode.com/CxJxqiNzZTkFiUUsa3ML2Hm3Zo4Y94nLeH745BUR)
-
-
-- emacs
-
-
-- [neovim](https://neovim.io/)
-
+- [productivity 🗺️](https://my.mindnode.com/XDwNnPAjYJuoRikfV2g5qQYJBcnpFwv3XC6uLd5P)
 

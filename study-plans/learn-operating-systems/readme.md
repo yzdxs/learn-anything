@@ -1,12 +1,12 @@
 # [Learn Operating Systems 📚](https://my.mindnode.com/KAxvkPhxHhf6v2xxJ58HXhduppxpTz8xznmcuvBZ#407.7,-131.3,2)
 
-# [operating systems](http://www.wikiwand.com/en/Operating_system)
+# [operating systems 🌐](http://www.wikiwand.com/en/Operating_system)
 
 
 # help
 
 
-- [bootstrap yourself to write an OS from scratch](https://github.com/tuhdo/os01)
+- [bootstrap yourself to write an OS from scratch 🐙](https://github.com/tuhdo/os01)
 
 - [xv6 - a simple, unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2016/xv6/book-rev9.pdf)
 
@@ -14,6 +14,8 @@
 
 - [barrelfish operating system](http://www.barrelfish.org/)
   - is a research operating system being built from scratch
+
+- [os dev wiki](http://wiki.osdev.org/Main_Page)
 
 
 # basics
@@ -28,9 +30,26 @@
 
 - [1. operating systems: from 0 to 1](https://tuhdo.github.io/os01/)
 
+- [2. the little book about OS development](https://littleosbook.github.io/)
 
-# unix
+
+# [unix 🌐](http://www.wikiwand.com/en/Unix)
 
 
-- [1. introduction to unix](http://www.oliverelliott.org/article/computing/tut_unix/)
+- [1. introduction to unix 📖](http://www.oliverelliott.org/article/computing/tut_unix/)
+
+
+# [windows 🗺️](https://my.mindnode.com/yxcnFoyVpJecxFRoqfQ8orzsu3zesCAcS9jjMPZM)
+
+
+# [mobile operating systems 🌐](http://www.wikiwand.com/en/Mobile_operating_system)
+
+
+# [macOS 🗺️](https://my.mindnode.com/Q8Rh6YMpzZrg6z2axSfSeU6vUxgNrbDaosMzuAAn#-75.3,-12.4,2)
+
+
+# [android 🗺️](https://my.mindnode.com/9GNqw9qRvvg1A8Jeo9EW7fm8bcyWWtjKD6i6pa6w)
+
+
+# [iOS 🗺️](https://my.mindnode.com/m32Zo1SzPiqfWqJvpUwBMuTMCNVXejfyWfZyeSFz)
 

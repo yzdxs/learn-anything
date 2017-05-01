@@ -1,12 +1,16 @@
 # [Learn Law 📚](https://my.mindnode.com/xGXnpQKEqRv7eHeqTwgz8CsdknxhnWZj68baiyCd)
 
-- [law](http://www.wikiwand.com/en/Law)
+# [law 🌐](http://www.wikiwand.com/en/Law)
 
 
-- basics
-  - don’t know  
-  	- if you do, please say 💙
+# basics
+
+- if you think this can be improved in any way  
+	- please say 💙
 
 
-- [politics](Politics)
+- [1. the curmudgeon's guide to practicing law 📕](https://www.goodreads.com/book/show/343604.The_Curmudgeon_s_Guide_to_Practicing_Law)
+
+
+# [politics 🌐](http://www.wikiwand.com/en/Politics)
 

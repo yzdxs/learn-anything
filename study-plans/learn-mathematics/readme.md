@@ -1,73 +1,116 @@
 # [Learn Mathematics 📚](https://my.mindnode.com/JD2DJUeZSAwQzyb5KceAZ6bfuYaLGqsDkpfZg1R2#275.3,166.4,0)
 
-# [mathematics](https://www.wikiwand.com/en/Mathematics)
+# [mathematics 🌐](https://www.wikiwand.com/en/Mathematics)
 
 
 # basics
 
+- I do not study mathematics in university and only have interest in it thus this structuring may be wrong  
+- if you think something should be changed, please say it 💙
 
-- [1. map of mathematics video](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
+
+- [1. map of mathematics 👀](https://www.youtube.com/watch?v=OmJ-4B-mS-Y)
   - this will give you an overview of how vast the field is and will spark your interest
+
+- [2. how to read mathematics 🖋️](http://web.stonehill.edu/compsci/History_Math/math-read.htm)
 
 - [2. khan academy math](https://www.khanacademy.org/math)
   - cover everything, fast forward videos as that may save time, just make sure to not lose on comprehension and rewatch or google phrases and parts that you don’t understand  
   - do the exercises, they are very important
 
 
-# [linear algebra](http://www.wikiwand.com/en/Linear_algebra)
+# help
 
 
-- [1. essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-  - get an intuitive understanding of what linear algebra actually is before working with it  
-  - amazing set of videos, rewatch parts that you find confusing
+- [wolfram alpha](https://www.wolframalpha.com/)
 
-- [2. immersive linear math](http://immersivemath.com/ila/index.html)
-  - amazing visual representation and interactive examples
+- [napkin project](http://web.evanchen.cc/napkin.html)
 
-- [3. khan academy linear algebra](https://www.khanacademy.org/math/linear-algebra)
-  - videos and exercises to supplement immersive linear math
+- [undergraduate mathematics bibliography 🐙](https://github.com/ystael/chicago-ug-math-bib)
+  annotated bibliography of books that may be useful to undergraduates in pure mathematics
 
-
-# [statistics](http://www.wikiwand.com/en/Statistics)
+- [how to become a pure mathematician](http://hbpms.blogspot.nl/)
 
 
-- [1. seeing theory](http://students.brown.edu/seeing-theory/)
-  - visual introduction to probability and statistics
+# [algebra 🗺️](https://my.mindnode.com/AVUfxKqZjL329qksB8jFMpx6zDA2tpQDKGC9v1RW)
 
 
-# [calculus](http://www.wikiwand.com/en/Calculus)
+# [analysis 🗺️](https://my.mindnode.com/mpCNfLpJ5cAtJbUG9twTjqQoaSozpJHzXSyDMr3U)
 
 
-- [1. single variable calculus course](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-
-- [2. multivariable calculus course](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/video-lectures/)
+# [number theory 🗺️](https://my.mindnode.com/XtFzGZzt2WmZXRs6R2yecX5yqPXn2rGvdTXhbtJ9)
 
 
-# [logic](http://www.wikiwand.com/en/Logic)
+# [statistics 🗺️](https://my.mindnode.com/7cSLjj5rauAnjWT1zHqEmqGkixvoVWaMz8C7Q2aW)
 
 
-- [1. logic matters](http://www.logicmatters.net/resources/pdfs/TeachYourselfLogic2017.pdf)
+# [ergodic theory 🗺️](https://my.mindnode.com/YpcjTrk8y4e46T7kqFBnTmsEexqtCasGsrbHYTFL)
 
 
-# [number theory](http://www.wikiwand.com/en/Number_theory)
+# [geometry 🗺️](https://my.mindnode.com/sCYVzti3VNqepg8uKQxpGQoHnDFy3pyuBiabecPn)
 
 
-# [set theory](http://www.wikiwand.com/en/Set_theory)
+# [logic 🗺️](https://my.mindnode.com/1GGWUw7yg9oqPVsqx83FwnMa41ecAcYXYJp5GRRR)
 
 
-# [lambda calculus](http://www.wikiwand.com/en/Lambda_calculus)
+# [discrete 🗺️](https://my.mindnode.com/ha8hqZuHbb5Py7LzxWoCatscK9AZsR93vJbyfqiq)
 
 
-# [discrete](http://www.wikiwand.com/en/Discrete_mathematics)
+# [type theory 🗺️](https://my.mindnode.com/eytyqpDLBmrC4xVnHCDqRVBZi39xhXBWnBRSTVoM)
 
 
-- [1. mathematics for computer science course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
+# [group theory 🗺️](https://my.mindnode.com/CBJmkdWELRW4PYpUDj5ypLeydiAn1io41CrpHpF2)
 
 
-# [combinatorics](http://www.wikiwand.com/en/Combinatorics)
+# [category theory 🗺️](https://my.mindnode.com/cgWrEEoW3HSA2iysGp2swqphQXSpqVvM5TaismpM)
+
+
+# [lie theory 🗺️](https://my.mindnode.com/Dcgs2zm1aWhRN7zoaY3J4DzK2dUEAozfg8k2Ywvz)
+
+
+# [graph theory 🗺️](https://my.mindnode.com/dXTCUUkXaSp99j3nbD2Gzxn5NMBn8dyuU4atT51n)
+
+
+# [calculus 🗺️](https://my.mindnode.com/rzNXGzaSkyjn634xxnSb2jwzC7wddoxxxrB91PwA)
+
+
+# [field theory 🗺️](https://my.mindnode.com/d36k8bnpN1XnMMtxa4r9nZmStTVuNussWAQdYxyL)
+
+
+# [linear algebra 🗺️](https://my.mindnode.com/9GQnwWMBYXMe1XjUD8G21qpxiyz5B4MraPtL8xyy)
+
+
+# [combinatorics 🗺️](https://my.mindnode.com/MxmPsgBTgB8vwS7wcHpZgvTx5fWrdozgZngVpbrp)
 
 - mathematics of counting without actually counting
 
 
-# [category theory](http://www.wikiwand.com/en/Category_theory)
+# [set theory 🗺️](https://my.mindnode.com/nczskizQHzyMnnpAxxg5D2hWuMshy2AF13pkGNdk)
+
+
+# [topology 🗺️](https://my.mindnode.com/9Vyqzw7KposgvsspFnRr96nFCyNcKKUVG4hpuNYw)
+
+
+# [algebraic geometry 🗺️](https://my.mindnode.com/pKHptKcwotiYoy7NSpXwfH2DKsPxyEdPkzUzmSZs)
+
+
+# [computability theory 🗺️](https://my.mindnode.com/SnqXfwJjzbc3Vs5F1tUayBG5RhDxxwTadc3Y6At5)
+
+
+# [model theory 🗺️](https://my.mindnode.com/M66CXTQkXDysSKDp3a3Mq3Dbwzy5x398Ayvzc1Ey)
+
+
+# [knot theory 🗺️](https://my.mindnode.com/Gq7pA3rtpYhZP2K1MhMFwmy3YaEpvdG13M5wjRBi)
+
+
+# [chaos theory 🗺️](https://my.mindnode.com/Ay3xy8VuNPMZyDMqzDwVQ9ijtJQBjpm82QWzinA2)
+
+
+# [algebraic topology 🗺️](https://my.mindnode.com/GzVJXxPM2WCAWFZMqPbasPGQad7po4iy54UG3yy9)
+
+
+# [lambda calculus 🗺️](https://my.mindnode.com/P1fXveGBaQQQF9u1ZjGzqJzT9vnUppxPgyrnYFzM)
+
+
+# [differential geometry 🗺️](https://my.mindnode.com/nbnKNdsTKGpypxdrqWce31TpddAqZp3y1ghzkBoB)
 

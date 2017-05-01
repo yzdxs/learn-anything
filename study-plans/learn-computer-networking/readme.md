@@ -1,14 +1,15 @@
 # [Learn Computer Networking 📚](https://my.mindnode.com/NMjhSs88CAGYpxwsd4CP8mkzMRj5o42CMtDVJhtN)
 
-# [protocols](http://www.wikiwand.com/en/Communications_protocol)
+# [computer networking 🌐](http://www.wikiwand.com/en/Computer_network)
 
 
-# [tcp/ip](http://www.wikiwand.com/en/Internet_protocol_suite)
+# basics
 
 
-- [1. video on packets, routing and reliability](https://www.youtube.com/watch?v=AYdF7b3nMto)
-  - what keeps the Internet running and how information is broken down into packets
+- [1. beej's guide to network programming 📖](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
 
-- [2. how the internet works article](https://thesquareplanet.com/blog/how-the-internet-works/)
-  - goes over what internet is in friendly terms
+- [1. an introduction to computer networks 📖](http://intronetworks.cs.luc.edu/current/html/)
+
+
+# [protocols 🗺️](https://my.mindnode.com/6fjPX63yK7dpB6Vs2uxjzqvZ8xBw2ymoDuq48wPC)
 

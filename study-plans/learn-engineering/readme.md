@@ -1,15 +1,17 @@
 # [Learn Engineering 📚](https://my.mindnode.com/6SJjDrFxzofoZjxfpgH5qVryLSYjppJsg28NapzF)
 
-- [engineering](http://www.wikiwand.com/en/Engineering)
+- [engineering 🌐](http://www.wikiwand.com/en/Engineering)
+  - fundamental knowledge for all engineering disciplines is mechanics, statics, and thermodynamics 
 
 
-- [mechanical engineering](http://www.wikiwand.com/en/Mechanical_engineering)
+- [electrical engineering 🗺️](https://my.mindnode.com/QgyDiwvEke8bbXKGFQoh8zC4JUkpEW7THSpjPuDW)
 
 
-- [civil engineering](http://www.wikiwand.com/en/Civil_engineering)
+- [civil engineering 🌐](http://www.wikiwand.com/en/Civil_engineering)
 
 
-- [electrical engineering](http://www.wikiwand.com/en/Electrical_engineering)
+- [mechanical engineering 🌐](http://www.wikiwand.com/en/Mechanical_engineering)
 
 
+- [aerospace engineering 🌐](http://www.wikiwand.com/en/Aerospace_engineering)
 

@@ -1,6 +1,6 @@
 # [Learn Philosophy 📚](https://my.mindnode.com/DaLRfu3ipMHEkhxuzqKTgbZPLmVGTmN7khBS3xqZ)
 
-# [philosophy](http://www.wikiwand.com/en/Philosophy)
+# [philosophy 🌐](http://www.wikiwand.com/en/Philosophy)
 
 
 # help
@@ -18,9 +18,9 @@
 # basics
 
 
-- [1. read Godel, Escher, Bach book](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
+- [1. Godel, Escher, Bach 📕](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach)
   - whilst not directly related to philosophy it is a great book
 
 
-# [qualia](http://www.wikiwand.com/en/Qualia)
+# [qualia 🌐](http://www.wikiwand.com/en/Qualia)
 

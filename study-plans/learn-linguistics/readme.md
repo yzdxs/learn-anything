@@ -1,12 +1,12 @@
 # [Learn Linguistics 📚](https://my.mindnode.com/RzvJjKnkfVYcSZxfU8vozrx94yqAemYs6s5SRnoz)
 
-# [linguistics](http://www.wikiwand.com/en/Linguistics)
+# [linguistics 🌐](http://www.wikiwand.com/en/Linguistics)
 
 
 # help
 
 
-- [awesome linguistics](https://github.com/theimpossibleastronaut/awesome-linguistics)
+- [awesome linguistics 🐙](https://github.com/theimpossibleastronaut/awesome-linguistics)
 
 
 # basics
@@ -15,5 +15,8 @@
 	- if you do, please say
 
 
-# languages
+- [1. the atoms of language: the mind's hidden rules of grammar 📕](https://www.goodreads.com/book/show/926311.The_Atoms_Of_Language)
+
+
+# [languages 🗺️](https://my.mindnode.com/stsEoNGkUKFSyU9tsZ79xwDwQqQWSufCXafvSdPx)
 
