@@ -1,9 +1,3 @@
-# [**courses**](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ#-457.3,-125.5,2)
-
-- courses I am doing or plan on doing
-- + resources to find more courses
-
-
 ## ai
 
 - [10: mit artificial intelligence](https://my.mindnode.com/uuNxq1nk1dSYnc5x589oKn1mxUEM7svGeA9DUXcf)

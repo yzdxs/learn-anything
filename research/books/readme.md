@@ -1,10 +1,4 @@
-# [**books**](https://my.mindnode.com/mJdJKqq8UzuWHezxwCY9kGZhe2YqUr9gRkMPaJnC#994.4,-1550.0,0)
-
-- all the books I am currently reading, planning to read or have read already
-- resources to find more books
-
-
-## programming 
+## programming
 
 ### general
 
@@ -47,7 +41,7 @@
 - 12: programming in the large with design patterns
 
 - [12: programming languages: application and interpretation](https://my.mindnode.com/npRPuKz5q5cocsGCzjJTU7MMpW4D7msXBEHBQZ2p)
-  - free: 
+  - free:
 
 - [15: crafting interpreters ✨](https://my.mindnode.com/7D2tPfCDJYVwLSz3ifTNhqddeeT67dqT2Z4pZybH)
   - free:
@@ -157,22 +151,22 @@
 - you don’t know js
 
 	- [up and going ✨✔](https://my.mindnode.com/MR66Vxa9nNygTHGGyTV5ePVzDHdcqNRqH6bsSPM7)
-	  - free: 
+	  - free:
 
 	- [scope and closures](https://my.mindnode.com/yBwWLYxz75kePzR8RoqsVXK9EfYhNEHTq1wmRHao)
-	  - free: 
+	  - free:
 
 	- [this and object prototypes](https://my.mindnode.com/RbzgGuiyyLgi5ABvcxV5yB3Yy971RKiAbNw3px9z)
-	  - free: 
+	  - free:
 
 	- [types and grammar](https://my.mindnode.com/EzDQzVRYpcfay5VVUfBnPc33zrEksn4A4DVy8s7t)
-	  - free: 
+	  - free:
 
 	- [async and performance](https://my.mindnode.com/jDJkViDQ6vSuAbkeko1Pi4Ki8gLTcPhzwD14mujN)
-	  - free: 
+	  - free:
 
 	- [es6 and beyond](https://my.mindnode.com/s6yCswRucQpCJsDajBzLauhzgk68Bn4WyndTYMpr)
-	  - free: 
+	  - free:
 
 - [11: eloquent javascript](https://my.mindnode.com/McHv8gudF49tQzFCCrqEZVUxZfLnfMJ1rzeqM9DY)
 
@@ -385,7 +379,7 @@
 
 ### [05: TCP/IP guide](https://my.mindnode.com/V4HyUcTzLLk5ApYn3GmqBmpicQNW9epcxxu6vdqZ)
 
-### [13: high performance](https://my.mindnode.com/iVYwiskARULBpc2BWAy5Jd9qvK8w1vutLp6NU87s)  
+### [13: high performance](https://my.mindnode.com/iVYwiskARULBpc2BWAy5Jd9qvK8w1vutLp6NU87s)
   [browser networking](https://my.mindnode.com/iVYwiskARULBpc2BWAy5Jd9qvK8w1vutLp6NU87s)
 
 - free:
@@ -598,7 +592,7 @@ free:
 
 ### [12: think bayes: bayesian statistics made simple](https://my.mindnode.com/8KgZHdGy4ZRXU9puKwpc6Wx1PjRofEyxJxozpWyG)
 
-- free: 
+- free:
 
 ### [13: an introduction to statistical learning: with applications in r](https://my.mindnode.com/Z6gzpsCMzpfhQxkFt1iEtxpyMWEV7r5fLi6x1nYS)
 
@@ -890,7 +884,7 @@ free:
 
 ## thriller
 
-### 1939: and then there were none 
+### 1939: and then there were none
 
 ## non fiction
 
@@ -990,8 +984,8 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 1992: modern operating systems
 
-### [1992: an efficient implementation](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)  
-  [of fundamental](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)  
+### [1992: an efficient implementation](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)
+  [of fundamental](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)
   [operating system services](https://my.mindnode.com/s5d2WNqi72nFgepczagFyZGMBHmmt5PWkAUhHi6m)
 
 - free:
@@ -1006,13 +1000,13 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### [01: molecular basis of neuropharmacology: a foundation for clinical neuroscience](https://my.mindnode.com/ryVUUpnoDx9mYcpXqJVkzdMH9MeyESsy5fWuSnN1)
 
-### 02: synaptic self: how our brains become who we are 
+### 02: synaptic self: how our brains become who we are
 
 ### 11: thinking, fast and slow
 
 ## chemistry
 
-### 1982: modern quantum chemistry: introduction to advanced electronic structure theory 
+### 1982: modern quantum chemistry: introduction to advanced electronic structure theory
 
 ### 1997: tryptamines i have known and loved: the chemistry continues
 
@@ -1086,7 +1080,7 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### 17: trump revealed: the definitive biography of the 45th president
 
-## awareness 
+## awareness
 
 ### last chance to see
 
@@ -1124,7 +1118,7 @@ explores fundamental concepts of mathematics, symmetry and intelligence and how 
 
 ### [17: the book of shaders](https://my.mindnode.com/JvkYqhYCuNksMCV1F1s9cHdaZefnptdQnoEHjeDb)
 
-free: 
+free:
 
 ## creativity
 
@@ -1164,7 +1158,7 @@ free:
 
 ### 05: the database hacker’s handbook
 
-- most detailed book available for attacking databases  
+- most detailed book available for attacking databases
 	- covers basic through advanced topics
 
 ### 10: a guide to kernel exploitation
@@ -1181,7 +1175,7 @@ free:
 
 ### 14: the browser hacker's handbook
 
-- a detailed look into many web security topics   
+- a detailed look into many web security topics
 	- covers basic through advanced topics
 
 ## film making
