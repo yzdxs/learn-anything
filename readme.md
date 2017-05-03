@@ -32,7 +32,7 @@ Certain nodes have a number attached to them which represent the order in which 
 
 Certain nodes may have a numeric prefix like '17: ' which stands for the year in which the article/research paper was written or published in. '17: ' means that it was written in 2017. I abbreviate it for visual clarity.
 
-The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date.
+The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date. 
 
 # [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
 
@@ -56,6 +56,8 @@ All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.pn
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
 As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
+
+This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=0) but it grew too big.
 
 # Contributing 👬
 
