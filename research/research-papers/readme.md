@@ -1,8 +1,3 @@
-# [**research papers**](https://my.mindnode.com/cDDmGwdsnghQCAYGz8s9Eio5M8mK7nPoxSsg1usy)
-
-- research papers I am currently reading, planning to read and have already read
-
-
 ## [web](https://my.mindnode.com/Kkam7na79qaY1Vn41gpwbzV1tW5DpJzSHyryLWKM)
 
 ## [math ✨](https://my.mindnode.com/xrVig6mv5mRvNGSgD5vp2bbvUNbgW6QaHEjzVRy4)
