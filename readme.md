@@ -1,6 +1,6 @@
 # [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0)
 
-![](http://i.imgur.com/5zjUnyH.png)
+![](http://i.imgur.com/IIkiKSB.png)
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
 
@@ -72,7 +72,7 @@ There are many ways in which you can contribute and make these mind maps even mo
 - Or the order with how material should be tackled should be different?
 - Or you wish some other topic was covered that is not currently included?
 
-There are 44 nodes in the [main mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0), each representing a topic of research. 
+There are 43 nodes in the [main mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0), each representing a topic of research. 
 
 Each topic has a [dedicated issue page](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22main+study+plan%22) which you can help improve. 
 
@@ -82,7 +82,7 @@ Take a look and see how and where you can help. 💙
 
 ## Help with Study Guides inside 📚
 
-Inside these 44 main mind maps, there are multiple more 
+Inside these 43 main mind maps, there are multiple more 
 mind maps for each topic that can be improved. 
 
 Similar to above, there is an issue for every topic that can be improved. It will have a ['study plan' label](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22study+plan%22) attached to it as well as a label of where in the mind map this topic lies.
