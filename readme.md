@@ -63,7 +63,7 @@ This project started off as a [single mind map](https://www.dropbox.com/s/3bsw53
 
 There are many ways in which you can contribute and make these mind maps even more amazing.
 
-## Help with Curated Study Guides 📚
+## Help with Main Study Guides 📚
 
 1. Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
 
@@ -80,7 +80,7 @@ If for example, you think that [computer science mind map](https://my.mindnode.c
 
 Take a look and see how and where you can help. 💙
 
-## Help with Curated Study Guides on any other topic 📚
+## Help with all other Study Guides 📚
 
 Inside these 44 main mind maps, there are multiple more 
 mind maps for each topic that can be improved. 
