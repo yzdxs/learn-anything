@@ -131,7 +131,7 @@ I also want to [create visualisations in code](https://github.com/nikitavoloboev
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can exlpore.
 
-# Keep this project going 🎊
+# [Keep this project going 🎊](https://www.patreon.com/nikitavoloboev)
 
 This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting thousands of these mind maps will grow. I would hate to shut down this project for these reasons. 
 
