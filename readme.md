@@ -131,6 +131,7 @@ I also want to [create visualisations in code](https://github.com/nikitavoloboev
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can exlpore.
 
+
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
@@ -139,7 +140,15 @@ I love writing. I find the act of writing really enjoyable as I try to condense 
 
 I really love programming, building and sharing the things I have built. 
 
- 
+
+# Support this project 🎊
+
+This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting these thousands of mind maps will grow. I would hate to shut down this project for these reasons. 
+
+I also don't want to put any adertiseents or any 'sponsored' content in there that I don't think brings value. I want these study plans to present the most efficient ways one can learn any subject one may want to learn in a guided way.
+
+If you do you use or love using these mind maps, I have started a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. There are also some really cool rewards that come with your support. 💚
+
 # Ask 💬
 
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them [here](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
