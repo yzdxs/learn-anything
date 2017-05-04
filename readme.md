@@ -116,17 +116,16 @@ Just add what you think is interesting and valuable and is appropriate to the to
 
 # Fast searching 🔎
 
-I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want are
+I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want is the [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map). You can also : 
 
-1. Bookmarking [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmaps). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
+1. Bookmark [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmaps). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
 
-1. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
+2. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
 
-3. You can also download an [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) which would allow you to instantly search and open the mind map you need from wherever you are. It is currently the fastest way to get to the mind map you need but it requires macOS and [paid powerpack](https://www.alfredapp.com/powerpack/) for Alfred. However I am looking to [expand it to more launchers](https://github.com/nikitavoloboev/alfred-knowledge-map#help-improve-and-extend-it-) so it works on all operating systems, if you want to add your own solution, [you can](https://github.com/nikitavoloboev/alfred-knowledge-map#help-improve-and-extend-it-). 💙
 
 # Future 🚀
 
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. 
+I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. If you want to help me make it, please do, I wrote [some issues](https://github.com/nikitavoloboev/knowledge-map-search-engine/issues) on how I plan to make it.
 
 I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
 
