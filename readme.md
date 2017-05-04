@@ -80,7 +80,7 @@ If for example, you think that [computer science mind map](https://my.mindnode.c
 
 Take a look and see how and where you can help. 💙
 
-## Help with all other Study Guides 📚
+## Help with Study Guides inside 📚
 
 Inside these 44 main mind maps, there are multiple more 
 mind maps for each topic that can be improved. 
