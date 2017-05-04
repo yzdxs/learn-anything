@@ -141,7 +141,7 @@ I love writing. I find the act of writing really enjoyable as I try to condense 
 I really love programming, building and sharing the things I have built. 
 
 
-# Support this project 🎊
+# Keep this project going 🎊
 
 This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting these thousands of mind maps will grow. I would hate to shut down this project for these reasons. 
 
