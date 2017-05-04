@@ -145,7 +145,7 @@ I really love programming, building and sharing the things I have built.
 
 This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting these thousands of mind maps will grow. I would hate to shut down this project for these reasons. 
 
-I also don't want to put any adertiseents or any 'sponsored' content in there that I don't think brings value. I want these study plans to present the most efficient ways one can learn any subject one may want to learn in a guided way.
+I also don't want to put any advertisements or any 'sponsored' content in there that I don't think brings value. I want these study plans to present the most efficient ways one can learn any subject one may want to learn in a guided way.
 
 If you do you use or love using these mind maps, I have started a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. There are also some really cool rewards that come with your support. 💚
 
