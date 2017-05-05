@@ -53,16 +53,14 @@ It contains :
 
 All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). For easier discovery I plan to create a [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine). You can already install [my alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao).
 
-
-If you want to help make this dream of visualising all of world's knowledge in this way a reality, [you can help in many ways](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
-
 As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
 
 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big.
 
 # Contributing 👬
 
-There are many ways in which you can contribute and make these mind maps even more amazing.
+If you want to help make this dream of visualising all of world's knowledge in this way a reality, you can help in many ways.
+
 
 ## Help with Main Study Guides 📚
 
