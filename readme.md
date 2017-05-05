@@ -23,6 +23,7 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 🐙 = it is a github page
 - 👾 = it is interactive (can be a tutorial or some presentation)
 - 🎙️ = it is a podcast
+- 🗣️ = it is a chat (either a slack channel, discord server or similar)
 - 🎥 = it is a youtube channel
 - 🤖 = it is a reddit thread or comment
  
