@@ -19,11 +19,12 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 - 📄 = it is a research paper
 - 👀 = it is a video or a talk
 - 🖋️ = it is an article
+- 🗃️ = it is a blog
 - 🌐 = it is a wiki article
 - 🐙 = it is a github page
 - 👾 = it is interactive (can be a tutorial or some presentation)
 - 🎙️ = it is a podcast
-- 📰 = it is a newsletter
+- 📮 = it is a newsletter
 - 🗣️ = it is a chat (either a slack channel, discord server or similar)
 - 🎥 = it is a youtube channel
 - 🤖 = it is a reddit thread or comment
@@ -125,7 +126,7 @@ I want to reduce the amount of time it takes to find the information you need. B
 
 # Future 🚀
 
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. If you want to help me make it, please do, I wrote [some issues](https://github.com/nikitavoloboev/knowledge-map-search-engine/issues) on how I plan to make it.
+I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. If you want to help me make it, please do, I wrote [some issues](https://github.com/nikitavoloboev/knowledge-map-search-engine/issues) on how I plan to make it. 
 
 I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
 
