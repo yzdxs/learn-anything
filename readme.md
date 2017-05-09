@@ -6,7 +6,7 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
-If you think that there is a better way one can learn the subject or you wish something was added, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
 ## Documentation 📘
  
