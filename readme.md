@@ -63,6 +63,8 @@ This project started off as a [single mind map](https://www.dropbox.com/s/3bsw53
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, you can help in many ways.
 
+There is also a [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions or wish to help in any other way.
+
 
 ## Help with Main Study Guides 📚
 
