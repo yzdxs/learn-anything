@@ -17,8 +17,9 @@ If you think that there is a better way one can learn the subject or you wish so
  
 There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean :
 
-|  🗺	| it is another mind map | 
+|  emoji	|  description  | 
 |---	|---	|
+|  🗺	|  it is another mind map  | 
 |  📝	| it is a course	| 
 |  📖	|  it is a free book | 
 |  📕	| it is not a free book  (and you either have to search online or buy it) |
