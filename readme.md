@@ -15,24 +15,25 @@ If you think that there is a better way one can learn the subject or you wish so
 
 ## Documentation 📘
  
-There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean : 
+There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean :
 
-- 🗺 = it is another mind map
-- 📝 = it is a course
-- 📖 = it is a free book
-- 📕 = it is not a free book (and you either have to search online or buy it)
-- 📄 = it is a research paper
-- 👀 = it is a video or a talk
-- 🖋️ = it is an article
-- 🗃️ = it is a blog
-- 🌐 = it is a wiki article
-- 🐙 = it is a github page
-- 👾 = it is interactive (can be a tutorial or some presentation)
-- 🎙️ = it is a podcast
-- 📮 = it is a newsletter
-- 🗣️ = it is a chat (either a slack channel, discord server or similar)
-- 🎥 = it is a youtube channel
-- 🤖 = it is a reddit thread or comment
+|  🗺	| it is another mind map| |
+|---	|---	|---	|
+|  📝	| it is a course	| |
+|  📖	|  it is a free book |  |
+|  📕	| it is not a free book | and you either have to search online or buy it |
+|  📄 	| it is a research paper | |
+|  👀|  it is a video or a talk | |
+|  🖋️	|  it is an article | |
+| 🗃️ 	|  it is a blog	| |
+| 🌐 	|  it is a wiki article | |
+|  🐙	|  it is a github page | |
+|  👾	| it is interactive | can be a tutorial or some presentation |
+| 🎙️ 	|  it is a podcast |  |
+|  📮	|  it is a newsletter | |
+| 🗣️ 	|  it is a chat	| either a slack channel, discord server or similar |
+|  🎥	|  it is a youtube channel | |
+| 🤖 	|  it is a reddit thread or comment | |
  
 The arrows often represent relations. So if 'physics' has an arrow pointing to 'mathematics', it means that physics is related to it. Other times, arrows show direction and are used as a guide as can be seen [here](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2).
 
