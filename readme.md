@@ -1,7 +1,7 @@
 # [You can learn anything 📚](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0)
 
 
-[![Slack](https://img.shields.io/badge/Slack users online:-31-green.svg)](https://knowledge-map.slack.com) 
+[![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 [![Patreon](https://img.shields.io/badge/patreon-112$-red.svg)](https://www.patreon.com/nikitavoloboev)
 
