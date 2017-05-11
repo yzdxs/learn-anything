@@ -135,10 +135,6 @@ I want to reduce the amount of time it takes to find the information you need. B
 
 2. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
 
-# Stay in touch 📮
-
-Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project. 
-
 
 # Future 🚀
 
@@ -155,6 +151,11 @@ This project is still in its early stages but I am certain as it gets traction a
 I also don't want to put any advertisements or any 'sponsored' content in there that I don't think brings value. I want these study plans to present the most efficient ways one can learn any subject one may want to learn in a guided way.
 
 If you do love using these mind maps, I have started a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. There are also some really cool rewards that come with your support. 💚
+
+# Stay in touch 📮
+
+Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project. 
+
 
 
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
