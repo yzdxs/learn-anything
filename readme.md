@@ -2,9 +2,9 @@
 
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 [![Patreon](https://img.shields.io/badge/patreon-112$-red.svg)](https://www.patreon.com/nikitavoloboev)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
 
 
 ![](http://i.imgur.com/Q5lGHgE.png)
@@ -14,6 +14,8 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+
+There is an active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions about this project and want to help. 
 
 ## Documentation 📘
  
@@ -72,8 +74,6 @@ This project started off as a [single mind map](https://www.dropbox.com/s/3bsw53
 # Contributing 👬
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, you can help in many ways.
-
-There is a [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions or wish to help in any other way.
 
 
 ## Help with Main Study Guides 📚
@@ -134,6 +134,10 @@ I want to reduce the amount of time it takes to find the information you need. B
 1. Bookmark [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmaps). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
 
 2. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
+
+# Stay in touch 📮
+
+Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project. 
 
 
 # Future 🚀
