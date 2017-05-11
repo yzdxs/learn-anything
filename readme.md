@@ -156,7 +156,7 @@ If you do love using these mind maps, I have started a [Patreon page](https://ww
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHup Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
+## [My GitHub Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
 
 I really love programming, building and sharing the things I have built. 
 
