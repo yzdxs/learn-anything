@@ -3,6 +3,7 @@
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
+[![Patreon](https://img.shields.io/badge/patreon-112$-green.svg)](https://www.patreon.com/nikitavoloboev)
 
 
 ![](http://i.imgur.com/Q5lGHgE.png)
