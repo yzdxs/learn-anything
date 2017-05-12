@@ -14,11 +14,11 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-# [Search Engine 🔎](https://mind-map-search-engine-krldnznlzb.now.sh)
+# [Search Engine 🔎](http://learn-anything.xyz:3000)
 
 <img width="442" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/search.mp4_half.gif">
 
-There is also a [search engine](https://mind-map-search-engine-krldnznlzb.now.sh) available that will jump to any point in this mind map. It is [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) however does not have many queries yet. 
+There is also a [search engine](http://learn-anything.xyz:3000) available that will jump to any point in this mind map. It is [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) however does not have many queries yet. 
 
 Both this project and the search engine is in active development. If you want to help improve this project in any way or join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
