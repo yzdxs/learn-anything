@@ -23,7 +23,7 @@ There is also a search engine available that will jump to any point in this mind
 Both this project and the search engine is in active development. If you want to help improve this project in any way or join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
-## Documentation 📘
+# Documentation 📘
  
 There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean :
 
