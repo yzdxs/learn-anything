@@ -6,16 +6,17 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 [![Patreon](https://img.shields.io/badge/patreon-112$-red.svg)](https://www.patreon.com/nikitavoloboev)
 
-
 ![](http://i.imgur.com/Q5lGHgE.png)
 
-The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0).
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+There is also a [search engine](https://mind-map-search-engine-nfuoqbgyea.now.sh) that you can try already in your browser. More queries are being added every day. 
 
-There is an active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions about this project or want to help with the active development of the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps.
+If you want to help improve this project in any way or join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
+
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
 ## Documentation 📘
  
