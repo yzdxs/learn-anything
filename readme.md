@@ -4,7 +4,7 @@
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
-[![Patreon](https://img.shields.io/badge/patreon-112$-red.svg)](https://www.patreon.com/nikitavoloboev)
+[![Patreon](https://img.shields.io/badge/patreon-114$-red.svg)](https://www.patreon.com/nikitavoloboev)
 
 ![](http://i.imgur.com/Q5lGHgE.png)
 
