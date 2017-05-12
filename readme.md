@@ -12,7 +12,7 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
-There is also a [search engine](https://mind-map-search-engine-nfuoqbgyea.now.sh) that you can try already in your browser. It is [open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) and more queries are being added every day. (start your search with 'learn') 
+There is also a [search engine](https://mind-map-search-engine-exhbjkozgx.now.sh) that you can try already in your browser. It is [open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) and more queries are being added every day.
 
 If you want to help improve this project in any way or join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
