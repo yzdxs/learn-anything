@@ -16,7 +16,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 # [Search Engine 🔎](https://mind-map-search-engine-krldnznlzb.now.sh)
 
-<img width="604" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/perfect.mov.gif">
+<img width="302" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/perfect.mov.gif">
 
 There is also a [search engine](https://mind-map-search-engine-krldnznlzb.now.sh) available that will jump to any point in this mind map. It is [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) however does not have many queries yet. 
 
