@@ -142,7 +142,7 @@ I want to develop a [web interface search engine](https://github.com/nikitavolob
 
 I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
 
-The end goal is to make an interactive mind map of all of world's knowledge that all can exlpore.
+The end goal is to make an interactive mind map of all of world's knowledge that all can explore.
 
 # [Keep this project going 🎊](https://www.patreon.com/nikitavoloboev)
 
