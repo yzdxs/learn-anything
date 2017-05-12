@@ -15,7 +15,7 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
 
-There is an active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions about this project and want to help. 
+There is an active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) that you can join if you have any questions about this project. There is also a [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps in active development, if you want to help.
 
 ## Documentation 📘
  
