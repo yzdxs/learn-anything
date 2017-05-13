@@ -20,6 +20,8 @@ If you think that there is a better way one can learn the subject or you wish so
 
 There is also a [search engine](http://learn-anything.xyz) available that will jump to any point in this mind map. It is [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) and new queries are being added every day. 
 
+It is being improved and updated every single day. You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new.
+
 Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
@@ -71,7 +73,7 @@ It contains :
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
 
-All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). For easier discovery I plan to create a [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine). You can already install [my alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao).
+All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao).
 
 As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
 
@@ -133,20 +135,12 @@ Aside from books, courses and research papers, you can help improve many other m
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
 
-# Fast searching 🔎
-
-I want to reduce the amount of time it takes to find the information you need. Before [the search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) is complete and working, the fastest ways you can get to the mind map that you want is the [alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map). You can also : 
-
-1. Bookmark [this page](https://github.com/nikitavoloboev/knowledge-map) or [or the mind map itself](http://bit.ly/learning-mindmaps). It takes ~ 2 sec to open it. Everything is structured well so there should be no problem of finding what you are looking for.
-
-2. If you want to quickly find a book to read or a course to take or find a research paper you can read on some topic, [this list](https://github.com/nikitavoloboev/knowledge-map#part-of-a-bigger-picture-%EF%B8%8F) offers really fast rendered web pages you can use. Just open the one you need and search for a book/course there.
-
 
 # Future 🚀
 
-I want to develop a [web interface search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for all these mind maps where users can search and be presented with an interactive mind map of links and resources instead of a static set of links. If you want to help me make it, please do, I wrote [some issues](https://github.com/nikitavoloboev/knowledge-map-search-engine/issues) on how I plan to make it. 
+We plan to ease the contributing process as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps.
 
-I also want to [create visualisations in code](https://github.com/nikitavoloboev/knowledge-map-code) for each of the topics as visualisations and playing around are the keys to understanding and comprehension. 
+The focus of the search engine is to search through an open index of knowledge that all can see and explore and contribute to. It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box nature where everything is hidden behind a search bar, if you want to explore, [you can](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore.
 
@@ -161,7 +155,6 @@ If you do love using these mind maps, I have started a [Patreon page](https://ww
 # Stay in touch 📮
 
 Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project. 
-
 
 
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
