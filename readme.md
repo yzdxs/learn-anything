@@ -20,7 +20,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 There is also a [search engine](http://learn-anything.xyz) available that will jump to any point in this mind map. It is [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) and new queries are being added every day. 
 
-It is being improved and updated every single day. You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new.
+You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new.
 
 Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
