@@ -16,7 +16,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 # [Search Engine 🔎](http://learn-anything.xyz)
 
-<img width="302" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/perfect.mov.gif">
+<img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
 
 There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](http://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 🚀
 
