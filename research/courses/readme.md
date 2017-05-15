@@ -179,6 +179,8 @@
 
 ## computer graphics
 
+[Learn Computer Graphics From Scratch](https://www.scratchapixel.com/)
+
 - [computer vision](https://my.mindnode.com/BeGPpuCzA6x8c3HGCLBjXvE6kBvS2s4U3pdZQJSm)
 
 ## investing
