@@ -8,21 +8,23 @@
 
 ![](http://i.imgur.com/40Sjtal.png)
 
-The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1).
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](http://learn-anything.xyz/).  🔎
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, [please say it](https://github.com/nikitavoloboev/knowledge-map#contributing-). 💙
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/XR6KpRL.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 💙
 
 # [Search Engine 🔎](http://learn-anything.xyz)
 
 <img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
 
-There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](http://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 🚀
+There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](http://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
 
-You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new.
+You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
 
-Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
+# Community 👬
+
+Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
 
 
 # Documentation 📘
@@ -83,7 +85,6 @@ This project started off as a [single mind map](https://www.dropbox.com/s/3bsw53
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, you can help in many ways.
 
-
 ## Help with Main Study Guides 📚
 
 1. Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or look at the study plans [in text](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans).
@@ -106,7 +107,7 @@ Take a look and see how and where you can help. 💙
 Inside these 43 main mind maps, there are multiple more 
 mind maps for each topic that can be improved. 
 
-Similar to above, there is an issue for every topic that can be improved. It will have a ['study plan' label](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22study+plan%22) attached to it as well as a label of where in the mind map this topic lies.
+As mentioned above, there is a [note attached](http://i.imgur.com/XR6KpRL.png) in all mind maps that will link to a respective issue where you can propose to improve it any way you want. The issue will have a ['study plan' label](https://github.com/nikitavoloboev/knowledge-map/issues?q=is%3Aopen+is%3Aissue+label%3A%22study+plan%22) attached to it as well as a label of where in the mind map this topic lies.
 
 For example, there is a mind map for [front end development](https://my.mindnode.com/zRGj6Bjd1T31sVhsJz4HcNbCCz7ZMgKNqJSWSjyt#392.4,-184.2,2), that is located in [web development](https://my.mindnode.com/85uh2iN4GPhBJpuyyuWks5a6niyypQA5TPBCGnAN#457.7,-285.4,2). If you want to propose a change to it and think that something should be added or removed, you can do so [here](https://github.com/nikitavoloboev/knowledge-map/issues/431). Since this mind map is in ['web development' branch](http://i.imgur.com/ZdS8xwZ.png), a label of 'web development' is attached to it.
 
@@ -135,10 +136,9 @@ Aside from books, courses and research papers, you can help improve many other m
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
 
-
 # Future 🚀
 
-We plan to ease the contributing process as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps.
+We plan to ease the contributing process as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
 The focus of the search engine is to search through an open index of knowledge that all can see and explore and contribute to. It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box nature where everything is hidden behind a search bar, if you want to explore, [you can](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
 
@@ -156,7 +156,6 @@ If you do love using these mind maps, I have started a [Patreon page](https://ww
 
 Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project. 
 
-
 ## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
@@ -173,4 +172,4 @@ If you have some specific questions about this project or about myself, my inter
 # Thank you 💙
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
-- to all the people who contributed to this project
+- to all the people who contributed to this project and share this vision of liberating and visualising knowledge in this unique way
