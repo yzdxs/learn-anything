@@ -23,9 +23,13 @@ There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-
 
 You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
 
-# [Community](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 🌍
+# [Community](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 👬
 
 Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
+
+# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) 📚
+
+This is a work in progress wiki that attempts to state all the goals and aspirations of this project. It is work in progress.
 
 
 # Documentation 📘
