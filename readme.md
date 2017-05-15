@@ -15,6 +15,7 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/XR6KpRL.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 💙
 
+
 # [Search Engine 🔎](http://learn-anything.xyz)
 
 <img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
@@ -29,8 +30,7 @@ Both this project and the search engine is in active development. If you want to
 
 # [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) 📚
 
-This is a work in progress wiki that attempts to state all the goals and aspirations of this project. It is work in progress.
-
+This is a work in progress wiki that attempts to state all the goals and aspirations of this project. 
 
 # Documentation 📘
  
@@ -63,28 +63,6 @@ Certain nodes have a number attached to them which represent the order in which 
 Certain nodes may have a numeric prefix like '17: ' which stands for the year in which the article/research paper was written or published in. '17: ' means that it was written in 2017. I abbreviate it for visual clarity.
 
 The contents of the mind map can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date.
-
-# [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
-
-In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to all the research I do.
-
-It contains :
-
-- [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/research/books/) 
-	- where if a book is free, a link will be provided
-- [interesting courses one can take](http://nikitavoloboev.xyz/knowledge-map/research/courses/)
-- [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/)
-- [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
-- [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/research/history/)
-- [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#108.8,-1795.2,-2)
-- [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
-- and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
-
-All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao).
-
-As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
-
-This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big.
 
 # Contributing 👬
 
@@ -140,6 +118,29 @@ Aside from books, courses and research papers, you can help improve many other m
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#-23.7,-489.6,2) 
 
 Just add what you think is interesting and valuable and is appropriate to the topic. I cannot do this alone, but if we do it together, imagine what this could become. 🌍
+
+# [Part of a bigger picture 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
+
+In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to all the research I do.
+
+It contains :
+
+- [all the interesting books you can read](http://nikitavoloboev.xyz/knowledge-map/research/books/) 
+	- where if a book is free, a link will be provided
+- [interesting courses one can take](http://nikitavoloboev.xyz/knowledge-map/research/courses/)
+- [research papers on various topics](http://nikitavoloboev.xyz/knowledge-map/research/research-papers/)
+- [interesting humans who ever lived](http://nikitavoloboev.xyz/knowledge-map/research/humans/)
+- [inventions and historical events](http://nikitavoloboev.xyz/knowledge-map/research/history/)
+- [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#108.8,-1795.2,-2)
+- [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
+- and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
+
+All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao).
+
+As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
+
+This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big.
+
 
 # Future 🚀
 
