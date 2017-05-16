@@ -10,7 +10,6 @@
 
 [<img width="2000" alt="img" src="http://i.imgur.com/M5HyAt8.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
-
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](http://learn-anything.xyz/).  🔎
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
@@ -85,11 +84,11 @@ As mentioned above, there is a [note attached](http://i.imgur.com/XR6KpRL.png) i
 
 Just say what you wish was added or removed or changed and why. The content has to be of value and free content is preferred. 
 
-If you wish to extend any of the mind maps in any way, you can can also say that in the issue appropriate to the mind map. Each mind map has a corresponding issue on this GitHub page. 
+If you wish to extend any of the mind maps in any way, you can can also say that in the issue appropriate to the mind map as each mind map has a corresponding issue on this GitHub page. 
 
-If you want to propose a completely new node or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/knowledge-map/issues/new) here.
+If you want to propose a completely new mind map or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/knowledge-map/issues/new) and say what you wish was added.
 
-We are experimenting with easier ways on can contribute and in future [each mind map will be a text file](https://github.com/nikitavoloboev/knowledge-map/wiki/Future-of-Knowledge) that one can edit and submit a pull request but for now this is the best way.
+We are experimenting with easier ways on can contribute and in future [each mind map will be have source code](https://github.com/nikitavoloboev/knowledge-map/wiki/Future-of-Knowledge) that one can edit and submit a pull request but for now this is the best way to curate and improve these mind maps.
 
 It is also best to get to know the goals and aspirations of this project before contributing, so please read through the [short wiki](https://github.com/nikitavoloboev/knowledge-map/wiki). 📚
 
@@ -97,9 +96,9 @@ It is also best to get to know the goals and aspirations of this project before 
 
 We are very [heavily experimenting](https://ducksource.github.io/) with ways we can improve the search engine for these mind maps. 
 
-We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search engine is always within reach. There is a lot of interesting and technical problems that come with that. If you are as excited about mind maps and visulisation in this way, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together.
+We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search engine is always within reach. There is a lot of interesting and technical problems that come with that. If you are as excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together.
 
-We are also trying to create a [human curated backend](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. Make their own mind maps and extend in any way they like and then submit pull requests to extend this Knowledge Map that all will be able to explore or searh through with the search engine.
+We are also trying to create a [human curated backend](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
 
 Once again, there is a lot of very interesting problems that need to be solved to achive this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
