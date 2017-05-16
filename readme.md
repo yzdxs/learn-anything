@@ -26,7 +26,7 @@ You can bookmark it in your browser or [set it as a home page](https://support.g
 
 # [Community](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 👬
 
-Both this project and the search engine is in active development. If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
+Both this project and the search engine [is in active development](https://ducksource.github.io/). If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
 
 # [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) 📚
 
