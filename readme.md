@@ -16,7 +16,7 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/XR6KpRL.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
 
-The [main goal](https://github.com/nikitavoloboev/knowledge-map/wiki) of this project is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
+The [main goal](https://github.com/nikitavoloboev/knowledge-map/wiki/Home-%F0%9F%8F%A1) of this project is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
 
 # [Search Engine 🔎](http://learn-anything.xyz)
 
@@ -32,9 +32,9 @@ Both this project and the search engine [is in active development](https://ducks
 
 We use [Twitter](https://twitter.com/knowledge_map) to announce new things like new queries that were added, [blog articles](https://ducksource.github.io) that were written and more. 🐦
 
-# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) 📚
+# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog](https://ducksource.github.io/) 📚
 
-This is a work in progress wiki that attempts to state all the goals and aspirations of this project. 
+There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://ducksource.github.io/) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://ducksource.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html).
 
 # Documentation 📘
  
