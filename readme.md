@@ -49,6 +49,7 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 |  📄 	| it is a research paper  |
 |  👀|  it is a video or a talk  |
 |  🖋️	|  it is an article  |
+|  🖌 	|  it is an image or an imgur album  |
 | 🗃️ 	|  it is a blog	 |
 | 🌐 	|  it is a wiki article  |
 |  🐙	|  it is a github page  |
