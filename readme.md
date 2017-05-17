@@ -43,17 +43,17 @@ There are many layers to this mind map and underlied nodes are hyperlinks. You m
 |  emoji	|  meaning  | 
 |---	|---	|
 |  🗺	|  it is another mind map  | 
+|  🌐 	|  it is a wiki article  |
 |  📝	| it is a course	| 
 |  📖	|  it is a free book | 
 |  📕	| it is not a free book  (and you either have to search online or buy it) |
 |  📄 	| it is a research paper  |
 |  👀|  it is a video or a talk  |
 |  🖋️	|  it is an article  |
-|  🖌 	|  it is an image or an imgur album  |
 | 🗃️ 	|  it is a blog	 |
-| 🌐 	|  it is a wiki article  |
 |  🐙	|  it is a github page  |
 |  👾	| it is interactive  (can be a tutorial or some presentation) |
+|  🖌 	|  it is an image or an imgur album  |
 | 🎙️ 	|  it is a podcast  |
 |  📮	|  it is a newsletter |
 | 🗣️ 	|  it is a chat	 (either a slack channel, discord server or similar) |
