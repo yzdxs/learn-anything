@@ -14,8 +14,9 @@ The image above is an [interactive mind map that can be viewed and explored](htt
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/XR6KpRL.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 💙
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/XR6KpRL.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
 
+The main goal of this project is to expose as much of human knowledge in a visual way as possible to accelerate learning. 🚀
 
 # [Search Engine 🔎](http://learn-anything.xyz)
 
