@@ -88,7 +88,7 @@ If you wish to extend any of the mind maps in any way, you can can also say that
 
 If you want to propose a completely new mind map or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/knowledge-map/issues/new) and say what you wish was added.
 
-We are experimenting with easier ways on can contribute and in future [each mind map will be have source code](https://github.com/nikitavoloboev/knowledge-map/wiki/Future-of-Knowledge) that one can edit and submit a pull request but for now this is the best way to curate and improve these mind maps.
+We are experimenting with easier ways on can contribute and in future [each mind map will have source code representation](https://github.com/nikitavoloboev/knowledge-map/wiki/Future-of-Knowledge) that one can edit and submit a pull request but for now this is the best way to curate and improve these mind maps.
 
 It is also best to get to know the goals and aspirations of this project before contributing, so please read through the [short wiki](https://github.com/nikitavoloboev/knowledge-map/wiki). 📚
 
