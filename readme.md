@@ -96,11 +96,11 @@ It is also best to get to know the goals and aspirations of this project before 
 
 We are very [heavily experimenting](https://ducksource.github.io/) with ways we can improve the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps. 
 
-We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search is always within reach. There is a lot of interesting and technical problems that come with that. If you are as excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together.
+We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search is always within reach. There is a lot of interesting and technical problems that come with that. If you are excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together.
 
 We are also trying to create a [human curated backend](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
 
-Once again, there is a lot of very interesting problems that need to be solved to achive this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
+Once again, there is a lot of very interesting problems that need to be solved to achieve this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
 # [More Mind Maps 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
