@@ -28,13 +28,13 @@ You can bookmark it in your browser or [set it as a home page](https://support.g
 
 # [Community](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 👬
 
-Both this project and the search engine [is in active development](https://ducksource.github.io/). If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together.
+Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together.
 
-We use [Twitter](https://twitter.com/knowledge_map) to announce new things like new queries that were added, [blog articles](https://ducksource.github.io) that were written and more. 🐦
+We use [Twitter](https://twitter.com/knowledge_map) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
-# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog](https://ducksource.github.io/) 📚
+# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog](https://learn-anything.github.io) 📚
 
-There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://ducksource.github.io/) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://ducksource.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html).
+There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html).
 
 # Documentation 📘
  
@@ -66,8 +66,6 @@ The arrows often represent relations. So if 'physics' has an arrow pointing to '
 Certain nodes have a number attached to them which represent the order in which the material should ideally be covered. If nodes have the same number, then choose any as all may be good for learning at this level.
 
 Certain nodes may have a numeric prefix like '17: ' which stands for the year in which the article/research paper was written or published in. '17: ' means that it was written in 2017. I abbreviate it for visual clarity.
-
-The contents of the main nodes can also be [viewed in text if you prefer that](https://github.com/nikitavoloboev/knowledge-map/tree/master/study-plans) although they may not always be up-to-date.
 
 # Contributing 👬
 
