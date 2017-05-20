@@ -1,6 +1,5 @@
 # [You can learn anything 📚](http://learn-anything.xyz/)
 
-
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/knowledge_map.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/knowledge_map)
 [![Patreon](https://img.shields.io/badge/patreon-115$-red.svg)](https://www.patreon.com/nikitavoloboev)
@@ -8,7 +7,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 
 
-[<img width="2000" alt="img" src="http://i.imgur.com/M5HyAt8.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
+[<img width="2000" alt="img" src="http://i.imgur.com/NBIdDKe.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](http://learn-anything.xyz/).  🔎
 
@@ -98,7 +97,7 @@ We are very [heavily experimenting](https://ducksource.github.io/) with ways we 
 
 We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search is always within reach. There is a lot of interesting and technical problems that come with that. If you are excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together.
 
-We are also trying to create a [human curated backend](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
+We are also trying to create a [human curated backend](https://learn-anything.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
 
 Once again, there is a lot of very interesting problems that need to be solved to achieve this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
