@@ -1,4 +1,4 @@
-# [You can learn anything 📚](http://learn-anything.xyz/)
+# [You can learn anything 📚](https://learn-anything.xyz/)
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/knowledge_map.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/knowledge_map)
@@ -9,7 +9,7 @@
 
 [<img width="2000" alt="img" src="http://i.imgur.com/NBIdDKe.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
-The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](http://learn-anything.xyz/).  🔎
+The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](https://learn-anything.xyz/).  🔎
 
 When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
 
@@ -17,13 +17,13 @@ If you think that there is a better way one can learn the subject or you wish so
 
 The [main goal](https://github.com/nikitavoloboev/knowledge-map/wiki/Home-%F0%9F%8F%A1) of this project is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
 
-# [Search Engine 🔎](http://learn-anything.xyz)
+# [Search Engine 🔎](https://learn-anything.xyz)
 
 <img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
 
-There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](http://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
+There is also a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](https://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
 
-You can bookmark it in your browser or [set it as a home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
+You can bookmark it in your browser or [set it as your home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
 
 # [Community](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 👬
 
@@ -33,7 +33,7 @@ We use [Twitter](https://twitter.com/knowledge_map) to announce new things like 
 
 # [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog](https://learn-anything.github.io) 📚
 
-There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html).
+There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
 
 # Documentation 📘
  
@@ -72,7 +72,7 @@ If you want to help make this dream of visualising all of world's knowledge in t
 
 ## Help with improving the mind maps 🗺
 
-Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or just search through topics you would like to learn with the [search engine](http://learn-anything.xyz).
+Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or just search through topics you would like to learn with the [search engine](https://learn-anything.xyz).
 
 - Do you think some topic can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
@@ -123,7 +123,6 @@ All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.pn
 As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
 
 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big.
-
 
 # Future 🚀
 
