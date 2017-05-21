@@ -27,11 +27,11 @@ You can bookmark it in your browser or [set it as your home page](https://suppor
 
 # [Community 👬](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 
 
-Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve this project in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together.
+Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together.
 
 We use [Twitter](https://twitter.com/knowledge_map) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
-There is also [own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 🤖
+There is also [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 🤖
 
 # [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog 📚](https://learn-anything.github.io) 
 
