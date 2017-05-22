@@ -90,7 +90,7 @@ It is also best to get to know the goals and aspirations of this project before 
 
 ## Help with developing the search engine for mind maps on the web 🔎 
 
-We are very [heavily experimenting](https://ducksource.github.io/) with ways we can improve the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps. 
+We are very [heavily experimenting](https://learn-anything.github.io) with ways we can improve the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) for these mind maps. 
 
 We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search is always within reach. There is a lot of interesting and technical problems that come with that. If you are excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together. 💡
 
