@@ -159,4 +159,4 @@ If you have some specific questions about this project or about myself, my inter
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to [Angelo](https://github.com/nglgzz) and [Eon](https://github.com/eonist) who helped materialise this idea and make something that all can now enjoy
-- to all the people who contributed to this project to share this vision of liberating and visualising knowledge in this unique way
+- to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
