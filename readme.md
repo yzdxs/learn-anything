@@ -6,7 +6,7 @@
 [![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 
-[<img width="2000" alt="img" src="http://i.imgur.com/hGjUtL8.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
+[<img width="2000" alt="img" src="http://i.imgur.com/f5GMDjw.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](https://learn-anything.xyz/). 🔎
 
