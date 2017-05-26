@@ -1,12 +1,12 @@
 # [You can learn anything 🚀](https://learn-anything.xyz/)
 
 [![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/knowledge_map.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_)
 [![Patreon](https://img.shields.io/badge/patreon-115$-red.svg)](https://www.patreon.com/nikitavoloboev)
 [![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
 
-[<img width="2000" alt="img" src="http://i.imgur.com/f5GMDjw.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
+[<img width="2000" alt="img" src="http://i.imgur.com/GeqGetw.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
 The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](https://learn-anything.xyz/). 🔎
 
@@ -16,7 +16,7 @@ If you think that there is a better way one can learn the subject or you wish so
 
 The [main goal](https://github.com/nikitavoloboev/knowledge-map/wiki/Home-%F0%9F%8F%A1) of this project is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
 
-# [Search Engine 🔎](https://learn-anything.xyz)
+# [Search Engine 🔎🗺](https://learn-anything.xyz)
 
 <img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
 
@@ -84,8 +84,6 @@ Just say what you wish was added or removed or changed and why. The content has 
 
 If you want to propose a completely new mind map or have some other question or feedback that you don't want to ask in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ), you can open a [new issue](https://github.com/nikitavoloboev/knowledge-map/issues/new) and say what you wish was added.
 
-We are experimenting with easier ways on can contribute and in future [each mind map will have source code representation](https://github.com/nikitavoloboev/knowledge-map/wiki/Future-of-Knowledge) that one can edit and submit a pull request for but for now this is the best way to curate and improve these mind maps.
-
 It is also best to get to know the goals and aspirations of this project before contributing, so please read through the [short wiki](https://github.com/nikitavoloboev/knowledge-map/wiki). 📚
 
 ## Help with developing the search engine for mind maps on the web 🔎 
@@ -101,7 +99,7 @@ Once again, there is a lot of very interesting problems that need to be solved t
 
 # [More Mind Maps 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
 
-In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to all the research I do. 
+In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to more interesting mind maps.
 
 It contains :
 
@@ -115,9 +113,9 @@ It contains :
 - [interesting websites](http://nikitavoloboev.xyz/knowledge-map/research/websites/)
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
 
-All together there is currently [~ 3000 mind maps](http://i.imgur.com/Mb0tpVw.png). Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao). 
+Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/knowledge-map-search-engine), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-knowledge-map) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao). 
 
-As I learn more and more topics, I also make [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that I use to consolidate this knowledge.
+Each mind map will also have [flash cards](https://github.com/nikitavoloboev/research/tree/master/anki) that you can use to consolidate this knowledge.
 
 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
 
