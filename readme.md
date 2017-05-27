@@ -21,18 +21,18 @@
   </a>
   <br>
   <br>
-<p>The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored</a> and <a href="https://learn-anything.xyz/">searched through </a>. 🔎</p>
+<p>The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored</a> and <a href="https://learn-anything.xyz/">searched through</a>. 🔎</p>
   
 <p>When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.</p>
   
 <p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href="http://i.imgur.com/peTPCwN.png">note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it.</p>
 
-<p>The <a href=“https://learn-anything.github.io/future/2017/05/27/future-of-learning.html”>main goal of this project</a> is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀</p>
+<p>The <a href="https://learn-anything.github.io/future/2017/05/27/future-of-learning.html">main goal of this project</a> is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀</p>
   
 </div>
 
 
-<h2 align="center"><a href=“https://learn-anything.xyz”>Search Engine 🔎🗺</a></h2>
+<h2 align="center"><a href="https://learn-anything.xyz">Search Engine 🔎🗺</a></h2>
 
 <p align="center"> 
 <img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" width="600">
@@ -43,11 +43,11 @@ There is a [fully open source](https://github.com/nikitavoloboev/learn-anything-
 You can bookmark it in your browser or [set it as your home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
 
 
-<h2 align="center"><a href=“https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ”>Community 👬</a></h2>
+<h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
 
 Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
 
-<h2 align="center"><a href=“https://learn-anything.github.io”>Our Blog 📚</a></h2>
+<h2 align="center"><a href="https://learn-anything.github.io">Our Blog 📚</a></h2>
 
 You can also read though our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
 
@@ -117,7 +117,7 @@ We are also trying to create a [human curated backend](https://learn-anything.gi
 Once again, there is a lot of very interesting problems that need to be solved to achieve this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
-<h2 align="center"><a href=“https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2”> More Mind Maps 🗺️ </a></h2>
+<h2 align="center"><a href="https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2"> More Mind Maps 🗺️ </a></h2>
 
 In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to more interesting mind maps.
 
@@ -147,7 +147,7 @@ The focus of the search engine is to search through an [open index of knowledge 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
 
-<h2 align="center"><a href=“https://www.patreon.com/nikitavoloboev”>Keep this project going 🎊</a></h2>
+<h2 align="center"><a href="https://www.patreon.com/nikitavoloboev">Keep this project going 🎊</a></h2>
 
 This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting thousands of these mind maps will grow. I would hate to shut down this project for these reasons. 
 
