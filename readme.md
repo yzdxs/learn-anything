@@ -32,6 +32,7 @@
   
     <p>
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href=“http://i.imgur.com/peTPCwN.png”>note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
+	</p>
 
   
   <p>
@@ -43,7 +44,9 @@ The <a href=“https://learn-anything.github.io/future/2017/05/27/future-of-lear
 
 <h2 align="center"><a href=“https://learn-anything.xyz”>Search Engine 🔎🗺</a></h2>
 
-<center><img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" height="500" width="600"></center>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" width="600">
+</p>
 
 There is a [fully open source](https://github.com/nikitavoloboev/learn-anything-search) [search engine](https://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
 
@@ -175,8 +178,6 @@ I love writing. I find the act of writing really enjoyable as I try to condense 
 #### [My GitHub Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
 
 I really love programming, building and sharing the things I have built. 
-
-# Ask 💬
 
 <h2 align="center"> Ask 💬</h2>
 
