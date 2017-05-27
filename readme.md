@@ -27,7 +27,7 @@
   
 <p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href="http://i.imgur.com/peTPCwN.png">note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it.</p>
 
-<p>The <a href="https://learn-anything.github.io/future/2017/05/27/future-of-learning.html">main goal of this project</a> is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀</p>
+<p>The <a href="https://learn-anything.github.io/future/2017/05/27/future-of-learning.html">main goal of this project</a> is to expose human knowledge in a visual and structured way to accelerate learning. 🚀</p>
   
 </div>
 
