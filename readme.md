@@ -14,7 +14,7 @@ When you click on any of the nodes in it, it will show you the best step by step
 
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/peTPCwN.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
 
-The [main goal](https://github.com/nikitavoloboev/knowledge-map/wiki/Home-%F0%9F%8F%A1) of this project is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
+The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
 
 # [Search Engine 🔎🗺](https://learn-anything.xyz)
 
@@ -28,11 +28,11 @@ You can bookmark it in your browser or [set it as your home page](https://suppor
 
 Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
 
+# [Our Blog 📚](https://learn-anything.github.io) 
+
+You can also read though our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
+
 We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
-
-# [Wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) and [Blog 📚](https://learn-anything.github.io) 
-
-There is a work in progress [wiki](https://github.com/nikitavoloboev/knowledge-map/wiki) that attempts to state all the goals and aspirations of this project as well as our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
 
 # Documentation 📘
  
@@ -151,10 +151,41 @@ I really love programming, building and sharing the things I have built.
 
 # Ask 💬
 
-If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them either in the [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in my github ama](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
+If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them either in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in my github ama](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
+
+# Join our team 🚀
+
+Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work to make this vision of visualising and structuring all of world's knowledge a reality.  
+
+<h2 align="center">Current Team</h2>
+
+<table>
+  <tbody>
+    <tr>
+ 
+      <td align="center" valign="top">
+        <img width="150" height="150" src="https://pbs.twimg.com/profile_images/712426493868056576/hRaMUdgf.jpg">
+        <br>
+        <a href="https://github.com/nikitavoloboev">Nikita Voloboev</a>
+        <p>Oversees curation of mind maps</p>
+        <br>
+        <p>Curated the entire index of all the mind maps up until this point + helps with making search the best it can be</p>
+      </td> 
+       <td align="center" valign="top">
+        <img width="150" height="150" src="https://avatars1.githubusercontent.com/u/13448636?v=3&s=400">
+        <br>
+        <a href="https://github.com/nglgzz"> Angelo Gazzola </a>
+        <p>Lead Web Developer</p>
+        <br>
+        <p>Created a complete and working version of the <a href="https://learn-anything.xyz">Search Engine</a> + our own mind map render system as <a href="https://github.com/learn-anything/react-mindmap"> React Component </a></p>
+      </td>
+     </tr>
+  </tbody>
+</table>
+
+
 
 # Thank you 💙
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
-- to [Angelo](https://github.com/nglgzz) and [Eon](https://github.com/eonist) who helped materialise this idea and make something that all can now enjoy
 - to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
