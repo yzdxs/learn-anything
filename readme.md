@@ -1,40 +1,66 @@
-# [You can learn anything 🚀](https://learn-anything.xyz/)
+<div align="center">
+<h1><a href="https://learn-anything.xyz">You can learn anything 🚀</a></h1>
+<a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">
+		<img src="https://img.shields.io/badge/Slack-channel-green.svg">
+	</a>
+	<a href="https://twitter.com/learnanything_">
+		<img src="https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square">
+	</a>
+	<a href="https://www.patreon.com/nikitavoloboev">
+		<img src="https://img.shields.io/badge/patreon-115$-red.svg">
+	</a>
+	<a href="http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7">
+		<img src="https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg">
+	</a>
+	<a href="https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE">
+		<img src="https://img.shields.io/github/license/mashape/apistatus.svg">
+	</a>
 
-[![Slack](https://img.shields.io/badge/Slack-channel-green.svg)](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ)
-[![Twitter Follow](https://img.shields.io/twitter/follow/learnanything_.svg?style=social&label=Follow&style=flat-square)](https://twitter.com/learnanything_)
-[![Patreon](https://img.shields.io/badge/patreon-115$-red.svg)](https://www.patreon.com/nikitavoloboev)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Sign%20up-ff69b4.svg)](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/nikitavoloboev/knowledge-map/blob/master/LICENSE)
+  <a href="https://learn-anything.xyz">
+    <img width="900" heigth="900" src="http://i.imgur.com/GeqGetw.png">
+  </a>
+  <br>
+  <br>
+ 
+  <p>
+  
+  The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored </a> and <a href=“https://learn-anything.xyz/”> searched through </a>. 🔎
+  </p>
+  
+  <p>
+  When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
+  </p>
+    <p>
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href=“http://i.imgur.com/peTPCwN.png”>note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
+  </p>
+  
+      <p>
+The <a href=“https://learn-anything.github.io/future/2017/05/27/future-of-learning.html”>main goal of this project</a> is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
+  </p>
+  
+</div>
 
-[<img width="2000" alt="img" src="http://i.imgur.com/GeqGetw.png">](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1)
 
-The image above is an [interactive mind map that can be viewed and explored](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1) and [searched through](https://learn-anything.xyz/). 🔎
+<h2 align="center"><a href=“https://learn-anything.xyz”>Search Engine 🔎🗺</a></h2>
 
-When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
+<center><img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" height="500" width="600"></center>
 
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a [note attached](http://i.imgur.com/peTPCwN.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
-
-The [main goal of this project](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html) is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
-
-# [Search Engine 🔎🗺](https://learn-anything.xyz)
-
-<img width="600" alt="img" src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif">
-
-There is a [fully open source](https://github.com/nikitavoloboev/knowledge-map-search-engine) [search engine](https://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
+There is a [fully open source](https://github.com/nikitavoloboev/learn-anything-search) [search engine](https://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
 
 You can bookmark it in your browser or [set it as your home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
 
-# [Community 👬](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) 
+
+<h2 align="center"><a href=“https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ”>Community 👬</a></h2>
 
 Both this project and the search engine [is in active development](https://learn-anything.github.io). If you want to help improve it in any way or want to join an ever growing community of learners, you can join our active [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) where you can either help with expanding content of the mind maps, help with the development and adding features to the [search engine](https://github.com/nikitavoloboev/knowledge-map-search-engine) or create a study group for any branch in the mind map and learn together. 
 
-# [Our Blog 📚](https://learn-anything.github.io) 
+<h2 align="center"><a href=“https://learn-anything.github.io”>Our Blog 📚</a></h2>
 
 You can also read though our [development blog](https://learn-anything.github.io) which outlines all the problems we are trying to solve in [our road to move this project to scale with community](https://learn-anything.github.io/automation/2017/05/20/Automating-the-contribution-system.html).
 
 We use [Twitter](https://twitter.com/learnanything_) to announce new things like new queries that were added, [blog articles](https://learn-anything.github.io) that were written and more. 🐦
 
-# Documentation 📘
+<h2 align="center"> Documentation 📘 </h2>
  
 There are many layers to this mind map and underlied nodes are hyperlinks. You may see emojis attached to some nodes. Here is what they mean :
 
@@ -65,7 +91,8 @@ Certain nodes have a number attached to them which represent the [order in which
 
 Certain nodes have a numeric prefix like '17: ' which stands for the year in which the article/research paper was written or published in. '17: ' means that it was written in 2017. I abbreviate it for visual clarity.
 
-# Contributing 👬
+
+<h1 align="center">Contributing 👬 </a></h1>
 
 If you want to help make this dream of visualising all of world's knowledge in this way a reality, you can help in many ways.
 
@@ -97,7 +124,7 @@ We are also trying to create a [human curated backend](https://learn-anything.gi
 Once again, there is a lot of very interesting problems that need to be solved to achieve this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
 
 
-# [More Mind Maps 🗺️](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2)
+<h2 align="center"><a href=“https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2”> More Mind Maps 🗺️ </a></h2>
 
 In the mind map above, you will find a [little node](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2) named 'more' which acts as a gateway to more interesting mind maps.
 
@@ -119,7 +146,7 @@ Each mind map will also have [flash cards](https://github.com/nikitavoloboev/res
 
 This project started off as a [single mind map](https://www.dropbox.com/s/3bsw537ggy7u0zf/original.png?dl=1) but it grew too big. 
 
-# Future 🚀
+<h2 align="center"> Future 🚀 </h2>
 
 We [plan to ease the contributing process](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
@@ -127,7 +154,7 @@ The focus of the search engine is to search through an [open index of knowledge 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
 
-# [Keep this project going 🎊](https://www.patreon.com/nikitavoloboev)
+<h2 align="center"><a href=“https://www.patreon.com/nikitavoloboev”>Keep this project going 🎊</a></h2>
 
 This project is still in its early stages but I am certain as it gets traction and people actually start both using and contributing content to it, the popularity will grow. As more people visit and spend time exploring these mind maps, the cost of maintaining and hosting thousands of these mind maps will grow. I would hate to shut down this project for these reasons. 
 
@@ -135,25 +162,28 @@ I also don't want to put any advertisements or any 'sponsored' content in there 
 
 If you do love using these mind maps, I have started a [Patreon page](https://www.patreon.com/nikitavoloboev) where you can support this work, if you wish. There are also some really cool rewards that come with your support. 💚
 
-# Stay in touch 📮
+<h2 align="center"> Stay in touch 📮 </h2>
 
 Aside from the [active slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and [Twitter](https://twitter.com/learnanything_), there is also a small [newsletter](http://twitter.us13.list-manage2.com/subscribe?u=b7f276d58f5c5f7136eff955d&id=12378547f7) that you can sign up for to get short emails with updates on this project.
 
 There is also [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
 
-## [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
+#### [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-## [My GitHub Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
+#### [My GitHub Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
 
 I really love programming, building and sharing the things I have built. 
 
 # Ask 💬
 
+<h2 align="center"> Ask 💬</h2>
+
 If you have some specific questions about this project or about myself, my interests and my personal workflow. I would love to hear them and you can ask them either in our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) or [in my github ama](https://github.com/nikitavoloboev/ama/issues/new). You can also view [past questions](https://github.com/nikitavoloboev/ama/issues?q=is%3Aissue+is%3Aclosed) that I have answered. 
 
-# Join our team 🚀
+
+<h1 align="center"> Join our team 🚀 </h1>
 
 Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality.  
 
@@ -182,7 +212,7 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
   </tbody>
 </table>
 
-# Thank you 💙
+<h2 align="center"> Thank you 💙 </h2>
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
