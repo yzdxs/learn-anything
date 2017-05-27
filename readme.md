@@ -23,18 +23,18 @@
   <br>
  
   <p>
-  
   The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored </a> and <a href=“https://learn-anything.xyz/”> searched through </a>. 🔎
   </p>
   
   <p>
   When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.
   </p>
+  
     <p>
 If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href=“http://i.imgur.com/peTPCwN.png”>note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
-  </p>
+
   
-      <p>
+  <p>
 The <a href=“https://learn-anything.github.io/future/2017/05/27/future-of-learning.html”>main goal of this project</a> is to expose as much of human knowledge in a visual and structured way as possible to accelerate learning. 🚀
   </p>
   
