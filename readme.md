@@ -22,8 +22,8 @@
   <br>
   <br>
  
-  <p>
-  The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored </a> and <a href=“https://learn-anything.xyz/”> searched through </a>. 🔎
+  <p
+  The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored</a> and <a href="https://learn-anything.xyz/">searched through </a>. 🔎
   </p>
   
   <p>
@@ -31,7 +31,7 @@
   </p>
   
     <p>
-If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href=“http://i.imgur.com/peTPCwN.png”>note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
+If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href="http://i.imgur.com/peTPCwN.png">note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it. 
 	</p>
 
   
