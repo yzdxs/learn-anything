@@ -22,7 +22,7 @@
   <br>
   <br>
  
-  <p
+  <p>
   The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored</a> and <a href="https://learn-anything.xyz/">searched through </a>. 🔎
   </p>
   
