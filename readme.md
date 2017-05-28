@@ -16,32 +16,26 @@
 		<img src="https://img.shields.io/github/license/mashape/apistatus.svg">
 	</a>
 
-  <a href="https://learn-anything.xyz">
+  <a href="https://learn-anything.xyz/learn_anything">
     <img width="900" heigth="900" src="http://i.imgur.com/v63wzQY.png">
   </a>
   <br>
   <br>
-<p>The image above is an <a href="https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1"> interactive mind map that can be viewed and explored</a> and <a href="https://learn-anything.xyz/">searched through</a>. 🔎</p>
+<p>The image above is an <a href="https://learn-anything.xyz/learn_anything"> interactive mind map that can be viewed and explored</a> as well as <a href="https://learn-anything.xyz/">searched through</a>. 🔎</p>
+
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" width="600">
+</p>
   
 <p>When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.</p>
   
 <p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href="http://i.imgur.com/peTPCwN.png">note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it.</p>
 
+<p>The search engine is [fully open source](https://github.com/nikitavoloboev/learn-anything-search) and you can help improve it. 💙</p>
+
 <p>The <a href="https://learn-anything.github.io/future/2017/05/27/future-of-learning.html">main goal of this project</a> is to expose human knowledge in a visual and structured way to accelerate learning. 🚀</p>
   
 </div>
-
-
-<h2 align="center"><a href="https://learn-anything.xyz">Search Engine 🔎🗺</a></h2>
-
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/stylekit/img/master/i_want_to_learn.mp4.gif" alt="img" width="600">
-</p>
-
-There is a [fully open source](https://github.com/nikitavoloboev/learn-anything-search) [search engine](https://learn-anything.xyz) available that will jump to any point in [this mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,-1). 🚀
-
-You can bookmark it in your browser or [set it as your home page](https://support.google.com/chrome/answer/95314?hl=en) to open every time you open a new tab if you wish to learn something new. You can also open a new tab, type 'le', press enter and type what you want to learn if you you've been on the page before. 📚
-
 
 <h2 align="center"><a href="https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ">Community 👬</a></h2>
 
@@ -60,7 +54,7 @@ If you want to help make this dream of visualising all of world's knowledge in t
 
 ## Help with improving the mind maps 🗺
 
-Take some time to explore [the mind map](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0) or just search through topics you would like to learn with the [search engine](https://learn-anything.xyz).
+Take some time to explore [the mind map](https://learn-anything.xyz/learn_anything) or just search through topics you would like to learn with the [search engine](https://learn-anything.xyz).
 
 - Do you think some topic can be covered in a more efficient way? 
 - Or perhaps something can be added to deepen the understanding of the topic? 
@@ -77,7 +71,7 @@ If you want to propose a completely new mind map or have some other question or 
 
 We are very [heavily experimenting](https://learn-anything.github.io) with ways we can improve the [search engine](https://github.com/nikitavoloboev/learn-anything-search) for these mind maps. 
 
-We are attempting to [render mind maps on the same page](https://ducksource.github.io/internet/tech/2017/05/15/node-map.html) as the search engine so the search is always within reach. There is a lot of interesting and technical problems that come with that. If you are excited about mind maps and visulisation, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together. 💡
+If you are excited about mind maps and visualision, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together. 💡
 
 We are also trying to create a [human curated backend](https://learn-anything.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
 
@@ -110,7 +104,7 @@ This project started off as a [single mind map](https://www.dropbox.com/s/3bsw53
 
 We [plan to ease the contributing process](https://ducksource.github.io/internet/tech/2017/05/15/human-curated-backend.html) as much as possible so there is no friction in proposing to add changes and integrating them into the mind maps. 
 
-The focus of the search engine is to search through an [open index of knowledge that all can see and explore and contribute to](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box where everything is hidden behind a search bar, if you want to explore, [you can](https://my.mindnode.com/KdeMPbxs8KPixsa5YUq5cphqJnQg81vpHaXcDX2i#-48.5,-680.3,0). 
+The focus of the search engine is to search through an [open index of knowledge that all can see and explore and contribute to](https://learn-anything.github.io/future/2017/05/27/future-of-learning.html). It should categorise knowledge in a way that allows linear progression of learning each of the topics. There should be no black box where everything is hidden behind a search bar, if you want to explore, [you can](https://learn-anything.xyz/learn_anything). 
 
 The end goal is to make an interactive mind map of all of world's knowledge that all can explore. 🔭
 
