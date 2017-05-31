@@ -120,11 +120,11 @@ Aside from the [active slack group](https://knowledge-map.slack.com/shared_invit
 
 There is also [our own reddit subreddit](https://www.reddit.com/r/knowledgemap/) where you can talk and share your discoveries or ask questions. 
 
-#### [My Personal Articles 📖](https://my.mindnode.com/aMjDG6PmWaH8zKmTmxoTzLvXSgysdi1nBiRYuVnd#231.9,-490.8,0)
+#### [My Personal Articles 📖](https://my.mindnode.com/2YJ1yeqHkxaBMHKDPC1k2Ripxpx9Ne7ULk4rfh3H#114.2,-459.4,2)
 
 I love writing. I find the act of writing really enjoyable as I try to condense information in a way that another person can understand. 
 
-#### [My GitHub Repositories 👾](https://my.mindnode.com/47Fqmxya1dst3tfubcxAFoFmepQuxpsKCXPemds8#-11.3,-979.7,1)
+#### [My GitHub Repositories 👾](https://my.mindnode.com/ZKGETDkUaQUsL3q8q9z788CxG84oEHgDiT79GuzX#135.1,-901.8,2)
 
 I really love programming, building and sharing the things I have built. 
 
@@ -166,3 +166,4 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
+l
