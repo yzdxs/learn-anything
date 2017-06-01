@@ -17,7 +17,7 @@
 	</a>
 
   <a href="https://learn-anything.xyz/learn_anything">
-    <img width="900" heigth="900" src="http://i.imgur.com/e3Xmlwp.png">
+    <img width="900" heigth="900" src="http://i.imgur.com/jY9AjjB.png">
   </a>
   <br>
   <br>
