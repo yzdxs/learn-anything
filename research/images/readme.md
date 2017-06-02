@@ -6,7 +6,7 @@ Each image in the mind map is an Imgur album.
 
 You can either explore [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC) or just search through the index below.
 
-# Mind Map Index 🗺️
+# Mind Maps 🗺
 
 - [heavy mind](http://imgur.com/a/om6BB)
 
@@ -39,6 +39,21 @@ You can either explore [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRP
 
 
 - [art](http://imgur.com/a/3m5wf)
+
+
+- photos
+
+
+- xkcd
+
+
+- web
+
+
+- [unix](http://imgur.com/a/7osPZ)
+
+
+- [wallpapers](http://imgur.com/a/SOiPJ)
 
 
 - [earth](https://imgur.com/a/4U5P7)
@@ -74,7 +89,7 @@ You can either explore [the mind map](https://my.mindnode.com/mTasm9Ay8VtFs7fHRP
 - [funny - programming](http://imgur.com/a/hb4nX)
 
 
-- [art - psychedelic](http://imgur.com/a/NqhGo)
+- [art - psychedelic](http://imgur.com/a/9yOpt)
 
 
 - [psychedelic](http://imgur.com/a/urG7X)
