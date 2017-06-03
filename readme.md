@@ -17,7 +17,7 @@
 	</a>
 
   <a href="https://learn-anything.xyz/learn_anything">
-    <img width="900" heigth="900" src="http://i.imgur.com/jY9AjjB.png">
+    <img width="900" heigth="900" src="http://i.imgur.com/NO7pclW.png">
   </a>
   <br>
   <br>
@@ -82,14 +82,13 @@ In the mind map above, you will find a [little node](https://my.mindnode.com/YyJ
 
 It contains :
 
-- [all the interesting books you can read](http://nikitavoloboev.xyz/learn-anything/research/books/) 
+- [all the interesting books you can read](http://nikitavoloboev.xyz/learn-anything/research/books/) (as [mind map](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ#177.2,110.3,2))
 	- where if a book is free, a link will be provided
-- [interesting courses one can take](http://nikitavoloboev.xyz/learn-anything/research/courses/)
-- [research papers on various topics](http://nikitavoloboev.xyz/learn-anything/research/research-papers/)
-- [interesting humans who ever lived](http://nikitavoloboev.xyz/learn-anything/research/humans/)
-- [inventions and historical events](http://nikitavoloboev.xyz/learn-anything/research/history/)
-- [interesting images](https://my.mindnode.com/mTasm9Ay8VtFs7fHRPDUSdEMqHExtjpcgwjBeUTC#108.8,-1795.2,-2)
-- [interesting websites](http://nikitavoloboev.xyz/learn-anything/research/websites/)
+- [interesting courses one can take](http://nikitavoloboev.xyz/learn-anything/research/courses/) (as [mind map](https://my.mindnode.com/zNtYR1Q9fAEwWqCpZ52iQzk4xx2TnTuDsFY3C9fJ))
+- [research papers on various topics](http://nikitavoloboev.xyz/learn-anything/research/research-papers/) (as [mind map](https://my.mindnode.com/Cny5WMjy56ay4pDopou6spjQiiAbzusp9XuW5zpT#784.0,-182.2,2))
+- [interesting humans who ever lived](http://nikitavoloboev.xyz/learn-anything/research/humans/) (as [mind map](https://my.mindnode.com/tLYktNZGB4FejomDqCZh1MP7FSatjo1qcGpqhzsc#3835.3,-431.1,2))
+- [interesting images](http://nikitavoloboev.xyz/learn-anything/research/images/) (as [mind map](https://github.com/nikitavoloboev/learn-anything/tree/master/research/images#images-))
+- [interesting websites](http://nikitavoloboev.xyz/learn-anything/research/websites/) (as [mind map](https://my.mindnode.com/BxoJyqgsfvB2J9rrpm1zwzjuKxPGUrYn6YDpSGbH))
 - and [more](https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#0.3,-513.6,2) 
 
 Aside from a pretty amazing [search engine for them](https://github.com/nikitavoloboev/learn-anything-search), there is also [an alfred workflow](https://github.com/nikitavoloboev/alfred-learn-anything) that allows you to search through these mind maps at [insane speeds](http://quick.as/b1gwsneao). 
@@ -166,4 +165,3 @@ Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzM
 
 - to [MindNode](https://mindnode.com/) who created [the application](https://itunes.apple.com/app/id992076693?mt=12&ign-mpt=uo%3D4) that makes this all possible and for providing the [incredible web service](https://my.mindnode.com/) to share these mind maps
 - to all the people who contributed to this project and this vision of liberating and visualising knowledge in this unique way
-l
