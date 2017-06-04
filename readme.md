@@ -17,7 +17,7 @@
 	</a>
 
   <a href="https://learn-anything.xyz/learn_anything">
-    <img width="900" heigth="900" src="http://i.imgur.com/NO7pclW.png">
+    <img width="900" heigth="900" src="http://i.imgur.com/xpUyuGK.png">
   </a>
   <br>
   <br>
@@ -27,7 +27,7 @@
   
 <p>When you click on any of the nodes in it, it will show you the best step by step guides you can use to learn the subject in depth.</p>
   
-<p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. There is a <a href="http://i.imgur.com/peTPCwN.png">note attached</a> in all of the mind maps which will link to a GitHub issue where you can propose to improve it.</p>
+<p>If you think that there is a better way one can learn the subject or you wish something was added or you found a mistake, you can help improve it. Just <a href="http://i.imgur.com/Qpi9xZK.png">click on the 🦄</a> and say what you wish was added or changed.</p>
 
 <p>The search engine is <a href="https://github.com/nikitavoloboev/learn-anything-search"> fully open source </a> and you can help improve it. 💙</p>
 
@@ -59,7 +59,7 @@ Take some time to explore [the mind map](https://learn-anything.xyz/learn_anythi
 - Or the order with how material should be tackled should be different?
 - Or you wish some other topic was covered that is not currently included?
 
-As mentioned above, there is a [note attached](http://i.imgur.com/peTPCwN.png) in all of the mind maps which will link to a GitHub issue where you can propose to improve the mind map.
+As mentioned above, there is a [button with a 🦄](http://i.imgur.com/Qpi9xZK.png) present in all of the mind maps which will link to a GitHub issue where you can propose to improve the mind map.
 
 Just say what you wish was added or removed or changed and why. The content has to be of value and free content is preferred. If you wish to extend them mind map further, you can also say that in the issue.
 
@@ -67,14 +67,9 @@ If you want to propose a completely new mind map or have some other question or 
 
 ## Help with developing the search engine for mind maps on the web 🔎 
 
-We are very [heavily experimenting](https://learn-anything.github.io) with ways we can improve the [search engine](https://github.com/nikitavoloboev/learn-anything-search) for these mind maps. 
+We are currently attempting to move [our current renderer for mind maps](https://github.com/learn-anything/react-mindmap) to [D3.js](https://github.com/d3/d3) in our plans to fully open source and ease contribution and user experience of exploring the mind maps. 
 
-If you are excited about mind maps and visualision, please  join [our slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together. 💡
-
-We are also trying to create a [human curated backend](https://learn-anything.github.io/internet/tech/2017/05/17/A-pragmatic-solution.html) for all these mind maps. We plan to represent mind maps as JSON files that all can edit and test for themselves. One should be able to clone any of the mind maps and extend in any way they like and then submit pull requests to further improve this Knowledge Map that all will be able to explore or searh through with the search engine.
-
-Once again, there is a lot of very interesting problems that need to be solved to achieve this. If you want to help, write to us on [slack](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ).
-
+If you want to help, that's great. Join our [slack group](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas and work on it together. 💚
 
 <h2 align="center"><a href="https://my.mindnode.com/YyJtZap3S6BLzLq8FvBqcDM1fpzom5JfeXripa9w#149.7,-355.4,2"> More Mind Maps 🗺️ </a></h2>
 
@@ -134,7 +129,7 @@ If you have some specific questions about this project or about myself, my inter
 
 <h1 align="center"> Join our team 🚀 </h1>
 
-Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality.  
+Join [our Slack channel](https://knowledge-map.slack.com/shared_invite/MTgxNTYzMjIzNjM5LTE0OTQzMzA4MDAtYzY1YWY0ZDc0NQ) and we can discuss ideas together and work on making this vision of visualising and structuring all of world's knowledge a reality. 
 
 <h2 align="center">Current Team</h2>
 
